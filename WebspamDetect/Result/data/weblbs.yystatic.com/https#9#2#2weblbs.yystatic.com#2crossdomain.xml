@@ -1,0 +1,6 @@
+﻿https://weblbs.yystatic.com/crossdomain.xml
+<html><body><cross-domain-policy>
+	<site-control permitted-cross-domain-policies="all"></site-control>
+	<allow-http-request-headers-from domain="*" headers="*" secure="false"></allow-http-request-headers-from>
+	<allow-access-from domain="*" secure="false" to-ports="*"></allow-access-from>
+</cross-domain-policy></body></html>

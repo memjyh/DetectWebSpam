@@ -1,0 +1,309 @@
+https://c.njupt.edu.cn/
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="南京邮电大学程序设计类课程作业平台">
+    <meta name="keyword" content="南邮,NJUPT,NUPT,C语言">
+
+    <title>程序设计类课程作业平台</title>
+    
+    <!-- Bootstrap core CSS -->
+    <link href="/static/assets/css/bootstrap.css" rel="stylesheet">
+    <!--external css-->
+    <link href="/static/assets/font-awesome/css/font-awesome.css" rel="stylesheet">
+    <!-- Custom styles for this template -->
+    <link href="/static/assets/css/style.css" rel="stylesheet">
+    <link href="/static/assets/css/style-responsive.css" rel="stylesheet">
+    <script src="/static/assets/js/jquery.js"></script>
+    <script src="/static/assets/js/bootstrap.min.js"></script>
+    <script src="/static/assets/js/jquery-ui-1.9.2.custom.min.js"></script>
+    <script type="text/javascript" src="https://api.map.baidu.com/api?v=2.0&amp;ak=NW1qGiEHfWeZLoVMg6ZtxeC9dyswLbGR"></script>
+    <!-- HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries -->
+    <!--[if lt IE 9]>
+      <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js" %}" ></script>
+      <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js" %}" ></script>
+    <![endif]-->
+    
+</head>
+
+<body>
+<section id="container">
+    <!-- **********************************************************************************************************************************************************
+    TOP BAR CONTENT & NOTIFICATIONS
+    *********************************************************************************************************************************************************** -->
+    <!--header start-->
+    <header class="header black-bg">
+        <div class="sidebar-toggle-box">
+            <div class="fa fa-bars tooltips" data-placement="right" data-original-title="Toggle Navigation"></div>
+        </div>
+        <!--logo start-->
+        <a href="/index/" class="logo"><b>程序设计类课程作业平台</b></a>
+        <!--logo end-->
+        <div class="nav notify-row" id="top_menu">
+            <!--  notification start -->
+            <ul class="nav top-menu">
+                
+                    <li><a href="/accounts/register/">注册</a></li>
+                    <li><a href="/accounts/login/">登录</a></li>
+                
+
+            </ul>
+            <!--  notification end -->
+        </div>
+    </header>
+    <!--header end-->
+
+    <!-- **********************************************************************************************************************************************************
+    MAIN SIDEBAR MENU
+    *********************************************************************************************************************************************************** -->
+    <!--sidebar start-->
+    <style type="text/css">
+        .scrollable {
+            overflow-y: auto;
+            overflow-x: auto;
+        }
+    </style>
+    <aside>
+        <div id="sidebar" class="nav-collapse scrollable">
+            <!-- sidebar menu start-->
+            <ul class="sidebar-menu" id="nav-accordion">
+
+                <p class="centered"><a href="/index/"></a></p>
+
+                <li class="mt active">
+                    <a href="/index/" id="index">
+                        <i class="fa fa-dashboard" aria-hidden="true"></i>
+                        <span>主页</span>
+                    </a>
+                </li>
+                
+                <li class="sub-menu">
+                    <a href="javascript:;">
+                        <i class="fa fa-user" aria-hidden="true"></i>
+                        <span>账户</span>
+                    </a>
+                    <ul class="sub">
+                        
+                            <li><a href="/accounts/register/">注册</a></li>
+                            <li><a href="/accounts/login/">登录</a></li>
+                        
+                    </ul>
+                </li>
+                
+		
+
+
+            </ul>
+            <!-- sidebar menu end-->
+        </div>
+    </aside>
+    <!--sidebar end-->
+
+    <!-- **********************************************************************************************************************************************************
+    MAIN CONTENT
+    *********************************************************************************************************************************************************** -->
+    <!--main content start-->
+    <section id="main-content">
+        <section class="wrapper site-min-height">
+            
+            <div class="row mt">
+                <div class="col-lg-12">
+                    <div class="showback">
+                        
+    <script>
+    function stop(){
+        var video = document.getElementById("index-video");
+        video.pause();
+    }
+    </script>
+    <div>
+        <div class="site-index">
+            <div class="jumbotron">
+
+                <h1>每天进步一点点</h1>
+                <p class="lead">南京邮电大学程序设计类课程作业平台欢迎您！</p>
+
+                <p><a class="btn btn-lg btn-success" href="/work/do-homework-list">进入作业列表</a>
+                    <button type="button" class="btn btn-primary btn-lg" data-toggle="modal" data-target="#myModal">
+                        查看使用教程
+                    </button>
+                </p>
+
+            </div>
+            <!-- Button trigger modal -->
+
+
+            <!-- Modal -->
+            <div class="modal fade" id="myModal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+                <div class="modal-dialog  modal-lg">
+                    <div class="modal-content">
+                        <div class="modal-header">
+                            <button type="button" class="close" data-dismiss="modal" onclick="stop();"><span aria-hidden="true">×</span><span class="sr-only">关闭</span></button>
+                            <h4 class="modal-title" id="myModalLabel">平台使用说明</h4>
+                        </div>
+                        <div class="modal-body">
+                            <div class="container video-container" id="video-container">
+                                <video width="" height="auto" controls id="index-video">
+                                    <source src="/static/videos/intro.mp4" type="video/mp4">
+                                </source></video>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="body-content">
+
+                <div class="row">
+                    <div class="col-lg-4">
+                        <h2>高级语言程序设计<br>（C&amp;C++）</h2>
+
+                        <p>
+                            本课程是各专业的大学生所必须掌握的一门核心基础课程。本课程的教学目的是，通过理论教学与上机实践，使学生掌握C语言的基本语法，培养初步的动手编程能力，形成良好的编程风格，熟悉一些常用的简单算法，并了解结构化程序设计的基本思想和方法。该课程是诸多专业课程的先修课程，也是学生自学其他高级语言的基础。</p>
+
+                        <p><a class="btn btn-default" href="https://pan.baidu.com/s/1sk5qjG5" target="_blank">下载开发环境 »</a>
+                        <a class="btn btn-default" href="https://pan.baidu.com/s/1dUxi2WMyN1uY9N_Au8_vKQ" target="_blank">下载教学资源 »</a></p>
+                    </div>
+                    <div class="col-lg-4">
+                        <h2>程序设计基础<br>（ Java语言）</h2>
+
+                        <p>
+                            我们的生活已经离不开计算机了，每天都在用计算机上的软件做事情，这些软件究竟是如何写出来的呢？计算机到底是以怎样的方式来解决问题的呢？程序设计这门课可以让你学习到计算机解决问题的基本方法。
+                            本课程是面向计算机新人的程序设计入门课程，Java语言是教学的媒介，但不是课程的目标。</p>
+
+                        <p><a class="btn btn-default" href="http://pan.baidu.com/s/1ciWcJs#list/path=%2F" target="_blank">下载开发环境 »</a></p>
+                    </div>
+                    <div class="col-lg-4">
+                        <h2>程序设计基础<br>（ Python语言）</h2>
+
+                        <p>本课程面向各类热爱编程的同学，培养运用 Python 编程语言解决实际问题的编程能力。使学生掌握 Python
+                            语言的基本语法、语句以及结构化程序设计的基本思想和方法，了解基本的算法和数据结构，培养良好的程序设计风格，为进一步学习其他专业课程和从事软件开发工作打下坚实的基础。</p>
+
+                        <p><a class="btn btn-default" href="http://pan.baidu.com/s/1XoXXW" target="_blank">下载开发环境 »</a></p>
+                    </div>
+                </div>
+
+            </div>
+        </div>
+    </div>
+
+                    </div>
+
+                </div>
+            </div>
+
+        </section>
+        
+    </section><!-- /MAIN CONTENT -->
+
+    <!--main content end-->
+    <!--footer start-->
+    <footer class="footer">
+        <p class="pull-left"></p>
+        <p class="pull-right">© 南京邮电大学 计算机学院 软件教学中心 2016</p>
+    </footer>
+    <!--footer end-->
+</section>
+
+<!-- js placed at the end of the document so the pages load faster -->
+<script src="/static/assets/js/jquery.ui.touch-punch.min.js"></script>
+<script class="include" type="text/javascript" src="/static/assets/js/jquery.dcjqaccordion.2.7.js"></script>
+<script src="/static/assets/js/jquery.scrollTo.min.js"></script>
+
+
+
+<!--common script for all pages-->
+<script src="/static/assets/js/common-scripts.js"></script>
+
+<!--script for this page-->
+
+<script>
+    $.ajaxSetup({
+        data: {csrfmiddlewaretoken: 'plvqCkK74p0zeAZp58xIitl5gsc9FZNb'},
+    });
+    $(".logout-button").click(function () {
+        $.ajax({
+            type: "POST",
+            url: "/accounts/data/logout",
+            success: function (data, textStatus) {
+                location.replace("/index/");
+            },
+            error: function (XMLHttpRequest, textStatus, errorThrown) {
+                alert(XMLHttpRequest.responseText);
+            }
+        });
+        return false;
+    });
+    $(function () {
+        var position = ""
+        switch (position) {
+        
+            case 'code_week_list':
+                $("#code_week_list").addClass("active");
+                break;
+        
+            case 'biancheng_list':
+                $("#biancheng_list").addClass("active");
+                $("#problem_list").addClass("active");
+                $("#extend_problem_list").css('display', 'block');
+                break
+            case 'choice_list':
+                $("#choice_list").addClass("active");
+                $("#problem_list").addClass('active');
+                $("#extend_problem_list").css('display', 'block')
+                break;
+            case 'tiankong_list':
+                $("#tiankong_list").addClass("active");
+                $("#problem_list").addClass('active');
+                $("#extend_problem_list").css('display', 'block')
+                break;
+            case 'gaicuo_list':
+                $("#gaicuo_list").addClass("active");
+                $("#problem_list").addClass('active');
+                $("#extend_problem_list").css('display', 'block')
+                break;
+            case 'index':
+                $("#index").addClass("active");
+                break;
+            case 'source':
+                $("#source").addClass("active");
+                break;
+            case 'unfinished':
+                $("#unfinished").addClass("active");
+                break;
+            case 'finished':
+                $("#finished").addClass("active");
+                break;
+            case 'courser_manage':
+                $("#courser_manage").addClass('active');
+                $("#manage").addClass("active");
+                $("#extend_manage").css('display', 'block');
+                break;
+            case 'banji_manage':
+                $("#banji_manage").addClass("active");
+                $("#extend_manage").css("display", 'block');
+                $("#manage").addClass("active");
+                break;
+            case 'resource_list':
+                $("#resource_list").addClass("active");
+                $("#extend_manage").css("display", 'block');
+                $("#manage").addClass("active");
+                break;
+            case 'public_work_manage':
+                $("#public_work_manage").addClass("active");
+                $("#extend_work_manage").css("display", 'block');
+                $("#work_manege").addClass("active");
+                break;
+            case 'private_work_manage':
+                $("#private_work_manage").addClass("active");
+                $("#extend_work_manage").css("display", 'block');
+                $("#work_manege").addClass("active");
+                break;
+        }
+
+    })
+</script>
+
+</body>
+</html>

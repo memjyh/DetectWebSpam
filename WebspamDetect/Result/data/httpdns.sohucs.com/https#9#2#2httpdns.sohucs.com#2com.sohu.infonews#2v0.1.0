@@ -1,0 +1,25 @@
+https://httpdns.sohucs.com/com.sohu.infonews/v0.1.0
+<html><body><p>{
+  "IS_UDPDNS_SERVER":"0",
+  "UDPDNS_SERVER_API":"114.114.114.114",
+  "HTTPDNS_LOG_SAMPLE_RATE":"50",
+  "HTTPDNS_SWITCH":"1",
+  "SCHEDULE_SPEED_INTERVAL":"60000",
+  "SCHEDULE_LOG_INTERVAL": "60000",
+  "SCHEDULE_TIMER_INTERVAL":"60000",
+  "IP_OVERDUE_DELAY":"60",
+  "IS_MY_HTTP_SERVER":"1",
+  "IS_DNSPOD_SERVER":"1",
+  "DNSPOD_SERVER_API":"http://119.29.29.29/d?ttl=1&amp;dn=",
+  "DNSPOD_ID":"342",
+  "DNSPOD_KEY":"@6IlY0nw",
+  "IS_SORT":"1",
+  "SPEEDTEST_PLUGIN_NUM":"50",
+  "PRIORITY_PLUGIN_NUM":"50",
+  "SUCCESSNUM_PLUGIN_NUM":"10",
+  "ERRNUM_PLUGIN_NUM":"10",
+  "SUCCESSTIME_PLUGIN_NUM":"10",
+  "HTTPDNS_SERVER_API":["http://125.254.154.169/dns/get-dns?domain="],
+  "IS_ENABLE_PERFORMANCE":"1",
+  "DOMAIN_SUPPORT_LIST":[ss.sohu.com,p.cdn.sohu.com,v.cdn.sohu.com,c.cdn.sohu.com]
+}</p></body></html>

@@ -1,0 +1,94 @@
+https://authserver.njau.edu.cn/authserver/login;JSESSIONID_AUTH=XLSOq2WBSrlDDdU9GtNAm21ImMMLDEtyxWvmvkPyzdsaFVIk84H_!-815843448?service=http%3A%2F%2Fmy.njau.edu.cn%2F
+<html>    
+<head>
+<meta charset="UTF-8">
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<meta name="renderer" content="webkit">
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+<meta property="qc:admins" content="754034015366713545637571540352652">
+<meta property="wb:webmaster" content="1ad39047f32b5b6b">
+<meta name="viewport" content="width=device-width, initial-scale=1,maximum-scale=1.0,user-scalable=no">
+<title>南京农业大学-统一身份认证</title>
+<link href="/authserver/custom/css/style.css;JSESSIONID_AUTH=fnUk4uTNIlx7LCTydtYrRxcHn2xzTZ016ZGizPqpry4s-XEtGmTz!-82909084" rel="stylesheet" type="text/css">
+<script>
+    
+    function showModel(){
+         var wnd = window.showModelessDialog('/authserver/custom/static/help.html;JSESSIONID_AUTH=fnUk4uTNIlx7LCTydtYrRxcHn2xzTZ016ZGizPqpry4s-XEtGmTz!-82909084','','dialogWidth=700px;dialogHeight=550px;dialogLeft=10px;dialogTop=10px;status:0;help:0;resizable:1;unadorned:1');
+    }
+</script>
+</head>
+<script type="text/javascript">
+    var secure = "true";
+</script>
+<body>
+<div id="wallpaper">
+  <div id="top">
+  	<div class="top-area">
+        <div class="logo"><img src="/authserver/custom/images/logo.png;JSESSIONID_AUTH=fnUk4uTNIlx7LCTydtYrRxcHn2xzTZ016ZGizPqpry4s-XEtGmTz!-82909084"></div>
+    </div>
+  </div>
+  <div id="login_banner">
+	  <div id="login_area">
+	      <form id="casLoginForm" role="form" action="/authserver/login;JSESSIONID_AUTH=fnUk4uTNIlx7LCTydtYrRxcHn2xzTZ016ZGizPqpry4s-XEtGmTz!-82909084?service=http%3A%2F%2Fmy.njau.edu.cn%2F" method="post">
+	      <div class="form_right">
+	        <div class="form_area">
+	            <h1><a onclick="return showModel();" href="#">帮助</a></h1>
+	            <p id="uname"><label>用户名:</label>
+            		<input id="username" name="username" tabindex="1" placeholder="职工号/学号" class="ipt" type="text" value="">            
+	            </p>
+	            <p><label>密码:</label>
+	            	<input id="password" name="password" tabindex="2" class="ipt" type="password" value="" autocomplete="off">
+	            </p>  
+								
+	            <div class="form-btn"><input type="submit" class="btnLogin" value=""></div>
+	            <div class="tx">
+	            
+				<!--<span class="perRreg"><a href="http://myportal.njau.edu.cn/publicapp/sys/xwryzcnjau/*default/index.do#/xwryzc"  target="_blank">校外人员注册</a></span>-->
+	            <span class="getpwd"><a href="getBackPasswordMainPage.do">忘记密码？</a></span>
+	            </div>
+	        </div>
+	      </div>
+          <input type="hidden" name="lt" value="LT-763668-yYiy6r9xcgbBk0dhfecnRIop4pC3dv1542512108749-Ql6q-cas">
+          <input type="hidden" name="dllt" value="userNamePasswordLogin">
+          <input type="hidden" name="execution" value="e1s1">
+          <input type="hidden" name="_eventId" value="submit">
+          <input type="hidden" name="rmShown" value="1">
+		  </form>
+	      <div class="form_left">
+	      
+	      </div>
+	  </div>
+  </div>
+  
+ <div id="hidenCaptchaDiv" style="display: none;">
+    <label>验证码:</label>
+    <input type="text" id="captchaResponse" name="captchaResponse" class="ipt-yzm" tabindex="4"><img id="captchaImg" src="captcha.html">
+</div>
+<div class="footer">Copyright © Nanjing Agricultural University 2010</div>
+
+
+<script type="text/javascript" src="/authserver/custom/js/jquery.min.js;JSESSIONID_AUTH=fnUk4uTNIlx7LCTydtYrRxcHn2xzTZ016ZGizPqpry4s-XEtGmTz!-82909084"></script>
+<script type="text/javascript" src="/authserver/custom/js/icheck.min.js;JSESSIONID_AUTH=fnUk4uTNIlx7LCTydtYrRxcHn2xzTZ016ZGizPqpry4s-XEtGmTz!-82909084"></script>
+
+
+    <script type="text/javascript">
+        $(document).ready(function () {
+	    $("#uname").css("margin-top",40);
+        });
+</script>
+
+<script type="text/javascript" src="/authserver/custom/js/login.js;JSESSIONID_AUTH=fnUk4uTNIlx7LCTydtYrRxcHn2xzTZ016ZGizPqpry4s-XEtGmTz!-82909084"></script>
+<script type="text/javascript" src="/authserver/custom/js/login-wisedu.js;JSESSIONID_AUTH=fnUk4uTNIlx7LCTydtYrRxcHn2xzTZ016ZGizPqpry4s-XEtGmTz!-82909084"></script>
+<script type="text/javascript">
+    $(document).ready(function () {
+		var random_bg=Math.floor(Math.random()*4+1);
+         var bg='url(./custom/images/b'+random_bg+'.jpg)';
+         $("#login_banner").css("background-image",bg);
+        var service = GetQueryString("service");
+        if (service) {
+            $("#getBackPasswordMainPage").attr("href", "getBackPasswordMainPage.do?service=" + service);
+        }
+    });
+</script>
+</div></body>
+</html>

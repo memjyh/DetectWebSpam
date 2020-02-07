@@ -1,0 +1,11 @@
+https://jwxt.njupt.edu.cn/
+<html><head>
+	<meta name="robots" content="noindex,nofollow,noarchive">
+</head>
+<script type="text/javascript">
+var target="/cgi-bin/login.cgi";
+if (window.location.protocol.toLowerCase() == "http:") 
+	window.location.href = "/cgi-bin/tohttps.cgi?go=" + target;
+else
+	window.location.href =target ;
+</script></html>

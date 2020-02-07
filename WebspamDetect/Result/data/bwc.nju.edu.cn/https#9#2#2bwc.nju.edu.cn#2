@@ -1,0 +1,1540 @@
+https://bwc.nju.edu.cn/
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+
+<link type="text/css" href="/_css/_system/system.css" rel="stylesheet">
+<link type="text/css" href="/_upload/site/1/style/49/49.css" rel="stylesheet">
+<link type="text/css" href="/_upload/site/00/0d/13/style/68/68.css" rel="stylesheet">
+       <link href="/_css/tpl2/system.css" type="text/css" rel="stylesheet"> 
+       <link href="/_css/tpl2/default/default.css" type="text/css" rel="stylesheet"> 
+<link type="text/css" href="/_js/_portletPlugs/simpleNews/css/simplenews.css" rel="stylesheet">
+       <link href="/_css/tpl2/default/portlet/dtjt/8/dtjt8.css" type="text/css" rel="stylesheet">
+<link type="text/css" href="/_js/_portletPlugs/sudyNavi/css/sudyNav.css" rel="stylesheet">
+
+<script language="javascript" src="/_js/jquery.min.js" sudy-wp-context="" sudy-wp-siteid="13"></script>
+<script language="javascript" src="/_js/jquery.sudy.wp.visitcount.js"></script>
+<script type="text/javascript" src="/_js/_portletPlugs/sudyNavi/jquery.sudyNav.js"></script>
+<link rel="stylesheet" href="/_upload/tpl/00/65/101/template101/css/blueimp_gallery.min.css">
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>保卫处</title>
+<link rel="stylesheet" type="text/css" href="/_upload/tpl/00/65/101/template101/css/main.css">
+<script language="javascript" src="">
+</script>
+<style type="text/css">
+.pic_show {
+	PADDING-BOTTOM: 12px; MARGIN: 3px 0px 0px 17px; PADDING-LEFT: 0px; WIDTH: 227px; PADDING-RIGHT: 10px; DISPLAY: inline; FLOAT: left; HEIGHT: 175px; PADDING-TOP: 8px
+}
+</style>
+<meta name="GENERATOR" content="MSHTML 8.00.6001.18928">
+</head>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<body>
+<div id="blueimp-gallery" class="blueimp-gallery blueimp-gallery-controls">
+    <div class="slides">
+    </div>
+    <h3 class="title">
+    </h3><a class="prev">‹</a><a class="next">›</a><a class="close">×</a><a class="play-pause"></a>
+    <ol class="indicator list-paddingleft-2">
+        <li>
+            <p>
+                <br>
+            </p>
+        </li>
+    </ol>
+</div><script language="JavaScript" _ue_org_tagname="script"><!--
+function GetQueryString(name)
+{
+     var reg = new RegExp("(^|&)"+ name +"=([^&]*)(&|$)");
+     var r = window.location.search.substr(1).match(reg);
+     if(r!=null)return  unescape(r[2]); return null;
+}
+$(document).ready(function () {
+  if(GetQueryString('showSafeBoard')=='1'){
+  document.getElementById('links').click();
+  }
+});
+
+<!--hide this script from non-javascript-enabled browsers
+function checkform(){
+if(document.loginForm.username.value==""||document.loginForm.username.value=="用户名"){
+alert("请输入用户名！");
+document.loginForm.username.focus();
+return false;
+}
+if(document.loginForm.password.value==""||document.loginForm.password.value=="******"){
+alert("请输入密码！");
+document.loginForm.password.focus();
+return false;
+
+}
+}
+// stop hiding -->
+//--></script><script _ue_org_tagname="script" src="/_upload/tpl/00/65/101/template101/images/AC_RunActiveContent.js" type="text/javascript"></script>
+<table border="0" cellspacing="0" cellpadding="0" width="1002" align="center">
+    <tbody>
+        <tr>
+            <td height="26" background="/_upload/tpl/00/65/101/template101/images/top_bar_bg.gif">
+                <table border="0" cellspacing="0" cellpadding="0" width="100%">
+                    <tbody>
+                        <tr>
+                            <td valign="bottom" width="73%">
+                                <table border="0" cellspacing="0" cellpadding="0" width="100%">
+                                    <form id="loginForm" onsubmit="return checkform();" method="post" name="loginForm" action="http://mail.nju.edu.cn/tmailer/">
+                                    </form><input name="loginOp" value="login" type="hidden">
+                                    <tbody>
+                                        <tr>
+                                            <td width="7%">
+                                            </td>
+                                            <td width="4%">
+                                                <img src="/_upload/tpl/00/65/101/template101/images/email.gif">
+                                            </td>
+                                            <td width="8%">
+                                                <span style="color:#ffffff;">用户名：</span>
+                                            </td>
+                                            <td width="29%">
+                                                <input style="border:1px solid currentcolor;width:100px;height:14px;" class="k" tabindex="1" name="username" maxlength="64" size="15"><span style="color:#ffffff;">@ nju.edu.cn</span>
+                                            </td>
+                                            <td width="6%">
+                                                <span style="color:#ffffff;">密码：</span>
+                                            </td>
+                                            <td width="16%">
+                                                <input style="border:1px solid currentcolor;width:100px;height:14px;" id="password" class="k" tabindex="2" name="password" maxlength="64" size="15" type="password">
+                                            </td><input name="client" value="preferred" type="hidden">
+                                            <td width="27%">
+                                                <input name="image" src="/_upload/tpl/00/65/101/template101/images/gif-0918.gif" width="42" height="20" type="image">
+                                            </td>
+                                            <td width="3%">
+                                            </td>
+                                        </tr>
+                                    </tbody>
+                                </table>
+                            </td>
+                            <td class="STYLE1" width="27%">
+                                <span style="color:#ffffff;" onclick="var strHref=window.location.href;this.style.behavior='url(#default#homepage)';this.setHomePage('http://www.nju.edu.cn/cps/site/bwc');">设为首页</span><span style="color:#ffffff;">|</span><span style="color:#ffffff;" title="南京大学保卫处" onclick="window.external.addFavorite('http://www.nju.edu.cn/cps/site/bwc','南京大学保卫处')">加入收藏</span><span style="color:#ffffff;"> |</span><a href="http://www.nju.edu.cn/cps/site/bwc/old/index.htm"></a>
+                            </td>
+                        </tr>
+                    </tbody>
+                </table>
+            </td>
+        </tr>
+    </tbody>
+</table>
+<table border="0" cellspacing="0" cellpadding="0" width="1002" align="center">
+    <tbody>
+        <tr>
+            <td height="2">
+            </td>
+        </tr>
+    </tbody>
+</table>
+<table border="0" cellspacing="0" cellpadding="0" width="1002" align="center">
+    <tbody>
+        <tr>
+            <td>
+                <img src="/_upload/tpl/00/65/101/template101/images/top_left.jpg" width="579" height="148">
+            </td>
+            <td height="148" background="/_upload/tpl/00/65/101/template101/images/z1.jpg" width="423">
+                <script _ue_org_tagname="script" type="text/javascript">
+AC_FL_RunContent( 'codebase','http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=7,0,19,0','width','423','height','148','src','images/top','quality','high','pluginspage','http://www.macromedia.com/go/getflashplayer','movie','images/top' ); //end AC code
+</script><object codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=7,0,19,0" id="swf" classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" width="423" height="148">
+                    <param name="_cx" value="11191">
+                    <param name="_cy" value="3915">
+                    <param name="FlashVars">
+                    <param name="Movie" value="/_upload/tpl/00/65/101/template101/images/top.swf">
+                    <param name="Src" value="/_upload/tpl/00/65/101/template101/images/top.swf">
+                    <param name="WMode" value="Window">
+                    <param name="Play" value="-1">
+                    <param name="Loop" value="-1">
+                    <param name="Quality" value="High">
+                    <param name="SAlign">
+                    <param name="Menu" value="-1">
+                    <param name="Base">
+                    <param name="AllowScriptAccess">
+                    <param name="Scale" value="ShowAll">
+                    <param name="DeviceFont" value="0">
+                    <param name="EmbedMovie" value="0">
+                    <param name="BGColor">
+                    <param name="SWRemote">
+                    <param name="MovieData">
+                    <param name="SeamlessTabbing" value="1">
+                    <param name="Profile" value="0">
+                    <param name="ProfileAddress">
+                    <param name="ProfilePort" value="0">
+                    <param name="AllowNetworking" value="all">
+                    <param name="AllowFullScreen" value="false">
+                    <param name="AllowFullScreenInteractive" value="false">
+                    <param name="IsDependent" value="0">
+                    <param name="movie" value="/_upload/tpl/00/65/101/template101/images/top.swf">
+                    <param name="quality" value="high">
+                    <embed src="/_upload/tpl/00/65/101/template101/images/top.swf" width="423" height="148" type="application/x-shockwave-flash" wmode="transparent" menu="undefined" play="undefined" loop="undefined" allowfullscreen="undefined" pluginspage="http://www.macromedia.com/go/getflashplayer"></embed></object>
+            </td>
+        </tr>
+    </tbody>
+</table>
+<table border="0" cellspacing="0" cellpadding="0" width="1002" align="center">
+    <tbody>
+        <tr>
+            <td height="1">
+            </td>
+        </tr>
+    </tbody>
+</table>
+<table border="0" cellspacing="0" cellpadding="0" width="1002" align="center">
+    <tbody>
+        <tr>
+            <!--<TD class=menu background=/_upload/tpl/00/65/101/template101/images/menu_bg.gif align=middle><SPAN 
+      class=STYLE1><A 
+      href="http://www1.nju.edu.cn/cps/site/bwc/news.php?keys=88">政策法规</A></SPAN></TD><TD class=menu background=/_upload/tpl/00/65/101/template101/images/menu_bg.gif align=middle><IMG 
+      src="/_upload/tpl/00/65/101/template101/images/menu_mid.gif" width=5 height=34></TD>-->
+            <td background="/_upload/tpl/00/65/101/template101/images/menu_bg.gif" align="middle">
+                <div frag="面板1">
+                    <div frag="窗口1">
+                        <table width="100%" border="0" cellspacing="0" cellpadding="0" class="wp_nav" data-nav-config="{drop_v: 'down', drop_w: 'right', dir: 'y', opacity_main: '1', opacity_sub: '0.8', dWidth: '0'}"> 
+<tr> 
+<td> 
+
+                            <table border="0" cellspacing="0" cellpadding="0">
+                                <tbody>
+                                    <tr>
+                                        <td class="menu" background="/_upload/tpl/00/65/101/template101/images/menu_bg.gif" width="90" align="right">
+                                            <span><a class="menu"> 
+ <div class="nav-item"> 
+ <div style="white-space:nowrap" class=""><a href="/566/list.htm" title="首 页" class="" target="_self">首 页</a></div> 
+          
+</div> 
+</a></span>
+                                        </td>
+                                        <td class="menu" background="/_upload/tpl/00/65/101/template101/images/menu_bg.gif" align="center">
+                                            <img src="/_upload/tpl/00/65/101/template101/images/menu_mid.gif" width="5" height="34">
+                                        </td>
+                                    </tr>
+                                </tbody>
+                            </table></td> 
+<td> 
+
+                            <table border="0" cellspacing="0" cellpadding="0">
+                                <tbody>
+                                    <tr>
+                                        <td class="menu" background="/_upload/tpl/00/65/101/template101/images/menu_bg.gif" width="90" align="right">
+                                            <span><a class="menu"> 
+ <div class="nav-item"> 
+ <div style="white-space:nowrap" class=""><a href="/568/list.htm" title="机构设置" class="" target="_self">机构设置</a></div> 
+          
+</div> 
+</a></span>
+                                        </td>
+                                        <td class="menu" background="/_upload/tpl/00/65/101/template101/images/menu_bg.gif" align="center">
+                                            <img src="/_upload/tpl/00/65/101/template101/images/menu_mid.gif" width="5" height="34">
+                                        </td>
+                                    </tr>
+                                </tbody>
+                            </table></td> 
+<td> 
+
+                            <table border="0" cellspacing="0" cellpadding="0">
+                                <tbody>
+                                    <tr>
+                                        <td class="menu" background="/_upload/tpl/00/65/101/template101/images/menu_bg.gif" width="90" align="right">
+                                            <span><a class="menu"> 
+ <div class="nav-item"> 
+ <div style="white-space:nowrap" class=""><a href="/567/list.htm" title="工作职责" class="" target="_self">工作职责</a></div> 
+          
+</div> 
+</a></span>
+                                        </td>
+                                        <td class="menu" background="/_upload/tpl/00/65/101/template101/images/menu_bg.gif" align="center">
+                                            <img src="/_upload/tpl/00/65/101/template101/images/menu_mid.gif" width="5" height="34">
+                                        </td>
+                                    </tr>
+                                </tbody>
+                            </table></td> 
+<td> 
+
+                            <table border="0" cellspacing="0" cellpadding="0">
+                                <tbody>
+                                    <tr>
+                                        <td class="menu" background="/_upload/tpl/00/65/101/template101/images/menu_bg.gif" width="90" align="right">
+                                            <span><a class="menu"> 
+ <div class="nav-item"> 
+ <div style="white-space:nowrap" class=""><a href="/569/list.htm" title="政策法规" class="" target="_self">政策法规</a></div> 
+          
+</div> 
+</a></span>
+                                        </td>
+                                        <td class="menu" background="/_upload/tpl/00/65/101/template101/images/menu_bg.gif" align="center">
+                                            <img src="/_upload/tpl/00/65/101/template101/images/menu_mid.gif" width="5" height="34">
+                                        </td>
+                                    </tr>
+                                </tbody>
+                            </table></td> 
+<td> 
+
+                            <table border="0" cellspacing="0" cellpadding="0">
+                                <tbody>
+                                    <tr>
+                                        <td class="menu" background="/_upload/tpl/00/65/101/template101/images/menu_bg.gif" width="90" align="right">
+                                            <span><a class="menu"> 
+ <div class="nav-item"> 
+ <div style="white-space:nowrap" class=""><a href="/570/list.htm" title="安全知识" class="" target="_self">安全知识</a></div> 
+          
+</div> 
+</a></span>
+                                        </td>
+                                        <td class="menu" background="/_upload/tpl/00/65/101/template101/images/menu_bg.gif" align="center">
+                                            <img src="/_upload/tpl/00/65/101/template101/images/menu_mid.gif" width="5" height="34">
+                                        </td>
+                                    </tr>
+                                </tbody>
+                            </table></td> 
+<td> 
+
+                            <table border="0" cellspacing="0" cellpadding="0">
+                                <tbody>
+                                    <tr>
+                                        <td class="menu" background="/_upload/tpl/00/65/101/template101/images/menu_bg.gif" width="90" align="right">
+                                            <span><a class="menu"> 
+ <div class="nav-item"> 
+ <div style="white-space:nowrap" class=""><a href="/573/list.htm" title="服务指南" class="" target="_self">服务指南</a></div> 
+          
+</div> 
+</a></span>
+                                        </td>
+                                        <td class="menu" background="/_upload/tpl/00/65/101/template101/images/menu_bg.gif" align="center">
+                                            <img src="/_upload/tpl/00/65/101/template101/images/menu_mid.gif" width="5" height="34">
+                                        </td>
+                                    </tr>
+                                </tbody>
+                            </table></td> 
+<td> 
+
+                            <table border="0" cellspacing="0" cellpadding="0">
+                                <tbody>
+                                    <tr>
+                                        <td class="menu" background="/_upload/tpl/00/65/101/template101/images/menu_bg.gif" width="90" align="right">
+                                            <span><a class="menu"> 
+ <div class="nav-item"> 
+ <div style="white-space:nowrap" class=""><a href="/575/list.htm" title="安全教育测试" class="" target="_self">安全教育测试</a></div> 
+          
+</div> 
+</a></span>
+                                        </td>
+                                        <td class="menu" background="/_upload/tpl/00/65/101/template101/images/menu_bg.gif" align="center">
+                                            <img src="/_upload/tpl/00/65/101/template101/images/menu_mid.gif" width="5" height="34">
+                                        </td>
+                                    </tr>
+                                </tbody>
+                            </table></td> 
+<td> 
+
+                            <table border="0" cellspacing="0" cellpadding="0">
+                                <tbody>
+                                    <tr>
+                                        <td class="menu" background="/_upload/tpl/00/65/101/template101/images/menu_bg.gif" width="90" align="right">
+                                            <span><a class="menu"> 
+ <div class="nav-item"> 
+ <div style="white-space:nowrap" class=""><a href="/gzdt/list.htm" title="工作动态" class="" target="_self">工作动态</a></div> 
+          
+</div> 
+</a></span>
+                                        </td>
+                                        <td class="menu" background="/_upload/tpl/00/65/101/template101/images/menu_bg.gif" align="center">
+                                            <img src="/_upload/tpl/00/65/101/template101/images/menu_mid.gif" width="5" height="34">
+                                        </td>
+                                    </tr>
+                                </tbody>
+                            </table></td> 
+<td> 
+
+                            <table border="0" cellspacing="0" cellpadding="0">
+                                <tbody>
+                                    <tr>
+                                        <td class="menu" background="/_upload/tpl/00/65/101/template101/images/menu_bg.gif" width="90" align="right">
+                                            <span><a class="menu"> 
+ <div class="nav-item"> 
+ <div style="white-space:nowrap" class=""><a href="/ggtz/list.htm" title="公告通知" class="" target="_self">公告通知</a></div> 
+          
+</div> 
+</a></span>
+                                        </td>
+                                        <td class="menu" background="/_upload/tpl/00/65/101/template101/images/menu_bg.gif" align="center">
+                                            <img src="/_upload/tpl/00/65/101/template101/images/menu_mid.gif" width="5" height="34">
+                                        </td>
+                                    </tr>
+                                </tbody>
+                            </table></td> 
+<td> 
+
+                            <table border="0" cellspacing="0" cellpadding="0">
+                                <tbody>
+                                    <tr>
+                                        <td class="menu" background="/_upload/tpl/00/65/101/template101/images/menu_bg.gif" width="90" align="right">
+                                            <span><a class="menu"> 
+ <div class="nav-item"> 
+ <div style="white-space:nowrap" class=""><a href="/731/list.htm" title="资料下载" class="" target="_self">资料下载</a></div> 
+          
+</div> 
+</a></span>
+                                        </td>
+                                        <td class="menu" background="/_upload/tpl/00/65/101/template101/images/menu_bg.gif" align="center">
+                                            <img src="/_upload/tpl/00/65/101/template101/images/menu_mid.gif" width="5" height="34">
+                                        </td>
+                                    </tr>
+                                </tbody>
+                            </table></td> 
+<td> 
+
+                            <table border="0" cellspacing="0" cellpadding="0">
+                                <tbody>
+                                    <tr>
+                                        <td class="menu" background="/_upload/tpl/00/65/101/template101/images/menu_bg.gif" width="90" align="right">
+                                            <span><a class="menu"> 
+ <div class="nav-item"> 
+ <div style="white-space:nowrap" class=""><a href="/732/list.htm" title="办事流程" class="" target="_self">办事流程</a></div> 
+          
+</div> 
+</a></span>
+                                        </td>
+                                        <td class="menu" background="/_upload/tpl/00/65/101/template101/images/menu_bg.gif" align="center">
+                                            <img src="/_upload/tpl/00/65/101/template101/images/menu_mid.gif" width="5" height="34">
+                                        </td>
+                                    </tr>
+                                </tbody>
+                            </table></td> 
+</tr> 
+</table>
+                    </div>
+                </div>
+            </td>
+            <td height="34" background="/_upload/tpl/00/65/101/template101/images/menu_right.gif" width="168" align="right">
+                <span style="color:#ffffff;"><script language="JavaScript" _ue_org_tagname="script" type="text/javascript">
+
+todayDate = new Date();
+date = todayDate.getDate();
+month= todayDate.getMonth() +1;
+year= todayDate.getYear();
+if(navigator.appName == "Netscape")
+{
+document.write(1900+year);
+document.write("年");
+document.write(month);
+document.write("月");
+document.write(date);
+document.write("日");
+document.write("  ")
+}
+if(navigator.appVersion.indexOf("MSIE") != -1)
+{
+document.write(year);
+document.write("年");
+document.write(month);
+document.write("月");
+document.write(date);
+document.write("日");
+document.write("  ")
+}
+if (todayDate.getDay() == 5) document.write("星期五")
+if (todayDate.getDay() == 6) document.write("星期六")
+if (todayDate.getDay() == 0) document.write("星期日")
+if (todayDate.getDay() == 1) document.write("星期一")
+if (todayDate.getDay() == 2) document.write("星期二")
+if (todayDate.getDay() == 3) document.write("星期三")
+if (todayDate.getDay() == 4) document.write("星期四")
+
+</script></span>
+            </td>
+        </tr>
+    </tbody>
+</table>
+<table border="0" cellspacing="0" cellpadding="0" width="1002" align="center">
+    <tbody>
+        <tr>
+            <td bgcolor="#eaf7fd" height="28" align="middle">
+                <iframe id="url" vspace="0" height="21" marginheight="0" src="http://tianqi.xixik.com/cframe/1" frameborder="0" width="400" marginwidth="0" scrolling="no" align="left" hspace="0"></iframe>
+            </td>
+            <td bgcolor="#eaf7fd" height="28" align="left">
+                <br>
+                <a href="http://bwc.nju.edu.cn/4b/4f/c577a19279/page.htm"><strong>致广大师生员工的一封信（防诈骗） </strong></a>
+            </td>
+        </tr>
+        <tr>
+            <td height="4">
+            </td>
+            <td height="4">
+                <br>
+            </td>
+        </tr>
+    </tbody>
+</table>
+<table border="0" cellspacing="0" cellpadding="0" width="1002" align="center">
+    <tbody>
+        <tr>
+            <td height="400" valign="top" width="269">
+                <table border="0" cellspacing="0" cellpadding="0">
+                    <tbody>
+                        <tr>
+                            <td>
+                                <img src="/_upload/tpl/00/65/101/template101/images/xy110_top.gif" width="269" height="35">
+                            </td>
+                        </tr>
+                        <tr>
+                            <td height="100" valign="top">
+                                <table border="0" cellspacing="0" cellpadding="0" width="100%">
+                                    <tbody>
+                                        <tr>
+                                            <td bgcolor="#65b3e4" height="100" width="1">
+                                            </td>
+                                            <td height="90" valign="top" background="/_upload/tpl/00/65/101/template101/images/xy110_bg.gif">
+                                                <table border="0" cellspacing="0" cellpadding="0" width="100%">
+                                                    <tbody>
+                                                        <tr>
+                                                            <td class="lanzi" height="25" width="10%">
+                                                            </td>
+                                                            <td class="lanzi" width="90%">
+                                                                鼓楼校区： 025-83595110
+                                                            </td>
+                                                        </tr>
+                                                        <tr>
+                                                            <td class="lanzi" height="24">
+                                                            </td>
+                                                            <td class="lanzi">
+                                                                仙林校区： 025-89685110
+                                                            </td>
+                                                        </tr>
+                                                        <tr>
+                                                            <td class="lanzi" height="24">
+                                                            </td>
+                                                            <td class="lanzi">
+                                                                盗警：110    火警：119    急救：120
+                                                            </td>
+                                                        </tr>
+                                                    </tbody>
+                                                </table>
+                                            </td>
+                                            <td bgcolor="#65b3e4" width="1">
+                                            </td>
+                                        </tr>
+                                    </tbody>
+                                </table>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td style="word-break:break-all;">
+                                <br>
+                                <p style="text-align:center">
+                                    <img src="/_upload/tpl/00/65/101/template101/images/379a870e-7b42-4df7-9cc7-ba8f9a871db4.png" width="150" height="150" border="0" hspace="0" vspace="0" style="width:150px;height:150px;">
+                                </p>
+                            </td>
+                        </tr>
+                    </tbody>
+                </table>
+                <table border="0" cellspacing="0" cellpadding="0">
+                    <tbody>
+                        <tr>
+                            <td style="word-break:break-all;">
+                                <img src="/_upload/tpl/00/65/101/template101/images/oa_top.gif" width="269" height="31">
+                            </td>
+                        </tr>
+                        <tr>
+                            <td height="128" background="/_upload/tpl/00/65/101/template101/images/oa_bg.gif">
+                                <table border="0" cellspacing="0" cellpadding="0" width="100%">
+                                    <tbody>
+                                        <tr>
+                                            <td bgcolor="#cacaca" height="128" width="1">
+                                            </td>
+                                            <td>
+                                                <table border="0" cellspacing="0" cellpadding="0" width="100%">
+                                                    <tbody>
+                                                        <tr>
+                                                            <td height="34" width="33%" align="middle">
+                                                                用户名：
+                                                            </td>
+                                                            <td width="46%">
+                                                                <input style="width:150px;height:13px;border-left-color:#000000;" name="textfield" type="text">
+                                                            </td>
+                                                            <td width="21%">
+                                                            </td>
+                                                        </tr>
+                                                        <tr>
+                                                            <td height="34" align="middle">
+                                                                密  码：
+                                                            </td>
+                                                            <td>
+                                                                <input style="width:150px;height:13px;border-left-color:#000000;" name="textfield2" type="password">
+                                                            </td>
+                                                            <td>
+                                                            </td>
+                                                        </tr>
+                                                        <tr>
+                                                            <td height="35" valign="bottom" colspan="3" align="middle">
+                                                                <table border="0" cellspacing="0" cellpadding="0" width="100%">
+                                                                    <tbody>
+                                                                        <tr>
+                                                                            <td height="19" background="/_upload/tpl/00/65/101/template101/images/oa_mwnu_bg.gif" width="4%" align="middle">
+                                                                                <img src="/_upload/tpl/00/65/101/template101/images/oa-1.gif" width="47" height="19"><img src="/_upload/tpl/00/65/101/template101/images/oa-2.gif" width="47" height="19">
+                                                                            </td>
+                                                                        </tr>
+                                                                    </tbody>
+                                                                </table>
+                                                            </td>
+                                                        </tr>
+                                                    </tbody>
+                                                </table>
+                                            </td>
+                                            <td bgcolor="#cacaca" width="1">
+                                            </td>
+                                        </tr>
+                                    </tbody>
+                                </table>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>
+                                <img src="/_upload/tpl/00/65/101/template101/images/yqlj_top.gif" width="269" height="29">
+                            </td>
+                        </tr>
+                        <tr>
+                            <td height="128" background="/_upload/tpl/00/65/101/template101/images/oa_bg.gif">
+                                <table border="0" cellspacing="0" cellpadding="0" width="100%">
+                                    <tbody>
+                                        <tr>
+                                            <td bgcolor="#cacaca" height="128" width="1">
+                                            </td>
+                                            <td>
+                                                <script _ue_org_tagname="script" type="text/JavaScript"><!--
+function MM_jumpMenu(targ,selObj,restore){ //v3.0
+window.open(selObj.options[selObj.selectedIndex].value)
+  if (restore) selObj.selectedIndex=0;
+}
+//--></script>
+                                                <table border="0" cellspacing="0" cellpadding="0" width="100%">
+                                                    <tbody>
+                                                        <tr>
+                                                            <td height="30" width="33%" align="middle">
+                                                                校内：
+                                                            </td>
+                                                            <td width="67%">
+                                                                <select id="jumpMenu" onchange="MM_jumpMenu('parent',this,0)" name="jumpMenu">
+                                                                    <option selected value="#">
+                                                                        ----校内链接----
+                                                                    </option>
+                                                                    <option value="http://dwbgs.nju.edu.cn/">
+                                                                        党委办公室
+                                                                    </option>
+                                                                    <option value="http://www.nju.edu.cn/cps/site/NJU/njuc/jw_new/index.php">
+                                                                        纪委
+                                                                    </option>
+                                                                    <option value="http://zzb.nju.edu.cn/">
+                                                                        组织部
+                                                                    </option>
+                                                                    <option value="http://xcb.nju.edu.cn/">
+                                                                        宣传部
+                                                                    </option>
+                                                                    <option value="http://tuanwei.nju.edu.cn/">
+                                                                        团委
+                                                                    </option>
+                                                                    <option value="http://www.nju.edu.cn/cps/site/GH/gh/">
+                                                                        工会
+                                                                    </option>
+                                                                    <option value="http://www.nju.edu.cn/cps/site/xzbgs/">
+                                                                        校长办公室
+                                                                    </option>
+                                                                    <option value="http://pd.nju.edu.cn/njuweb/default.htm">
+                                                                        人事处
+                                                                    </option>
+                                                                    <option value="http://xgc.nju.edu.cn/">
+                                                                        学生工作处
+                                                                    </option>
+                                                                    <option value="http://grawww.nju.edu.cn/">
+                                                                        研究生院
+                                                                    </option>
+                                                                    <option value="http://wb.nju.edu.cn/foreground/index.php">
+                                                                        国际合作与交流处
+                                                                    </option>
+                                                                    <option value="http://nic.nju.edu.cn/">
+                                                                        网络信息中心
+                                                                    </option>
+                                                                    <option value="http://hqjt.nju.edu.cn/">
+                                                                        后勤集团
+                                                                    </option>
+                                                                    <option value="http://hospital.nju.edu.cn/">
+                                                                        校医院
+                                                                    </option>
+                                                                    <option value="http://psychology.nju.edu.cn/">
+                                                                        心理健康教育与研究中心
+                                                                    </option>
+                                                                    <option value="http://bbs.nju.edu.cn/">
+                                                                        小百合BBS
+                                                                    </option></select>
+                                                            </td>
+                                                        </tr>
+                                                        <tr>
+                                                            <td height="30" align="middle">
+                                                                校外：
+                                                            </td>
+                                                            <td>
+                                                                <select id="jumpMenu" onchange="MM_jumpMenu('parent',this,0)" name="jumpMenu">
+                                                                    <option selected value="#">
+                                                                        ----校外链接----
+                                                                    </option>
+                                                                    <option value="http://bwx.jsgjxh.cn">
+                                                                        江苏省高教保卫学会
+                                                                    </option>
+                                                                    <option value="http://wwwbwb.pku.edu.cn/">
+                                                                        北京大学保卫处
+                                                                    </option>
+                                                                    <option value="http://bmxxfb.cic.tsinghua.edu.cn/bwb/">
+                                                                        清华大学保卫处
+                                                                    </option>
+                                                                    <option value="http://baoweichu.fudan.edu.cn/">
+                                                                        复旦大学保卫处
+                                                                    </option>
+                                                                    <option value="http://www.tongji.edu.cn/~baowei/">
+                                                                        同济大学保卫处
+                                                                    </option>
+                                                                    <option value="http://10.71.72.66/">
+                                                                        浙江大学保卫处
+                                                                    </option>
+                                                                    <option value="http://bwc.whu.edu.cn/">
+                                                                        武汉大学保卫处
+                                                                    </option>
+                                                                    <option value="http://bwc.scu.edu.cn/">
+                                                                        四川大学保卫处
+                                                                    </option>
+                                                                    <option value="http://bw.nenu.edu.cn/">
+                                                                        东北师范大学保卫处
+                                                                    </option>
+                                                                    <option value="http://bwc.nwu.edu.cn/">
+                                                                        西北大学保卫处
+                                                                    </option>
+                                                                    <option value="http://bwc.seu.edu.cn/">
+                                                                        东南大学保卫处
+                                                                    </option>
+                                                                    <option value="http://bwc.nuaa.edu.cn/">
+                                                                        南京航空航天大学保卫处
+                                                                    </option>
+                                                                    <option value="http://202.119.104.100/bwc/">
+                                                                        南京师范大学保卫处
+                                                                    </option>
+                                                                    <option value="http://202.119.81.14/">
+                                                                        南京理工大学保卫处
+                                                                    </option>
+                                                                    <option value="http://hhws.hhu.edu.cn/">
+                                                                        河海大学保卫处
+                                                                    </option>
+                                                                    <option value="http://bwc.njfu.edu.cn/">
+                                                                        南京林业大学保卫处
+                                                                    </option>
+                                                                    <option value="http://202.195.243.50/bwc/">
+                                                                        南京农业大学保卫处
+                                                                    </option>
+                                                                    <option value="http://bwc.cpu.edu.cn/">
+                                                                        中国药科大学保卫处
+                                                                    </option>
+                                                                    <option value="http://202.119.236.102/s/22/main.jspy">
+                                                                        南京邮电大学保卫处
+                                                                    </option></select>
+                                                            </td>
+                                                        </tr>
+                                                        <tr>
+                                                            <td height="30" align="middle">
+                                                                便民：
+                                                            </td>
+                                                            <td>
+                                                                <select id="jumpMenu" onchange="MM_jumpMenu('parent',this,0)" name="jumpMenu">
+                                                                    <option selected value="#">
+                                                                        ----便民链接----
+                                                                    </option>
+                                                                    <option value="http://www.moe.edu.cn/">
+                                                                        中国教育部
+                                                                    </option>
+                                                                    <option value="http://www.legalinfo.gov.cn/">
+                                                                        中国普法网
+                                                                    </option>
+                                                                    <option value="http://www.jschina.com.cn/">
+                                                                        中国江苏网
+                                                                    </option>
+                                                                    <option value="http://www.jsga.gov.cn/gb/jsgat/index.html">
+                                                                        江苏省公安厅
+                                                                    </option>
+                                                                    <option value="http://www.njga.gov.cn/">
+                                                                        南京市公安局
+                                                                    </option>
+                                                                    <option value="http://www.njjg.gov.cn/www/njjg/index.htm">
+                                                                        交管在线
+                                                                    </option>
+                                                                    <option value="http://njmap.8684.cn/">
+                                                                        南京地图
+                                                                    </option>
+                                                                    <option value="http://www.njstation.com/">
+                                                                        南京火车站
+                                                                    </option>
+                                                                    <option value="http://www.njkgc.cn/cindex1.asp?tab=&amp;menuid=23">
+                                                                        南京公交
+                                                                    </option>
+                                                                    <option value="http://www.njiairport.com/">
+                                                                        南京禄口机场
+                                                                    </option>
+                                                                    <option value="http://site.baidu.com/list/wannianli.htm">
+                                                                        万年历
+                                                                    </option></select>
+                                                            </td>
+                                                        </tr>
+                                                    </tbody>
+                                                </table>
+                                            </td>
+                                            <td bgcolor="#cacaca" width="1">
+                                            </td>
+                                        </tr>
+                                    </tbody>
+                                </table>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td style="word-break:break-all;">
+                                <img src="/_upload/tpl/00/65/101/template101/images/yqlj_bot.gif" width="269" height="4">
+                            </td>
+                        </tr>
+                    </tbody>
+                </table>
+            </td>
+            <td valign="top" width="13">
+            </td>
+            <td valign="top">
+                <table border="0" cellspacing="0" cellpadding="0" width="100%">
+                    <tbody>
+                        <tr>
+                            <td rowspan="3" width="8">
+                                <img src="/_upload/tpl/00/65/101/template101/images/gzdt_left.gif" width="8" height="246">
+                            </td>
+                            <td height="28" background="/_upload/tpl/00/65/101/template101/images/gzdt_top_bg.gif" width="120">
+                                <img src="/_upload/tpl/00/65/101/template101/images/gzdt.gif" width="95" height="28">
+                            </td>
+                            <td background="/_upload/tpl/00/65/101/template101/images/gzdt_top_bg.gif" width="442" align="right">
+                            </td>
+                            <td background="/_upload/tpl/00/65/101/template101/images/gzdt_top_right.gif" width="156" align="middle">
+                                &gt;&gt; <a href="http://bwc.nju.edu.cn/gzdt/list.htm" target="_self" textvalue="更多">更多</a>
+                            </td>
+                            <td rowspan="3" width="10">
+                                <img src="/_upload/tpl/00/65/101/template101/images/gzdt_right.gif" width="8" height="246">
+                            </td>
+                        </tr>
+                        <tr>
+                            <td height="209" valign="top" colspan="3">
+                                <table border="0" cellspacing="0" cellpadding="0" width="100%">
+                                    <tbody>
+                                        <tr>
+                                            <td height="7">
+                                            </td>
+                                        </tr>
+                                    </tbody>
+                                </table>
+                                <table border="0" cellspacing="0" cellpadding="0" width="98%" align="center">
+                                    <tbody>
+                                        <tr>
+                                            <td width="239">
+                                                <div class="mc" frag="面板44">
+                                                    <div frag="窗口46">
+                                                        <!-- 多图交替8 图片 切换 -->
+<div class="dtjt8_div_img" style="width:240px;height:180px;">
+    <img id="w46imgShow" name="w46imgShow" onclick="w46openWindow();" style="FILTER: revealTrans(duration=2,transition=20); border: 0; cursor: pointer;" src="/..//_css/tpl/default/images/loading.gif" width="240px" height="180px" vspace="0">
+    <div id="w46imgNumber" class="number"></div>
+</div>
+<script language="JavaScript" class="">
+    var w46imgJsons = [
+    
+        
+            {
+            "src" : "/_upload/article/images/09/ad/2a79b20742819eca7e9b9197f8f1/86bf4dd8-250b-4821-99d5-20e78e36db7c_s.jpg",
+            "url" : "/6c/30/c576a224304/page.htm"
+            },
+        
+    
+        
+            {
+            "src" : "/_upload/article/75/a7/c56b024e4498a107db4667a5aabb/e0d84621-7ecf-4fc6-8729-38f16e09a061_s.jpg",
+            "url" : "/4f/6b/c576a20331/page.htm"
+            }];
+        
+       
+</script>
+<script language="JavaScript">
+        var w46imgUrl = new Array();
+        var w46imgLink = new Array();
+
+        var w46count = 0;
+        var w46running = false;
+        var w46index = 0;
+        var w46nextAdTimer;
+        var w46k = 0;
+        function w46nextAd(num) {
+            if (num >= 0 && num <= w46count - 1) {
+                w46index = num;
+                clearTimeout(w46nextAdTimer);
+            } else {
+                num = w46index;
+            }
+            if (w46index > w46count - 1) {
+                w46index = 0;
+            }
+            if (!w46running) {
+                w46running = true;
+
+            } else if (document.all) {
+                w46imgShow.filters.revealTrans.Transition = 50;
+                w46imgShow.filters.revealTrans.apply();
+                w46imgShow.filters.revealTrans.play();
+            }
+            document.getElementById('w46imgShow').src = w46imgUrl[w46index];
+            document.getElementById('w46imgNumber').innerHTML = "";
+            w46k = 0;
+            for (var i = 0; i < w46count; i++) {
+                w46k++;
+                if (i !== w46index) {
+                    document.getElementById('w46imgNumber').innerHTML += '<a href="javascript:w46nextAd(' + i + ')" class="nomal">' + w46k + '</a>';
+                } else {
+                    document.getElementById('w46imgNumber').innerHTML += '<a href="javascript:w46nextAd(' + i + ')" class="current">' + w46k + '</a>';
+                }
+            }
+            w46index++;
+            if (w46count > 1) {
+                w46nextAdTimer = setTimeout("w46nextAd(-1)", 4000);
+            }
+        }
+
+        function w46openWindow() {
+            var jumpUrl = w46imgLink[w46index - 1];
+            if (jumpUrl && jumpUrl != '') {
+                window.open(jumpUrl);
+            }
+        }
+
+        $().ready(function() {
+            try {
+                var objs = w46imgJsons;
+                w46count = objs.length;
+                if (w46count == 0) {
+                    document.getElementById('w46imgShow').style.display = "none";
+                    document.getElementById('w46imgNumber').style.display = "none";
+                    return;
+                }
+                for (var i = 0; i < objs.length; i++) {
+                    w46imgUrl[i] = objs[i].src;
+                    w46imgLink[i] = objs[i].url;
+                }
+                w46nextAd(-1);
+            } catch (e) {
+            }
+        });
+</script>
+                                                    </div>
+                                                </div>
+                                            </td>
+                                            <td width="4">
+                                            </td>
+                                            <td valign="top" background="/_upload/tpl/00/65/101/template101/images/default_17.gif" width="441">
+                                                <table border="0" cellspacing="0" cellpadding="0" width="98%" align="center">
+                                                    <tbody>
+                                                        <tr>
+                                                            <td height="8" width="10%">
+                                                            </td>
+                                                        </tr>
+                                                    </tbody>
+                                                </table>
+                                                <marquee onmouseover="this.stop()" onmouseout="this.start()" direction="up" height="180" scrollamount="1" scrolldelay="60" style="height:180px;">
+                                                    <span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span>
+                                                    <div id="news" frag="面板21" cmsid="05880105">
+                                                        <div frag="窗口45">
+                                                            <div id="topw45" class="scrollnews2_top" style="width:100%;height:200px;overflow:hidden;">
+    <div id="middlew45">
+        <table cellspacing="0" cellpadding="0" class="articlelist2_tbl ">
+            <tr tid="scrollnews2_tid" class=" articlelist2_tr ">
+                <td class="news_icon_td"></td>
+                <td class=" articlelist2_td_title "><a class=" articlelist2_a_title " target="_blank" href="/82/58/c576a229976/page.htm" title="2017年9-10月份保卫工作简报">2017年9-10月份保卫工作...</a></td><td class=" articlelist2_td_issuetime "><div style="white-space:nowrap">2017-11-30</div></td>
+            </tr><tr tid="scrollnews2_tid" class=" articlelist2_tr ">
+                <td class="news_icon_td"></td>
+                <td class=" articlelist2_td_title "><a class=" articlelist2_a_title " target="_blank" href="/6c/30/c576a224304/page.htm" title="校保卫处开展校园沿街门面房消防安全检查">校保卫处开展校园沿街门面房消防...</a></td><td class=" articlelist2_td_issuetime "><div style="white-space:nowrap">2017-10-28</div></td>
+            </tr><tr tid="scrollnews2_tid" class=" articlelist2_tr ">
+                <td class="news_icon_td"></td>
+                <td class=" articlelist2_td_title "><a class=" articlelist2_a_title " target="_blank" href="/26/ad/c576a206509/page.htm" title="2017年3-4月份保卫工作简报">2017年3-4月份保卫工作简...</a></td><td class=" articlelist2_td_issuetime "><div style="white-space:nowrap">2017-06-24</div></td>
+            </tr><tr tid="scrollnews2_tid" class=" articlelist2_tr ">
+                <td class="news_icon_td"></td>
+                <td class=" articlelist2_td_title "><a class=" articlelist2_a_title " target="_blank" href="/d2/6d/c576a184941/page.htm" title="2017年1-2月份保卫工作简报">2017年1-2月份保卫工作简...</a></td><td class=" articlelist2_td_issuetime "><div style="white-space:nowrap">2017-03-22</div></td>
+            </tr><tr tid="scrollnews2_tid" class=" articlelist2_tr ">
+                <td class="news_icon_td"></td>
+                <td class=" articlelist2_td_title "><a class=" articlelist2_a_title " target="_blank" href="/98/8d/c576a170125/page.htm" title="2016年9-10月份工作简报">2016年9-10月份工作简报</a></td><td class=" articlelist2_td_issuetime "><div style="white-space:nowrap">2016-11-29</div></td>
+            </tr><tr tid="scrollnews2_tid" class=" articlelist2_tr ">
+                <td class="news_icon_td"></td>
+                <td class=" articlelist2_td_title "><a class=" articlelist2_a_title " target="_blank" href="/98/8c/c576a170124/page.htm" title="2016年7-8月份工作简报">2016年7-8月份工作简报</a></td><td class=" articlelist2_td_issuetime "><div style="white-space:nowrap">2016-11-29</div></td>
+            </tr>
+        </table>
+    </div>
+    <div id="bottomw45"></div>
+</div>
+
+<script language="javascript">
+    var middlew45 = document.getElementById("middlew45");
+    var bottomw45 = document.getElementById("bottomw45");
+    middlew45.innerHTML = middlew45.innerHTML;
+    middlew45.innerHTML = middlew45.innerHTML + middlew45.innerHTML + middlew45.innerHTML;
+    bottomw45.innerHTML = middlew45.innerHTML + middlew45.innerHTML + middlew45.innerHTML;
+
+    function marqueecw45() {
+        if (document.getElementById('bottomw45').offsetTop - document.getElementById('topw45').scrollTop <= 0) {
+            document.getElementById('topw45').scrollTop -= document.getElementById('middlew45').offsetHeight;
+        } else {
+            document.getElementById('topw45').scrollTop += 1;
+        }
+    }
+
+    function startscrollcw45() {
+        var scrollobjc = setInterval(marqueecw45, 150);
+        document.getElementById('topw45').onmouseover = function() {
+            clearInterval(scrollobjc);
+        };
+        document.getElementById('topw45').onmouseout = function() {
+            scrollobjc = setInterval(marqueecw45, 150);
+        };
+    }
+    startscrollcw45();
+</script>
+                                                        </div>
+                                                        <div frag="窗口21">
+                                                            <!-- No Data -->
+                                                        </div>
+                                                    </div>
+                                                    <table border="0" cellspacing="0" cellpadding="0" width="96%" align="center">
+                                                        <tbody>
+                                                            <tr>
+                                                                <td height="1" background="/_upload/tpl/00/65/101/template101/images/line.gif" width="100%" align="middle">
+                                                                </td>
+                                                            </tr>
+                                                        </tbody>
+                                                    </table>
+                                                </marquee>
+                                            </td>
+                                        </tr>
+                                    </tbody>
+                                </table>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td height="8" background="/_upload/tpl/00/65/101/template101/images/gzdt_bot_bg.gif" colspan="3">
+                            </td>
+                        </tr>
+                    </tbody>
+                </table>
+                <table border="0" cellspacing="0" cellpadding="0" width="100%">
+                    <tbody>
+                        <tr>
+                            <td height="8">
+                            </td>
+                        </tr>
+                    </tbody>
+                </table>
+                <table border="0" cellspacing="0" cellpadding="0" width="100%">
+                    <tbody>
+                        <tr>
+                            <td width="24%" align="left">
+                                <a href="http://bbs.nju.edu.cn/bbsdoc?board=M_Guard" target="_blank"><img border="0" src="/_upload/tpl/00/65/101/template101/images/czxx.gif" width="161" height="36"></a>
+                            </td>
+                            <td width="26%" align="middle">
+                                <a href="http://bwc.nju.edu.cn/731/list.htm" target="_self"><img border="0" src="/_upload/tpl/00/65/101/template101/images/zlxz.gif" width="161" height="36"></a>
+                            </td>
+                            <td width="26%" align="middle">
+                                <a href="http://bwc.nju.edu.cn/732/list.htm" target="_self"><img border="0" src="/_upload/tpl/00/65/101/template101/images/bslc.gif" width="161" height="36"></a>
+                            </td>
+                            <td width="24%" align="right">
+                                <a href="http://bwc.nju.edu.cn/733/list.htm" target="_self"><img border="0" src="/_upload/tpl/00/65/101/template101/images/swzl.gif" width="161" height="36"></a>
+                            </td>
+                        </tr>
+                    </tbody>
+                </table>
+                <table border="0" cellspacing="0" cellpadding="0" width="100%">
+                    <tbody>
+                        <tr>
+                            <td height="8">
+                            </td>
+                        </tr>
+                    </tbody>
+                </table>
+                <table border="0" cellspacing="0" cellpadding="0" width="100%">
+                    <tbody>
+                        <tr>
+                            <td>
+                                <table border="0" cellspacing="0" cellpadding="0">
+                                    <tbody>
+                                        <tr>
+                                            <td style="word-break:break-all;">
+                                                <a href="http://bwc.nju.edu.cn/ggtz/list.htm" target="_self"><img border="0" src="/_upload/tpl/00/65/101/template101/images/ggtz.gif" width="350" height="34"></a>
+                                            </td>
+                                        </tr>
+                                        <tr>
+                                            <td height="160" valign="top" style="word-break:break-all;">
+                                                <table border="0" cellspacing="0" cellpadding="0" width="98%" align="center">
+                                                    <tbody>
+                                                        <tr>
+                                                            <td height="8" width="10%">
+                                                            </td>
+                                                        </tr>
+                                                    </tbody>
+                                                </table><span></span>
+                                                <div frag="面板31">
+                                                    <div frag="窗口31">
+                                                        <div id="wp_news_w31"> 
+<table width="100%" border="0" cellspacing="0" cellpadding="0" class="wp_article_list_table"> 
+<tr> 
+<td> 
+
+                                                            <table border="0" cellspacing="0" cellpadding="0" width="98%" align="center">
+                                                                <!--[NaviStructBegin]-->
+                                                                <tbody>
+                                                                    <tr>
+                                                                        <td height="22" width="6%" align="middle">
+                                                                            ·
+                                                                        </td>
+                                                                        <td width="74%">
+                                                                            <a target="_blank"> </a><a href="/99/f8/c577a301560/page.htm" target="_blank" title="南京大学仙林校区测速显示系统工程">南京大学仙林校区测速显示系统工...</a> 
+                                                                        </td>
+                                                                        <td width="20%">
+                                                                            <span style="color:#999999;">2018-11-06</span>
+                                                                        </td>
+                                                                    </tr><!--[NaviStructEnd]-->
+                                                                </tbody>
+                                                            </table>
+                                                        </td> 
+</tr> 
+<tr> 
+<td> 
+
+                                                            <table border="0" cellspacing="0" cellpadding="0" width="98%" align="center">
+                                                                <!--[NaviStructBegin]-->
+                                                                <tbody>
+                                                                    <tr>
+                                                                        <td height="22" width="6%" align="middle">
+                                                                            ·
+                                                                        </td>
+                                                                        <td width="74%">
+                                                                            <a target="_blank"> </a><a href="/79/23/c577a293155/page.htm" target="_blank" title="保卫处关于仙林校区电动车管理通告">保卫处关于仙林校区电动车管理通...</a> 
+                                                                        </td>
+                                                                        <td width="20%">
+                                                                            <span style="color:#999999;">2018-09-04</span>
+                                                                        </td>
+                                                                    </tr><!--[NaviStructEnd]-->
+                                                                </tbody>
+                                                            </table>
+                                                        </td> 
+</tr> 
+<tr> 
+<td> 
+
+                                                            <table border="0" cellspacing="0" cellpadding="0" width="98%" align="center">
+                                                                <!--[NaviStructBegin]-->
+                                                                <tbody>
+                                                                    <tr>
+                                                                        <td height="22" width="6%" align="middle">
+                                                                            ·
+                                                                        </td>
+                                                                        <td width="74%">
+                                                                            <a target="_blank"> </a><a href="/46/bc/c577a280252/page.htm" target="_blank" title="南京大学仙林校区一组团宿舍疏散指示系统改造工程中标公示">南京大学仙林校区一组团宿舍疏散...</a> 
+                                                                        </td>
+                                                                        <td width="20%">
+                                                                            <span style="color:#999999;">2018-07-25</span>
+                                                                        </td>
+                                                                    </tr><!--[NaviStructEnd]-->
+                                                                </tbody>
+                                                            </table>
+                                                        </td> 
+</tr> 
+<tr> 
+<td> 
+
+                                                            <table border="0" cellspacing="0" cellpadding="0" width="98%" align="center">
+                                                                <!--[NaviStructBegin]-->
+                                                                <tbody>
+                                                                    <tr>
+                                                                        <td height="22" width="6%" align="middle">
+                                                                            ·
+                                                                        </td>
+                                                                        <td width="74%">
+                                                                            <a target="_blank"> </a><a href="/42/7a/c577a279162/page.htm" target="_blank" title="保卫处关于暑假对外办公时间的通知">保卫处关于暑假对外办公时间的通...</a> 
+                                                                        </td>
+                                                                        <td width="20%">
+                                                                            <span style="color:#999999;">2018-07-13</span>
+                                                                        </td>
+                                                                    </tr><!--[NaviStructEnd]-->
+                                                                </tbody>
+                                                            </table>
+                                                        </td> 
+</tr> 
+<tr> 
+<td> 
+
+                                                            <table border="0" cellspacing="0" cellpadding="0" width="98%" align="center">
+                                                                <!--[NaviStructBegin]-->
+                                                                <tbody>
+                                                                    <tr>
+                                                                        <td height="22" width="6%" align="middle">
+                                                                            ·
+                                                                        </td>
+                                                                        <td width="74%">
+                                                                            <a target="_blank"> </a><a href="/3c/cf/c577a277711/page.htm" target="_blank" title="南京大学仙林校区安防建筑单体汇聚（核心机房）工程招标公告">南京大学仙林校区安防建筑单体汇...</a> 
+                                                                        </td>
+                                                                        <td width="20%">
+                                                                            <span style="color:#999999;">2018-07-05</span>
+                                                                        </td>
+                                                                    </tr><!--[NaviStructEnd]-->
+                                                                </tbody>
+                                                            </table>
+                                                        </td> 
+</tr> 
+<tr> 
+<td> 
+
+                                                            <table border="0" cellspacing="0" cellpadding="0" width="98%" align="center">
+                                                                <!--[NaviStructBegin]-->
+                                                                <tbody>
+                                                                    <tr>
+                                                                        <td height="22" width="6%" align="middle">
+                                                                            ·
+                                                                        </td>
+                                                                        <td width="74%">
+                                                                            <a target="_blank"> </a><a href="/3c/a1/c577a277665/page.htm" target="_blank" title="南京大学仙林校区三组团数字监控系统工程招标公告">南京大学仙林校区三组团数字监控...</a> 
+                                                                        </td>
+                                                                        <td width="20%">
+                                                                            <span style="color:#999999;">2018-07-05</span>
+                                                                        </td>
+                                                                    </tr><!--[NaviStructEnd]-->
+                                                                </tbody>
+                                                            </table>
+                                                        </td> 
+</tr> 
+<tr> 
+<td> 
+
+                                                            <table border="0" cellspacing="0" cellpadding="0" width="98%" align="center">
+                                                                <!--[NaviStructBegin]-->
+                                                                <tbody>
+                                                                    <tr>
+                                                                        <td height="22" width="6%" align="middle">
+                                                                            ·
+                                                                        </td>
+                                                                        <td width="74%">
+                                                                            <a target="_blank"> </a><a href="/39/46/c577a276806/page.htm" target="_blank" title="南京大学校园停车券使用管理办法">南京大学校园停车券使用管理办法</a> 
+                                                                        </td>
+                                                                        <td width="20%">
+                                                                            <span style="color:#999999;">2018-06-29</span>
+                                                                        </td>
+                                                                    </tr><!--[NaviStructEnd]-->
+                                                                </tbody>
+                                                            </table>
+                                                        </td> 
+</tr> 
+<tr> 
+<td> 
+
+                                                            <table border="0" cellspacing="0" cellpadding="0" width="98%" align="center">
+                                                                <!--[NaviStructBegin]-->
+                                                                <tbody>
+                                                                    <tr>
+                                                                        <td height="22" width="6%" align="middle">
+                                                                            ·
+                                                                        </td>
+                                                                        <td width="74%">
+                                                                            <a target="_blank"> </a><a href="/38/b7/c577a276663/page.htm" target="_blank" title="南京大学机动车电子通行证办理说明">南京大学机动车电子通行证办理说...</a> 
+                                                                        </td>
+                                                                        <td width="20%">
+                                                                            <span style="color:#999999;">2018-06-28</span>
+                                                                        </td>
+                                                                    </tr><!--[NaviStructEnd]-->
+                                                                </tbody>
+                                                            </table>
+                                                        </td> 
+</tr> 
+</table></div> 
+
+<div class="more"><a class="more-link" href="/ggtz/list.htm" title="显示更多"><span class="moretext"><img src="/_js/_portletPlugs/simpleNews/css/icon_more_1.gif" border="0"></span></a></div>
+                                                    </div>
+                                                </div>
+                                            </td>
+                                        </tr>
+                                    </tbody>
+                                </table>
+                            </td>
+                            <td width="20">
+                            </td>
+                            <td>
+                                <table border="0" cellspacing="0" cellpadding="0">
+                                    <tbody>
+                                        <tr>
+                                            <td>
+                                                <a href="http://bwc.nju.edu.cn/jzcm/list.htm" target="_self"><img border="0" src="/_upload/tpl/00/65/101/template101/images/jzcm.gif" width="350" height="34"></a>
+                                            </td>
+                                        </tr>
+                                        <tr>
+                                            <td height="160" valign="top" style="word-break:break-all;">
+                                                <table border="0" cellspacing="0" cellpadding="0" width="98%" align="center">
+                                                    <tbody>
+                                                        <tr>
+                                                            <td height="8" width="10%">
+                                                            </td>
+                                                        </tr>
+                                                    </tbody>
+                                                </table><span></span>
+                                                <div frag="面板41">
+                                                    <div frag="窗口43">
+                                                        <div id="wp_news_w43"> 
+<table width="100%" border="0" cellspacing="0" cellpadding="0" class="wp_article_list_table"> 
+<tr> 
+<td> 
+
+                                                            <table border="0" cellspacing="0" cellpadding="0" width="98%" align="center">
+                                                                <!--[NaviStructBegin]-->
+                                                                <tbody>
+                                                                    <tr>
+                                                                        <td height="22" width="6%" align="middle">
+                                                                            ·
+                                                                        </td>
+                                                                        <td width="74%">
+                                                                            <a target="_blank"> </a><a href="/1a/36/c578a6710/page.htm" target="_blank" title="  警方通报十二种常见电信诈骗手段  ">  警方通报十二种常见电信诈骗手...</a> 
+                                                                        </td>
+                                                                        <td width="20%">
+                                                                            <span style="color:#999999;">2015-01-22</span>
+                                                                        </td>
+                                                                    </tr><!--[NaviStructEnd]-->
+                                                                </tbody>
+                                                            </table>
+                                                        </td> 
+</tr> 
+<tr> 
+<td> 
+
+                                                            <table border="0" cellspacing="0" cellpadding="0" width="98%" align="center">
+                                                                <!--[NaviStructBegin]-->
+                                                                <tbody>
+                                                                    <tr>
+                                                                        <td height="22" width="6%" align="middle">
+                                                                            ·
+                                                                        </td>
+                                                                        <td width="74%">
+                                                                            <a target="_blank"> </a><a href="/1a/35/c578a6709/page.htm" target="_blank" title="  银行卡常见欺诈案例  ">  银行卡常见欺诈案例  </a> 
+                                                                        </td>
+                                                                        <td width="20%">
+                                                                            <span style="color:#999999;">2015-01-22</span>
+                                                                        </td>
+                                                                    </tr><!--[NaviStructEnd]-->
+                                                                </tbody>
+                                                            </table>
+                                                        </td> 
+</tr> 
+<tr> 
+<td> 
+
+                                                            <table border="0" cellspacing="0" cellpadding="0" width="98%" align="center">
+                                                                <!--[NaviStructBegin]-->
+                                                                <tbody>
+                                                                    <tr>
+                                                                        <td height="22" width="6%" align="middle">
+                                                                            ·
+                                                                        </td>
+                                                                        <td width="74%">
+                                                                            <a target="_blank"> </a><a href="/1a/34/c578a6708/page.htm" target="_blank" title="  国庆前期安全教育  ">  国庆前期安全教育  </a> 
+                                                                        </td>
+                                                                        <td width="20%">
+                                                                            <span style="color:#999999;">2015-01-22</span>
+                                                                        </td>
+                                                                    </tr><!--[NaviStructEnd]-->
+                                                                </tbody>
+                                                            </table>
+                                                        </td> 
+</tr> 
+<tr> 
+<td> 
+
+                                                            <table border="0" cellspacing="0" cellpadding="0" width="98%" align="center">
+                                                                <!--[NaviStructBegin]-->
+                                                                <tbody>
+                                                                    <tr>
+                                                                        <td height="22" width="6%" align="middle">
+                                                                            ·
+                                                                        </td>
+                                                                        <td width="74%">
+                                                                            <a target="_blank"> </a><a href="/1a/33/c578a6707/page.htm" target="_blank" title="  公共场所 加强防范  ">  公共场所 加强防范  </a> 
+                                                                        </td>
+                                                                        <td width="20%">
+                                                                            <span style="color:#999999;">2015-01-22</span>
+                                                                        </td>
+                                                                    </tr><!--[NaviStructEnd]-->
+                                                                </tbody>
+                                                            </table>
+                                                        </td> 
+</tr> 
+<tr> 
+<td> 
+
+                                                            <table border="0" cellspacing="0" cellpadding="0" width="98%" align="center">
+                                                                <!--[NaviStructBegin]-->
+                                                                <tbody>
+                                                                    <tr>
+                                                                        <td height="22" width="6%" align="middle">
+                                                                            ·
+                                                                        </td>
+                                                                        <td width="74%">
+                                                                            <a target="_blank"> </a><a href="/1a/32/c578a6706/page.htm" target="_blank" title="  谨防短信诈骗  ">  谨防短信诈骗  </a> 
+                                                                        </td>
+                                                                        <td width="20%">
+                                                                            <span style="color:#999999;">2015-01-22</span>
+                                                                        </td>
+                                                                    </tr><!--[NaviStructEnd]-->
+                                                                </tbody>
+                                                            </table>
+                                                        </td> 
+</tr> 
+<tr> 
+<td> 
+
+                                                            <table border="0" cellspacing="0" cellpadding="0" width="98%" align="center">
+                                                                <!--[NaviStructBegin]-->
+                                                                <tbody>
+                                                                    <tr>
+                                                                        <td height="22" width="6%" align="middle">
+                                                                            ·
+                                                                        </td>
+                                                                        <td width="74%">
+                                                                            <a target="_blank"> </a><a href="/1a/31/c578a6705/page.htm" target="_blank" title="  近期案件通报  ">  近期案件通报  </a> 
+                                                                        </td>
+                                                                        <td width="20%">
+                                                                            <span style="color:#999999;">2015-01-22</span>
+                                                                        </td>
+                                                                    </tr><!--[NaviStructEnd]-->
+                                                                </tbody>
+                                                            </table>
+                                                        </td> 
+</tr> 
+<tr> 
+<td> 
+
+                                                            <table border="0" cellspacing="0" cellpadding="0" width="98%" align="center">
+                                                                <!--[NaviStructBegin]-->
+                                                                <tbody>
+                                                                    <tr>
+                                                                        <td height="22" width="6%" align="middle">
+                                                                            ·
+                                                                        </td>
+                                                                        <td width="74%">
+                                                                            <a target="_blank"> </a><a href="/1a/30/c578a6704/page.htm" target="_blank" title="  年关将至 加强防范  ">  年关将至 加强防范  </a> 
+                                                                        </td>
+                                                                        <td width="20%">
+                                                                            <span style="color:#999999;">2015-01-22</span>
+                                                                        </td>
+                                                                    </tr><!--[NaviStructEnd]-->
+                                                                </tbody>
+                                                            </table>
+                                                        </td> 
+</tr> 
+<tr> 
+<td> 
+
+                                                            <table border="0" cellspacing="0" cellpadding="0" width="98%" align="center">
+                                                                <!--[NaviStructBegin]-->
+                                                                <tbody>
+                                                                    <tr>
+                                                                        <td height="22" width="6%" align="middle">
+                                                                            ·
+                                                                        </td>
+                                                                        <td width="74%">
+                                                                            <a target="_blank"> </a><a href="/1a/2f/c578a6703/page.htm" target="_blank" title="  近期安全提醒  ">  近期安全提醒  </a> 
+                                                                        </td>
+                                                                        <td width="20%">
+                                                                            <span style="color:#999999;">2015-01-22</span>
+                                                                        </td>
+                                                                    </tr><!--[NaviStructEnd]-->
+                                                                </tbody>
+                                                            </table>
+                                                        </td> 
+</tr> 
+</table></div> 
+
+<div class="more"><a class="more-link" href="/jzcm/list.htm" title="显示更多"><span class="moretext"><img src="/_js/_portletPlugs/simpleNews/css/icon_more_1.gif" border="0"></span></a></div>
+                                                    </div>
+                                                    <div frag="窗口41">
+                                                        
+                                                    </div>
+                                                </div>
+                                            </td>
+                                        </tr>
+                                    </tbody>
+                                </table>
+                            </td>
+                        </tr>
+                    </tbody>
+                </table>
+                <p style="text-align:center">
+                    <br>
+                </p>
+            </td>
+        </tr>
+    </tbody>
+</table>
+<table border="0" cellspacing="0" cellpadding="0" width="1002" align="center">
+    <tbody>
+        <tr>
+            <td height="8">
+            </td>
+        </tr>
+    </tbody>
+</table>
+<table border="0" cellspacing="0" cellpadding="0" width="1002" align="center">
+    <tbody>
+        <tr>
+            <td style="line-height:140%;" height="67" background="/_upload/tpl/00/65/101/template101/images/foot_bg.gif" align="middle">
+                <table border="0" cellspacing="0" cellpadding="0" width="100%">
+                    <tbody>
+                        <tr>
+                            <td height="8">
+                            </td>
+                        </tr>
+                    </tbody>
+                </table>版权所有：南京大学保卫处 <a href="http://www.nj123.cn/" target="_blank">网站技术支持</a><br>
+                电话：025-83595110   传真：025-86633658   E-MAIL：bwc@nju.edu.cn   邮编：210093<br>
+                地址：南京市汉口路22号   您是第 <span style="color:red;"><script _ue_org_tagname="script"></script></span>位访客
+            </td>
+        </tr>
+    </tbody>
+</table>
+<div id="links" style="z-index:10;position:absolute;width:250px;height:333px;right:185px;top:300px;">
+    <a href="/_upload/tpl/00/65/101/template101/safe_info_images/safe1.jpg" title="南大安全知识宣传展：防诈骗篇"><img src="/_upload/tpl/00/65/101/template101/safe_info_display2.jpg"></a><a href="/_upload/tpl/00/65/101/template101/safe_info_images/safe2.jpg" title="一：假冒QQ好友聊天诈骗"></a><a href="/_upload/tpl/00/65/101/template101/safe_info_images/safe3.jpg" title="二：网银升级诈骗"></a><a href="/_upload/tpl/00/65/101/template101/safe_info_images/safe4.jpg" title="三：网上酒托诈骗"></a><a href="/_upload/tpl/00/65/101/template101/safe_info_images/safe5.jpg" title="四：中奖类网络诈骗"></a><a href="/_upload/tpl/00/65/101/template101/safe_info_images/safe6.jpg" title="五：网络购物诈骗"></a><a href="/_upload/tpl/00/65/101/template101/safe_info_images/safe7.jpg" title="六：虚假购票网站诈骗"></a><a href="/_upload/tpl/00/65/101/template101/safe_info_images/safe8.jpg" title="七：网上兼职刷信誉诈骗"></a><a href="/_upload/tpl/00/65/101/template101/safe_info_images/safe9.jpg" title="八：传播色情信息进行诈骗"></a><a href="/_upload/tpl/00/65/101/template101/safe_info_images/safe10.jpg" title="九：冒充老师诈骗"></a><a href="/_upload/tpl/00/65/101/template101/safe_info_images/safe11.jpg" title="十：已改签车票机票为名义进行诈骗"></a><a href="/_upload/tpl/00/65/101/template101/safe_info_images/safe12.jpg" title="十一：冒充银行进行诈骗"></a><a href="/_upload/tpl/00/65/101/template101/safe_info_images/safe13.jpg" title="十二：冒充港澳人员进行诈骗"></a><a href="/_upload/tpl/00/65/101/template101/safe_info_images/safe14.jpg" title="十三：冒充公检法人员进行诈骗"></a><a href="/_upload/tpl/00/65/101/template101/safe_info_images/safe15.jpg" title="十四：以退税退费为诱饵进行诈骗"></a><a href="/_upload/tpl/00/65/101/template101/safe_info_images/safe16.jpg" title="十五：以虚假投资进行诈骗"></a><a href="/_upload/tpl/00/65/101/template101/safe_info_images/safe17.jpg" title="其他诈骗手段："></a>
+</div><script _ue_org_tagname="script">
+document.getElementById('links').onclick = function (event) {
+ 
+  // document.wgzc.stopplay();
+    event = event || window.event;
+    var target = event.target || event.srcElement,
+        link = target.src ? target.parentNode : target,
+        options = {index: link, event: event},
+        links = this.getElementsByTagName('a');
+    blueimp.Gallery(links, options);
+  
+};
+
+
+    
+</script><script src="/_upload/tpl/00/65/101/template101/js/blueimp_gallery.min.js" _ue_org_tagname="script"></script>
+</body>
+</html>

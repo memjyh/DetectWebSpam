@@ -1,0 +1,16 @@
+https://dastat.duowan.com/?r=api/stat&loc=135&pid=1572&type=1&url=http://video.duowan.com/play/8946823.html&os=Win32&browser=Chrome63.0.3239.132&px=1366*768&_=1535697237991
+<html>
+<head>
+<title>Welcome to nginx!</title>
+<style>
+    body {
+        width: 35em;
+        margin: 0 auto;
+        font-family: Tahoma, Verdana, Arial, sans-serif;
+    }
+</style>
+</head>
+<body>
+<h1>Welcome to nginx!</h1>
+</body>
+</html>

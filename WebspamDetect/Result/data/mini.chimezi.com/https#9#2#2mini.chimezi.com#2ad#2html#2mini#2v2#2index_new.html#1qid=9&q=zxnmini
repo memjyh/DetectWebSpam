@@ -1,0 +1,203 @@
+https://mini.chimezi.com/ad/html/mini/v2/index_new.html?qid=9&q=zxnmini
+<html lang="en"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+ <title>每日看点 迷你页</title>
+ <meta http-equiv="X-UA-Compatible" content="IE=edge, chrome=1">
+ <link rel="stylesheet" href="/ad/views/mydefault/abb/007_jsmini/reset.css" type="text/css">
+ <script src="/ad/views/mydefault/abb/007_jsmini/jquery.min.js"></script>
+ <script src="/ad/views/mydefault/abb/007_jsmini/jquery.cookie.js"></script>
+ <link rel="stylesheet" href="/ad/views/mydefault/abb/007_jsmini/index.css">
+ <script src="/ad/views/mydefault/abb/007_jsmini/jquery.xdomainrequest.min.js" type="text/javascript" charset="utf-8"></script>
+ <style>
+  ._pic{width:854px;height:40px;margin:0 auto; position:relative;
+   background-color: white;background: url(/ad/views/mydefault/abb/007_jsmini/bg.png) no-repeat scroll;}
+  #_img{width:854px;height:40px;margin:0 auto; position:absolute}
+  ._downpic{width:34px; height:24px;left:754px;position:absolute;z-index: 2}
+  ._smallpic2{width:34px; height:24px;left:787px;position:absolute;z-index: 2}
+  ._closepic3{width:34px; height:24px;left:820px;position:absolute;z-index: 2}
+  #optionbox{
+   display: none;
+   position: absolute;
+   top: 25px;
+   right: 5px;
+   width: 100px;
+   background-color: #c7c1c1;
+   font-size: 12px;
+   z-index: 1;
+  }
+  #movehander{
+   position: absolute;
+   width: 100%;
+   height: 100%;
+   z-index: 1;
+  }
+  .location{
+   left: 120px;
+   position: absolute;
+   margin-top: 13px;
+   display: none;
+  }
+  .button{
+   text-align: center;
+   color: #e73f40;
+   z-index: 111111;
+   padding-left: 8px;
+   padding-right: 8px;
+   font-size: 12px;
+   padding-top: 2px;
+   padding-bottom: 2px;
+  }
+  .button:before{
+   content: '';
+   position: absolute;
+   top: 0;
+   right: 0;
+   bottom: 0;
+   left: 0;
+   background-color: #ecebeb;
+   transform: skewX(-23deg);
+   z-index: -1;
+   border: 1px solid #e73f40;
+   border-radius: 3px;
+  }
+  #feedback{
+   width: 65px;
+   height: 24px;
+   left: 694px;
+   position: absolute;
+   z-index: 2;
+   font-size: 12px;
+   color: red;
+   top: 7px;
+   cursor:pointer;
+  }
+  #weather-insert-pos{
+   left: 233px;
+   position: absolute;
+   z-index: 2;
+   font-size: 12px;
+   color: red;
+   top: 4px;
+   cursor: pointer;
+  }
+ </style>
+ <script>
+     var site_path_str ="/ad/views/mydefault/";
+     var miniName = 'newminipage360json'
+     var frameWidth = parseInt("");
+     var frameHeight = parseInt("");
+ </script>
+</head>
+<body>
+<div style="width: 854px;height: 100px;overflow: hidden;margin:0 auto;padding:1px 0px 0px 0px;background:#fff; position:relative;" class="ggtop">
+ <div style="position:absolute; left:5px; bottom:5px; font-size:12px; color:#FFFFFF">广告</div>
+ <!--<div id="gbyy" style="position:absolute; right:5px; top:5px; font-size:12px; color:#FFFFFF"><img src="/ad/views/mydefault/yx_close.png" width="12px;"></div>-->
+ <script type="text/javascript">
+     var qid1=getParam1('qid');
+     var qid2=qid1;
+     if(qid1){
+         var qid1='?qid='+qid1;
+     }else{
+         var qid1='';
+     }
+     function getParam1(paramName) {
+         paramValue = "", isFound = !1;
+         if (this.location.search.indexOf("?") == 0 && this.location.search.indexOf("=") > 1) {
+             arrSource = unescape(this.location.search).substring(1, this.location.search.length).split("&"), i = 0;
+             while (i < arrSource.length && !isFound) arrSource[i].indexOf("=") > 0 && arrSource[i].split("=")[0].toLowerCase() == paramName.toLowerCase() && (paramValue = arrSource[i].split("=")[1], isFound = !0), i++
+         }
+         return paramValue == "" && (paramValue = null), paramValue
+     }
+     document.write('<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" scrolling="no" allowtransparency="yes" style="width: 854px;height:100px;" src="http://mini.bbcallworld.top/ad/views/mydefault/176gameiframe_top_big.html'+qid1+'"></iframe>');
+ </script>
+</div>
+<div class="_pic" style="display: none" id="tophead">
+ <div id="movehander"></div>
+ <div class="location button">持知网</div>
+ <div id="weather-insert-pos"></div>
+ <div id="feedback">意见反馈</div>
+ <img class="_downpic" src="/ad/views/mydefault/abb/007_jsmini/down_default.png" alt="" id="option">
+ <img class="_smallpic2" src="/ad/views/mydefault/abb/007_jsmini/small_default.png" alt="" id="minwnd">
+ <img class="_closepic3" src="/ad/views/mydefault/abb/007_jsmini/close_default.png" alt="" id="closewnd">
+ <div id="optionbox">
+  <label><input id="nottips" type="checkbox">不再提示</label>
+ </div>
+</div>
+<div id="container">
+ <!-- 顶部区域 start -->
+ <!-- <div class="deader">
+   <a class="logo" href="/" target="_blank"><img src="../statics/znyxxl/images/logo.png" alt="mini_logo"></a>
+ </div> -->
+ <!-- 顶部区域 end -->
+ <div class="wrapper">
+  <!-- 左侧 nav 区域 start -->
+  <div class="left_nav">
+   <li class="nav_item mouse_event active" method="change_view" date-type="729"><a>推荐</a></li>
+   <li class="nav_item mouse_event" method="change_view" date-type="731"><a>娱乐</a></li>
+   <li class="nav_item mouse_event" method="change_view" date-type="732"><a>社会</a></li>
+   <li class="nav_item mouse_event" method="change_view" date-type="736"><a>历史</a></li>
+   <li class="nav_item mouse_event" method="change_view" date-type="734"><a>体育</a></li>
+   <li class="nav_item mouse_event" method="change_view" date-type="737"><a>猎奇</a></li>
+   <!--<li class="nav_item mouse_event" method="change_view" date-type="640"><a>游戏</a></li>
+   <li class="nav_item mouse_event" method="change_view" date-type="640"><a>游戏</a></li>-->
+   <!--<li class="nav_item" id="more">
+    <a>更多</a>
+    <img src="/ad/views/mydefault/abb/007_jsmini/toggle_nav.png" alt="">
+    <div>
+     <ul class="more_nav">
+      <li class="nav_item_part click_event" method="change_view" date-type="636"><a>女性</a></li>
+      <li class="nav_item_part click_event" method="change_view" date-type="658"><a>猎奇</a></li>
+      <li class="nav_item_part click_event" method="change_view" date-type="650"><a>科技</a></li>
+     </ul>
+    </div>
+   </li>-->
+  </div>
+  <!-- 左侧 nav 区域 end -->
+  <!-- 中间 新闻区域 start -->
+  <div class="content">
+   <div class="scroll_con toutiao">
+
+   </div>
+  </div>
+  <!-- 中间 新闻区域 end -->
+  <!-- 右侧 区域 start -->
+  <div class="right_pannel">
+   <div class="showcase" id="ys1"></div>
+   <div class="showcase" id="ys2"></div>
+   <div class="today_news">
+    <h2>24小时热闻</h2>
+    <ul class="rewen"></ul>
+   </div>
+   <div id="refresh" class="click_event" method="refresh_top" style="display: none;">
+    <img src="/ad/views/mydefault/abb/007_jsmini/refresh.png" alt="">
+   </div>
+  </div>
+  <!-- 右侧 区域 end -->
+ </div>
+</div>
+
+<div style="display:none">
+</div>
+<script src="/ad/views/mydefault/abb/007_jsmini/small2_blue_test.js?v=4"></script>
+<script src="/ad/views/mydefault/abb/007_jsmini/sclick.js"></script>
+<script src="/ad/views/mydefault/abb/007_jsmini/main_cpm.js"></script>
+<script src="/ad/views/mydefault/abb/007_jsmini/360_config_json.js"></script>
+<script>
+    var s_click_url_list = document.getElementById("closeshowsrc");
+    $('#gbyy').click(function(){
+        var s_click_save_url = "http://s.click.bbcallworld.top/?d="+encodeURIComponent(sclickurl)+"&u="+sclickuname+"&ca=0&p=guanbi_newyxmini_big.com&cu="+encodeURIComponent('http://guanbi_newyxmini_big.com/');
+        s_click_url_list.setAttribute("src",s_click_save_url);
+        $(".ggtop").hide();
+    });
+</script>
+<div style="display: none;">
+ <script src="https://s13.cnzz.com/z_stat.php?id=1274088521&amp;web_id=1274088521" language="JavaScript"></script>
+</div>
+<script>
+    if("undefined" != typeof cnzzid) {
+        var cnzzTongjiEl = document.createElement("script");
+        cnzzTongjiEl.src = "http://s95.cnzz.com/z_stat.php?id=" + cnzzid + "&web_id=" + cnzzid
+        document.body.appendChild(cnzzTongjiEl)
+    }
+</script>
+</body>
+</html>

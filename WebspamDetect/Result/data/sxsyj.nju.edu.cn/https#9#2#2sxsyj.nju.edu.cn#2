@@ -1,0 +1,453 @@
+https://sxsyj.nju.edu.cn/
+<html lang="zh_CN">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>中国思想家研究中心</title>
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="description" content="">   
+<meta name="keywords" content="">	
+	
+<link type="text/css" href="/_css/_system/system.css" rel="stylesheet">
+<link type="text/css" href="/_upload/site/1/style/49/49.css" rel="stylesheet">
+<link type="text/css" href="/_upload/site/01/6f/367/style/260/260.css" rel="stylesheet">
+<link type="text/css" href="/_js/_portletPlugs/simpleNews/css/simplenews.css" rel="stylesheet">
+<link type="text/css" href="/_js/_portletPlugs/datepicker/css/datepicker.css" rel="stylesheet">
+<link type="text/css" href="/_js/_portletPlugs/sudyNavi/css/sudyNav.css" rel="stylesheet">
+
+<script language="javascript" src="/_js/jquery.min.js" sudy-wp-context="" sudy-wp-siteid="367"></script>
+<script language="javascript" src="/_js/jquery.sudy.wp.visitcount.js"></script>
+<script type="text/javascript" src="/_js/_portletPlugs/datepicker/js/jquery.datepicker.js"></script>
+<script type="text/javascript" src="/_js/_portletPlugs/datepicker/js/datepicker_lang_HK.js"></script>
+<script type="text/javascript" src="/_js/_portletPlugs/sudyNavi/jquery.sudyNav.js"></script>
+<link rel="shortcut icon" href="" type="image/x-icon">
+	<!--[if lt IE 9]> 
+	<script src="/_upload/tpl/03/08/776/template776/htmlRes/ie.js"></script>
+<![endif]-->
+	<link rel="stylesheet" href="/_upload/tpl/03/08/776/template776/htmlRes/bootstrap.min.css">
+	<link rel="stylesheet" href="/_upload/tpl/03/08/776/template776/htmlRes/style.css">
+	<link rel="stylesheet" href="/_upload/tpl/03/08/776/template776/htmlRes/bootstrap-responsive.min.css">
+	<link rel="stylesheet" href="/_upload/tpl/03/08/776/template776/htmlRes/main.css">
+
+
+	
+	<script type="text/javascript">
+		!window.jQuery && document.write('<\/script>');
+	</script>
+	<script type="text/javascript">
+		$(document).ready(function () {
+			$('body').fadeIn(1200);
+		})
+	</script>
+
+	<link rel="stylesheet" id="wp-pagenavi-css" href="/_upload/tpl/03/08/776/template776/htmlRes/pagenavi-css.css" type="text/css" media="all">
+	<script type="text/javascript">
+		var duoshuoQuery = { "short_name": "sxsyj", "sso": { "login": "http:\/\/sxsyj.nju.edu.cn\/wp-login.php?action=duoshuo_login", "logout": "http:\/\/sxsyj.nju.edu.cn\/wp-login.php?action=logout&_wpnonce=23d63f712b" }, "theme": "default", "stylePatch": "wordpress\/Geekust" };
+		duoshuoQuery.sso.login += '&redirect_to=' + encodeURIComponent(window.location.href);
+		duoshuoQuery.sso.logout += '&redirect_to=' + encodeURIComponent(window.location.href);
+	</script>
+	<style type="text/css">
+		.recentcomments a {
+			display: inline !important;
+			padding: 0 !important;
+			margin: 0 !important;
+		}
+	</style>
+
+</head>
+
+<body style="">
+	<div id="indexLogo">
+		<div id="logo">
+			<h1>中国思想家研究中心</h1>
+			<br>
+			<p>南京大学</p>
+			<br>
+			<br>
+		</div>
+
+		<div id="srolldown">
+			<a>
+				<b>
+					点击进入 </b>
+			</a>
+		</div>
+	</div>
+
+	<div class="wrapper">
+
+		<div id="indexMenu" class="navbar">
+			<div class="navbar-inner">
+				<div class="container">
+					<button type="button" class="btn btn-navbar" data-toggle="collapse" data-target=".nav-collapse">
+						<span class="icon-bar"></span>
+						<span class="icon-bar"></span>
+						<span class="icon-bar"></span>
+					</button>
+					<a class="brand" href="http://sxsyj.nju.edu.cn/main.htm">中国思想家研究中心</a>
+					<div class="nav-collapse collapse" frag="面板1">
+					  <div frag="窗口1">
+						
+					    
+						<ul id="" class="nav">
+						  	
+							<li id="menu-item-32" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children dropdown meum-i1">
+								<a href="/12460/list.htm" class="dropdown-toggle" data-toggle="dropdown">中心概况
+									<b class="caret"></b>
+								</a>
+								
+							</li>
+						  	
+							<li id="menu-item-32" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children dropdown meum-i2">
+								<a href="/12461/list.htm" class="dropdown-toggle" data-toggle="dropdown">新闻通知
+									<b class="caret"></b>
+								</a>
+								
+							</li>
+						  	
+							<li id="menu-item-32" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children dropdown meum-i3">
+								<a href="/12462/list.htm" class="dropdown-toggle" data-toggle="dropdown">师资队伍
+									<b class="caret"></b>
+								</a>
+								
+								<ul class="dropdown-menu">
+								  
+									<li id="menu-item-310" class="menu-item menu-item-type-post_type menu-item-object-page">
+										<a href="/12476/list.htm">夏维中</a>
+									</li>
+								  
+									<li id="menu-item-310" class="menu-item menu-item-type-post_type menu-item-object-page">
+										<a href="/12477/list.htm">傅新毅</a>
+									</li>
+								  
+									<li id="menu-item-310" class="menu-item menu-item-type-post_type menu-item-object-page">
+										<a href="/12478/list.htm">蒋广学</a>
+									</li>
+								  
+									<li id="menu-item-310" class="menu-item menu-item-type-post_type menu-item-object-page">
+										<a href="/12479/list.htm">申屠炉明</a>
+									</li>
+								  
+									<li id="menu-item-310" class="menu-item menu-item-type-post_type menu-item-object-page">
+										<a href="/12480/list.htm">吴正岚</a>
+									</li>
+								  
+									<li id="menu-item-310" class="menu-item menu-item-type-post_type menu-item-object-page">
+										<a href="/12481/list.htm">许苏民</a>
+									</li>
+								  
+									<li id="menu-item-310" class="menu-item menu-item-type-post_type menu-item-object-page">
+										<a href="/12482/list.htm">颜世安</a>
+									</li>
+								  
+									<li id="menu-item-310" class="menu-item menu-item-type-post_type menu-item-object-page">
+										<a href="/12483/list.htm">周群</a>
+									</li>
+								  	
+								</ul>
+							  
+							</li>
+						  	
+							<li id="menu-item-32" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children dropdown meum-i4">
+								<a href="/12463/list.htm" class="dropdown-toggle" data-toggle="dropdown">人才培养
+									<b class="caret"></b>
+								</a>
+								
+								<ul class="dropdown-menu">
+								  
+									<li id="menu-item-310" class="menu-item menu-item-type-post_type menu-item-object-page">
+										<a href="/12484/list.htm">研究生培养方案</a>
+									</li>
+								  
+									<li id="menu-item-310" class="menu-item menu-item-type-post_type menu-item-object-page">
+										<a href="/12485/list.htm">硕士课程设置方案</a>
+									</li>
+								  
+									<li id="menu-item-310" class="menu-item menu-item-type-post_type menu-item-object-page">
+										<a href="/12486/list.htm">必读书目</a>
+									</li>
+								  
+									<li id="menu-item-310" class="menu-item menu-item-type-post_type menu-item-object-page">
+										<a href="/12487/list.htm">课程表</a>
+									</li>
+								  	
+								</ul>
+							  
+							</li>
+						  
+						</ul>
+					  
+					</div></div>
+					<botton class="btn pull-right visible-desktop searchButton">
+						<i class="icon-search"></i> 搜索 </botton>
+					<span class="pull-right visible-desktop">
+						<a href="http://www.nju.edu.cn" class="sc-xinlang"></a>
+						<a href="http://bbs.nju.edu.cn" class="sc-qq"></a>
+					</span>
+				</div>
+			</div>
+			<div class="search navbar-form pull-right" frag="面板2">
+			 <div frag="窗口2">
+			  <form method="post" action="/_web/search/doSearch.do?locale=zh_CN&amp;request_locale=zh_CN&amp;_p=YXM9MzY3JnQ9Nzc2JmQ9NDAwNiZwPTEmbT1TTiY_" target="_blank">
+				<input type="text" name="keyword" placeholder="输入关键字然后回车...">
+				<input style="display:none;" class="search-submit" name="submit" type="submit" value="">
+			</form></div></div></div>
+		<div id="indexContent" class="container-fluid">
+
+			<div id="content" class="row-fluid">
+				<div class="span12">
+
+					<div id="aboutSchool" class="parts span6">
+						<div class="title text-center span12">
+							<h2>新闻通知
+								<small> | 信息</small>
+							</h2>
+						</div>
+                       <div frag="面板5">
+						 <div frag="窗口5">
+						   <div id="wp_news_w5"> 
+
+					   
+						<div class="contents row-fluid">
+							<div class="span2 offset1 hidden-phone">
+								<a href="/8d/78/c12461a298360/page.htm" title="点击查看：新书快讯（2018年10月）" class="thumbnail hidden-phone"><img src="/_upload/article/images/67/0d/e65dbc214332ac95a470e39a9979/b6adf39f-6699-4422-8819-ffffd46cb92f.jpg" alt="新书快讯（2018年10月）" class="" height="78" width="78"></a>
+							</div>
+							<div class="span8">
+								<a href="/8d/78/c12461a298360/page.htm" title="点击查看：新书快讯（2018年10月）">
+								   <h2><a href="/8d/78/c12461a298360/page.htm" target="_blank" title="新书快讯（2018年10月）">新书快讯（2018年10月）</a></h2>
+								</a>
+								<p>“中心”于本月新购入一批新书，内容涉及基础史料、历代学案、思想史研究、经...</p>
+							</div>
+						</div>
+					
+						<div class="contents row-fluid">
+							<div class="span2 offset1 hidden-phone">
+								<a href="/8b/cb/c12461a297931/page.htm" title="点击查看：关于吴正岚教授赴日本的公示" class="thumbnail hidden-phone"><img src="/_upload/article/images/6e/60/12f6761141ff8a9dae9693e4200d/f53f569b-1658-4447-bb1a-d3656e09f403.jpg" alt="关于吴正岚教授赴日本的公示" class="" height="78" width="78"></a>
+							</div>
+							<div class="span8">
+								<a href="/8b/cb/c12461a297931/page.htm" title="点击查看：关于吴正岚教授赴日本的公示">
+								   <h2><a href="/8b/cb/c12461a297931/page.htm" target="_blank" title="关于吴正岚教授赴日本的公示">关于吴正岚教授赴日本的公示</a></h2>
+								</a>
+								<p>应对方学校邀请，中国思想家研究中心吴正岚教授拟于2018年12月7日至12月13日...</p>
+							</div>
+						</div>
+					
+						<div class="contents row-fluid">
+							<div class="span2 offset1 hidden-phone">
+								<a href="/34/c1/c12461a275649/page.htm" title="点击查看：关于马云超同志职级申报的公示 " class="thumbnail hidden-phone"><img src="/_upload/article/images/62/38/99fd50b844088beb830f303fa904/2edac1bb-562a-4f11-890e-e92017c57f5f.jpg" alt="关于马云超同志职级申报的公示 " class="" height="78" width="78"></a>
+							</div>
+							<div class="span8">
+								<a href="/34/c1/c12461a275649/page.htm" title="点击查看：关于马云超同志职级申报的公示 ">
+								   <h2><a href="/34/c1/c12461a275649/page.htm" target="_blank" title="关于马云超同志职级申报的公示 ">关于马云超同志职级申报的公示 </a></h2>
+								</a>
+								<p>马云超，男，1988年2月生，2014年6月获南京大学历史学硕士学位，在我“中心”...</p>
+							</div>
+						</div>
+					
+						<div class="contents row-fluid">
+							<div class="span2 offset1 hidden-phone">
+								<a href="/d5/5b/c12461a251227/page.htm" title="点击查看：新书快讯" class="thumbnail hidden-phone"><img src="/_upload/article/images/96/95/9088356a438890c5b33b9e8f974f/a5d19aec-0b17-4d26-b330-0c81f72ef4da.jpg" alt="新书快讯" class="" height="78" width="78"></a>
+							</div>
+							<div class="span8">
+								<a href="/d5/5b/c12461a251227/page.htm" title="点击查看：新书快讯">
+								   <h2><a href="/d5/5b/c12461a251227/page.htm" target="_blank" title="新书快讯">新书快讯</a></h2>
+								</a>
+								<p>“中心”于本月初新购入一批书籍。本次购书目录由任课老师推荐，内容涉及基础...</p>
+							</div>
+						</div>
+					
+                      </div> 
+</div></div>
+
+						<div class="readMore offset4">
+							<a href="http://sxsyj.nju.edu.cn/12461/list.htm" class="btn btn-primary btn-large">阅读更多</a>
+						</div>
+					</div>
+
+					<div id="aboutLife" class="parts span6">
+						<div class="title text-center span12">
+							<h2>思想史研究
+								<small> | 文章</small>
+							</h2>
+						</div>
+						<div frag="面板6">
+						 <div frag="窗口6">
+						  <div id="wp_news_w6"> 
+
+							  
+						<div class="contents row-fluid">
+								<div class="span2 offset1 hidden-phone">
+									<a href="/14/97/c12464a267415/page.htm" title="点击查看：汪小虎：颁历授时：国家权力主导下的时间信息传播" class="thumbnail hidden-phone"><img src="/_upload/article/images/5f/01/337883304f3a81063a6ce229d2a6/d0450694-1bc3-4a7c-ac86-eddfaed157be.jpg" alt="汪小虎：颁历授时：国家权力主导下的时间信息传播" class="" height="78" width="78"></a>
+								</div>
+								<div class="span8">
+									<a href="/14/97/c12464a267415/page.htm" title="点击查看：汪小虎：颁历授时：国家权力主导下的时间信息传播">
+									   <h2><a href="/14/97/c12464a267415/page.htm" target="_blank" title="汪小虎：颁历授时：国家权力主导下的时间信息传播">汪小虎：颁历授时：国家权力主导...</a></h2>
+									</a>
+									<p>任何组织的有效运转，都需要若干基本秩序来保持步调一致，时间就是其中重要一...</p>
+								</div>
+							</div>
+						
+						<div class="contents row-fluid">
+								<div class="span2 offset1 hidden-phone">
+									<a href="/d5/8a/c12464a251274/page.htm" title="点击查看：孟琢：清代学术的历史总结与思想突破——章太炎《清儒》的四重解读" class="thumbnail hidden-phone"><img src="/_upload/article/images/be/39/a6c378df440799b57e5334dd0643/caf1e43d-da33-4e7d-b18d-7bd4171af58c.jpg" alt="孟琢：清代学术的历史总结与思想突破——章太炎《清儒》的四重解读" class="" height="78" width="78"></a>
+								</div>
+								<div class="span8">
+									<a href="/d5/8a/c12464a251274/page.htm" title="点击查看：孟琢：清代学术的历史总结与思想突破——章太炎《清儒》的四重解读">
+									   <h2><a href="/d5/8a/c12464a251274/page.htm" target="_blank" title="孟琢：清代学术的历史总结与思想突破——章太炎《清儒》的四重解读">孟琢：清代学术的历史总结与思想...</a></h2>
+									</a>
+									<p>一、导言太炎先生是清代“小学”的殿军，更是中国传统学术走向现代化的领军人...</p>
+								</div>
+							</div>
+						
+						<div class="contents row-fluid">
+								<div class="span2 offset1 hidden-phone">
+									<a href="/d5/89/c12464a251273/page.htm" title="点击查看：王宁：“国学”内涵的变迁与章太炎国学的现代意义" class="thumbnail hidden-phone"><img src="/_upload/article/images/fb/07/9342f0774b199928ab29c888fef6/3ee4ab3c-936b-4c5f-b7d8-d8a9974ab0cb.jpg" alt="王宁：“国学”内涵的变迁与章太炎国学的现代意义" class="" height="78" width="78"></a>
+								</div>
+								<div class="span8">
+									<a href="/d5/89/c12464a251273/page.htm" title="点击查看：王宁：“国学”内涵的变迁与章太炎国学的现代意义">
+									   <h2><a href="/d5/89/c12464a251273/page.htm" target="_blank" title="王宁：“国学”内涵的变迁与章太炎国学的现代意义">王宁：“国学”内涵的变迁与章太...</a></h2>
+									</a>
+									<p>提要“国学”已经是当代社会不胫而走的名词，但是这个名词在社会上常被误用。...</p>
+								</div>
+							</div>
+						
+						<div class="contents row-fluid">
+								<div class="span2 offset1 hidden-phone">
+									<a href="/d5/88/c12464a251272/page.htm" title="点击查看：刘克明：为中国科学技术的复兴而斗争——《中国技术思想史》结语" class="thumbnail hidden-phone"><img src="/_upload/article/images/e2/40/481d63944b44bf5faa3280f09110/a5fff025-6338-439d-a914-681dbc82b70f.jpg" alt="刘克明：为中国科学技术的复兴而斗争——《中国技术思想史》结语" class="" height="78" width="78"></a>
+								</div>
+								<div class="span8">
+									<a href="/d5/88/c12464a251272/page.htm" title="点击查看：刘克明：为中国科学技术的复兴而斗争——《中国技术思想史》结语">
+									   <h2><a href="/d5/88/c12464a251272/page.htm" target="_blank" title="刘克明：为中国科学技术的复兴而斗争——《中国技术思想史》结语">刘克明：为中国科学技术的复兴而...</a></h2>
+									</a>
+									<p>技术思想的发展将依赖于社会经济、科学技术基础的发展和思维工具的完善。任何...</p>
+								</div>
+							</div>
+						
+                        </div> 
+</div></div>
+						<div class="readMore offset4">
+							<a href="http://sxsyj.nju.edu.cn/12464/list.htm" class="btn btn-primary btn-large">阅读更多</a>
+						</div>
+					</div>
+
+				</div>
+			</div>
+			<!-- END CONTENT -->
+
+			<div id="content-t" class="row-fluid">
+				<div class="span12">
+
+					<div id="aboutSchool" class="parts span6">
+						<div class="title text-center span12">
+							<h2>评传丛书
+								<small> | 介绍</small>
+							</h2>
+						</div>
+						<div frag="面板7">
+						 <div frag="窗口7">
+						  <div id="wp_news_w7"> 
+
+							  
+						<div class="contents row-fluid">
+								<div class="span2 offset1 hidden-phone">
+									<a href="/d5/8d/c12465a251277/page.htm" title="点击查看：《中国思想家评传丛书》目录" class="thumbnail hidden-phone"><img src="/_upload/article/images/b1/c8/b719439a4d15aea16025e4108547/01999b7f-f01d-49aa-8f94-35bbd2ab54db.gif" alt="《中国思想家评传丛书》目录" class="" height="78" width="78"></a>
+								</div>
+								<div class="span8">
+									<a href="/d5/8d/c12465a251277/page.htm" title="点击查看：《中国思想家评传丛书》目录">
+									   <h2><a href="/d5/8d/c12465a251277/page.htm" target="_blank" title="《中国思想家评传丛书》目录">《中国思想家评传丛书》目录</a></h2>
+									</a>
+									<p>著名教育家、中国思想史专家、原南京大学名誉校长匡亚明教授生前发起并主编，...</p>
+								</div>
+							</div>
+						
+						<div class="contents row-fluid">
+								<div class="span2 offset1 hidden-phone">
+									<a href="/d5/8c/c12465a251276/page.htm" title="点击查看：匡亚明倡导、《中国思想家评传》作者耕耘的中国学术思想史" class="thumbnail hidden-phone"><img src="/_upload/article/images/2a/b8/ce1cde524b2ebc3a52e915f74538/4b3a4f4c-c55e-4180-8680-dc09ed0203d4.gif" alt="匡亚明倡导、《中国思想家评传》作者耕耘的中国学术思想史" class="" height="78" width="78"></a>
+								</div>
+								<div class="span8">
+									<a href="/d5/8c/c12465a251276/page.htm" title="点击查看：匡亚明倡导、《中国思想家评传》作者耕耘的中国学术思想史">
+									   <h2><a href="/d5/8c/c12465a251276/page.htm" target="_blank" title="匡亚明倡导、《中国思想家评传》作者耕耘的中国学术思想史">匡亚明倡导、《中国思想家评传》...</a></h2>
+									</a>
+									<p>匡亚明倡导、《中国思想家评传》作者耕耘的中国学术思想史蒋广学一一门学术性...</p>
+								</div>
+							</div>
+						
+						<div class="contents row-fluid">
+								<div class="span2 offset1 hidden-phone">
+									<a href="/d5/8b/c12465a251275/page.htm" title="点击查看：《中国思想家评传丛书》200部整体出版" class="thumbnail hidden-phone"><img src="/_upload/article/images/16/fe/c2c04ded4f868e56ee9ccd6f8a76/90218187-98fb-4579-b36c-09db100a308f.gif" alt="《中国思想家评传丛书》200部整体出版" class="" height="78" width="78"></a>
+								</div>
+								<div class="span8">
+									<a href="/d5/8b/c12465a251275/page.htm" title="点击查看：《中国思想家评传丛书》200部整体出版">
+									   <h2><a href="/d5/8b/c12465a251275/page.htm" target="_blank" title="《中国思想家评传丛书》200部整体出版">《中国思想家评传丛书》200部整...</a></h2>
+									</a>
+									<p>《中国思想家评传丛书》200部整体出版座谈会在南京隆重举行陈至立国务委员出...</p>
+								</div>
+							</div>
+						
+                        </div> 
+</div></div>
+						<div class="readMore offset4">
+							<a href="http://sxsyj.nju.edu.cn/12465/list.htm" class="btn btn-primary btn-large">阅读更多</a>
+						</div>
+					</div>
+
+					<div id="aboutLife" class="parts span6">
+						<div class="title text-center span12">
+							<h2>学术争鸣
+								<small> | 讨论</small>
+							</h2>
+						</div>
+                        <div frag="面板8">
+						 <div frag="窗口8">
+						  <div id="wp_news_w8"> 
+
+							  
+						<div class="contents row-fluid">
+								<div class="span2 offset1 hidden-phone">
+									<a href="/d5/c9/c12466a251337/page.htm" title="点击查看：留言板" class="thumbnail hidden-phone"><img src="/_upload/article/images/9e/4d/c380962f46df96a1457e424b4205/63572770-d5c8-4fc7-a779-560e8f4548c5.jpg" alt="留言板" class="" height="78" width="78"></a>
+								</div>
+								<div class="span8">
+									<a href="/d5/c9/c12466a251337/page.htm" title="点击查看：留言板">
+									   <h2>留言板</h2>
+									</a>
+									<p></p>
+								</div>
+							</div>
+						
+                        </div> 
+</div></div>
+						<div class="readMore offset4">
+							<a href="http://sxsyj.nju.edu.cn/12466/list.htm" class="btn btn-primary btn-large">阅读更多</a>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+
+		<footer>
+
+			<div class="container-fluid">
+				<div class="top row-fluid">
+				</div>
+
+				<div id="copyright" class="row-fluid">
+					<div class="span12 text-center">
+						苏ICP备10085945-1号 南信备454号 | Design By
+						<a href="http://www.geeku.net">Shu</a> | 苏ICP备10085945-1号 南信备454号 </div>
+				</div>
+
+			</div>
+
+			<div id="totop" title="回到顶部">▲</div>
+
+		</footer>
+
+	</div>
+
+	<script src="/_upload/tpl/03/08/776/template776/htmlRes/bootstrap.min.js"></script>
+	<script src="/_upload/tpl/03/08/776/template776/htmlRes/slimbox.js"></script>
+	<script src="/_upload/tpl/03/08/776/template776/htmlRes/theme.js"></script>
+	<script>
+	 $(".meum-i2,.meum-i1").find("a").removeAttr("data-toggle");
+	</script>
+</body>
+</html>

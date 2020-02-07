@@ -1,0 +1,395 @@
+https://geolab.nju.edu.cn/
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<title>地球科学实验教学中心</title>
+
+<link type="text/css" href="/_css/_system/system.css" rel="stylesheet">
+<link type="text/css" href="/_upload/site/1/style/49/49.css" rel="stylesheet">
+<link type="text/css" href="/_upload/site/01/18/280/style/170/170.css" rel="stylesheet">
+       <link href="/_css/tpl2/system.css" type="text/css" rel="stylesheet"> 
+       <link href="/_css/tpl2/default/default.css" type="text/css" rel="stylesheet"> 
+<link type="text/css" href="/_js/_portletPlugs/simpleNews/css/simplenews.css" rel="stylesheet">
+       <link href="/_css/tpl2/default/portlet/dtjt/8/dtjt8.css" type="text/css" rel="stylesheet">
+<link type="text/css" href="/_js/_portletPlugs/datepicker/css/datepicker.css" rel="stylesheet">
+<link type="text/css" href="/_js/_portletPlugs/sudyNavi/css/sudyNav.css" rel="stylesheet">
+
+<script language="javascript" src="/_js/jquery.min.js" sudy-wp-context="" sudy-wp-siteid="280"></script>
+<script language="javascript" src="/_js/jquery.sudy.wp.visitcount.js"></script>
+<script type="text/javascript" src="/_js/_portletPlugs/datepicker/js/jquery.datepicker.js"></script>
+<script type="text/javascript" src="/_js/_portletPlugs/datepicker/js/datepicker_lang_HK.js"></script>
+<script type="text/javascript" src="/_js/_portletPlugs/sudyNavi/jquery.sudyNav.js"></script>
+<link href="/_upload/tpl/02/21/545/template545/htmlRes/index.css" type="text/css" rel="stylesheet">
+<link href="/_upload/tpl/02/21/545/template545/htmlRes/default.css" type="text/css" rel="stylesheet">
+</head>
+<body>
+<script src="/_upload/tpl/02/21/545/template545/htmlRes/artDialog.jQuery.js" type="text/javascript"></script> 
+<script src="/_upload/tpl/02/21/545/template545/htmlRes/artDialog.iframeTools.js" type="text/javascript"></script> 
+<script src="/_upload/tpl/02/21/545/template545/htmlRes/ZF_Dialog.js" type="text/javascript"></script>
+<div class="header">
+  <div class="header_con"> </div>
+  <div class="nav" frag="面板1">
+   <div frag="窗口1">
+    
+  
+    <ul>
+     
+      <li> <a href="http://geolab.nju.edu.cn">首页</a> </li>
+       
+      <li> <a href="/profile/list.htm">中心概况</a> </li>
+       
+      <li> <a href="/experiment/list.htm">实验教学</a> </li>
+       
+      <li> <a href="/staff/list.htm">实验队伍</a> </li>
+       
+      <li> <a href="/facility/list.htm">设备与环境</a> </li>
+       
+      <li> <a href="/example/list.htm">特色与辐射</a> </li>
+       
+      <li> <a href="/achievements/list.htm">中心成果</a> </li>
+       
+      <li> <a href="/excellentcourse/list.htm">精品课程</a> </li>
+       
+      <li> <a href="/onlineresources/list.htm">网络资源</a> </li>
+       
+      <li> <a href="/management/list.htm">管理模式</a> </li>
+       
+    </ul>
+    
+    </div>
+  </div>
+</div>
+<div class="content"> 
+  <script src="/_upload/tpl/02/21/545/template545/htmlRes/scrollpic.js" type="text/javascript"></script> 
+  <script src="/_upload/tpl/02/21/545/template545/htmlRes/photo.js" type="text/javascript"></script> 
+  <script src="/_upload/tpl/02/21/545/template545/htmlRes/rq.js" type="text/javascript"></script>
+  <div class="content_con">
+    <div class="conbox1">
+      <div id="idContainer2" class="container">
+        <div frag="面板66">
+         <div frag="窗口66">
+                         <!-- 多图交替8 图片 切换 -->
+<div class="dtjt8_div_img" style="width:692px;height:225px;">
+    <img id="w66imgShow" name="w66imgShow" onclick="w66openWindow();" style="FILTER: revealTrans(duration=2,transition=20); border: 0; cursor: pointer;" src="/..//_css/tpl/default/images/loading.gif" width="692px" height="225px" vspace="0">
+    <div id="w66imgNumber" class="number"></div>
+</div>
+<script language="JavaScript" class="">
+    var w66imgJsons = [
+    
+        
+            {
+            "src" : "/_upload/article/images/aa/e7/5d8d023945daa817f6796d88791a/48629386-f959-4755-9de1-a9cc308d41f7.jpg",
+            "url" : "/97/e5/c7888a169957/page.htm"
+            },
+        
+    
+        
+            {
+            "src" : "/_upload/article/images/0c/a4/2725ce1a480ab9015cb317dba413/1d52ebfe-89ff-4e31-a48c-8f98fc1a728c.jpg",
+            "url" : "/97/e4/c7888a169956/page.htm"
+            },
+        
+    
+        
+            {
+            "src" : "/_upload/article/images/bb/27/edd05f1249d9836eb3f9b2a5cf62/2b596dab-edb6-4722-8550-08d69134fd0e.jpg",
+            "url" : "/97/e3/c7888a169955/page.htm"
+            },
+        
+    
+        
+            {
+            "src" : "/_upload/article/images/28/1b/a1c3704e4d25bb70ab7e085a8f08/f6567768-411e-4851-9fd3-c3e6da0fccec.jpg",
+            "url" : "/97/e2/c7888a169954/page.htm"
+            },
+        
+    
+        
+            {
+            "src" : "/_upload/article/images/f9/ce/4943d542401d99be7529df10533b/2d6231cb-08db-4865-9898-d321b8326d24.jpg",
+            "url" : "/97/e1/c7888a169953/page.htm"
+            }];
+        
+       
+</script>
+<script language="JavaScript">
+        var w66imgUrl = new Array();
+        var w66imgLink = new Array();
+
+        var w66count = 0;
+        var w66running = false;
+        var w66index = 0;
+        var w66nextAdTimer;
+        var w66k = 0;
+        function w66nextAd(num) {
+            if (num >= 0 && num <= w66count - 1) {
+                w66index = num;
+                clearTimeout(w66nextAdTimer);
+            } else {
+                num = w66index;
+            }
+            if (w66index > w66count - 1) {
+                w66index = 0;
+            }
+            if (!w66running) {
+                w66running = true;
+
+            } else if (document.all) {
+                w66imgShow.filters.revealTrans.Transition = 50;
+                w66imgShow.filters.revealTrans.apply();
+                w66imgShow.filters.revealTrans.play();
+            }
+            document.getElementById('w66imgShow').src = w66imgUrl[w66index];
+            document.getElementById('w66imgNumber').innerHTML = "";
+            w66k = 0;
+            for (var i = 0; i < w66count; i++) {
+                w66k++;
+                if (i !== w66index) {
+                    document.getElementById('w66imgNumber').innerHTML += '<a href="javascript:w66nextAd(' + i + ')" class="nomal">' + w66k + '</a>';
+                } else {
+                    document.getElementById('w66imgNumber').innerHTML += '<a href="javascript:w66nextAd(' + i + ')" class="current">' + w66k + '</a>';
+                }
+            }
+            w66index++;
+            if (w66count > 1) {
+                w66nextAdTimer = setTimeout("w66nextAd(-1)", 4000);
+            }
+        }
+
+        function w66openWindow() {
+            var jumpUrl = w66imgLink[w66index - 1];
+            if (jumpUrl && jumpUrl != '') {
+                window.open(jumpUrl);
+            }
+        }
+
+        $().ready(function() {
+            try {
+                var objs = w66imgJsons;
+                w66count = objs.length;
+                if (w66count == 0) {
+                    document.getElementById('w66imgShow').style.display = "none";
+                    document.getElementById('w66imgNumber').style.display = "none";
+                    return;
+                }
+                for (var i = 0; i < objs.length; i++) {
+                    w66imgUrl[i] = objs[i].src;
+                    w66imgLink[i] = objs[i].url;
+                }
+                w66nextAd(-1);
+            } catch (e) {
+            }
+        });
+</script>
+            
+        </div>
+        </div>
+      </div>
+      <div class="conbox2">
+        <div class="search" frag="面板78">
+         <div frag="窗口78">
+          <form method="post" action="/_web/search/doSearch.do?locale=zh_CN&amp;request_locale=zh_CN&amp;_p=YXM9MjgwJnQ9NTQ1JmQ9Mjc0NCZwPTEmbT1TTiY_" target="_blank">
+          <div class="d1">
+            <input name="keyword" type="text" class="text" id="kv">
+          </div>
+          <div class="d2">
+            <input name="submit" type="submit" class="but" id="se" value="">
+          </div>
+          </form></div></div>
+        <div id="ctl00_ContentPlaceHolder1_divname" class="login">
+         <form name="aspnetForm" method="post" action="index.aspx" onsubmit="javascript:return WebForm_OnSubmit();" id="aspnetForm">
+        <input type="hidden" name="__EVENTTARGET" id="__EVENTTARGET" value="">
+<input type="hidden" name="__EVENTARGUMENT" id="__EVENTARGUMENT" value="">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKLTIyNzUwODcwOWRkzdJPdXE86sZ92CANZ0c2UlTjA8k=">
+
+          <p align="center" style="margin-top: 5px;"> 用户名：
+            <input name="ctl00$ContentPlaceHolder1$txtName" type="text" id="ctl00_ContentPlaceHolder1_txtName" class="text2">
+          </p>
+          <p align="center" style="margin-top: 8px;"> 密　码：
+            <input name="ctl00$ContentPlaceHolder1$txtPass" type="password" id="ctl00_ContentPlaceHolder1_txtPass" class="text2">
+          </p>
+          <p align="center">
+            <input type="submit" name="ctl00$ContentPlaceHolder1$btnLogin" value="" onclick='javascript:WebForm_DoPostBackWithOptions(new WebForm_PostBackOptions("ctl00$ContentPlaceHolder1$btnLogin", "", true, "", "", false, false))' id="ctl00_ContentPlaceHolder1_btnLogin" class="but2">
+            <input type="submit" name="ctl00$ContentPlaceHolder1$btnReset" value="" onclick='javascript:WebForm_DoPostBackWithOptions(new WebForm_PostBackOptions("ctl00$ContentPlaceHolder1$btnReset", "", true, "", "", false, false))' id="ctl00_ContentPlaceHolder1_btnReset" class="but3">
+          </p>
+          </form>
+        </div>
+        <div class="data"> 
+          <script language="javascript" type="text/javascript">                        CalConv();</script> 
+        </div>
+      </div>
+    </div>
+    <div class="box4" frag="面板2">
+      <div class="con_box1" frag="窗口2">
+        <div class="title1">
+          <div class="test1"> 中心动态</div>
+          <a href="http://geolab.nju.edu.cn/7873/list.htm" class="more1"></a> </div>
+        <div class="clear"> </div>
+        <div id="wp_news_w2"> 
+        <div class="box01">
+        
+          <h3> <span id="ctl00_ContentPlaceHolder1_lblZXDTitle">南京大学地球科学与工程学院参加第五届全国大学生地质技能大赛</span> </h3>
+          <p>南京大学地球科学与工程学院参加第五届全国大学生地质技能大赛1、什么是“全国大学生地质技能竞赛”？全国...<a href="/8b/db/c7873a297947/page.htm" class="yellow">[详细]</a> </p>
+          
+        </div>
+        <div class="box02">
+          <ul>
+          
+            <li><a href="/00/eb/c7873a196843/page.htm" title="“月基对地观测的地球科学目标”学术研讨会在南京大学召开"><span class="span1">“月基对地观测的地球科学目标”学术研讨会在南京大学召开</span></a><span class="time">2017-04-28</span></li>
+            
+            <li><a href="/00/de/c7873a196830/page.htm" title="我院刘显东教授担任Clays and Clay Minerals副主编"><span class="span1">我院刘显东教授担任Clays and Clay Minerals副主编</span></a><span class="time">2017-03-22</span></li>
+            
+            <li><a href="/00/db/c7873a196827/page.htm" title="连线南海科考，笃定地学求知"><span class="span1">连线南海科考，笃定地学求知</span></a><span class="time">2017-03-20</span></li>
+            
+          </ul>
+        </div></div> 
+
+      </div>
+      <div class="con_box2" frag="窗口3">
+        <div class="title2">
+          <div class="test1"> 通知公告</div>
+          <a href="http://geolab.nju.edu.cn/7874/list.htm" class="more1"></a> </div>
+        <div class="clear"> </div>
+        <div class="box03">
+        <div id="wp_news_w3"> 
+
+          <ul>
+          
+            <li title="关于举办南大地科院2017年大学生暑期夏令营的通知"><a href="/0f/75/c7874a200565/page.htm" target="_blank" class="link1"><span class="span2">关于举办南大地科院2017年大学生暑期夏令营的通知</span></a></li>
+             
+            <li title="地球科学与工程学院关于进一步规范教职工野外出差管理的通知"><a href="/05/06/c7874a197894/page.htm" target="_blank" class="link1"><span class="span2">地球科学与工程学院关于进一步规范教职工野外出差管理的通知</span></a></li>
+             
+            <li title="2017年地球科学与工程学院招收攻读硕士学位研究生复试办法及复试名单"><a href="/05/07/c7874a197895/page.htm" target="_blank" class="link1"><span class="span2">2017年地球科学与工程学院招收攻读硕士学位研究生复试办法及复试名单</span></a></li>
+             
+            <li title="地球科学与工程学院研究生招生动态：推免生招生信息"><a href="/05/08/c7874a197896/page.htm" target="_blank" class="link1"><span class="span2">地球科学与工程学院研究生招生动态：推免生招生信息</span></a></li>
+             
+            <li title="地球科学与工程学院系主任、教研室主任换届结果公告"><a href="/05/09/c7874a197897/page.htm" target="_blank" class="link1"><span class="span2">地球科学与工程学院系主任、教研室主任换届结果公告</span></a></li>
+             
+            <li title="2012级学生课间野外实践通知"><a href="/97/93/c7874a169875/page.htm" target="_blank" class="link1"><span class="span2">2012级学生课间野外实践通知</span></a></li>
+             
+          </ul>
+        </div> 
+</div>
+      </div>
+    </div>
+    <div class="box4" frag="面板6">
+      <div class="con_box1" frag="窗口6">
+        <div class="title1">
+          <div class="test1"> 研究平台 </div>
+          <a href="http://geolab.nju.edu.cn/7875/list.htm" class="more1"></a> </div>
+        <div class="clear"> </div>
+        <div class="box02">
+        <div id="wp_news_w6"> 
+
+          <ul>
+           
+            <li title="内生金属矿床成矿机制研究国家重点实验室"><a href="http://114.212.216.5:8080/" target="_blank" class="link1"><span class="span2">内生金属矿床成矿机制研究国家重点实验室</span></a></li>
+             
+            <li title="表生地球化学教育部重点实验室"><a href="http://isg.nju.edu.cn/" target="_blank" class="link1"><span class="span2">表生地球化学教育部重点实验室</span></a></li>
+             
+            <li title="南京大学能源科学研究院"><a href="http://ens.nju.edu.cn/" target="_blank" class="link1"><span class="span2">南京大学能源科学研究院</span></a></li>
+             
+          </ul>
+        </div> 
+</div>
+      </div>
+      <div class="con_box2" frag="窗口7">
+        <div class="title2">
+          <div class="test1"> 验收专栏</div>
+          <a href="http://geolab.nju.edu.cn/7876/list.htm" class="more1"></a> </div>
+        <div class="clear"> </div>
+        <div class="box03">
+        <div id="wp_news_w7"> 
+
+          <ul>
+           
+            <li title="验收自评报告"><a href="/97/97/c7876a169879/page.htm" target="_blank" class="link1"><span class="span2">验收自评报告</span></a></li>
+             
+            <li title="验收数据报表"><a href="/97/96/c7876a169878/page.htm" target="_blank" class="link1"><span class="span2">验收数据报表</span></a></li>
+             
+            <li title="成果明细表"><a href="/97/95/c7876a169877/page.htm" target="_blank" class="link1"><span class="span2">成果明细表</span></a></li>
+             
+          </ul>
+        </div> 
+</div>
+      </div>
+    </div>
+    <div class="box5">
+      <div class="con_box1">
+        <div class="title3">
+          <div class="test2"> 成果展示</div>
+        </div>
+        <div class="clear"> </div>
+        <div class="box04">
+          <div id="scroll_div" style="width: 970px; overflow: hidden; white-space: nowrap;">
+            <div id="scroll_begin" style="width: 970px; display: inline;"> <img width="175" height="142" src="/_upload/tpl/02/21/545/template545/htmlRes/20121106100606_4700.jpg"> <img src="/_upload/tpl/02/21/545/template545/htmlRes/20121106101622_1731.jpg" width="175" height="142"> <img src="/_upload/tpl/02/21/545/template545/htmlRes/20121106102803_2981.jpg" width="175" height="142"> <img src="/_upload/tpl/02/21/545/template545/htmlRes/20121106103058_8918.jpg" width="175" height="142"> <img src="/_upload/tpl/02/21/545/template545/htmlRes/20121106104658_5168.jpg" width="115" height="142"> <img src="/_upload/tpl/02/21/545/template545/htmlRes/20121106105034_7825.jpg" width="115" height="142"> <img src="/_upload/tpl/02/21/545/template545/htmlRes/20121106110407_6575.jpg" width="115" height="142"> <img src="/_upload/tpl/02/21/545/template545/htmlRes/20121106105303_3450.jpg" width="115" height="142"> <img src="/_upload/tpl/02/21/545/template545/htmlRes/20121106105800_5168.jpg" width="115" height="142"> <img src="/_upload/tpl/02/21/545/template545/htmlRes/20121106110042_7200.jpg" width="115" height="142"> <img src="/_upload/tpl/02/21/545/template545/htmlRes/20121106162858_6575.jpg" width="115" height="142"> <img src="/_upload/tpl/02/21/545/template545/htmlRes/20121106163047_5012.jpg" width="115" height="142"> <img src="/_upload/tpl/02/21/545/template545/htmlRes/20121106163149_2356.jpg" width="115" height="142"> <img src="/_upload/tpl/02/21/545/template545/htmlRes/20121106163329_3293.jpg" width="115" height="142"> <img src="/_upload/tpl/02/21/545/template545/htmlRes/20121106163422_2825.jpg" width="115" height="142"> <img src="/_upload/tpl/02/21/545/template545/htmlRes/20121106163749_9700.jpg" width="115" height="142"> <img src="/_upload/tpl/02/21/545/template545/htmlRes/20121106163914_8293.jpg" width="115" height="142"> <img src="/_upload/tpl/02/21/545/template545/htmlRes/20121106164035_5637.jpg" width="115" height="142"> </div>
+            <div id="scroll_end" style="width: 970px; display: inline;"> </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="link" frag="面板10">
+     <div frag="窗口10">
+      <div id="wp_news_w10"> 
+    <ul>
+     
+      <li width="160px"> <a href="http://www.nigpas.cas.cn/">中国科学院南京地质古生物研究所</a> </li>
+       
+      <li width="160px"> <a href="http://www.gig.ac.cn/">中国科学院广州地球化学研究所</a> </li>
+       
+      <li width="160px"> <a href="http://www.cags.ac.cn/">中国地质科学院</a> </li>
+       
+      <li width="160px"> <a href="http://csmpg.gyig.cas.cn/">中国矿物岩石地球化学学会</a> </li>
+       
+      <li width="160px"> <a href="http://sess.pku.edu.cn/">北京大学地球与空间科学学院</a> </li>
+       
+      <li width="160px"> <a href="http://www.earthsciences.hku.hk/">香港大学地球科学系</a> </li>
+       
+    </ul>
+    </div> 
+</div></div>
+  </div>
+  <script type="text/javascript">
+        var forEach = function (array, callback, thisObject) {
+            if (array.forEach) {
+                array.forEach(callback, thisObject);
+            } else {
+                for (var i = 0, len = array.length; i < len; i++) { callback.call(thisObject, array[i], i, array); }
+            }
+        }
+
+        var st = new SlideTrans("idContainer2", "idSlider2", 5, { Vertical: false });
+
+        var nums = [];
+        //插入数字
+        for (var i = 0, n = st._count - 1; i <= n; ) {
+            (nums[i] = $$("idNum").appendChild(document.createElement("li"))).innerHTML = ++i;
+        }
+
+        forEach(nums, function (o, i) {
+            o.onmouseover = function () { o.className = "on"; st.Auto = false; st.Run(i); }
+            o.onmouseout = function () { o.className = ""; st.Auto = true; st.Run(); }
+        })
+
+        //设置按钮样式
+        st.onStart = function () {
+            forEach(nums, function (o, i) { o.className = st.Index == i ? "on" : ""; })
+        }
+        st.Run();
+        $(document).ready(function () {
+            $("#se").click(function () {
+                var kwv = $("#kv").val().replace(/[ ]/g, "");
+                if (kwv.length > 0) { window.location.href = "Search.aspx?kw=" + kwv + ""; }
+                else { alert("请输入关键字"); }
+            });
+        });
+    </script> 
+</div>
+<div class="footer">
+  <p>南京大学地球科学实验教学中心 版权所有</p>
+  <p>地址：南京市汉口路22号 电话：025-83592364　 邮编：210093</p>
+</div>
+<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEWBQKJ5a3nDwK0w7i7DQKqw6i0BAKO9e+RAQK87PLABk6MMYf9WI+rGA/tLhlmbofcBbgv">
+
+</body>
+</html>

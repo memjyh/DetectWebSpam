@@ -1,0 +1,2 @@
+https://eventapi.longzhu.com/draw/getactivitydetail?roomid=2241164&lzv=1
+<html><body><p>{"data":{"award":null,"awardCount":0,"endTime":0,"type":0,"requireCount":0,"requireFollow":0,"requireItem":null,"requireMedalLevel":0,"remainingTime":0,"drawStatus":0,"gifts":null,"requireCheck":0,"contactType":0,"contact":null,"id":0},"code":990003,"message":"当前没有抽奖","displayMessage":""}</p></body></html>

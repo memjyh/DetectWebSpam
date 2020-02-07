@@ -1,0 +1,12 @@
+https://da.duowan.com/loc/28
+<html><body><p>(function() {
+    var s = "_" + Math.random().toString(36).slice(2);
+    document.write('</p><div locid="28" pid="0" class="da-block-wrapper"></div>');
+    (window.slotbydup=window.slotbydup || []).push({
+        id: '3378241',
+        container: s,
+        size: '1000,90',
+        display: 'inlay-fix'
+    });
+})();
+document.write('<script src="http://dup.baidustatic.com/js/os.js"></script>');</body></html>

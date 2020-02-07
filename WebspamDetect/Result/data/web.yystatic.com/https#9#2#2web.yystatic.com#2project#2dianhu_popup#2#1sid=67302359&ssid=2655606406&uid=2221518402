@@ -1,0 +1,31 @@
+https://web.yystatic.com/project/dianhu_popup/?sid=67302359&ssid=2655606406&uid=2221518402
+<html lang="zh-CN">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<meta http-equiv="X-UA-Compatible" content="ie=edge">
+	<title>YY直播</title>
+	<link rel="stylesheet" href="./main.css">
+</head>
+<body style="background-color: #000000;">
+	<div class="container" id="container">
+		<div class="player" id="player"></div>
+		<div class="msg">
+			<div>
+				<h2 class="msg-title">主播不在家</h2>
+				<p class="msg-desc">看看其他直播吧</p>
+			</div>
+		</div>
+		
+	</div>
+
+	<script>
+		window.YYPlayerDisableAMD = true;
+	</script>
+	<script src="//web2.yystatic.com/project/yyplayer/1.9.17/loader/loader.js"></script>
+	<script src="./require.js"></script>
+	<script src="./jquery-3.3.1.min.js"></script>
+	<script src="//cdn.hiido.com/sdk/websdk.js"></script>
+	<script src="./main.js"></script>
+</body>
+</html>

@@ -1,0 +1,242 @@
+﻿https://www.transwarp.io/about/introduction
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge"><!-- 加上这段代码，兼容IE -->
+  <meta name="keywords" content="星环，星环科技，星环信息科技，星环大数据，transwarp">
+  <meta name="description" content="星环信息科技（上海）有限公司是一家高科技大数据创业公司。致力于大数据基础软件的研发，包括 Apache Hadoop 2.0，Spark，其性能已大幅超越开源版本。">
+  <title>Transwarp - 公司介绍</title>
+  <link rel="stylesheet" href="/css/style.css">
+  <link rel="stylesheet" href="/css/jquery.bxslider.css">
+  <link rel="stylesheet" href="/css/zh.css">
+  <script src="/js/jquery.min.js"></script>
+  <!--<script src="/js/angular.min.js"></script>
+  <script src="/js/angular-animate.min.js"></script>-->
+  <script src="/js/jquery.bxslider.js"></script>
+  <script src="/js/main.js"></script>
+</head>
+<body>
+	<!-- top -->
+	<div class="top">
+	  <div class="wrap hz">
+	    <div class="top_language fr" style="font-size: 12px;">
+              <a href="?lang=en" style="font-size: 12px;" value="en">English</a>
+	      <a href="?lang=zh" style="font-size: 12px;" value="zh">中文</a>
+	    </div>
+	  </div>
+	</div>
+
+	<!-- header -->
+  <div class="headerWarp">
+    <div class="header wrap" style="width: 1270px;">
+      <a href="/" class="logo fl"><img src="/images/logo_01.png" alt=""></a>
+      <ul class="nav fr">
+        <li><span><a href="/">首页</a></span></li>
+        <li>
+          <span><a href="/product/tdh">产品</a></span>
+          <div class="new_sub_02">
+            <a href="/product/tdh" class="sub_02_a">大数据平台</a>
+            <a href="/product/inceptor_new" class="sub_02_a">分析型数据库</a>
+            <a href="/product/tos" class="sub_02_a">容器操作系统</a>
+            <a href="/product/tdh_ce" class="sub_02_a">TDH社区版</a>
+            <a href="/product/sophon" class="sub_02_a">人工智能平台</a>
+            <a href="/product/tdc" class="sub_02_a">星环大数据云平台</a>
+            <a href="/product/about_price" class="sub_02_a">价格</a>
+          </div>
+        </li>
+				<!-- <li>
+          <span><a href='/train/train'>培训</a></span>
+        </li> -->
+        <li>
+          <span><a href="/case">案例</a></span>
+          <!-- <div class="sub_02">
+            <a href="" class="ahover_01">产品概述</a>
+            <a href="">技术优势</a>
+          </div> -->
+        </li>
+        <li><span><a href="/cooperation">合作伙伴</a></span></li>
+        <li><span><a href="/news">新闻</a></span></li>
+        <li><span><a href="http://www.transwarp.io/news?id=4">博客</a></span></li>
+        <li><span><a href="/about/download">产品资料</a></span></li>
+        <li>
+          <span><a>认证培训</a></span>
+          <div class="new_sub_02 new_sub_02_certification">
+            <a href="https://transwarp.wjx.cn/jq/18171074.aspx" class="sub_02_a" target="_blank">认证考试报名</a>
+            <a href="https://transwarp.wjx.cn/jq/18289110.aspx" class="sub_02_a" target="_blank">考前培训报名</a>
+            <a href="/certificate" class="sub_02_a">证书查询</a>
+          </div>
+        </li>
+        <li>
+          <span><a href="/about/introduction">关于</a></span>
+          <div class="new_sub_02 new_sub_02_2">
+            <a href="/about/introduction" class="sub_02_a">公司介绍</a>
+            <a href="/about/job" class="sub_02_a">人才招聘</a>
+            <a href="/about/contact" class="sub_02_a">联系我们</a>
+          </div>
+        </li>
+				<li><span><a href="http://support.transwarp.cn/" target="_blank">论坛</a></span></li>
+      </ul></div>
+      <!--<div class="subnav"></div>-->
+    </div>
+  
+
+
+<!-- banner -->
+<div class="banner pr">
+  <!-- subnav
+  <div class="subnav"></div>
+ -->
+
+  <ul>
+    <li class="banner_li_02 banner_li_introduction" style="background-image: url(/images/banner_intro.png)">
+  </ul>
+</div>
+
+<!-- main -->
+<div class="Container wrap hz">
+  <div class="Container_title hz">
+    <p>公司介绍</p>
+  </div>
+  <div class="company_font_01 fz16" style="padding-bottom: 0;">
+    <p>星环信息科技(上海)有限公司是目前国内极少数掌握企业级大数据核心技术的高科技公司，从事大数据时代核心平台数据库软件的研发与服务。在全球去IOE的大背景下，Apache Hadoop技术已成为公认的替代传统数据库的大数据产品。公司产品Transwarp Data Hub (TDH)的整体架构及功能特性比肩硅谷同行，产品性能在业界处于领先水平。</p>
+    <p>公司研发团队是国内最早的大数据Apache Hadoop发行版团队，从2009年起即开始致力于大数据平台软件的自主创新和开发，与硅谷同类公司同时起步；2011年在中国率先推出基于Apache Hadoop发行版；之后，团队负责人原英特尔亚太研发中心CTO孙元浩、亚太区销售总监佘晖离开英特尔，创办星环科技，注册资金伍仟万元人民币。以上海为核心总部，并在北京、广州、南京、济南等地分设办事处。</p>
+    <p>公司研发团队大多来自知名外企，员工的85%为研发工程师，以博士硕士为主。这样的研发团队规模在国内专业大数据Hadoop开发的团队中并不多见。</p>
+    <p>TDH是基于Apache Hadoop和Apache Spark的分布式内存分析引擎和实时在线大规模计算分析平台，相比开源Hadoop版本有10x~100x倍性能提升，可处理GB到PB级别的数据。星环科技同时提供存储、分析和挖掘大数据的高效数据平台和服务。</p>
+    <img src="/images/about/company/4_zh.jpg" style="width:852px; height:500px;" alt="">
+  </div>
+
+<div class="Container wrap hz" style="margin-top: 0;">
+  <div class="Container_title hz">
+    <p>星环飞船</p>
+   <img src="/images/5.png" alt="">
+   <img src="/images/7.png" alt="">
+   <img src="/images/about/company/1.jpg" style="width:852px; height:567.5px;" alt="">
+   <img src="/images/about/company/2.jpg" style="width:852px; height:567.5px;" alt="">
+   <img src="/images/about/company/3.jpg" style="width:852px; height:567.5px;" alt="">
+   <!--<img src="/images/5.png" alt="">
+   <img src="/images/7.png" alt="">
+   <img src="/images/IMG_2782.JPG" alt="">
+   <img src="/images/IMG_2783.JPG" alt="">
+   <img src="/images/IMG_2786.JPG" alt="">
+   <img src="/images/IMG_2787.png" alt="">-->
+  </div>
+
+  <div class="Container_title hz">
+    <p>团队介绍</p>
+  </div>
+
+  <div class="hz">
+    <div class="team_left fl hz t-left">
+      <div class="hz">
+        <img src="/images/c_01.jpg" alt="" class="fl">
+        <div class="team_name fl team_name_new">
+          <p>孙元浩</p>
+          <p class="team_font_01 team_font_01_new">创始人兼CEO</p>
+        </div>
+      </div>
+      <p>孙元浩，星环科技创始人、CEO，上海市信息化专家委员会大数据专业委员会委员，毕业于南京大学计算机系。</p>
+      <p class="intro-ceo-para">孙元浩在大数据和人工智能的行业应用领域拥有多年的技术成就和丰富经验。拥有11项国内外专利，并就大数据的行业应用发表多篇论文。2013年创办星环科技，致力于提供企业级容器云计算、大数据和人工智能核心平台的研发和服务，打造大数据和人工智能生态的“中国心”。在此之前，孙元浩2003年加入英特尔，曾是英特尔亚太研发有限公司数据中心软件部亚太区CTO。</p>
+    </div>
+    <div class="team_left fl hz t-middle">
+      <div class="hz">
+        <img src="/images/c_03_fan.png" alt="" class="fl">
+        <div class="team_name fl team_name_new">
+          <p>范磊</p>
+          <p class="team_font_01 team_font_01_new">联合创始人</p>
+        </div>
+      </div>
+      <p>范磊于1993年毕业于复旦大学计算机系，曾任英特尔大数据软件亚太区总监，主导了中国最早期的Hadoop案例落地。</p>
+      <br>
+      <p>范磊于1999年加入英特尔公司，历任数据中心软件部件亚太区总监。除参与推进早期Hadoop发行版外，还先后负责英特尔中国区电信领域解决方案、英特尔中小企业合作伙伴联盟的建立，并主导了英特尔与BAT等互联网公司的战略联盟建立。在此之前范磊曾任职于DEC、Compaq， 从事技术和产品研发工作。</p>
+    </div>
+    <div class="team_left fl hz t-right">
+      <div class="hz">
+        <img src="/images/c_02.jpg" alt="" class="fl">
+        <div class="team_name fl team_name_new">
+          <p>佘晖</p>
+          <p class="team_font_01 team_font_01_new">联合创始人</p>
+        </div>
+      </div>
+      <p>佘晖（David）于1991年7月毕业于复旦大学，2003届中欧商学院EMBA毕业。技术出身，毕业后从事5年的数据库和网络工程师岗位后，进入中国惠普网络工程部任高级客户技术顾问。</p>
+      <p>佘晖于1996年9月加入英特尔公司，历任网络产品销售/市场客户经理，华东区，中国区渠道销售经理，亚太区渠道业务总监，英特尔(中国)有限公司OEM/渠道业务总经理等职务。在长达12年多的渠道营销管理工作期间，佘晖亲自主持并参与建设了英特尔盒装产品及网络产品全国渠道架构。</p>
+    </div>
+  </div>
+</div>
+</div>
+
+	<!-- footer -->
+  <style>a:hover{text-decoration:none;}</style>
+	<div class="footer" style="font-size: 12px;">
+		<div class="wrap hz" style="width: 950px;">
+			<div class="footer_left fl hz ff_01">
+				<a href="" class="logo_02"><img src="/images/logo_02.png" alt=""></a>
+				<p>沪ICP备13042669-2.</p>
+				<p>© 2015 TRANSWARP. 保留所有权利</p>
+			</div>
+
+			<ul class="footer_right fr hz">
+				<li style="margin-right: 25px;">
+					<h2 style="font-weight: bold;font-size: 16px;line-height: 34px;color: #fff;">产品</h2>
+					<!--<a href="/product/hadoop" title="Transwarp Hadoop">Transwarp Hadoop</a>-->
+					<a href="/product/inceptor_new" title="Transwarp Inceptor">Transwarp Inceptor</a>
+					<a href="/product/hyperbase" title="Transwarp Hyperbase">Transwarp Hyperbase</a>
+					<a href="/product/stream" title="Transwarp Stream">Transwarp Stream</a>
+                    <a href="/product/discover" title="Transwarp Discover">Transwarp Discover</a>
+
+				</li>
+				<li>
+					<h2 style="font-weight: bold;font-size: 16px;line-height: 34px;color: #fff;">下载</h2>
+					<a href="/about/download#technicalWhitePaper" title="技术白皮书">产品技术白皮书</a>
+					<a href="/about/download#IndustryCase" title="行业案例">行业案例</a>
+                    <!-- <a href="/about/download#productTechnology" title="产品技术">产品技术</a>
+                    <a href="/about/download#DeveloperReference" title="开发者文档">开发者文档</a> -->
+                    <a href="/about/download#TestReport" title="评测报告">评测报告</a>
+                    <a href="/about/download#DriverDownload" title="驱动下载">驱动下载</a>
+					<!---
+					<a href="/about/download#performanceReport" title="评测报告">评测报告</a>
+					--->
+				</li>
+				<!---
+				<li>
+					<h2>技术</h2>
+					<a href="">Interactive SQL</a>
+					<a href="">Online Processing</a>
+					<a href="">Real-Time Streaming Media</a>
+					<a href="">Offline Data Analysis and Mining</a>
+				</li>
+				--->
+				<li>
+					<h2 style="font-weight: bold;font-size: 16px;line-height: 34px;color: #fff;">公司介绍</h2>
+					<a href="/about/introduction#compnayIntroduction" title="公司简介">公司简介</a>
+					<a href="/about/introduction#managementTeam" title="管理团队">管理团队</a>
+					<a href="/news" title="新闻中心">新闻中心</a>
+					<a href="/about/job" title="加入我们">加入我们</a>
+					<a href="/about/contact" title="联系我们">联系我们</a>
+          <a href="https://docs.transwarp.io" target="_blank" title="星环技术文档">星环技术文档</a>
+				</li>
+			</ul>
+		</div>
+
+    <div class="record">        
+      <a target="_blank" href="" style="display:inline-block;text-decoration:none;height:20px;line-height:20px;">
+        <img src="/images/record_logo.png" style="float:left; width: 18px; height: 18px;">
+        <p style="float:left;height:20px;line-height:20px;margin: 0px 0px 0px 5px; color:#939393;">沪公网安备 31010402001660号</p>
+      </a>      
+    </div>
+
+	</div>
+<!--
+  <div class="bot_js hide">
+    <script type="text/javascript">
+    var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://": " http://");
+    document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3Fee4a52a5edf117317b03e5293d3e29f2'type='text/javascript'%3E%3C/script%3E"));
+    </script>
+  </div>
+
+<script type="text/javascript" src="http://a.ad7.com/js/i.js?uid=juiy" id="_mutmzc"></script> 
+-->
+
+<script type="text/javascript"> var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://"); document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3Fee4a52a5edf117317b03e5293d3e29f2' type='text/javascript'%3E%3C/script%3E")) </script>
+
+</body>
+</html>

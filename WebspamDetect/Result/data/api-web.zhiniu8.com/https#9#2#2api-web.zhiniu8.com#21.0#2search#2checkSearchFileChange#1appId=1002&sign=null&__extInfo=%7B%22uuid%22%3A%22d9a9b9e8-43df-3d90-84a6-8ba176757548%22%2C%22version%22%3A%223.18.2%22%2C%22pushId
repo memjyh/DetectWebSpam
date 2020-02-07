@@ -1,0 +1,2 @@
+https://api-web.zhiniu8.com/1.0/search/checkSearchFileChange?appId=1002&sign=null&__extInfo=%7B%22uuid%22%3A%22d9a9b9e8-43df-3d90-84a6-8ba176757548%22%2C%22version%22%3A%223.18.2%22%2C%22pushId%22%3A%225580brqf3dhnrgec1doag79mm2%22%2C%22marketChannel%22%3A%22tencent%22%7D&data=%7B%22platform%22%3A%22mobile%22%7D
+<html><body><p>{"appId":"1002","sign":"","data":{"code":1,"isChange":true}}</p></body></html>

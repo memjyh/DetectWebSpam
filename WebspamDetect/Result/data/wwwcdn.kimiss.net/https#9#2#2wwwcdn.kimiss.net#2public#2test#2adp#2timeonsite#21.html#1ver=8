@@ -1,0 +1,59 @@
+https://wwwcdn.kimiss.net/public/test/adp/timeonsite/1.html?ver=8
+<html>
+ <head>
+        <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+  <title> New Document </title>
+  <meta name="Generator" content="EditPlus">
+  <meta name="Author" content="">
+  <meta name="Keywords" content="">
+  <meta name="Description" content="">
+   <script>
+  var _hmt = _hmt || [];
+function hmTrack(category)
+{   
+    try
+    {   
+        _hmt.push(['_trackEvent', category, "staytime"]);
+                //ga('send', 'event', 'button', 'click', category);
+                //_hmt.push(['_setCustomVar', 1, 'staytime', category, 3]); 
+    }catch(e)
+    {
+    }
+}
+
+</script>
+ </head>
+
+ <body>
+test page
+
+<!-- kmolggg -->
+
+<script>
+(function() {
+  var hm = document.createElement("script");
+  hm.src = "//hm.baidu.com/hm.js?5e34e82c9bfba746e6fe967d85ce6067";
+  var s = document.getElementsByTagName("script")[0]; 
+  s.parentNode.insertBefore(hm, s);
+})();
+</script>
+
+
+<br>
+ 
+<script language="JavaScript">
+window.setTimeout('hmTrack(\'0.1s\')',100);
+window.setTimeout('hmTrack(\'1s\')',1000);
+window.setTimeout('hmTrack(\'10s\')',10000);
+window.setTimeout('hmTrack(\'15s\')',15000);
+window.setTimeout('hmTrack(\'20s\')',20000);
+window.setTimeout('hmTrack(\'30s\')',30000);
+window.setTimeout('hmTrack(\'40s\')',40000);
+window.setTimeout('hmTrack(\'50s\')',50000);
+window.setTimeout('hmTrack(\'60s\')',60000);
+window.setTimeout('hmTrack(\'70s\')',70000);
+window.setTimeout('hmTrack(\'80s\')',80000);
+window.setTimeout('hmTrack(\'90s\')',90000);
+  </script>
+ </body>
+</html>

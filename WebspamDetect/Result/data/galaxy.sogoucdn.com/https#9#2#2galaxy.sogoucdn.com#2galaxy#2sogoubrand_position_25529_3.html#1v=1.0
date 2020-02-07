@@ -1,0 +1,77 @@
+https://galaxy.sogoucdn.com/galaxy/sogoubrand_position_25529_3.html?v=1.0
+<html><head>
+<style>
+body,ul{margin:0;padding:0;background-color:transparent;}
+.sogou{width:200px; height:200px;position:relative;overflow:hidden;}
+a.logo{display:block;height:18px;width:26px;text-align:justify;letter-spacing:20px;text-decoration:none;overflow:hidden;cursor:default;position:absolute;bottom:0px;right:0px;}
+.sogou a.logo_text{
+     width:47px;
+     height:14px;
+     background:url(http://galaxy.sogoucdn.com/galaxy/ad_slot_logo_text.png) no-repeat left top;
+}
+.galaxy_wrap{
+	width: 200px;height: 200px;position: relative;
+	overflow: hidden;
+}
+#galaxy_container{
+	width: 400px;height: 200px;font-size:0; 
+}
+#galaxy_container li{
+	height: 200px;
+	width: 200px;
+	list-style: none;
+	float: left;
+}
+</style>
+</head>
+<body>
+<div id="div_ad" class="sogou" style="text-align:left;vertical-align:middle">
+<a href="http://iwan.sogou.com?f=598&amp;pos=80008" target="_blank">
+	<div class="galaxy_wrap">
+		<ul id="galaxy_container">
+			<li><img src="http://galaxy.sogoucdn.com/galaxy/sogoubrand-position-200-200-7.jpg" border="0" width="200;" height="200;"></li>
+			<li><img src="http://galaxy.sogoucdn.com/galaxy/sogoubrand-position-200-200-8.jpg" border="0" width="200;" height="200;"></li>
+			<li><img src="http://galaxy.sogoucdn.com/galaxy/sogoubrand-position-200-200-9.jpg" border="0" width="200;" height="200;"></li>
+		</ul>
+	</div>
+</a>
+<a id="logo" class="logo logo_text" style="z-index:2" href="http://iwan.sogou.com?f=598&amp;pos=80008" target="_blank"></a>
+</div>
+<script type="text/javascript">
+(function () {
+	var ocontainer = document.getElementById('galaxy_container'),
+		olis = ocontainer.getElementsByTagName('li'),
+		owidth = olis[0].offsetWidth,
+		cfg = {
+			"timer_move" : null,
+			"speed" : 2800,
+			"step_speed" : 15,
+			"delta" : 10
+		},
+		minstep = owidth - cfg.delta;
+		function startAnim() {
+			clearInterval(timer_start);
+			var timer_start = setInterval(startMove, cfg.speed);
+		}
+		function startMove() {
+			clearInterval(cfg.timer_move);
+			cfg.timer_move = setInterval(move, cfg.step_speed);
+		}
+		function move(){
+			if (olis[0].offsetLeft <= -minstep) {
+				clearInterval(cfg.timer_move);
+				ocontainer.appendChild(olis[0]);
+				clearLeft();
+			}else{
+				olis[0].style.marginLeft = (olis[0].offsetLeft - cfg.delta) +'px';
+			}
+		}
+		function clearLeft(){
+			for (var i = 0; i < olis.length; i++) {
+				olis[i].style.marginLeft = '';
+			}
+		}
+		startAnim();
+}());
+</script>
+</body></html>

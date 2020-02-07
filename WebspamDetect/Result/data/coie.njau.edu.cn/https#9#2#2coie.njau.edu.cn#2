@@ -1,0 +1,781 @@
+﻿https://coie.njau.edu.cn/
+<html><head><title>欢迎访问网络信息服务大厅</title><meta name="keywords" content="欢迎访问网络信息服务大厅">
+
+
+
+
+
+<meta content="text/html; charset=UTF-8" http-equiv="Content-Type">
+<meta content="IE=8" http-equiv="X-UA-Compatible"><link rel="stylesheet" type="text/css" href="dfiles/11207/themes/20628/default/css/common.css"><link rel="stylesheet" type="text/css" href="dfiles/11207/themes/20628/default/css/index.css"><link rel="stylesheet" type="text/css" href="dfiles/11207/themes/20628/default/css/slider.css"><script type="text/javascript">
+        function chengeAction(obj){
+            document.form1.action='http://172.16.0.'+obj+'/';
+        }
+
+        window.onload = function(){
+            document.onkeydown = function(ev){
+                var oEv = ev || window.event;
+                if(oEv.keyCode == 13 ){
+                    return false;
+                }
+            };
+
+        };
+    </script>
+
+<!--Announced by Visual SiteBuilder 9-->
+<link rel="stylesheet" type="text/css" href="_sitegray/_sitegray_d.css">
+<script language="javascript" src="_sitegray/_sitegray.js"></script>
+<!-- CustomerNO:7765626265723230705f1d0b1b061d -->
+<link rel="stylesheet" type="text/css" href="index.vsb.css">
+<script type="text/javascript" src="/system/resource/js/counter.js"></script>
+<script type="text/javascript">_jsq_(1001,'/index.jsp',-1,1344666014)</script>
+</head>
+<body>
+<div class="header">
+<div class="header_con">
+<div class="wlxx"><!--#begineditable name="LOGO" clone="0" namechanged="0" order="0" ispublic="0" tagname="LOGO" viewid="152650" contentviewid="" contype="" stylesysid="" layout="" action=""-->
+<!-- 网站logo图片地址请在本组件"内容配置-网站logo"处填写 -->
+<a href="index.htm">网络信息服务</a><!--#endeditable--></div>
+<div class="search"><!--#begineditable name="全文检索" clone="0" namechanged="0" order="1" ispublic="0" tagname="全文检索" viewid="151978" contentviewid="" contype="" stylesysid="" layout="" action=""--><script type="text/javascript">
+    function _nl_ys_check(){
+        
+        var keyword = document.getElementById('showkeycode151978').value;
+        if(keyword==null||keyword==""){
+            alert("请输入你要检索的内容！");
+            return false;
+        }
+        if(window.toFF==1)
+        {
+            document.getElementById("lucenenewssearchkeyword151978").value = Simplized(keyword );
+        }else
+        {
+            document.getElementById("lucenenewssearchkeyword151978").value = keyword;            
+        }
+        var  base64 = new Base64();
+        document.getElementById("lucenenewssearchkeyword151978").value = base64.encode(document.getElementById("lucenenewssearchkeyword151978").value);
+        new VsbFormFunc().disableAutoEnable(document.getElementById("showkeycode151978"));
+        return true;
+    } 
+</script>
+<form action="ssjg.jsp?wbtreeid=1001" method="post" id="au1a" name="au1a" onsubmit="return _nl_ys_check()" style="display: inline">
+ <input type="hidden" id="lucenenewssearchkeyword151978" name="lucenenewssearchkeyword" value=""><input type="hidden" id="_lucenesearchtype151978" name="_lucenesearchtype" value="1"><input type="hidden" id="searchScope151978" name="searchScope" value="0">
+<input name="showkeycode" id="showkeycode151978" type="text" class="search_text" placeholder="请输入关键字" value="请输入关键字" onfocus="this.value=''" onblur="if(this.value==' ')this.value='请输入关键字'">
+ <input type="submit" class="search_btn" value=" " style="cursor:pointer;">
+</form>
+
+
+<script language="javascript" src="/system/resource/js/base64.js"></script><script language="javascript" src="/system/resource/js/formfunc.js"></script>
+<!--#endeditable--></div>
+<div class="menu menu_cur"><!--#begineditable name="网站导航" clone="0" namechanged="0" order="2" ispublic="0" tagname="网站导航" viewid="151979" contentviewid="" contype="" stylesysid="" layout="" action=""--><ul class="nav_items">
+<li><a href="lyb.jsp?urltype=tree.TreeTempUrl&amp;wbtreeid=1013" target="_self">用户交流</a>
+<div class="sec_nav">
+ <div class="sec_nav_links">
+                    <a href="yhjl/cjwt.htm" target="_self">常见问题</a>
+                </div>
+ <div class="sec_nav_links">
+                    <a href="lyb.jsp?urltype=tree.TreeTempUrl&amp;wbtreeid=1013" target="_self">在线咨询</a>
+                </div>
+ </div>
+</li>
+<li><a href="ywbl.htm" target="_self">业务办理</a>
+<div class="sec_nav">
+ <div class="sec_nav_links">
+                    <a href="ywbl/bszn.htm" target="_self">办事指南</a>
+                </div>
+ <div class="sec_nav_links">
+                    <a href="ywbl/cyxz.htm" target="_self">常用下载</a>
+                </div>
+ <div class="sec_nav_links">
+                    <a href="ywbl/lxwm.htm" target="_self">联系我们</a>
+                </div>
+ </div>
+</li>
+<li><a href="yhfw/fwxm.htm" target="_self">用户服务</a>
+<div class="sec_nav">
+ <div class="sec_nav_links">
+                    <a href="yhfw/fwxm.htm" target="_self">服务项目</a>
+                </div>
+ <div class="sec_nav_links">
+                    <a href="yhfw/fwzn.htm" target="_self">服务指南</a>
+                </div>
+ </div>
+</li>
+<li><a href="xywl/xywjj.htm" target="_self">校园网络</a>
+<div class="sec_nav">
+ <div class="sec_nav_links">
+                    <a href="xywl/xywjj.htm" target="_self">校园网简介</a>
+                </div>
+ <div class="sec_nav_links">
+                    <a href="xywl/wlzy.htm" target="_self">网络资源</a>
+                </div>
+ <div class="sec_nav_links">
+                    <a href="http://media.njau.edu.cn/list.html" target="_self">东方频道</a>
+                </div>
+ </div>
+</li>
+<li><a href="xxhjs.htm" target="_self">信息化建设</a>
+<div class="sec_nav">
+ <div class="sec_nav_links">
+                    <a href="xxhjs/xxhjj.htm" target="_self">信息化简介</a>
+                </div>
+ <div class="sec_nav_links">
+                    <a href="xxhjs/xxyy.htm" target="_self">信息应用</a>
+                </div>
+ <div class="sec_nav_links">
+                    <a href="xxhjs/xxaq.htm" target="_self">信息安全</a>
+                </div>
+ </div>
+</li>
+<li><a href="glzd.htm" target="_self">管理制度</a>
+<div class="sec_nav">
+ <div class="sec_nav_links">
+                    <a href="glzd/zcfg.htm" target="_self">政策法规</a>
+                </div>
+ <div class="sec_nav_links">
+                    <a href="glzd/xywgl.htm" target="_self">校园网管理</a>
+                </div>
+ <div class="sec_nav_links">
+                    <a href="glzd/xxhgl.htm" target="_self">信息化管理</a>
+                </div>
+ </div>
+</li>
+<li><a href="xxhda.htm" target="_self">信息化档案</a>
+<div class="sec_nav">
+ <div class="sec_nav_links">
+                    <a href="xxhda/nj.htm" target="_self">年鉴</a>
+                </div>
+ <div class="sec_nav_links">
+                    <a href="xxhda/hyjy.htm" target="_self">会议纪要</a>
+                </div>
+ <div class="sec_nav_links">
+                    <a href="xxhda/xmzb.htm" target="_self">项目周报</a>
+                </div>
+ </div>
+</li>
+         
+            </ul><!--#endeditable--></div><script type="text/javascript" src="dfiles/11207/themes/20628/default/js/jquery-1.6.4.min.js"></script><script type="text/javascript">
+    $(document).ready(function(){
+        /*$('.menu').click(function(){
+         menu(this);
+         })
+         function menu(obj){
+         if($(obj).hasClass('menu_cur')){
+         $('.nav_items').fadeIn(1000);
+         $(obj).removeClass("menu_cur");
+         $(".nav_items li").each(function(){
+         var w = $(this).outerWidth()
+         $(this).find(".sec_nav").css({"width":w});
+         });
+         }else{
+         $('.nav_items').fadeOut(1000);
+         $(obj).addClass('menu_cur');
+         }
+         }
+         menu();*/
+        $('.menu').mouseover(function(){
+            menuover();
+        })
+        $('.menu').mouseout(function(){
+            menuout();
+        })
+        function menuover(){
+            $('.nav_items').css('display','block');
+            $(".nav_items li").each(function(){
+                var w = $(this).outerWidth();
+                $(this).find(".sec_nav").css({"width":w});
+                var wid = ($('.nav_items li').length*w)+"px";
+                $('.nav_items').css("width",wid);
+                $('.menu').removeClass("menu_cur");
+            });
+        }
+        function menuout(){
+            $('.nav_items').css('display','none');
+            $('.menu').addClass('menu_cur');
+        }
+    })
+</script>
+<div class="eng"><!--#begineditable name="English" action="webber.wbst.com.url.ColumnUrl" layout="/system/_component/columnurl/tpllinklist.jsp" tpltype="1" contype="url" clone="" viewid="212595" contentviewid="" tagname="English"--><script language="javascript" src="/system/resource/js/dynclicks.js"></script><script language="javascript" src="/system/resource/js/openlink.js"></script> <a href="English/Internet_Account.htm" target="_blank">English</a>  
+<!--#endeditable--></div>
+<div class="login"><!--#begineditable name="静态自定义DIV组件" clone="0" namechanged="0" order="3" ispublic="0" tagname="静态自定义DIV组件" viewid="151980" contentviewid="" contype="" stylesysid="" layout="" action=""-->
+<form name="form1" method="post" action="http://172.16.0.4/" target="_blank">
+                <p><input type="text" value="账 号" id="DDDDD" name="DDDDD" emsg="" style="border: 0;background: none;width: 193px;margin-left: 35px;padding-left:15px;height: 31px;line-height: 31px;"></p>
+                <p style="margin-top: 12px;position: relative;">
+                    <input type="password" name="upass" id="upass" style="border: 0;background: none;width: 193px;margin-left: 35px;padding-left:15px;height: 31px;line-height: 31px;">
+                    <input type="text" value="密 码" id="falsePass" style="border: 0;background: none;position: absolute;top: 0;left: 0;width: 193px;padding-left: 50px;height: 31px;line-height: 31px;"></p>
+		<p style="height: 32px;line-height: 32px;width:242px;text-align:right;"><a id="xgmm" href="javascript:;" style="color:#fff"></a></p>
+		<p><input type="submit" name="0MKKey" id="0MKKey" value=" " onclick="chengeAction(3);" style="border: 0;background: none;width: 115px;height: 43px;margin-right: 11px;float: left;cursor:pointer;">
+                    <input type="submit" name="0MKKey" id="0MKKey" value=" " onclick="chengeAction(4);" style="border: 0;background: none;width: 115px;height: 43px;cursor:pointer;"></p>
+            </form><!--#endeditable--></div></div></div>
+<div class="flexslider"><!--#begineditable name="banner切换" clone="0" namechanged="0" order="4" ispublic="0" tagname="banner切换" viewid="152658" contentviewid="" contype="" stylesysid="" layout="" action=""-->    <ul class="slides">
+        
+
+
+
+<li>
+        <img src="dfiles/net_njau_edu_cn/themes/20628/default/images/pic1.jpg">    
+        </li>
+
+
+<li>
+        <img src="dfiles/net_njau_edu_cn/themes/20628/default/images/pic2.jpg">    
+        </li>
+
+
+ </ul><!--#endeditable--></div><script src="dfiles/11207/themes/20628/default/js/plugins.js"></script><script type="text/javascript" src="dfiles/11207/themes/20628/default/js/addnewimg.js"></script><script type="text/javascript">
+    jQuery(window).load(function() {
+        jQuery('.flexslider').flexslider({
+            animation: "fade"
+        });
+        jQuery('.yhjl_list li').each(function(n){
+            if(n%2==0){
+                jQuery(this).addClass('yhjl_lv');
+            }
+        })
+        $(function(){
+            var newsList1 = $(".xwdt_list li");
+            createNew(newsList1,".hide_date","/themes/20628/default/images/new.png");
+            var newsList1 = $(".xwdt_jie p");
+            createNew(newsList1,".hide_date","/themes/20628/default/images/new.png");
+
+        });
+        var falsePass = $("#falsePass");
+        var pass = $("#upass");
+        $(falsePass).focus(function(){
+            $(this).hide();
+            $(pass).focus();
+        });
+        $(pass).blur(function(){
+            if($(pass).val().length > 0){}else{
+                $(falsePass).show();
+            }
+
+        });
+        $("#DDDDD").focus(function(){
+            if($(this).get(0).defaultValue == $(this).val()){
+                $(this).val("");
+            }
+        }).blur(function(){
+            if($(this).val()==""){
+                $(this).val($(this).get(0).defaultValue);
+            }
+        });
+    });
+</script>
+<div class="service">
+<div class="s_title"><!--#begineditable name="浮动图片" clone="0" namechanged="0" order="0" ispublic="0" tagname="浮动图片" viewid="212004" contentviewid="" contype="" stylesysid="" layout="" action=""-->   
+   
+   
+   
+   
+<!--#endeditable--></div>
+<div class="cyfw">
+<div class="cyfw_list">
+<h2>常用服务</h2><!--#begineditable name="常用服务" clone="0" namechanged="0" order="5" ispublic="0" tagname="常用服务" viewid="151981" contentviewid="" contype="" stylesysid="" layout="" action=""-->
+   <a href="http://a.njau.edu.cn/" target="_blank">校园上网服务</a>
+   <a href="http://mail.njau.edu.cn/" target="_blank">WEB邮箱</a>
+   <a href="http://kms.njau.edu.cn" target="_blank">微软正版授权</a>
+   <a href="https://kvirus.njau.edu.cn" target="_blank">杀毒软件</a>
+   <a href="https://winupdate.njau.edu.cn" target="_blank">Windows补丁自更新</a>
+   <a href="http://media.njau.edu.cn/" target="_blank">东方频道</a>
+   <a href="http://ipv6.njau6.edu.cn/" target="_blank">IPv6实验站</a>
+   <a href="http://ftp.njau.edu.cn/" target="_blank">软件下载</a>
+   <a href="http://net.njau.edu.cn/info/1039/2428.htm" target="_blank">红芯客户端</a>
+   <a href="info/1040/1816.htm" target="_blank">上网帐号登录/注销</a>
+
+<script>_showDynClickBatch(['dynclicks_u7_1814','dynclicks_u7_1678','dynclicks_u7_2148','dynclicks_u7_1815','dynclicks_u7_1818','dynclicks_u7_1817','dynclicks_u7_1819','dynclicks_u7_1677','dynclicks_u7_2537','dynclicks_u7_1816'],[1814,1678,2148,1815,1818,1817,1819,1677,2537,1816],"wbnews", 1344666014)</script>
+<!--#endeditable--><a class="more1" href="cyfw.htm">更多&gt;</a> </div><img alt="" src="dfiles/11207/themes/20628/default/images/cyfw.jpg"> </div>
+<div class="bslc"><img alt="" src="dfiles/11207/themes/20628/default/images/bslc.jpg"> 
+<div class="cyfw_list">
+<h2>办事指南</h2><!--#begineditable name="办事指南" clone="0" namechanged="0" order="6" ispublic="0" tagname="办事指南" viewid="151982" contentviewid="" contype="" stylesysid="" layout="" action=""-->
+   <a href="info/1015/1002.htm">电子邮箱使用须知</a>
+   <a href="info/1015/1001.htm">上网帐号使用须知</a>
+   <a href="info/1015/1005.htm">校园无线上网须知</a>
+   <a href="info/1015/1004.htm">数据中心设备托管须知</a>
+   <a href="info/1015/1003.htm">用户服务须知</a>
+
+
+
+<script>_showDynClickBatch(['dynclicks_u8_1002','dynclicks_u8_1001','dynclicks_u8_1005','dynclicks_u8_1004','dynclicks_u8_1003'],[1002,1001,1005,1004,1003],"wbnews", 1344666014)</script>
+<!--#endeditable--><a class="more" href="ywbl/bszn.htm">更多&gt;</a> </div></div>
+<div class="cjwt">
+<div class="cyfw_list">
+<h2>服务指南</h2><!--#begineditable name="服务指南" clone="0" namechanged="0" order="7" ispublic="0" tagname="服务指南" viewid="151983" contentviewid="" contype="" stylesysid="" layout="" action=""-->
+     <a href="info/1020/2099.htm">新生网络信息使用说明</a>
+     <a href="info/1020/1468.htm">使用校园网电脑设置说明</a>
+     <a href="info/1020/1464.htm">校园网VPN使用说明</a>
+     <a href="info/1020/1443.htm">IPv6网络使用须知</a>
+
+
+
+<script>_showDynClickBatch(['dynclicks_u9_2099','dynclicks_u9_1468','dynclicks_u9_1464','dynclicks_u9_1443'],[2099,1468,1464,1443],"wbnews", 1344666014)</script>
+<!--#endeditable--><a class="more" href="yhfw/fwzn.htm">更多&gt;</a> </div><img alt="" src="dfiles/11207/themes/20628/default/images/cjwt.jpg"> </div>
+<div class="fwdh"><img alt="" src="dfiles/11207/themes/20628/default/images/fwdh.jpg"> 
+<div class="cyfw_list">
+<h2>服务电话</h2><!--#begineditable name="服务电话" clone="0" namechanged="0" order="8" ispublic="0" tagname="服务电话" viewid="151984" contentviewid="" contype="" stylesysid="" layout="" action=""--><script language="javascript" src="/system/resource/js/news/mp4video.js"></script>
+<a href="javascript:;" src="javascript:;">电话：84396018（教学区网络、校园信息应用）</a> 
+<a href="javascript:;" src="javascript:;">电话：84395733（宿舍区网络）</a> 
+<a href="javascript:;" src="javascript:;">地址：理科楼南一楼网络信息服务大厅</a><!--#endeditable--></div></div></div>
+<div class="news">
+<div class="xwdt">
+<div class="xwdt_title"><span><a href="gzdt.htm">更多&gt;</a></span> 
+<h2>工作动态</h2></div><!--#begineditable name="工作动态" clone="0" namechanged="0" order="9" ispublic="0" tagname="工作动态" viewid="151985" contentviewid="" contype="" stylesysid="" layout="" action=""--><div class="xwdt_jian">
+
+
+                 <img src="" alt="" width="103" height="77" class="xwdt_jian_img">
+            <div class="xwdt_jie">
+                <h3><a href="info/1038/2359.htm" title="图书与信息中心开展等保2.0培训交流">图书与信息中心开展等保2....</a></h3>
+                <p>                                        5月11日上午，图书与信息中心在理科南楼会议室召开了网络信息安全...
+                    <span class="hide_date" style="display: none">05/14</span></p>
+            </div>
+
+  
+  
+  
+  
+  
+  
+
+  <ul class="xwdt_list">
+
+<li><span class="hide_date" style="display: none">03/23</span> <span class="span">03/23</span><a href="info/1038/2320.htm" title="南京大学信息办来我校交流调研">南京大学信息办来我校交流调研</a></li>
+
+<li><span class="hide_date" style="display: none">03/21</span> <span class="span">03/21</span><a href="info/1038/2321.htm" title="图书馆第三党支部召开组织生活会和开展民主评议党员工作">图书馆第三党支部召开组织生活会和开展...</a></li>
+
+<li><span class="hide_date" style="display: none">03/19</span> <span class="span">03/19</span><a href="info/1038/2277.htm" title="信息中心赴工学院开展新门户使用讲座">信息中心赴工学院开展新门户使用讲座</a></li>
+
+<li><span class="hide_date" style="display: none">03/12</span> <span class="span">03/12</span><a href="info/1038/2278.htm" title="图书馆第三党支部召开新学期支部工作会议">图书馆第三党支部召开新学期支部工作会议</a></li>
+
+<li><span class="hide_date" style="display: none">01/13</span> <span class="span">01/13</span><a href="info/1038/2279.htm" title="我校荣获教育部第一批教育信息化试点项目优秀单位">我校荣获教育部第一批教育信息化试点项...</a></li>
+
+   </ul>
+        </div><script>_showDynClickBatch(['dynclicks_u11_2359','dynclicks_u11_2320','dynclicks_u11_2321','dynclicks_u11_2277','dynclicks_u11_2278','dynclicks_u11_2279'],[2359,2320,2321,2277,2278,2279],"wbnews", 1344666014)</script>
+<!--#endeditable--></div>
+<div class="tzgg">
+<div class="xwdt_title"><span><a href="tzgg.htm">更多&gt;</a></span> 
+<h2>通知公告</h2></div><!--#begineditable name="通知公告" clone="0" namechanged="0" order="10" ispublic="0" tagname="通知公告" viewid="152651" contentviewid="" contype="" stylesysid="" layout="" action=""--><ul class="xwdt_list">
+     <li><span class="hide_date" style="display: none">10/30</span> <span class="span">10/30</span><a href="info/1039/2527.htm" title="网络安全竞赛邀请通知">网络安全竞赛邀请通知</a></li>
+
+     <li><span class="hide_date" style="display: none">10/19</span> <span class="span">10/19</span><a href="info/1039/2507.htm" title="WebLogic Server存在远程代码执行漏洞预警">WebLogic Server存在远程代码执行...</a></li>
+
+     <li><span class="hide_date" style="display: none">10/16</span> <span class="span">10/16</span><a href="info/1039/2487.htm" title="微软发布多个安全漏洞预警">微软发布多个安全漏洞预警</a></li>
+
+     <li><span class="hide_date" style="display: none">09/08</span> <span class="span">09/08</span><a href="info/1039/2438.htm" title="新生网络信息使用说明">新生网络信息使用说明</a></li>
+
+     <li><span class="hide_date" style="display: none">09/06</span> <span class="span">09/06</span><a href="info/1039/2437.htm" title="关于做好GlobeImposter系列勒索病毒安全防护工作的预警通知">关于做好GlobeImposter系列勒索病...</a></li>
+
+     <li><span class="hide_date" style="display: none">08/25</span> <span class="span">08/25</span><a href="info/1039/2428.htm" title="红芯浏览器定制版解决浏览器兼容性使用说明">红芯浏览器定制版解决浏览器兼容...</a></li>
+
+     <li><span class="hide_date" style="display: none">08/01</span> <span class="span">08/01</span><a href="info/1039/2417.htm" title="关于统一身份认证系统短时暂停服务的通知">关于统一身份认证系统短时暂停服...</a></li>
+
+     <li><span class="hide_date" style="display: none">06/21</span> <span class="span">06/21</span><a href="info/1039/2387.htm" title="校园无线网络（NJAU）暂停升级通知">校园无线网络（NJAU）暂停升级通...</a></li>
+
+</ul>
+
+<script>_showDynClickBatch(['dynclicks_u12_2527','dynclicks_u12_2507','dynclicks_u12_2487','dynclicks_u12_2438','dynclicks_u12_2437','dynclicks_u12_2428','dynclicks_u12_2417','dynclicks_u12_2387'],[2527,2507,2487,2438,2437,2428,2417,2387],"wbnews", 1344666014)</script>
+<!--#endeditable--></div>
+<div class="yhjl">
+<div class="xwdt_title"><span><a href="lyb.jsp?urltype=tree.TreeTempUrl&amp;wbtreeid=1013" target="">更多&gt;</a></span> 
+<h2>用户交流</h2></div><!--#begineditable name="用户交流" clone="0" namechanged="0" order="11" ispublic="0" tagname="用户交流" viewid="152652" contentviewid="" contype="" stylesysid="" layout="" action=""--><ul class="yhjl_list">
+ <li><span>[问]</span><a href="info/1051/2029.htm" title="自助服务网页访问不了？">自助服务网页访问不了？</a></li>
+
+  <li><span>[问]</span><a href="info/1051/2028.htm" title="我的帐号为什么被停用？">我的帐号为什么被停用？</a></li>
+ <li><span>[问]</span><a href="info/1051/2010.htm" title="南苑无线网络很不稳定">南苑无线网络很不稳定</a></li>
+
+  <li><span>[问]</span><a href="info/1051/1973.htm" title="为什么在圈存机上充值没有到帐？">为什么在圈存机上充值没有到帐？</a></li>
+ <li><span>[问]</span><a href="info/1051/1972.htm" title="帐号还有钱，为什么不能上网？">帐号还有钱，为什么不能上网？</a></li>
+</ul>
+
+<script>_showDynClickBatch(['dynclicks_u13_2029','dynclicks_u13_2028','dynclicks_u13_2010','dynclicks_u13_1973','dynclicks_u13_1972'],[2029,2028,2010,1973,1972],"wbnews", 1344666014)</script>
+<!--#endeditable-->
+<div class="mini_logo"><!--#begineditable name="用户咨询" clone="0" namechanged="0" order="12" ispublic="0" tagname="用户咨询" viewid="152653" contentviewid="" contype="" stylesysid="" layout="" action=""-->    
+<a href="lyb.jsp?urltype=tree.TreeTempUrl&amp;wbtreeid=1013"><img src="dfiles/net_njau_edu_cn/themes/20628/default/images/jszx.jpg" alt="" width="20" height="20" style="vertical-align:middle;">用户咨询</a>
+
+<a href="tencent://message/?uin=1746527275&amp;Site=admin5.com&amp;Menu=yes"><img src="dfiles/net_njau_edu_cn/themes/20628/default/images/qq.jpg" alt="" width="20" height="20" style="vertical-align:middle;">报障QQ</a>
+
+<!--#endeditable--><a onclick="showMenu()"><img alt="" src="dfiles/11207/themes/20628/default/images/weixin.jpg" width="20" height="20" style="vertical-align: middle">微信号</a> 
+<div id="menu1" style="height: 260px; width: 200px; background: #fff; position: fixed; left: 64%; z-index: 9999999; display: none; top: 260px"><a href="javascript:void(0);" onclick="wei_hidden()" style="float: right; padding-bottom: 0px; padding-top: 5px; padding-left: 0px; padding-right: 5px">关闭</a> <!--#begineditable name="二维码" clone="0" namechanged="0" order="13" ispublic="0" tagname="二维码" viewid="152654" contentviewid="" contype="" stylesysid="" layout="" action=""-->     
+<img src="dfiles/net_njau_edu_cn/themes/20628/default/images/ewm.jpg" alt="" width="200" height="200">
+        <p style="width: 100%;text-align: center;font-size: 14px;color: #777;">请使用微信扫描二维码</p><!--#endeditable--></div><script type="text/javascript">
+function wei_hidden(){
+   document.getElementById('menu1').style.display='none';
+}
+      function showMenu()
+    {
+      document.all("menu1").style.display="block";
+    }
+  </script></div></div></div>
+<div class="menu_list"><!--#begineditable name="底部导航" clone="0" namechanged="0" order="14" ispublic="0" tagname="底部导航" viewid="152655" contentviewid="" contype="" stylesysid="" layout="" action=""--> <ul class="menu_list_items">
+<li><a href="lyb.jsp?urltype=tree.TreeTempUrl&amp;wbtreeid=1013" target="_self">用户交流</a>
+<div class="sec_nav_m">
+<div class="sec_nav_links_m">
+                    <a href="yhjl/cjwt.htm" target="_self">常见问题</a>
+                </div>
+<div class="sec_nav_links_m">
+                    <a href="lyb.jsp?urltype=tree.TreeTempUrl&amp;wbtreeid=1013" target="_self">在线咨询</a>
+                </div>
+ </div>
+</li>
+<li><a href="ywbl.htm" target="_self">业务办理</a>
+<div class="sec_nav_m">
+<div class="sec_nav_links_m">
+                    <a href="ywbl/bszn.htm" target="_self">办事指南</a>
+                </div>
+<div class="sec_nav_links_m">
+                    <a href="ywbl/cyxz.htm" target="_self">常用下载</a>
+                </div>
+<div class="sec_nav_links_m">
+                    <a href="ywbl/lxwm.htm" target="_self">联系我们</a>
+                </div>
+ </div>
+</li>
+<li><a href="yhfw/fwxm.htm" target="_self">用户服务</a>
+<div class="sec_nav_m">
+<div class="sec_nav_links_m">
+                    <a href="yhfw/fwxm.htm" target="_self">服务项目</a>
+                </div>
+<div class="sec_nav_links_m">
+                    <a href="yhfw/fwzn.htm" target="_self">服务指南</a>
+                </div>
+ </div>
+</li>
+<li><a href="xywl/xywjj.htm" target="_self">校园网络</a>
+<div class="sec_nav_m">
+<div class="sec_nav_links_m">
+                    <a href="xywl/xywjj.htm" target="_self">校园网简介</a>
+                </div>
+<div class="sec_nav_links_m">
+                    <a href="xywl/wlzy.htm" target="_self">网络资源</a>
+                </div>
+<div class="sec_nav_links_m">
+                    <a href="http://media.njau.edu.cn/list.html" target="_self">东方频道</a>
+                </div>
+ </div>
+</li>
+<li><a href="xxhjs.htm" target="_self">信息化建设</a>
+<div class="sec_nav_m">
+<div class="sec_nav_links_m">
+                    <a href="xxhjs/xxhjj.htm" target="_self">信息化简介</a>
+                </div>
+<div class="sec_nav_links_m">
+                    <a href="xxhjs/xxyy.htm" target="_self">信息应用</a>
+                </div>
+<div class="sec_nav_links_m">
+                    <a href="xxhjs/xxaq.htm" target="_self">信息安全</a>
+                </div>
+ </div>
+</li>
+<li><a href="glzd.htm" target="_self">管理制度</a>
+<div class="sec_nav_m">
+<div class="sec_nav_links_m">
+                    <a href="glzd/zcfg.htm" target="_self">政策法规</a>
+                </div>
+<div class="sec_nav_links_m">
+                    <a href="glzd/xywgl.htm" target="_self">校园网管理</a>
+                </div>
+<div class="sec_nav_links_m">
+                    <a href="glzd/xxhgl.htm" target="_self">信息化管理</a>
+                </div>
+ </div>
+</li>
+<li><a href="xxhda.htm" target="_self">信息化档案</a>
+<div class="sec_nav_m">
+<div class="sec_nav_links_m">
+                    <a href="xxhda/nj.htm" target="_self">年鉴</a>
+                </div>
+<div class="sec_nav_links_m">
+                    <a href="xxhda/hyjy.htm" target="_self">会议纪要</a>
+                </div>
+<div class="sec_nav_links_m">
+                    <a href="xxhda/xmzb.htm" target="_self">项目周报</a>
+                </div>
+ </div>
+</li>
+         
+            </ul>
+
+<!--#endeditable--></div>
+<style type="text/css">
+#left_aside{
+    display:block;
+    height:92px;
+    position:absolute;
+    left:0;
+    top: 70px;
+    z-index:555;}
+#right_aside{
+    display:block;
+    height:92px;
+    position:absolute;
+    right:0;
+    top:58px;
+
+    z-index:555;}
+.close{
+    position:absolute;
+    z-index:999;
+    cursor:default;}
+.left{
+     top:10px;
+     right:15px;
+     color:#000;}
+.right{
+     top:10px;
+     left:15px;
+     color:#000;}
+.left:hover,.right:hover{cursor: pointer;color:#000;}
+</style>
+<!--
+<div cmsid="11730224"  id="left_aside">
+<a href="http://lic.njau.edu.cn/html/ffwlzpxc/2016/09/20/51c5fc80-c500-457e-b539-f45dcff7afac.html" target="_blank">
+<img src="/themes/20628/default/images/left.jpg">
+</a>
+<a href="javascript:void(0);" class="close left" onClick="left_hidden()">关闭</a>
+</div>
+
+<div cmsid="55137219"  id="right_aside">
+<a href="http://lic.njau.edu.cn/html/ffwlzpxc/2016/09/20/51c5fc80-c500-457e-b539-f45dcff7afac.html" target="_blank">
+<img src="/themes/20628/default/images/right.jpg">
+</a>
+<a href="javascript:void(0);" class="close right" onClick="left_hidden()">关闭</a>
+</div>
+
+--><script type="text/javascript">
+
+$(function(){
+      
+/*
+      $(".close").each(function(){
+          $(this).click(function(){
+             $(this).hide().parent("div").hide();
+          });
+      });
+*/
+      var windowWidth = $(window).width();
+      
+      $("#left_aside").asideAd().css({
+            left:parseInt((windowWidth - 1740)/2) + "px"
+      });
+      $("#right_aside").asideAd().css({
+            right:parseInt((windowWidth - 1740)/2) + "px"
+      });
+
+});
+
+
+(function(){
+
+    $.fn.extend({
+    asideAd:function(isLoad){
+        var _this = this;
+        var objH = parseInt(_this.height());
+
+        var topDis = parseInt((objH/3) + $(window).scrollTop() + 30);
+        if(!isLoad) {
+            $(_this).css({ "top": topDis });
+            $(window).resize(function(){
+                $(_this).asideAd(!isLoad);
+            });
+            $(window).sMouseWheel(function(){
+                $(_this).asideAd(!isLoad);
+            });
+        } else {
+            $(_this).stop();
+            $(_this).animate({ "top": topDis }, 50, "linear");
+        }
+      return this;
+    }
+});
+
+$.fn.extend({
+    sMouseWheel: function(fn) {
+        return $(this).bind("onmousewheel mousewheel DOMMouseScroll",fn);
+    }
+});
+
+})(jQuery)
+
+function left_hidden(){
+   document.getElementById('left_aside').style.display='none';
+   document.getElementById('right_aside').style.display='none';
+}
+
+</script><script language="JavaScript">
+function close_float_center(){
+ad1.style.visibility='hidden';
+}
+</script>
+<div class="footer">
+<div class="footer_con"><span class="wzdt"><!--#begineditable name="底部链接" clone="0" namechanged="0" order="15" ispublic="0" tagname="底部链接" viewid="152656" contentviewid="" contype="" stylesysid="" layout="" action=""--> <a href="http://www.njau.edu.cn/" target="_blank">学校主页</a>  |
+
+ <a href="http://lib.njau.edu.cn/" target="_blank">图书馆</a>  |
+
+ <a href="http://metc.njau.edu.cn/" target="_blank">多媒体教育中心</a>  
+<!--#endeditable--></span>
+<p style="margin-bottom: 16px; line-height: 32px">南京农业大学图书与信息中心</p><!--#begineditable name="版权" clone="0" namechanged="0" order="16" ispublic="0" tagname="版权" viewid="152657" contentviewid="" contype="" stylesysid="" layout="" action=""--><!-- 版权内容请在本组件"内容配置-版权"处填写 -->
+<p>Copyright © 2014 南京农业大学图书与信息中心 版权所有  All Rights Reserved</p><p>地址：中国南京卫岗1号  邮编：210095  电话：86-25-84396018   苏ICP备11055736号-3</p><!--#endeditable--></div></div><!--#begineditable name="右侧广告" clone="0" namechanged="0" order="17" ispublic="0" tagname="广告图片" viewid="194317" contentviewid="" contype="" stylesysid="" layout="" action=""-->  
+  
+  
+  
+<script language="javascript" src="/system/resource/js/ajax.js"></script>  
+<script language="JavaScript">  
+    
+    setInterval("imageCloseu19('layeru19')",30000);
+    
+    function imageCloseu19(id)  
+    {  
+        document.getElementById(id).style.display = 'none';  
+    }  
+</script>  
+
+<div id="layeru19" style="Z-INDEX:2;right:75px;POSITION:absolute; TOP:60px">  
+    <table border="0" cellpadding="0" cellspacing="0">  
+        <tr>  
+        <td>  
+              
+            <a href="https://winupdate.njau.edu.cn" target="_blank" onclick="addClickTimes(39180,1344666014,'wbimage')">
+                <img src="images/down_1.png" border="0"></a><br>  
+              
+            </td>  
+            </tr>  
+            <tr>  
+        <td>  
+              
+            <a href="https://kvirus.njau.edu.cn" target="_blank" onclick="addClickTimes(39180,1344666014,'wbimage')">
+                <img src="images/down_2.png" border="0"></a><br>  
+              
+            </td>  
+            </tr>  
+            <tr>  
+        <td>  
+              
+            <a href="http://kms.njau.edu.cn" target="_blank" onclick="addClickTimes(39180,1344666014,'wbimage')">
+                <img src="images/down_3.png" border="0"></a><br>  
+              
+            </td>  
+            </tr>  
+            </table>  
+</div>  <!--#endeditable--><!--#begineditable name="对联广告图片" clone="0" namechanged="0" order="18" ispublic="0" tagname="对联广告图片" viewid="188439" contentviewid="" contype="" stylesysid="" layout="" action=""--><!--     
+     
+     
+     
+<br>     
+     
+<SCRIPT language = JavaScript>    
+ 
+self.onError=null;     
+lastScrollXu20=0;lastScrollYu20=0;NS=(document.layeru20)?1:0;IE=(document.all)?1:0;FF=(document.getBoxObjectFor)?1:0;     
+lastScrollX2u20=0;lastScrollY2u20=0;NS=(document.layer2u20)?1:0;IE=(document.all)?1:0;FF=(document.getBoxObjectFor)?1:0;  
+function moveu20()     
+{
+try{    
+
+diffYu20=(document.documentElement && document.documentElement.scrollTop)?document.documentElement.scrollTop:document.body.scrollTop;
+diffXu20=(document.documentElement&&document.documentElement.scrollLeft)?document.documentElement.scrollLeft:document.body.scrollLeft;  
+if(diffYu20!=lastScrollYu20)
+{
+    percent =.1*(diffYu20-lastScrollYu20);     
+    if(percent>0)
+        percent=Math.ceil(percent);
+    else 
+        percent=Math.floor(percent);   
+        
+    document.getElementById("layeru20").style.top=parseInt(document.getElementById("layeru20").style.top)+percent+"px";
+  
+    lastScrollYu20=lastScrollYu20+percent;
+}     
+ 
+if(diffXu20!=lastScrollXu20)
+{
+    percent=.1*(diffXu20-lastScrollXu20);     
+    if(percent>0)
+        percent=Math.ceil(percent);
+    else 
+        percent = Math.floor(percent);     
+   
+    document.getElementById("layeru20").style.left+=percent;
+    lastScrollXu20=lastScrollXu20+percent;
+}
+}catch(e)
+{}
+}     
+ 
+ action =window.setInterval('moveu20()',1);   
+function move2u20()     
+{  
+try{   
+    diffY2u20=(document.documentElement && document.documentElement.scrollTop)?document.documentElement.scrollTop:document.body.scrollTop;
+    diffX2u20=(document.documentElement&&document.documentElement.scrollLeft)?document.documentElement.scrollLeft:document.body.scrollLeft;
+    
+if(diffY2u20!=lastScrollY2u20)
+{
+    percent =.1*(diffY2u20-lastScrollY2u20);     
+    if(percent>0)
+        percent=Math.ceil(percent);
+    else 
+        percent=Math.floor(percent);     
+    document.getElementById("layer2u20").style.top = parseInt(document.getElementById("layer2u20").style.top)+percent+"px";
+    
+    lastScrollY2u20=lastScrollY2u20+percent;
+}  
+
+if(diffX2u20!=lastScrollX2u20)
+{
+    percent=.1*(diffX2u20-lastScrollX2u20);     
+    if(percent>0)
+        percent=Math.ceil(percent);
+    else 
+        percent = Math.floor(percent);     
+  
+        document.getElementById("layer2u20").style.right+=percent;
+     lastScrollX2u20=lastScrollX2u20+percent;
+}
+}catch(e){}
+}  
+
+    action =window.setInterval('move2u20()',1);  
+    
+    </SCRIPT>     
+     
+<SCRIPT language = JavaScript>     
+    function imageCloseu20(id,id2)     
+    {     
+        document.getElementById(id).style.display = 'none';  
+          
+        document.getElementById(id2).style.display = 'none';  
+             
+    }     
+</SCRIPT>     
+  
+<DIV id=layeru20     
+    style='Z-INDEX:2;left:10px;POSITION:absolute; TOP:60px'>    
+    <table  border="0" cellpadding="0" cellspacing="0">     
+<tr>  
+        <td>     
+                 
+            <a href="info/1061/2107.htm" target=_blank
+               onclick="_addDynClicks('wbimage',1344666014,36520)">
+                <img src="images/left.jpg" width="166" height="400"   border="0"   ></a><br>     
+                 
+                    <a href="javascript:imageCloseu20('layeru20','layer2u20');"><img src="/system/resource/images/component/close.gif" align=right border='0'></a>
+                 
+            </td></tr>     
+</table>     
+</div>  
+<DIV id=layer2u20     
+    style='Z-INDEX:2;right:10px;POSITION:absolute; TOP:60px'>     
+    <table  border="0" cellpadding="0" cellspacing="0">     
+        <tr>  
+        <td>     
+                 
+            <a href="info/1061/2107.htm" target=_blank 
+               onclick="_addDynClicks('wbimage',1344666014,36519)">
+                <img src="images/left.jpg" width="166" height="400"   border="0"   ></a><br>     
+                 
+                    <a href="javascript:imageCloseu20('layeru20','layer2u20');"><img src="/system/resource/images/component/close.gif" align=left border='0'></a>
+                 
+            </td></tr>     
+       </table>     
+</div>   
+--><!--#endeditable-->
+
+</body></html>

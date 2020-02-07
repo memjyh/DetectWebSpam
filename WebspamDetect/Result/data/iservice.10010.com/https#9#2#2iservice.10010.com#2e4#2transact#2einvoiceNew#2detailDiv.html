@@ -1,0 +1,197 @@
+https://iservice.10010.com/e4/transact/einvoiceNew/detailDiv.html
+<html><head><style media="screen">
+  #shoufei{
+    line-height: 24px;
+    margin-left: 10px;
+  }
+  #ts_invoice_email{
+    margin-top: 30px;
+    cursor: pointer;
+    display: block;
+  }
+  #download{
+    margin-top: 30px;
+    cursor: pointer;
+    display: block;
+  }
+  #kaiju2{
+    margin-top: 30px;
+    cursor: pointer;
+  }
+
+  #messageShow{
+    color: red;
+    font-size: 14px;
+    text-align: center;
+  }
+  #messageShowKaiPiao{
+    color: red;
+    font-size: 14px;
+    display: block;
+    text-align: center;
+  }
+  #downIsTrue{
+    display: none;
+    color: red;
+    font-size: 14px;
+    text-align: center;
+  }
+  .space-10{
+    clear: both;
+    display: block;
+    height: 10px;
+  }
+  .space-20{
+    clear: both;
+    display: block;
+    height: 20px;
+  }
+  .fpxq .title {
+      font-size: 14px;
+      font-weight: bold;
+  }
+  #fpContId{
+    text-align: left;
+    font-size: 12px;
+  }
+  .title {
+      height: 50px;
+      margin: 0 auto;
+      text-align: center;
+      vertical-align: middle;
+      line-height: 50px;
+  }
+  .title_yk h1 {
+      vertical-align: middle;
+      font-size: 32px;
+  }
+  .yk_h1 img{
+    vertical-align: middle;
+    margin-top: -5px;
+  }
+  .fpxq .title {
+      font-size: 14px;
+      font-weight: bold;
+  }
+  .accuntNew {
+      font-size: 14px;
+      text-align: center;
+  }
+  .fpCont p {
+      line-height: 24px;
+      margin-left: 10px;
+  }
+  .ewm_n{
+    display: block;
+    margin: 26px auto 10px;
+  }
+  .ewm_n+p{
+    text-align: center;
+    color:#333;
+    font-size: 12px;
+  }
+
+  .rec_btn {
+      background-color: #ff7744;
+      width: 90%;
+      margin: 0 auto;
+      color: #fff;
+      text-align: center;
+      height: 45px;
+      line-height: 45px;
+      border-radius: 3px;
+      border: none;
+      outline: none;
+      margin-left: 20px;
+      font-size: 16px;
+      letter-spacing: 5px;
+  }
+  .rec_btn_a1 {
+      height: 47px;
+      background: #ffffff;
+      border: 1px solid #ff7744 !important;
+      text-align: center;
+      color: #ff7744 !important;
+      display: block;
+      float: left;
+      margin-left: 25px;
+      text-decoration: none !important;
+  }
+  .rec_btn_a1 {
+      width: 175px;
+      display: inline;
+      border: red 1px solid;
+  }
+
+  .rec_btn_a2 {
+      height: 47px;
+      background: #ff7744;
+      text-align: center !important;
+      color: #ffffff !important;
+      display: block;
+      float: right;
+      margin-right: 25px;
+      text-decoration: none !important;
+  }
+
+    .rec_btn_a2 {
+        width: 175px;
+        display: inline;
+        border: green 1px solid;
+    }
+.disabled{
+  background: #ccc!important;
+}
+dt, dd {
+    line-height: 24px;
+}
+</style>
+
+
+</head><body><div class="fpxq" style="">
+  <!-- <div class="title title_yk">
+    <h1 class="yk_h1"><img src="/e4/images/bcg.png" alt="">已开票</h1>
+  </div> -->
+	<div class="accuntNew" id="priceTotalId">
+		<em>费用 : <span class="colorff7744">7.40</span></em>元
+	</div>
+	<div class="fpCont" id="fpContId">
+		<p>发票代码：011001600211</p>
+		<p>发票号码：35607943</p>
+		<p></p>
+		<p></p>
+		<dl id="shoufei">
+	      <dt> 账期 : 201712</dt>
+	      <dt>账户标识 : 1114062919198438</dt>
+	    </dl>
+		<p class="titleFee">费用：7.40元</p>
+		<p></p>
+		<p>发票状态：可下载</p>
+<!-- 		<p style="color: #999999;" class="tip">注：如您是多张发票合并开票，电子发票单（PDF）上金额等于发票总金额，不能拆分。</p>
+ -->	    <div class=""><img class="ewm_n" src="">
+	      <p>（扫码可加入支付宝发票管家或微信卡包）</p>
+	    </div>
+  </div>
+	<div>
+	    <div class="rec_btn_a1 rec_btn" id="ts_invoice_email" style="" onclick="ts_onClick()">
+        推送到邮箱
+      </div>
+      <div class="rec_btn rec_btn_a2" id="download" onclick="fn_onClick()">
+        下载电子发票(PDF)
+      </div>
+	</div>
+	<button class="rec_btn" id="kaiju2" style="">立即开电子发票</button>
+	<div class="space-10"></div>
+	<div id="messageShow" style=""></div>
+	<div id="messageShowKaiPiao">*下载后请使用PDF阅读器打开。</div>
+	<div class="space-20"></div>
+	<div id="downIsTrue">
+    下载提示：您的电子发票下载失败。
+  </div>
+</div>
+
+<script type="text/javascript">
+ /*  $('body').delegate('#kaiju2','click',function(){
+    $('.kaifaipiaoTipTc,.mc').removeClass('dn');
+  }) */
+</script></body></html>

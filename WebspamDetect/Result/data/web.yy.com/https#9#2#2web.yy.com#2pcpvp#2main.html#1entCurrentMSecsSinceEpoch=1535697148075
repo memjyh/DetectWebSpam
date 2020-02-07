@@ -1,0 +1,21 @@
+https://web.yy.com/pcpvp/main.html?entCurrentMSecsSinceEpoch=1535697148075
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <title>主流程页面</title>
+    <meta name="keywords" content="主流程页面">
+    <meta name="description" content="主流程页面">
+    <meta name="format-detection" content="telephone=no, email=no">
+    <meta name="applicable-device" content="mobile">
+    <link rel="dns-prefetch" href="//res.yy.com">
+    <link rel="dns-prefetch" href="//page.yy.com">
+    <link rel="stylesheet" href="//web.yystatic.com/project/pcpvp/pc/assets/css/help-b973738dca.css">
+</head>
+<body>
+<div id="app"></div>
+
+    <script src="//res.yy.com/libs/??vue/2.3.3/vue.min.js,jquery/1.9.0/jquery.min.js"></script>
+<script src="//cdn.hiido.com/sdk/websdk.js"></script>
+<script src="//web.yystatic.com/project/pcpvp/pc/assets/js/main-cdb2da8b8b.js"></script>
+</body>
+</html>

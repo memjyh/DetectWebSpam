@@ -1,0 +1,35 @@
+https://images.sohu.com/bill/default/9700090.html?pid=10021&clkm=http%3A%2F%2Fi.go.sohu.com%2Fcount%2Fc%3Fsuv%3D180803123153XBVC%26subid%3D%26newsid%3D%26appid%3Dpcnews%26aid%3D%26apid%3Dbeans_10021%26impid%3D%26at%3D1%26mkey%3D%26latcy%3D172%26freq%3D%26turn%3D1%26ax%3D241%26ay%3D55%26cx%3D241%26cy%3D55%26ed%3D%26bucket%3D%26ext%3D%26uloc%3D%26position%3D%26shbd_monitor_ext%3D%26supplyid%3D1%26pagerefer%3Dhttp%253A%252F%252Fit.sohu.com%252F20180831%252Fn548067839.shtml%26rsln%3D1707*960%26sf%3D1%26pgid%3Dit-article%26newschn%3D17%26r%3D0987271423253
+<html>
+<head>
+  <meta charset="utf-8">
+  <title>Default</title>
+  <style type="text/css">
+    body,
+    div,
+    a{
+        margin:0px;
+        padding:0px;
+    }
+  </style>
+</head>
+<script type="text/javascript" src="http://www.sohu.com/sohuflash_1.js"></script>
+<script type="text/javascript" src="http://images.sohu.com/bill/default/v5.js"></script>
+<body>
+<div style=";overflow:hidden;position: absolute; left: 0pt; top: 0pt; z-index: 2;" id="contain"></div>
+<a id="click" target="_blank" href="">
+   <img id="click-img" border="0" style="position: absolute; left: 0px; top: 0px; z-index: 3;" src="http://images.sohu.com/bill/default/1x1.gif">
+</a>
+<script type="text/javascript">
+    var  width =  970;
+    var  height=  90;
+    show([
+
+{
+        key:'1',
+file:'http://images.sohu.com/bill/s2018/ranzhang/mr/1106/970x90.jpg',
+click:'https://tv.sohu.com/v/MjAxODEwMTIvbjYwMDYxMjE3My5zaHRtbA==.html'
+    }
+	]);
+</script>
+</body>
+</html>

@@ -1,0 +1,42 @@
+https://da.duowan.com/loc/135
+<html><body><p>(function() {
+    var bgShow = {
+        'yingshivideo': {
+            imgUrl: 'http://img.dwstatic.com/duowanvideo/bg/bg-glance.jpg',
+            link: 'http://app.duowan.com/wjy/?from=dwplayer'
+        },
+        'kan': {
+            imgUrl: 'http://img.dwstatic.com/duowanvideo/bg/bg-glance.jpg',
+            link: 'http://app.duowan.com/wjy/?from=dwplayer'
+        }
+    }
+    var curChannel = document.head.getAttribute("data-channel");
+    var curDa = bgShow[curChannel];
+    var createStyleSheet = function (cssText) {
+			var stylesheet;
+			if (document.createStyleSheet) {
+				stylesheet = document.createStyleSheet();
+				stylesheet.cssText = cssText;
+			} else {
+				stylesheet = document.createElement("style");
+				stylesheet.appendChild(document.createTextNode(cssText));
+				document.getElementsByTagName("head")[0].appendChild(stylesheet);
+			}
+			return stylesheet;
+	 }
+    if (curDa) {
+        createStyleSheet('body{background-image: url("' + curDa.imgUrl + '")}');
+        var daLeft = document.getElementById("daLeft");
+        var daRight = document.getElementById("daRight");
+        daLeft.href = curDa.link;
+        daLeft.style.display = "block";
+        daLeft.className = 'da-block-wrapper daitem-left';
+        daLeft.setAttribute('locid', '135')
+        daLeft.setAttribute('pid', '0')
+        daRight.href = curDa.link;
+        daRight.style.display = "block";
+        daRight.className = 'da-block-wrapper daitem-right';
+        daRight.setAttribute('locid', '135')
+        daRight.setAttribute('pid', '0')
+    }
+})()</p></body></html>

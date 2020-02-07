@@ -1,0 +1,292 @@
+https://s.show.qiangzuotong.cn/Public/popup/fmt/POw8od.html?p=1663%7C%E9%87%91%E5%B1%B1%E6%AF%92%E9%9C%B8
+<html>
+<head>
+<meta charset="utf-8">
+<title>垃圾清理提醒</title>
+<script src="../../js/jquery.js"></script>
+<script src="ads.js?rnd=1004"></script>
+<style>
+body{ padding:0px;}
+/*右下角悬浮框*/
+img{border:none}
+#pop{width:443px; height:225px;font-size:12px;position:fixed;right:0;bottom:0; z-index:100000001; overflow:hidden; background:#fefefe;border: 1px solid #149d76;}
+#popHead{ color:#858484; font-size:14px; font-family:"微软雅黑"; width:445px; height:32px; background:#149d76; color:#FFFFFF; position:relative; z-index:10008;}
+.showicon{ line-height:33px; text-indent:15px;}
+#popHead #popClose{position:absolute;right:0px; top:1px; width:20px; height:30px; background:url(images/colose.gif) center no-repeat; z-index:10001; outline:none;}
+#popHead .online{ line-height:32px; position:absolute; top:0px; right:45px;}
+#popHead .online a{ color:#FFFFFF; text-decoration:none;  outline:none;}
+#popHead a#popClose:hover{color:#f00;cursor:pointer;}
+#popHead .showtips{position:absolute;right:16px; top:1px; width:28px; height:32px; background:url(images/tips.gif) center no-repeat; z-index:10001;}
+#popHead .showtips .showlistnew{ width:130px; position:absolute; background:#ffffff; border:#CCCCCC 1px dashed; right:-15px; top:18px; +top:31px; _top:31px; overflow:hidden; text-align:left;  z-index:10008; cursor:pointer; display:none; border:none;}
+#popHead  .showtips .showlistnew dt{ list-style:none; line-height:30px; height:30px; color:#333333; font-size:12px; border-bottom:#CCCCCC 1px dashed; position:relative; text-indent:25px;}
+#popHead  .showtips .showlistnew dt img{ position:absolute; top:8px; left:7px;}
+#popHead  .showtips  .showlistnew dt.showclose{ color:#CCCCCC;}
+#popContent{ width:445px; height:195px; background:#fefefe; position:relative;}
+.showtitletips{ position:absolute; left:55px; bottom:21px;color:#c4c4c4; }
+.showadtips{ position:absolute; left:15px; bottom:21px;  color:#c4c4c4; width:37px; height:18px; background:url(images/newad.png) left top no-repeat;  }
+.lefttext{ width:292px; height:92px; padding:41px 0px 0px 153px; color:#575757; font-size:20px; font-family:"微软雅黑"; background:url(images/dbbg1.jpg) 40px 35px no-repeat; }
+.lefttext .showtext{ font-size:12px; color:#999999; font-family:"微软雅黑";}
+.rightbtn{ width:263px; height:60px; overflow:hidden; float:right; }
+.rightbtn a.closebtn { display:block; float:left; width:85px; height:62px; text-align:center; line-height:60px; color:#c4c4c4; text-decoration:underline}
+.rightbtn a.setbtn { display:block; float:left; width:155px; height:40px; line-height:40px; background:#149d76; font-size:18px; color:#FFFFFF; text-align:center; text-decoration:none;}
+.rubishtext{ color:#ff855a; font-size:28px;}
+.rightbtn img{ margin-top:20px;}
+/*弹出提示框*/
+.showconfirmtps {width: 256px;height: 100px;position: absolute;z-index: 10005;background: #FFF;border-radius: 2px;color: #FFFFFF;font-size: 13px;border: 1px solid #149d76;display: none;}
+.caption {background: #149d76;height: 20px;line-height: 20px;padding-left: 5px;}
+
+.showconirmtext{ width:100%; height:40px; line-height:40px; text-align:center;COLOR: #666;}
+.leftbtnpop { background:#CCCCCC; color:#FFFFFF; font-size:13px; text-align:center; width:70px; height:35px; line-height:35px; border-radius: 5px; float:left; margin-left:50px; _margin-left:15px; cursor:pointer;}
+.rightbtnpop { background:#149d76; color:#FFFFFF; font-size:13px; text-align:center; width:70px; height:35px; line-height:35px; border-radius: 5px; float:left; margin-left:30px; cursor:pointer;}
+	
+</style>
+<script language="javascript">
+var myshow=0;
+function MiniMiw() {
+	external.MinWnd();
+}
+function CloseMiw() {
+	myshow=0;
+	external.Close();
+}
+function ExitMiw() {
+	myshow=0;
+	external.Exit();
+}
+
+function closeHandle(){
+    $(".showconfirmtps").show();
+}
+    
+function mouseMove() {
+	window.external.MoveWnd();
+}
+function getQueryString(name)
+{
+    var reg = new RegExp("(^|&)"+ name +"=([^&]*)(&|$)");
+    var r = window.location.search.substr(1).match(reg);
+    if(r!=null)return  decodeURI(r[2]); return null;
+}
+/**
+ * 安装cpa
+ * @constructor
+ */
+function DoCpa(){
+    var getCpaids = getCpaId();
+	if(getCpaids!='' && getCpaids!=null){
+		window.external.ls("webBizCallback",getCpaids);
+	}else{
+		ExitMiw();
+	}
+}
+
+function getCpaId(){
+	var ids = [];
+	var param = getQueryString("p");
+	if(param != null && param!= ""){
+		param = param.split("-");
+		for(var i in param){
+			ids.push(param[i].split("|")[0]);
+		}
+	}
+	ids = ids.join(",");
+	return ids;
+}
+		
+function WinHandle(){
+	CloseMiw();
+	window.external.ls("reportClick","");
+	DoCpa();
+}
+function setCookieself(name,value , Days) 
+{ 
+    //var Days = 3; 
+    var exp = new Date(); 
+    exp.setTime(exp.getTime() + Days*60*60*1000); 
+    document.cookie = name + "="+ escape (value) + ";expires=" + exp.toGMTString() + ";path=/"; 
+}
+
+function getCookieself(name) 
+{ 
+    var arr,reg=new RegExp("(^| )"+name+"=([^;]*)(;|$)");
+    if(arr=document.cookie.match(reg))
+ 
+        return unescape(arr[2]); 
+    else 
+        return null; 
+}
+
+
+var showtab = new Array();
+showtab['0'] = "2.45GB";
+showtab['1'] = "1.2GB";
+showtab['2'] = "900MB";
+showtab['3'] = "3.23GB";
+showtab['4'] = "1.8GB";
+showtab['5'] = "2.7GB";
+
+function doshowset(url){
+	window.open(url);
+	CloseMiw();
+	window.external.ls("webFeedback","30");
+}
+</script>
+
+</head>
+
+<body onselectstart="return false" oncontextmenu="return false">
+<div id="pop" style="display:block;">
+	
+	<div class="showconfirmtps" style="left: 94px; top: 50.4px; display: none;">
+		<div class="caption">提示</div>
+		<div class="showconirmtext">是否确认关闭后完成垃圾清理?</div>
+		<div class="showconfirmbtn">
+			
+			
+		<div class="rightbtnpop" onclick="WinHandle()">确认</div><div class="leftbtnpop" onclick="ExitMiw()">取消</div></div>
+	</div>
+	
+  	<div id="popHead">
+		<div class="showicon">极客压缩-垃圾清理提醒</div>
+		<div class="online"><a onclick="doshowset('http://feedback.duobaoqibin.com/2017/0831/82055.html')" href="javascript:void(0);">在线反馈</a></div>
+		
+		<div class="showtips">
+			<dl class="showlistnew">
+				<dt id="dayall"><img src="../images/normal.jpg">不再提示</dt>
+				<dt id="daythree" style="display:none;"><img src="../images/normal.jpg">三日内不再提示</dt>
+			</dl>
+		</div>
+		<a onclick="closeHandle();" href="javascript:void(0);" target="_self" id="popClose"></a>
+	</div>
+	<div id="popContent">
+		<div class="showlist">
+			<div class="lefttext">
+				<div>检测到<span class="rubishtext"></span>软件垃圾</div>
+				<div class="showtext">使用毒霸垃圾清理，给电脑加速</div>
+			</div>
+			<div class="rightbtn">
+				<a href="javascript:void(0);" class="closebtn" onclick="ExitMiw()">暂不清理</a>
+				<a href="javascript:void(0);" class="setbtn" onclick="WinHandle()">一键清理</a>
+			</div>
+		</div>
+		<div class="showtitletips"></div>
+		<div class="showadtips"></div>
+	</div>
+  </div>
+<script src="../config_v1.js?rnd=1004"></script>
+<script>
+var popad=new Pop();
+function isshowtips(){
+	if(myshow==0){
+		return false;
+	}else{
+		return true;
+	}
+}
+
+window.onload = function(){
+//theree set
+	var getshowname = "xxp_showsecond_allduba";
+	var getsetshow = getCookieself(getshowname);
+	var isshow = 0;
+	if(getsetshow == null || getsetshow =="null" || getsetshow == "" || getsetshow == "undefined"){	
+	}else{
+		isshow=1;
+	}
+
+	$("#daythree").bind("click",function(){
+		if(isshow==0){
+			isshow=1;
+			$("#daythree").addClass("showclose");
+			setCookieself(getshowname , "1",72);
+			$("#daythree img").attr("src","../images/focus.jpg");
+			window.external.Nextdate(3);
+			setcloseshow("dubapdshow_3");
+		}else{
+			isshow=0;
+			$("#daythree").removeClass("showclose");
+			setCookieself(getshowname , "",0);
+			$("#daythree img").attr("src","../images/normal.jpg");
+			window.external.Nextdate(3);
+		}
+	});
+	if(isshow==1){
+		$("#daythree").addClass("showclose");
+		$("#daythree img").attr("src","../images/focus.jpg");
+	}
+	
+	//allset
+	var getshowname_all = "xxp_ykshow_all_allduba";
+	var getsetshow_all = getCookieself(getshowname_all);
+	var isshow_all = 0;
+	if(getsetshow_all == null || getsetshow_all =="null" || getsetshow_all == "" || getsetshow_all == "undefined"){	
+	}else{
+		isshow_all=1;
+	}
+	$("#dayall").bind("click",function(){
+		if(isshow_all==0){
+			isshow_all=1;
+			$("#dayall").addClass("showclose");
+			setCookieself(getshowname_all , "1",8760);
+			$("#dayall img").attr("src","../images/focus.jpg");
+			window.external.Nextdate(2000);
+			setcloseshow("dubapdshow_never");
+		}else{
+			isshow_all=0;
+			$("#dayall").removeClass("showclose");
+			setCookieself(getshowname_all , "",0);
+			$("#dayall img").attr("src","../images/normal.jpg");
+			window.external.Nextdate(3);
+		}
+	});
+	if(isshow_all==1){
+		$("#dayall").addClass("showclose");
+		$("#dayall img").attr("src","../images/focus.jpg");
+	}
+	
+	
+	//div set
+	$(".showtips").bind("click",function(){
+		if($(".showlistnew").is(":hidden")){
+			$(".showlistnew").show();
+		}else{
+			$(".showlistnew").hide();
+		}
+	});
+
+	$(".showlistnew").bind("mouseout",function(){
+		//$(".showlistnew").hide();
+	});
+	
+	setTimeout(function(){ExitMiw();},900000);
+	//checkallsoftlist
+	if( showallcheckbox() ){	
+		//checknowsoftlist
+		if(isshow_all ==1 || isshow ==1){
+			ExitMiw();
+		}else{
+			setCookieself(getmcname , "1",setcookietime);			
+			myshow =1;
+			window.external.ShowWeb();
+		}
+	}else{		
+		ExitMiw();
+	}
+}
+$(document).ready(function(){
+	//初始化关闭
+	$("#closeshowsrc").attr("src","about:blank");
+	
+	var getnum = parseInt(5*Math.random());
+	$(".rubishtext").html(showtab[getnum] );
+});
+
+
+
+</script>
+<div style="display:none">
+	<div style="display:none;"><iframe src="about:blank" style="display:none;" id="closeshowsrc"></iframe></div>
+	<script type="text/javascript">var cnzz_protocol = (("https:" == document.location.protocol) ? " https://" : " http://");document.write(unescape("%3Cspan id='cnzz_stat_icon_1264038612'%3E%3C/span%3E%3Cscript src='" + cnzz_protocol + "s4.cnzz.com/z_stat.php%3Fid%3D1264038612%26show%3Dpic' type='text/javascript'%3E%3C/script%3E"));</script>
+</div>
+</body>
+</html>

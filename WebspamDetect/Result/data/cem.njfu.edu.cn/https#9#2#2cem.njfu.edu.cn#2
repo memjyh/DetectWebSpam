@@ -1,0 +1,55 @@
+https://cem.njfu.edu.cn/
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>404</title>
+<style>
+body, div {
+    margin: 0;
+    padding: 0;
+}
+body {
+    background: url("/static/image/404/error_bg.jpg") repeat-x scroll 0 0 #67ACE4;
+}
+#container {
+    margin: 0 auto;
+    padding-top: 50px;
+    text-align: center;
+    width: 560px;
+}
+#container img {
+    border: medium none;
+    margin-bottom: 50px;
+}
+#container .error {
+    height: 200px;
+    position: relative;
+}
+#container .error img {
+    bottom: -50px;
+    position: absolute;
+    right: -50px;
+}
+#container .msg {
+    margin-bottom: 65px;
+}
+#cloud {
+    background: url("/static/image/404/error_cloud.png") repeat-x scroll 0 0 transparent;
+    bottom: 0;
+    height: 170px;
+    position: absolute;
+    width: 100%;
+}
+</style>
+</head>
+<body>
+<!-- 代码 开始 -->
+<div id="container"><img class="png" src="/static/image/404/404.png">
+<p align="center"><font style="font-size: 28pt; filter: shadow(color=black); width: 71.27%; color: white; line-height: 150%; font-family: 微软雅黑; height: 60px"><b>您访问的站点维护中，请联系管理员！</b></font></p>
+</div>
+<div id="cloud" class="png"></div>
+<!-- 代码 结束 -->
+
+ 
+</body>
+</html>

@@ -1,0 +1,3 @@
+javascript:window.open(this.options[this.selectedIndex].value)
+self.location.href=options[selectedIndex].value
+get_cate(this.value)

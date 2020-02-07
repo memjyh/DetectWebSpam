@@ -1,0 +1,830 @@
+https://www.feng.com/
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta name="apple-itunes-app" content="app-id=981437434">
+
+<link rel="alternate" type="application/rss+xml" title="威锋网新闻RSS" href="https://www.feng.com/rss.xml">
+<title>威锋网-果粉大本营_威锋网</title>
+<meta name="description" content="威锋网诞生于2007年1月10日,与美国苹果公司(Apple Inc.)公布iPhone是同一天,也是较早建立的关于iPhone专题网站,威锋网论坛一直是人气中文iPhone,iPad,MAC社区,也是全球关于iPhone讨论的领先网上社区,威锋网出品了原创iPhone中文软件.目前网站提供iPhone软件评测,音乐,电影,铃声下载等服务.">
+<meta name="keywords" content="iPhone 7,iPhone 6s Plus,iPhone 6s,iPhone 6 Plus,iPhone 6,Apple Watch,Apple Watch价格,iPhone中文网,苹果论坛,iPhone5,iPhone5s,iPhone4,iPhone4S,iPad2,iPad3,iPad Pro,Apple Pencil ,iPad Air,iPad mini,iPhone 3GS,iPad,iPhone手机,Mac软件,iPhone Girl,itunes,iPhone模拟器,iPhone价格,iPhone论坛,iPhone新手指南,iPhone教程,破解,周边,iPhone软件,iPhone游戏,主题,壁纸,铃声,下载,Apple TV,iPhone,Apple">
+<link rel="stylesheet" type="text/css" href="https://www.feng.com/images_v4/style/common.css"><script type="text/javascript" src="https://www.feng.com/images_v4/js/jquery-1.7.min.js"></script><script type="text/javascript" src="https://www.feng.com/images_v4/js/common.js"></script>
+
+<script type="text/javascript">
+(function(){
+if( document.referrer && (
+		document.referrer.match(/bbs\.feng\.com\/mobile\-.+\.html/i) ||
+		document.referrer.match(/bbs\.feng\.com\/plugin\.php/i)
+	) ){
+	return ds.setCookie('view_origin', 1, 1);
+}
+if( navigator.userAgent.match(/(iPhone|iPod|Android|ios)/i) && ds.getCookie('view_origin') != 1 ){
+	location.replace('https://bbs.feng.com/mobile-index.html');
+}
+})();
+</script>
+</head><link rel="stylesheet" type="text/css" href="https://www.feng.com/images_v4/style/feng_index.css"><script type="text/javascript" src="https://www.feng.com/images_v4/js/jquery.marquee.min.js"></script><body>
+<div class="xin_global_topbar_wrap">
+<div id="xin_global_topbar" class="xin_global_topbar">
+	<div id="input1" class="wrap">
+		<!--<a href="//www.feng.com" class="logo"> <img	src="//www.feng.com/images_v5/images/gb_logo.png" /> </a>-->
+		<a href="https://yes1.feng.com/click.php?n=a988dde7&amp;zoneid=242" class="logo"><img src="https://yes1.feng.com/view.php?what=zone:242&amp;n=a988dde7"></a>
+		<div class="topbarBox">
+			<script src="https://www.feng.com/images_v5/js/jquery.autocomplete.min.ajax.js"></script>
+			<div class="form-input">
+				<form class="form-submit" action="https://s.feng.com/search.php" method="get">
+	        <span class="searchBtn"><i></i></span>
+					<input type="text" name="srchtxt" class="open" placeholder="搜索关键字">
+					<input type="hidden" name="srchmod" value="all">
+					<button type="submit" class="enter open"><i></i></button>
+				</form>
+			</div>
+			<div class="server clearfix">
+				<ul class="sign_btn">
+					<li>
+						<a data-ref href="https://bbs.feng.com/hack.php?H_name=ssourl&amp;action=ajax&amp;cmd=login" id="user_login" class="login">登录</a>
+					</li>
+					<li>
+						<a data-ref href="https://bbs.feng.com/hack.php?H_name=ssourl&amp;action=ajax&amp;cmd=register" class="register">注册</a>
+					</li>
+				</ul>
+				<ul class="user_name" style="display:none;">
+					<li class="drop_li">
+						<a data-user="href:acount" href="javascript:void(0);"><span data-user="user_name"></span><i data-user="toggle:msg"></i></a>
+						<ul class="user_drop-down	drop_list">	<em><i></i></em>
+							<li>
+								<a href="https://bbs.feng.com/home.php?mod=spacecp&amp;ac=usergroup">等级：<span data-user="user_level"></span></a>
+							</li>
+							<li class="line">
+								<a href="https://bbs.feng.com/home.php?mod=spacecp&amp;ac=credit&amp;showcredit=1">积分：<span data-user="credits"></span></a>
+							</li>
+							<li>
+								<a href="https://bbs.feng.com/home.php?mod=space&amp;do=pm">消息<em data-user="msg"></em></a>
+							</li>
+							<!--li class="a_color">
+							<a href="plugin.php?id=mpage_sign:sign"	onclick="showWindow('sign',	this.href)">每日签到</a>
+							</li-->
+							<li>
+								<a href="https://bbs.feng.com/home.php?mod=spacecp">设置</a>
+							</li>
+							<li class="line">
+								<a href="https://passport.feng.com/">账户中心</a>
+							</li>
+							<li data-user="toggle:admincp" data-line="up-admin">
+								<a href="https://bbs.feng.com/forum.php?mod=modcp">论坛管理</a>
+							</li>
+							<li data-user="toggle:patrol" data-line="up-admin">
+								<a href="https://bbs.feng.com/plugin.php?id=patrol:tid">巡查</a>
+							</li>
+							<li data-user="toggle:assess" data-line="up-admin">
+								<a href="https://bbs.feng.com/plugin.php?id=mteam&amp;op=report">考核</a>
+							</li>
+							<li>
+								<a data-ref href="https://bbs.feng.com/hack.php?H_name=ssourl&amp;action=ajax&amp;cmd=logout">退出账户</a>
+							</li>
+						</ul>
+					</li>
+				</ul>
+			</div>
+		</div>
+	</div>
+</div>
+<div id="xin_global_nav" class="xin_global_nav">
+	<div class="wrap">
+		<ul class="nav_list">
+			<li class="drop_li">
+				<a href="https://www.feng.com/" class="active">首页</a>
+			</li>
+			<li class="drop_li zixun">
+				<a href="https://news.feng.com/">资讯<em></em></a>
+				<ul class="drop_list">
+                	<em><i></i></em>
+                    <li>
+                        <a href="https://news.feng.com/">新闻</a>
+                    </li>
+                    <li>
+                        <a href="https://tech.feng.com/">科技</a>
+                    </li>
+                    <li>
+                        <a href="https://www.feng.com/view/">观点</a>
+                    </li>
+                    <!--<li>
+                        <a href="https://www.feng.com/Story/">热门话题</a>
+                    </li>
+                    <li>
+                        <a href="https://tech.feng.com/TechStory/">科技周漫谈</a>
+                    </li>-->
+                    <!--<li>
+                        <a href="javascript:;">游戏</a>
+                    </li>
+                    <li>
+                        <a href="javascript:;">每周应用推荐</a>
+                    </li>-->
+                    <!--<li>
+                        <a href="https://www.feng.com/Topic/">专题</a>
+                    </li>-->
+                </ul>
+			</li>
+			<li class="drop_li">
+				<a href="https://bbs.feng.com/">论坛</a>
+			</li>
+			<li class="drop_li">
+				<a href="javascript:;">苹果工具<em></em></a>
+				<ul class="drop_list"> <em><i></i></em>
+					<li>
+						<a href="https://act.feng.com/wetools/index.php?r=appleinfo/index">苹果产品信息查询</a>
+					</li>
+					<li>
+						<a href="https://act.feng.com/wetools/index.php?r=iosRom/index">iOS固件下载</a>
+					</li>
+					<li>
+						<a href="https://act.feng.com/wetools/index.php?r=iosJailbreak/index">越狱工具中心</a>
+					</li>
+					<!--<li>
+					<a href="http://www.wefinder.com/">威锋密保</a>
+					</li>-->
+					<!--<li>
+						<a href="https://apt.feng.com/">威锋源</a>
+					</li>-->
+				</ul>
+			</li>
+			<li class="jiaoyi drop_li">
+				<a href="javascript:;">交易<em></em></a>
+				<ul class="drop_list"> <em><i></i></em>
+					<li>
+						<a target="_blank" href="https://weip.taobao.com/">官方店铺</a>
+					</li>
+					<li>
+						<a target="_blank" href="http://www.58yiji.com/?feng-pc">二手交易</a>
+					</li>
+					<li>
+						<a target="_blank" href="https://aos.prf.hn/click/camref:1101l38LJ/destination:https://www.apple.com/cn-k12/shop/go/back_to_school">苹果教育优惠</a>
+					</li>
+					</ul>
+				</li>
+				<li class="drop_li">
+					<a href="javascript:;">手机威锋<em></em></a>
+					<ul class="drop_list"> <em><i></i></em>
+						<li class="icon">
+							<a href="https://www.feng.com/app/"><b class="feng_icon"></b>威锋客户端</a>
+						</li>
+						<li><span>用微信扫我</span><img src="//www.feng.com/images_v5/images/fengCode.jpg"></li>
+					</ul>
+				</li>
+			</ul>
+			<div class="nav_search clearfix">
+				<div class="form-input">
+					<form class="form-submit" action="https://s.feng.com/search.php" method="get">
+		        <span class="searchBtn"><i></i></span>
+						<input type="text" name="srchtxt" class="open" placeholder="搜索关键字">
+						<input type="hidden" name="srchmod" value="all">
+						<button type="submit" class="enter open"><i></i></button>
+					</form>
+				</div>
+				<div class="server clearfix">
+					<ul class="sign_btn">
+						<li>
+							<a data-ref href="https://bbs.feng.com/hack.php?H_name=ssourl&amp;action=ajax&amp;cmd=register" class="register">注册</a>
+						</li>
+					</ul>
+					<ul class="user_name" style="display:none;">
+						<li class="drop_li">
+							<a data-user="href:acount" href="javascript:void(0);"><span data-user="user_name"></span><i data-user="toggle:msg"></i></a>
+							<ul class="user_drop-down	drop_list">	<em><i></i></em>
+								<li>
+									<a href="https://bbs.feng.com/home.php?mod=spacecp&amp;ac=usergroup">等级：<span data-user="user_level"></span></a>
+								</li>
+								<li class="line">
+									<a href="https://bbs.feng.com/home.php?mod=spacecp&amp;ac=credit&amp;showcredit=1">积分：<span data-user="credits"></span></a>
+								</li>
+								<li>
+									<a href="https://bbs.feng.com/home.php?mod=space&amp;do=pm">消息<em data-user="msg"></em></a>
+								</li>
+								<!--li class="a_color">
+								<a href="plugin.php?id=mpage_sign:sign"	onclick="showWindow('sign',	this.href)">每日签到</a>
+								</li-->
+								<li>
+									<a href="https://bbs.feng.com/home.php?mod=spacecp">设置</a>
+								</li>
+								<li class="line">
+									<a href="https://passport.feng.com/">账户中心</a>
+								</li>
+								<li data-user="toggle:admincp" data-line="down-admin">
+									<a href="https://bbs.feng.com/forum.php?mod=modcp">论坛管理</a>
+								</li>
+								<li data-user="toggle:patrol" data-line="down-admin">
+									<a href="https://bbs.feng.com/plugin.php?id=patrol:tid">巡查</a>
+								</li>
+								<li data-user="toggle:assess" data-line="down-admin">
+									<a href="https://bbs.feng.com/plugin.php?id=mteam&amp;op=report">考核</a>
+								</li>
+								<li>
+									<a data-ref href="https://bbs.feng.com/hack.php?H_name=ssourl&amp;action=ajax&amp;cmd=logout">退出账户</a>
+								</li>
+							</ul>
+						</li>
+					</ul>
+				</div>
+			</div>
+		</div>
+	</div>
+</div>
+<script type="text/javascript">
+!(function(){var setUser=function(){return this.userInfo=!1,this.callback=[],this};setUser.prototype={setUserInfo:function(a){return this.userInfo=a,this.run()},run:function(){var	a=this;return	$.each(this.callback,function(b,c){c.call(a,a.userInfo)}),this},addCallback:function(a){return this.callback.push(a),this.run()}},$.extend({setUser:new	setUser});})();
+$.getScript("//www.feng.com/images_v5/js/topbar.js", function(){
+	$.getScript('https://bbs.feng.com/newsheader.php?t=' + new Date().getTime());
+});
+</script>
+<div class="banner_wrap">
+	<div class="bannerBox" data-tabs-wrap data-panel-selector=".control_bar span" data-panel-trigger="click" data-panel-class="active" data-content-selector="ul li" data-content-trigger="mouseenter,mouseleave" data-content-class="fade-in,fade-out" data-arrow-selector=".control_bar a" data-arrow-trigger="click" data-auto-interval="5000">
+		<ul>
+			<li style="background-image: url(https://resource.feng.com/resource/h062/h36/img201810310353290.jpg);">
+				<a href="https://www.feng.com/iPhone/news/2018-10-31/A-new-generation-of-Mac-mini-release-app-strongest-apple-computer_699639.shtml" target="_blank">
+					<h3>新一代Mac mini发布 苹果最强“小钢炮”电脑</h3>
+				</a>
+			</li>
+			<li style="background-image: url(https://resource.feng.com/resource/h062/h36/img201810310352120.jpg);">
+				<a href="https://www.feng.com/iPhone/news/2018-10-31/_699635.shtml" target="_blank">
+					<h3>全面屏+A12X+面容ID 史上最强iPad Pro发布</h3>
+				</a>
+			</li>
+			<li style="background-image: url(https://resource.feng.com/resource/h062/h36/img201810310349420.jpg);">
+				<a href="https://www.feng.com/iPhone/news/2018-10-31/Smaller-faster-and-more-comprehensive-new-MacBook-Air_699619.shtml" target="_blank">
+					<h3>更小、更快、更全面 全新MacBook Air发布</h3>
+				</a>
+			</li>
+			<li style="background-image: url(https://resource.feng.com/resource/h062/h34/img201809130816450.jpg);">
+				<a href="https://www.feng.com/iPhone/news/2018-09-13/_698954.shtml" target="_blank">
+					<h3>iPhone XR正式推出 A12+最先进LCD全面屏 </h3>
+				</a>
+			</li>
+			<li style="background-image: url(https://resource.feng.com/resource/h062/h34/img201809130649240.png);">
+				<a href="https://www.feng.com/iPhone/news/2018-09-13/So-far-the-largest-and-most-advanced-_698938.shtml" target="_blank">
+					<h3>迄今最大最先进！iPhone Xs和Xs Max发布</h3>
+				</a>
+			</li>
+		</ul>
+		<div class="control_bar wrap">
+			<div class="toggles">
+				<span>0</span>
+				<span>1</span>
+				<span>2</span>
+				<span>3</span>
+				<span>4</span>
+			</div>
+			<a href="javascript:;" class="prev btn"></a>
+			<a href="javascript:;" class="next btn"></a>
+		</div>
+	</div>
+</div>
+<!--Recommended_news-->
+
+
+
+<div id="Recommended_news" class="clearfix">
+	<div class="Recommended_news wrap">
+
+		<div class="listNewsBox clearfix">
+			<ul>
+				<li>
+					<a href="https://www.feng.com/iPhone/news/2018-11-17/Inventory-has-been-cleared-apple-online-store-is-no-longer-sell-the-AirPort_699818.shtml" hidefocus="true" target="_blank" title="库存已清空：苹果在线商城不再出售AirPort"><i></i>新闻 丨 库存已清空：苹果在线商城不再出售AirPort</a>
+					<a href="https://www.feng.com/iPhone/news/2018-11-17/Abuse-of-machine-test-shows-in-2018-the-Pro-is-easy-to-break_699816.shtml" hidefocus="true" target="_blank" title="虐机测试显示：2018年iPad Pro很容易掰弯"><i></i>新闻 丨 虐机测试显示：2018年iPad Pro很容易掰弯</a>
+					<a href="https://www.feng.com/iPhone/news/2018-11-17/The-newest-iPhone-XR-two-concepts-remove-all-interface-and-buttons_699814.shtml" hidefocus="true" target="_blank" title="最新iPhone XR 2概念: 移除所有接口和按键"><i></i>新闻 丨 最新iPhone XR 2概念: 移除所有接口和按键</a>
+					<a href="https://www.feng.com/iPhone/news/2018-11-16/Apple-to-redesign-and-preferential-page-navigation-much-easier_699809.shtml" hidefocus="true" target="_blank" title="苹果重新设计翻新和优惠页面 导航更加容易"><i></i>新闻 丨 苹果重新设计翻新和优惠页面 导航更加容易</a>
+					<a href="https://www.feng.com/iPhone/news/2018-11-16/The-third-developers-apple-iOS-12.1.1-beta_699807.shtml" hidefocus="true" target="_blank" title="苹果发布 iOS 12.1.1 的第三个开发者测试版"><i></i>新闻 丨 苹果发布 iOS 12.1.1 的第三个开发者测试版</a>
+					<a href="https://www.feng.com/iPhone/news/2018-11-16/Apple-want-to-poach-qualcomm-engineers-to-develop-iPhone-wireless-components_699805.shtml" hidefocus="true" target="_blank" title="苹果想挖走高通工程师 开发iPhone无线组件"><i></i>新闻 丨 苹果想挖走高通工程师 开发iPhone无线组件</a>
+				</li>
+			</ul>
+		</div>
+	</div>
+</div>
+
+<div class="ad_90-top beforetodayNews wrap clearfix"><a href="https://yes1.feng.com/click.php?n=a23472cf&amp;zoneid=173" target="_blank" style="position:relative;"><div style="position: absolute; height: 15px; line-height: 15px; font-size: 12px;background: #C9C; color: #fff; left: 0; bottom: 0;">广告</div><img src="https://yes1.feng.com/view.php?what=zone:173&amp;n=a23472cf" border="0" alt=""></a>
+</div>
+<!-- <div class="ad_90-top wrap clearfix"></div>-->
+
+<!--今日导读-->
+<div id="todayNews">
+	<div class="todayNews wrap">
+		 <h1>
+			<div class="titleBox"><i><span>今日导读</span></i></div>
+		</h1>
+		<div class="todayNewsBox clearfix">
+			<!--左边内容-->
+			<div class="columnL">
+				<div class="wea_d"><a href="https://www.feng.com/iPhone/news/2018-11-17/Inventory-has-been-cleared-apple-online-store-is-no-longer-sell-the-AirPort_699818.shtml" target="_blank"><img src="https://img1.feng.com/1/h062/h37/b775c63cimg201811170715290_306__220.jpg" height="220" width="306" alt="库存已清空：苹果在线商城不再出售AirPort"></a></div>
+				<h2 class="anewsd_title"><a href="https://www.feng.com/iPhone/news/2018-11-17/Inventory-has-been-cleared-apple-online-store-is-no-longer-sell-the-AirPort_699818.shtml" target="_blank">库存已清空：苹果在线商城不再出售AirPort</a></h2>
+				<div class="abs">早在今年 4 月份，苹果公司就已经宣布了旗下的 AirPort 产品线停产的消息。</div>
+
+			</div>
+			<!--左边内容 end-->
+      <!--中间内容-->
+			<div class="columnMid">
+
+				<div class="tel_list">
+					<ul>
+
+						<li><i class="ipad-icon"></i><a href="https://www.feng.com/iPhone/news/2018-11-17/Abuse-of-machine-test-shows-in-2018-the-Pro-is-easy-to-break_699816.shtml" target="_blank">虐机测试显示：2018年iPad Pro很容易掰弯</a></li>
+
+						<li><i class="tel-icon"></i><a href="https://www.feng.com/iPhone/news/2018-11-17/The-newest-iPhone-XR-two-concepts-remove-all-interface-and-buttons_699814.shtml" target="_blank">最新iPhone XR 2概念: 移除所有接口和按键</a></li>
+
+						<li><i class="apple-icon"></i><a href="https://www.feng.com/iPhone/news/2018-11-16/Introduction-to-the-new-Mac-Mini-review-summary-conscience-level-Mac_699811.shtml" target="_blank">新款Mac Mini评测汇总：良心级入门Mac</a></li>
+
+						<li><i class="apple-icon"></i><a href="https://www.feng.com/iPhone/news/2018-11-16/Apple-to-redesign-and-preferential-page-navigation-much-easier_699809.shtml" target="_blank">苹果重新设计翻新和优惠页面 导航更加容易</a></li>
+
+						<li><i class="apple-icon"></i><a href="https://www.feng.com/iPhone/news/2018-11-16/The-third-developers-apple-iOS-12.1.1-beta_699807.shtml" target="_blank">苹果发布 iOS 12.1.1 的第三个开发者测试版</a></li>
+					</ul>
+				</div>
+				<div class="tel_list">
+					<ul>
+
+						<li><i class="tel-icon"></i><a href="https://www.feng.com/iPhone/news/2018-11-16/Apple-want-to-poach-qualcomm-engineers-to-develop-iPhone-wireless-components_699805.shtml" target="_blank">苹果想挖走高通工程师 开发iPhone无线组件</a></li>
+
+						<li><i class="apple-icon"></i><a href="https://www.feng.com/iPhone/news/2018-11-15/Apple-released-a-new-version-of-Apple-Watch-magnetic-charging-base_699803.shtml" target="_blank">苹果发布了新版Apple Watch磁力充电基座</a></li>
+
+						<li><i class="tel-icon"></i><a href="https://www.feng.com/iPhone/news/2018-11-15/The-iPhone-X-upgrade-the-iOS-12.1-explosion-Apple-said-is-just-a-coincidence_699800.shtml" target="_blank">iPhone X升级iOS 12.1爆炸 苹果称只是巧合</a></li>
+
+						<li><i class="apple-icon"></i><a href="https://www.feng.com/iPhone/news/2018-11-15/15-inch-MacBook-Pro-has-provided-new-GPU-options_699797.shtml" target="_blank">15英寸MacBook Pro现已提供新的GPU选项</a></li>
+
+						<li><i class="apple-icon"></i><a href="https://www.feng.com/iPhone/news/2018-11-14/With-the-Indian-market-apple-had-done-a-nokia-executives_699794.shtml" target="_blank">发力印度市场：苹果挖走了一名诺基亚高管</a></li>
+					</ul>
+				</div>
+			</div>
+			<!--中间内容 end-->
+			<!--右边内容-->
+			<div class="columnR">
+				<div class="week_headLine">
+				<h2>一周<em>头条</em><a href="https://news.feng.com" target="_blank">新闻中心</a>
+                <!--	<input class="datepicker" type="text" value="" onClick="WdatePicker()"/>--></h2>
+					<div class="week_lineNews">
+						<ul>
+							<li>
+								<a href="https://www.feng.com/iPhone/news/2018-11-13/Apple-cat-double-tenth-day-of-this-year-a-report-card-win-the-three_699784.shtml" title="苹果今年天猫双十一成绩单：拿下三项第一" target="_blank">苹果今年天猫双十一成绩单：拿下三项第一</a>
+								<p>在其它电商平台上，苹果应该也是同样表现不俗的。
+</p>
+							</li>
+							<li>
+								<a href="https://www.feng.com/iPhone/news/2018-10-31/A-new-generation-of-Mac-mini-release-app-strongest-apple-computer_699639.shtml" title="新一代Mac mini发布 苹果最强“小钢炮”电脑" target="_blank">新一代Mac mini发布 苹果最强“小钢炮”电脑</a>
+								<p>苹果称新Mac mini岂止于小，顶配Core i7六核+64GB内...</p>
+							</li>
+							<li>
+								<a href="https://www.feng.com/iPhone/news/2018-10-31/_699635.shtml" title="全面屏+A12X+面容ID 史上最强iPad Pro发布" target="_blank">全面屏+A12X+面容ID 史上最强iPad Pro发布</a>
+								<p>迄今最强大、最具创造性的iPad Pro，A12X使其性能超...</p>
+							</li>
+							<li>
+								<a href="https://www.feng.com/iPhone/news/2018-10-31/Smaller-faster-and-more-comprehensive-new-MacBook-Air_699619.shtml" title="更小、更快、更全面 全新MacBook Air发布" target="_blank">更小、更快、更全面 全新MacBook Air发布</a>
+								<p>预期中的升级，视网膜屏+Touch ID+雷电3（USB-C）+...</p>
+							</li>
+							<li>
+								<a href="https://www.feng.com/iPhone/news/2018-10-23/Apple-iOS-12.1-Beta-5-to-the-developers-and-open-Beta-users_699519.shtml" title="苹果向开发者和公测用户发布iOS 12.1 Beta 5" target="_blank">苹果向开发者和公测用户发布iOS 12.1 Beta 5</a>
+								<p>在最新的Beta中尚未发现面向用户的新功能，预计还是...</p>
+							</li>
+						</ul>
+					</div>
+				</div>
+				<!--话题-->
+			</div>
+		</div>
+		<!--右边内容 end-->
+	</div>
+</div>
+
+
+
+<!--锋科技-->
+<div id="feng_tecList">
+	<div class="feng_tecList wrap">
+		<h1>
+			<i>锋科技</i><span>不一样的科技新闻</span>
+			<div class="title_right">
+				<div class="triggers">
+					<a href="https://tech.feng.com/mobile/index.shtml" title="手机" target="_blank">手机</a>
+					<a href="https://tech.feng.com/appliances/index.shtml" title="家电" target="_blank">家电</a>
+					<a href="https://tech.feng.com/anecdote/index.shtml" title="趣闻" target="_blank">趣闻</a>
+					<a href="https://tech.feng.com/Internet/index.shtml" title="互联网" target="_blank">互联网</a>
+					<a href="https://tech.feng.com/technology/index.shtml" title="科技" target="_blank">科技</a>
+					<a href="https://tech.feng.com/design/index.shtml" title="设计" target="_blank">设计</a>
+					<a href="https://tech.feng.com/TechStory" title="科技周漫谈" target="_blank">科技周漫谈</a>
+					<a href="https://tech.feng.com" title="进入频道" class="feng_views" target="_blank">进入频道</a>
+				</div>
+			</div>
+		</h1>
+		<div class="picList clearfix">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+			<div class="moduleOne">
+				<a href="https://tech.feng.com/2018-11-16/State-administration-of-market-regulation-is-of-step-drops-bid-for-antitrust-investigation_699813.shtml" target="_blank">
+					<div class="mask"></div>
+					<span class="label yellowBg" style="background:#f8c100;">互联网</span>
+					<img src="https://img1.feng.com/1/h062/h37/0cf8147dimg201811161610340_499__246.jpg" height="246" width="499" alt="国家市场监管总局正对滴滴收购优步进行反垄断调查">
+					<div class="drift">
+						<span class="title">国家市场监管总局正对滴滴收购优步进行反垄断调查</span>
+						<div class="abs">对互联网等新兴领域营造包容发展环境，防止形成行业垄断和市场壁垒。
+</div>
+					</div>
+				</a>
+			</div>
+
+			<div class="moduleTwo midMargin">
+				<a href="https://tech.feng.com/2018-11-15/American-carriers-5-g-phones-may-not-be-soon_699799.shtml" target="_blank">
+					<div class="mask"></div>
+					<span class="label yellowBg" style="background:#ff0042;">手机</span>
+					<img src="https://img1.feng.com/1/h062/h37/5523b066img201811150202090_249__246.jpg" height="246" width="249" alt="美国运营商：5G手机可能不会很快亮相">
+					<div class="drift">
+						<span class="title">美国运营商：5G手机可能不会很快亮相</span>
+						<div class="abs">美国的一家运营商表示，我们不应该期待太多，也不应该期待 5G 手机很快到来。</div>
+					</div>
+				</a>
+			</div>
+
+			<div class="moduleTwo">
+				<a href="https://tech.feng.com/2018-11-14/Ten-years-research-the-dangers-of-mobile-phone-on-people-not-including-cancer_699796.shtml" target="_blank">
+					<div class="mask"></div>
+					<span class="label yellowBg" style="background:#007eff;">科技</span>
+					<img src="https://img1.feng.com/1/h062/h37/35692611img201811141247340_248__246.png" height="246" width="248" alt="十年研究：手机对人的危害不包括致癌">
+					<div class="drift">
+						<span class="title">十年研究：手机对人的危害不包括致癌</span>
+						<div class="abs">这项历时十年的研究表明，手机跟患癌之间并没有必然关系。</div>
+					</div>
+				</a>
+			</div>
+
+			<div class="moduleTwo">
+				<a href="https://tech.feng.com/2018-11-13/Deloitte-a-new-survey-the-user-checking-my-52-times-a-day-on-average_699789.shtml" target="_blank">
+					<div class="mask"></div>
+					<span class="label yellowBg" style="background:#00d8ff;">手机</span>
+					<img src="https://img1.feng.com/1/h062/h37/3ca33eb9img201811132253580_248__246.jpg" height="246" width="248" alt="德勤新调查：美国用户平均每天查看手机52次">
+					<div class="drift">
+						<span class="title">德勤新调查：美国用户平均每天查看手机52次</span>
+						<div class="abs">德勤在一份声明中表示，今年的调查进一步证明智能手机已经成为我们生活的真正中心。</div>
+					</div>
+				</a>
+			</div>
+
+			<div class="moduleTwo midMargin">
+				<a href="https://tech.feng.com/2018-11-13/12000-March-out-samsung-folding-phones-will-name-the-Galaxy-F_699786.shtml" target="_blank">
+					<div class="mask"></div>
+					<span class="label yellowBg" style="background:#ff0042;">手机</span>
+					<img src="https://img1.feng.com/1/h062/h37/eea06dc7img201811131623180_249__246.jpg" height="246" width="249" alt="卖1.2万明年3月出 三星可折叠手机将定名Galaxy F ">
+					<div class="drift">
+						<span class="title">卖1.2万明年3月出 三星可折叠手机将定名Galaxy F </span>
+						<div class="abs">贵过苹果iPhone，不仅价格昂贵，而且产量少，毕竟可折叠手机太新鲜了。</div>
+					</div>
+				</a>
+			</div>
+
+			<div class="moduleOne">
+				<a href="https://tech.feng.com/2018-11-12/213.5-billion-_699766.shtml" target="_blank">
+					<div class="mask"></div>
+					<span class="label yellowBg" style="background:#007eff;">互联网</span>
+					<img src="https://img1.feng.com/1/h062/h37/39ef9a5eimg201811120320040_499__246.JPG" height="246" width="499" alt="2135亿！天猫双11成交额再创新世界纪录">
+					<div class="drift">
+						<span class="title">2135亿！天猫双11成交额再创新世界纪录</span>
+						<div class="abs">仅107分钟就突破1000亿了，大家今年双一参与的2000亿项目都买了什么？</div>
+					</div>
+				</a>
+			</div>
+
+		</div>
+	</div>
+</div>
+ <!--广告位1000*90-->
+<div class="ad_90 wrap clearfix" style="clear:both;"><a href="https://yes1.feng.com/click.php?n=ad0aaa9e&amp;zoneid=161" target="_blank" style="position:relative;"><div style="position: absolute; height: 15px; line-height: 15px; font-size: 12px;background: #C9C; color: #fff; left: 0; bottom: 0;">广告</div><img src="https://yes1.feng.com/view.php?what=zone:161&amp;n=ad0aaa9e" border="0" alt=""></a>
+</div>
+
+<!--锋观点-->
+<div id="feng_view">
+	<div class="feng_view wrap clearfix">
+		<h1>
+			<i>锋观点</i><span>提供视角最独特的原创科技观点</span>
+			<div class="title_right">
+				<div class="triggers">
+					<a href="https://www.feng.com/view/Views/index.shtml" title="观点" target="_blank">观点</a>
+					<a href="https://www.feng.com/view/Hardware/index.shtml" title="硬件" target="_blank">硬件</a>
+					<a href="https://www.feng.com/view/Apps/index.shtml" title="应用" target="_blank">应用</a>
+					<a href="https://www.feng.com/view/Scene/index.shtml" title="现场" target="_blank">现场</a>
+					<a href="https://www.feng.com/view/Faces/index.shtml" title="人物" target="_blank">人物</a>
+					<a href="https://www.feng.com/view/News/index.shtml" title="快讯" target="_blank">快讯</a>
+					<a href="https://www.feng.com/view/Play/index.shtml" title="锋玩" target="_blank">锋玩</a>
+					<a href="https://www.feng.com/view/Hot/index.shtml" title="一周热评" target="_blank">一周热评</a>
+					<a href="https://www.feng.com/view" title="进入频道" class="feng_views" target="_blank">进入频道</a>
+				</div>
+			</div>
+		</h1>
+
+
+		<div class="feng_viewLeft">
+			<a class="img" href="https://www.feng.com/view/2018-11-15/The-iPhone-can-more-to-sell-more-expensive-App-subscriptions-for-quarter_699802.shtml" target="_blank"><img src="https://img1.feng.com/1/h062/h37/5484ffcaimg201811150227360_330__418.png" alt="iPhone越卖越贵 App订阅能不能高抬贵手"></a>
+			<a class="label" style="background-color:#f8c100" href="https://www.feng.com/view/index.shtml" target="_blank"><span>锋观点</span></a>
+
+			<div class="view_p"><img src="//face.feng.com/data/avatar/003/22/94/98_avatar_small.jpg" height="17" width="17" alt=""><span>Ruins</span></div>
+			<a href="https://www.feng.com/view/2018-11-15/The-iPhone-can-more-to-sell-more-expensive-App-subscriptions-for-quarter_699802.shtml" target="_blank"><p class="view_title">iPhone越卖越贵 App订阅能不能高抬贵手</p></a>
+			<p class="view_content">订阅制是更先进的发行模式，也是潮流，但它还需要更细致、严格、合理。</p>
+			<div class="view_ps">
+				<span class="ps_num">27</span>
+				<p>评论</p>
+				<div class="ps_img">
+					<img src="//face.feng.com/data/avatar/017/69/77/77_avatar_small.jpg" height="30" width="30" alt="手机锋友huhe7wq">
+					<img src="//face.feng.com/data/avatar/004/64/26/25_avatar_small.jpg" height="30" width="30" alt="无影清风">
+					<img src="//face.feng.com/data/avatar/008/05/08/68_avatar_small.jpg" height="30" width="30" alt="秋色遗落">
+					<img src="//face.feng.com/data/avatar/006/24/32/82_avatar_small.jpg" height="30" width="30" alt="tmscbgh">
+				</div>
+			</div>
+			<div class="backMask"></div>
+		</div>
+		<div class="feng_box">
+			<div class="feng_viewMiddle">
+				<div class="story ">
+					<div class="story_p">
+						<a class="label" href="https://www.feng.com/view/index.shtml" style="background-color:#f8c100" target="_blank"><span>锋观点</span></a>
+
+						<p><a target="_blank" href="https://bbs.feng.com/u.php?uid=3229498"><img src="//face.feng.com/data/avatar/003/22/94/98_avatar_small.jpg" height="17" width="17" alt="Ruins"><span>Ruins</span></a></p>
+						<h2><a target="_blank" href="https://www.feng.com/view/2018-11-13/IOS-13-wish-list-would-you-like-to-see-changes_699777.shtml">iOS 13愿望清单：你希望看到的变化</a></h2>
+						<p class="abs">随着 10 月最后两天 iOS 12.1 版本向公众推送，苹果在 WWDC 2018 上宣布的 iOS 12 全部功能基本完全实现（除了 Apple ...</p>
+					</div>
+				</div>
+				<div class="story bottom">
+					<div class="story_p">
+						<a class="label" href="https://www.feng.com/view/index.shtml" style="background-color:#f8c100" target="_blank"><span>锋观点</span></a>
+
+						<p><a target="_blank" href="https://bbs.feng.com/u.php?uid=3229498"><img src="//face.feng.com/data/avatar/003/22/94/98_avatar_small.jpg" height="17" width="17" alt="Ruins"><span>Ruins</span></a></p>
+						<h2><a target="_blank" href="https://www.feng.com/view/2018-11-09/Blizzard-meng-diablo-broken-black-god-why-be-diss-mobile-game_699740.shtml">暴雪懵了《暗黑破黑神》手游为什么被diss？</a></h2>
+						<p class="abs">暴雪第一次专门为手机平台开发作品，却被核心玩家嫌弃得飞起。</p>
+					</div>
+				</div>
+			</div>
+			<div class="feng_viewMiddle">
+				<div class="story ">
+					<div class="story_p">
+						<a class="label" href="https://www.feng.com/view/index.shtml" style="background-color:#f8c100" target="_blank"><span>锋观点</span></a>
+
+						<p><a target="_blank" href="https://bbs.feng.com/u.php?uid=16241028"><img src="//face.feng.com/data/avatar/016/24/10/28_avatar_small.jpg" height="17" width="17" alt="米girl"><span>米girl</span></a></p>
+						<h2><a target="_blank" href="https://www.feng.com/view/2018-11-09/Samsung-folding-smartphone-will-come-out-very-revolution-but-many-questions-too_699739.shtml">三星可折叠智能手机终问世 很革命但疑问也不少 </a></h2>
+						<p class="abs">如果过去十年智能手机行业是由iPhone引导，那么三星希望通过可折叠手机的机会，引领行业下一个十年的发展。</p>
+					</div>
+				</div>
+				<div class="story bottom">
+					<div class="story_p">
+						<a class="label" href="https://www.feng.com/view/index.shtml" style="background-color:#f8c100" target="_blank"><span>锋观点</span></a>
+
+						<p><a target="_blank" href="https://bbs.feng.com/u.php?uid=16241028"><img src="//face.feng.com/data/avatar/016/24/10/28_avatar_small.jpg" height="17" width="17" alt="米girl"><span>米girl</span></a></p>
+						<h2><a target="_blank" href="https://www.feng.com/view/2018-11-01/The-Pro-with-USB---on-behalf-of-the-20-C-interface-to-retire_699653.shtml">iPad Pro配USB-C代表Lightning接口要退役了？ </a></h2>
+						<p class="abs">当前可能暂时不能代表 Lightning 闪电接口已经到了尾声，但至少目前来看十分有意义，iPhone 要等何时呢？</p>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+</div>
+
+
+
+<!--社区-->
+<!--bbs part start-->
+<div class="xin_community wrap clearfix">
+    <h1><i>社区</i><span>最具人气的中文Apple社区</span><a href="https://bbs.feng.com">进入频道</a></h1>
+    <div class="community_left">
+        <b>今日热帖<i></i></b>
+        <ul class="sh_list">
+            <li><a href="https://bbs.feng.com/read-htm-tid-11926372.html"><i><img src="https://bbsimages.feng.com/data/attachment/common/41/common_371_icon.png"></i><span>【图文直播】2018苹果十月发布会</span></a></li>
+            <li><a href="https://bbs.feng.com/read-htm-tid-11926363.html"><i><img src="https://bbsimages.feng.com/data/attachment/common/41/common_371_icon.png"></i><span>【开奖啦！！！】2018苹果十月发布会有奖活动</span></a></li>
+            <li><a href="https://bbs.feng.com/read-htm-tid-11925851.html"><i><img src="https://bbsimages.feng.com/data/attachment/common/2f/common_658_icon.jpg"></i><span>分享一张动漫超清图片7888 × 12000 像素高清版 62.6 MB</span></a></li>
+            <li><a href="https://bbs.feng.com/read-htm-tid-11925654.html"><i><img src="https://bbsimages.feng.com/data/attachment/common/17/common_670_icon.png"></i><span>从iPhone第一代用到现在，XSMax是我买过最后悔的一次</span></a></li>
+            <li><a href="https://bbs.feng.com/read-htm-tid-11926192.html"><i><img src="https://bbsimages.feng.com/data/attachment/common/e5/common_573_icon.png"></i><span>大家来发自己的心率统计图（送40个兑换码）</span></a></li>
+            <li><a href="https://bbs.feng.com/read-htm-tid-11927704.html"><i><img src="https://bbsimages.feng.com/data/attachment/common/5d/common_671_icon.png"></i><span>然而，XR已经成为别人的笑柄</span></a></li>
+            <li><a href="https://bbs.feng.com/read-htm-tid-11927915.html"><i><img src="https://bbsimages.feng.com/data/attachment/common/b2/common_601_icon.png"></i><span>一张图告诉你们12.1耗电回到9系统了？</span></a></li>
+            <li><a href="https://bbs.feng.com/read-htm-tid-11925717.html"><i><img src="https://bbsimages.feng.com/data/attachment/common/17/common_670_icon.png"></i><span>Pitaka终于到了 手感一流！！</span></a></li>
+            <li><a href="https://bbs.feng.com/read-htm-tid-11928055.html"><i><img src="https://bbsimages.feng.com/data/attachment/common/17/common_670_icon.png"></i><span>终于找到一个完全不挡的膜了，我操，</span></a></li>
+            <li><a href="https://bbs.feng.com/read-htm-tid-11926357.html"><i><img src="https://bbsimages.feng.com/data/attachment/common/17/common_670_icon.png"></i><span>强迫症贴膜遇到最讨厌的问题，碎边？白边？气泡？不能覆盖到边？挡屏幕？今天终于有“药”了</span></a></li>
+            <li><a href="https://bbs.feng.com/read-htm-tid-11926164.html"><i><img src="https://bbsimages.feng.com/data/attachment/common/17/common_670_icon.png"></i><span>苹果！我只再忍你一年！立帖为证！！</span></a></li>
+            <li><a href="https://bbs.feng.com/read-htm-tid-11925791.html"><i><img src="https://bbsimages.feng.com/data/attachment/common/9b/common_643_icon.png"></i><span>电池健康度89%，要换电池么？</span></a></li>
+            <li><a href="https://bbs.feng.com/read-htm-tid-11927339.html"><i><img src="https://bbsimages.feng.com/data/attachment/common/17/common_670_icon.png"></i><span>8元套餐可以改了</span></a></li>
+        </ul>
+    </div>
+    <div class="community_center">
+        <b>最新精华<i></i></b>
+        <ul class="sh_list">
+            <li><a href="https://bbs.feng.com/read-htm-tid-11929754.html"><i><img src="https://bbsimages.feng.com/data/attachment/common/41/common_371_icon.png"></i><span>【酷品试玩】万魔1MORE 三单元圈铁蓝牙耳机 --【乐】，【雅】，【享】 匠心之作</span><p>f1aming</p></a></li>
+            <li><a href="https://bbs.feng.com/read-htm-tid-11877398.html"><i><img src="https://bbsimages.feng.com/data/attachment/common/b2/common_601_icon.png"></i><span>[教程]如何不越狱&amp;quot;固定&amp;quot;随机值</span><p>xapenny</p></a></li>
+            <li><a href="https://bbs.feng.com/read-htm-tid-11861599.html"><i><img src="https://bbsimages.feng.com/data/attachment/common/17/common_670_icon.png"></i><span>美国购买iPhone Xs/Xs Max最全攻略 （持续更新）</span><p>布欧吊打比鲁斯</p></a></li>
+            <li><a href="https://bbs.feng.com/read-htm-tid-11836861.html"><i><img src="https://bbsimages.feng.com/data/attachment/common/b4/common_657_icon.jpg"></i><span>已删帖</span><p>xybp888</p></a></li>
+            <li><a href="https://bbs.feng.com/read-htm-tid-11816851.html"><i><img src="https://bbsimages.feng.com/data/attachment/common/b4/common_657_icon.jpg"></i><span>★★IOS11.3.1状态栏集合贴★★ 增加完美简约，风气问题暂停分享 ——  by :lGuann持续更.....</span><p>lGuann</p></a></li>
+            <li><a href="https://bbs.feng.com/read-htm-tid-11792174.html"><i><img src="https://bbsimages.feng.com/data/attachment/common/2f/common_658_icon.jpg"></i><span>『WEIP技术组』完美手动正确的卸载清除badiosbad插件的方法</span><p>cdsq</p></a></li>
+            <li><a href="https://bbs.feng.com/read-htm-tid-11790347.html"><i><img src="https://bbsimages.feng.com/data/attachment/common/41/common_371_icon.png"></i><span>【活动三】微博转发一张图，还能拿Anker数据线</span><p>威锋网</p></a></li>
+            <li><a href="https://bbs.feng.com/read-htm-tid-11790251.html"><i><img src="https://bbsimages.feng.com/data/attachment/common/41/common_371_icon.png"></i><span>2018苹果教育优惠购买攻略及注意事项</span><p>威锋网</p></a></li>
+        </ul>
+    </div>
+    <div class="community_right">
+        <div class="star">
+            <b>社区明星会员<i></i></b>
+            <ul>
+                <li class="clearfix"><a href="https://bbs.feng.com/home.php?mod=space&amp;uid=9050551"><img src="https://face.feng.com/data/avatar/009/05/05/51_avatar_middle.jpg"><div class="user_n"><strong>f1aming</strong><span>级别：青苹果</span></div></a></li>
+                <li class="clearfix"><a href="https://bbs.feng.com/home.php?mod=space&amp;uid=8702255"><img src="https://face.feng.com/data/avatar/008/70/22/55_avatar_middle.jpg"><div class="user_n"><strong>xapenny</strong><span>级别：实习版主</span></div></a></li>
+                <li class="clearfix"><a href="https://bbs.feng.com/home.php?mod=space&amp;uid=11689112"><img src="https://face.feng.com/data/avatar/011/68/91/12_avatar_middle.jpg"><div class="user_n"><strong>布欧吊打比鲁斯</strong><span>级别：白苹果</span></div></a></li>
+            </ul>
+        </div>
+        <div class="hotTop">
+            <b>今日板块排名<a href="https://bbs.feng.com">更多</a></b>
+            <ul>
+                <li class="clearfix">
+                    <a href="https://bbs.feng.com/thread-htm-fid-670.html">
+                        <em style="color:#ffb025;">1</em> <img src="https://bbsimages.feng.com/data/attachment/common/17/common_670_icon.png">
+                        <div class="user_n">
+                            <strong>iPhone XS 综合讨论区</strong><span>版主: 糖醋丶炒排骨,枫一笑</span>
+                        </div>
+                    </a>
+                </li>
+                <li class="clearfix">
+                    <a href="https://bbs.feng.com/thread-htm-fid-658.html">
+                        <em style="color:#e275ec;">2</em> <img src="https://bbsimages.feng.com/data/attachment/common/2f/common_658_icon.jpg">
+                        <div class="user_n">
+                            <strong>iPhone X 综合讨论区</strong><span>版主: theron6376,枫一笑,古破旧,gbq9336,过客~匆匆,糖醋丶炒排骨</span>
+                        </div>
+                    </a>
+                </li>
+                <li class="clearfix">
+                    <a href="https://bbs.feng.com/thread-htm-fid-671.html">
+                        <em style="color:#59c468;">3</em> <img src="https://bbsimages.feng.com/data/attachment/common/5d/common_671_icon.png">
+                        <div class="user_n">
+                            <strong>iPhone XR 综合讨论区</strong><span>版主: </span>
+                        </div>
+                    </a>
+                </li>
+            </ul>
+        </div>
+    </div>
+</div>
+<!--bbs part end-->
+
+<!--快捷导航-->
+<div class="quick_navigation">
+    <ul>
+        <li>
+            <a class="todayNews" data-target="todayNews" href="javascript:;" target="_blank">
+                <i>今日导读</i>
+                <span>今日导读</span>
+            </a>
+        </li>
+        <li>
+            <a class="fengView" data-target="feng_view" href="javascript:;" target="_blank">
+                <i>锋观点</i>
+                <span>锋观点</span>
+            </a>
+        </li>
+        <li>
+            <a class="gameChannel" data-target="gameChannel" href="javascript:;" target="_blank">
+                <i>游戏频道</i>
+                <span>游戏频道</span>
+            </a>
+        </li>
+        <li>
+            <a class="feng_tecList" data-target="feng_tecList" href="javascript:;" target="_blank">
+                <i>锋科技</i>
+                <span>锋科技</span>
+            </a>
+        </li>
+        <li>
+            <a class="community" data-target="fengCommunity" href="javascript:;" target="_blank">
+                <i>社区</i>
+                <span>社区</span>
+            </a>
+        </li>
+        <li>
+            <a class="gobackBtn" href="javascript:;" target="_blank">
+                <i>返回顶部</i>
+                <span>返回顶部</span>
+            </a>
+        </li>
+    </ul>
+</div>
+<div class="footer_box">
+    <div class="footer_inner">
+        <div class="wrap clearfix">
+            <div class="footerLeft"> <i>Hi~我是威威！</i> <img src="//www.feng.com/images_v5/images/weiwei.png"> </div>
+            <div class="footerRight">
+
+                <div class="web_links clearfix">
+                    <h3>友情链接</h3>
+                    <ul class="clearfix">
+
+                    	<li><a href="http://www.hao123.com" target="_blank" title="hao123导航">hao123导航</a></li>
+                    	<li><a href="http://tech.163.com" target="_blank" title="网易科技">网易科技</a></li>
+                    	<li><a href="http://tech.hexun.com" target="_blank" title="和讯科技">和讯科技</a></li>
+                    	<li><a href="http://www.techweb.com.cn" target="_blank" title="TechWeb">TechWeb</a></li>
+                    	<li><a href="http://www.tompda.com" target="_blank" title="TomPDA智能手机网">TomPDA智能手机网</a></li>
+                    	<li><a href="http://www.ithome.com" target="_blank" title="IT之家">IT之家</a></li>
+                    	<li><a href="http://bbs.dospy.com" target="_blank" title="dospy智能手机">dospy智能手机</a></li>
+                    	<li><a href="http://www.d.cn" target="_blank" title="当乐手机游戏">当乐手机游戏</a></li>
+                    	<li><a href="http://www.ebrun.com" target="_blank" title="亿邦动力网">亿邦动力网</a></li>
+                    	<li><a href="http://www.fengbuy.com" target="_blank" title="威锋商城">威锋商城</a></li>
+                    	<li><a href="http://download.pchome.net" target="_blank" title="PChome下载">PChome下载</a></li>
+                    	<li><a href="http://hangzhou.anjuke.com/" target="_blank" title="杭州房产网">杭州房产网</a></li>
+                    	<li><a href="http://www.chinaz.com" target="_blank" title="站长之家">站长之家</a></li>
+                    	<li><a href="http://www.kejixun.com" target="_blank" title="科技讯">科技讯</a></li>
+                    	<li><a href="http://www.hiapk.com" target="_blank" title="安卓网">安卓网</a></li>
+                    	<li><a href="http://www.baoruan.com" target="_blank" title="宝软网">宝软网</a></li>
+                    	<li><a href="http://mb.qq.com" target="_blank" title="手机QQ浏览器">手机QQ浏览器</a></li>
+                    	<li><a href="http://it.sohu.com" target="_blank" title="搜狐IT">搜狐IT</a></li>
+                    	<li><a href="http://v.61.com" target="_blank" title="淘米视频">淘米视频</a></li>
+                    	<li><a href="http://wan.renren.com" target="_blank" title="人人游戏">人人游戏</a></li>
+                    	<li><a href="http://www.hiapk.com" target="_blank" title="安卓网">安卓网</a></li>
+                    	<li><a href="http://www.elecfans.com" target="_blank" title="电子发烧友">电子发烧友</a></li>
+                    	<li><a href="http://www.114la.com" target="_blank" title="114啦网址导航">114啦网址导航</a></li>
+                    	<li><a href="http://www.uc.cn" target="_blank" title="UC浏览器">UC浏览器</a></li>
+                    	<li><a href="https://game.feng.com" target="_blank" title="威锋游戏">威锋游戏</a></li>
+                    	<li><a href="http://repo.so" target="_blank" title="原创精品源">原创精品源</a></li>
+                    	<li><a href="http://www.i4.cn" target="_blank" title="爱思助手">爱思助手</a></li>
+                    	<li><a href="http://www.zealer.com" target="_blank" title="ZEALER中国">ZEALER中国</a></li>
+                    	<li><a href="http://www.igao7.com" target="_blank" title="爱搞机">爱搞机</a></li>
+                    	<li><a href="http://www.yzmg.com" target="_blank" title="亿智蘑菇">亿智蘑菇</a></li>
+                    	<li><a href="http://www.youtube-download-iphone.com" target="_blank" title="Youtube Download iPhone">Youtube Download iPhone</a></li>
+                    	<li><a href="https://seo.feng.com/links/addlink.php?type=1&amp;uid=15269&amp;url_id=60" target="_blank" title="申请友情链接">申请友情链接</a></li>
+                    </ul>
+                </div>
+
+                <div class="ours_links">
+                    <a href="https://www.feng.com/app/about_us.html" target="_blank">关于我们</a>
+                    <a href="https://www.feng.com/app/contact_us.html" target="_blank">联系我们</a>
+                    <a href="https://www.feng.com/app/history_evens.html" target="_blank">大事记</a>
+                    <a href="https://www.feng.com/app/egal.html" target="_blank">法律条款</a>
+                    <a href="https://www.feng.com/app/about_us_english.html" target="_blank">About Us</a>
+                </div>
+                <div class="beian">
+                    <p><a href="http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=44030502001011" target="_blank">粤公网安备 44030502001011号</a> 丨  <a href="http://www.miitbeian.gov.cn" target="_blank">粤ICP备07011435号</a> 丨 新三板上市公司威锋科技（836555）</p>
+                    <p>增值电信业务经营许可证：
+                        <a href="https://www.feng.com/about/certificate.shtml" target="_blank">粤B2-20130239</a>
+                        <a href="https://www.feng.com/about/Guangdong_wangwen_20140683-283_No._594914.shtml">粤网文（2017）6454-1554号</a> Powered by Discuz!</p>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="touch">
+        <div class="wrap">
+            <a href="https://bbs.feng.com/mobile-index.html" target="_blank">触屏版</a>
+            <p>Copyright 2007-2018 © Joyslink Inc. All rights reserved 保留所有权利</p>
+        </div>
+    </div>
+</div>
+
+<script src="https://w.cnzz.com/c.php?id=30048996" language="JavaScript"></script>
+<script type="text/javascript">
+jQuery(function($){
+	//返回顶部
+	$('.goTopBtn').goBackTop();
+  //搜索框效果
+  $('.searchBox').searchAnimate();
+});
+</script>
+
+
+<script type="text/javascript" src="https://www.feng.com/images_v4/js/dataList.js"></script><script type="text/javascript">
+//Banner
+jQuery(function($){
+    var baseUrl = window.baseJSUrl || 'images_v4/js/';
+    ds.loadScript(baseUrl + 'jquery.FadeList.js', function(){
+        var slider = ds.buildSlider('#homebanner', {
+            delay: 3000,
+            imgLoadFlag: [true],
+            imgLoadHandler: function(inx){
+                this.items.eq(inx).find('.label').show();
+                this.items.eq(inx).find('.msgShow').show();
+                this.items.eq(inx).find('.title h2').show();
+                 var panel = this.items.eq(inx), img = panel.find('.bigimg img'), url = img.attr('longDesc');
+                panel.css('backgroundImage', 'url('+ url +')');
+                img.attr('src', url);
+            }
+        }, window.FadeList);
+    });
+});
+</script>
+<!-- 仅首页，用于壁纸广告  -->
+<script language="JavaScript" type="text/javascript" src="https://yes1.feng.com/x.js"></script>
+<script language="JavaScript" type="text/javascript">
+<!--
+   if (!document.phpAds_used) document.phpAds_used = ',';
+   phpAds_random = new String (Math.random()); phpAds_random = phpAds_random.substring(2,11);
+
+   document.write ("<" + "script language='JavaScript' type='text/javascript' src='");
+   document.write ("https://yes1.feng.com/js.php?n=" + phpAds_random);
+   document.write ("&amp;what=zone:189");
+   document.write ("&amp;exclude=" + document.phpAds_used);
+   if (document.referrer)
+      document.write ("&amp;referer=" + escape(document.referrer));
+   document.write ("'><" + "/script>");
+//-->
+</script><noscript><a href="https://yes1.feng.com/click.php?n=afbf8627" target="_blank"><img src="https://yes1.feng.com/view.php?what=zone:189&amp;n=afbf8627" border="0" alt=""></a></noscript>
+
+</body>
+</html>

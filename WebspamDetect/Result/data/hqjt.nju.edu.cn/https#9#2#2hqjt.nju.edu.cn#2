@@ -1,0 +1,977 @@
+https://hqjt.nju.edu.cn/
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+
+  <head>
+    <meta content="IE=7.0000" http-equiv="X-UA-Compatible">
+    <title>后勤服务集团</title>
+    <meta content="text/html; charset=utf-8" http-equiv="Content-Type">
+    <meta content="IE=7" http-equiv="X-UA-Compatible">
+    
+<link type="text/css" href="/_css/_system/system.css" rel="stylesheet">
+<link type="text/css" href="/_upload/site/1/style/49/49.css" rel="stylesheet">
+<link type="text/css" href="/_upload/site/00/19/25/style/53/53.css" rel="stylesheet">
+       <link href="/_css/tpl2/default/portlet/dtjt/9/dtjt9.css" type="text/css" rel="stylesheet">
+       <link href="/_css/tpl2/system.css" type="text/css" rel="stylesheet"> 
+       <link href="/_css/tpl2/default/default.css" type="text/css" rel="stylesheet"> 
+<link type="text/css" href="/_js/_portletPlugs/simpleNews/css/simplenews.css" rel="stylesheet">
+<link type="text/css" href="/_js/_portletPlugs/datepicker/css/datepicker.css" rel="stylesheet">
+
+<script language="javascript" src="/_js/sudy-jquery-autoload.js" jquery-src="/_js/jquery-1.9.1.min.js" sudy-wp-context="" sudy-wp-siteid="25"></script>
+<script language="javascript" src="/_js/jquery-migrate.min.js"></script>
+<script language="javascript" src="/_js/jquery.sudy.wp.visitcount.js"></script>
+<script type="text/javascript" src="/_js/_portletPlugs/datepicker/js/jquery.datepicker.js"></script>
+<script type="text/javascript" src="/_js/_portletPlugs/datepicker/js/datepicker_lang_HK.js"></script>
+<link rel="stylesheet" type="text/css" href="/_upload/tpl/00/54/84/template84/houqin/css_new.css">
+    <meta name="GENERATOR" content="MSHTML 8.00.6001.18702">
+    <script type="text/JavaScript">
+      function MM_preloadImages() { //v3.0
+        var d = document;
+        if (d.images) {
+          if (!d.MM_p) d.MM_p = new Array();
+          var i, j = d.MM_p.length,
+          a = MM_preloadImages.arguments;
+          for (i = 0; i < a.length; i++) if (a[i].indexOf("#") != 0) {
+            d.MM_p[j] = new Image;
+            d.MM_p[j++].src = a[i];
+          }
+        }
+      }
+
+      function MM_swapImgRestore() { //v3.0
+        var i, x, a = document.MM_sr;
+        for (i = 0; a && i < a.length && (x = a[i]) && x.oSrc; i++) x.src = x.oSrc;
+      }
+
+      function MM_findObj(n, d) { //v4.01
+        var p, i, x;
+        if (!d) d = document;
+        if ((p = n.indexOf("?")) > 0 && parent.frames.length) {
+          d = parent.frames[n.substring(p + 1)].document;
+          n = n.substring(0, p);
+        }
+        if (! (x = d[n]) && d.all) x = d.all[n];
+        for (i = 0; ! x && i < d.forms.length; i++) x = d.forms[i][n];
+        for (i = 0; ! x && d.layers && i < d.layers.length; i++) x = MM_findObj(n, d.layers[i].document);
+        if (!x && d.getElementById) x = d.getElementById(n);
+        return x;
+      }
+
+      function MM_swapImage() { //v3.0
+        var i, j = 0,
+        x, a = MM_swapImage.arguments;
+        document.MM_sr = new Array;
+        for (i = 0; i < (a.length - 2); i += 3) if ((x = MM_findObj(a[i])) != null) {
+          document.MM_sr[j++] = x;
+          if (!x.oSrc) x.oSrc = x.src;
+          x.src = a[i + 2];
+        }
+      }
+      </script>
+  </head>
+
+  <body>
+        
+
+    <div id="all">
+      <div id="top">
+        <div id="contact">
+          <script type="text/javascript">
+            function setAsHomepage() {
+              if(document.all){
+                document.body.style.behavior='url(#default#homepage)';
+                document.body.setHomePage(window.location.href);
+              } else if (window.sidebar){
+                if(window.netscape){
+                  try {
+                    netscape.security.PrivilegeManager.enablePrivilege("UniversalXPConnect");
+                  } catch (e){
+                    alert('您的浏览器不支持自动自动设置首页, 请使用浏览器菜单手动设置!');
+                  }
+                }
+                var prefs = Components.classes['@mozilla.org/preferences-service;1'].getService(Components. interfaces.nsIPrefBranch);
+                prefs.setCharPref('browser.startup.homepage',window.location.href);
+              } else {
+                alert('您的浏览器不支持自动自动设置首页, 请使用浏览器菜单手动设置!');
+              }
+            }
+            function addToFavourite() {
+              var url = window.location;
+              var title = document.title;
+              var ua = navigator.userAgent.toLowerCase();
+              if (ua.indexOf("360se") > -1) {
+                alert("由于360浏览器功能限制，请按 Ctrl+D 手动收藏！");
+              } else if (ua.indexOf("msie 8") > -1) {
+                window.external.AddToFavoritesBar(url, title); //IE8
+              } else if (document.all) {
+                try{
+                  window.external.addFavorite(url, title);
+                } catch(e){
+                  alert('您的浏览器不支持,请按 Ctrl+D 手动收藏!');
+                }
+              } else if (window.sidebar) {
+                window.sidebar.addPanel(title, url, "");
+              } else {
+                alert('您的浏览器不支持,请按 Ctrl+D 手动收藏!');
+              }
+            }
+            $(document).ready(function() {
+              var curTime=new Array(); 
+              var now=new Date(); 
+              var week=['日','一','二','三','四','五','六']; 
+              var year=now.getFullYear();   //年 
+              var month=now.getMonth()+1;   //月 
+              var day=now.getDate();      //日
+              var wk=now.getDay();       //周 
+              curTime['year']=year; 
+              curTime['month']=month<10?'0'+month:month; 
+              curTime['day']=day<10?'0'+day:day;
+              curTime['wk']='星期'+week[wk]; 
+              curTime=curTime['year']+'-'+curTime['month']+'-'+curTime['day']+' '+curTime['wk']; 
+              $('#date-area').text(curTime);
+            });
+          </script>
+          <table width="95%" border="0" cellspacing="0" cellpadding="0">
+            <tbody>
+              <tr>
+                <td>
+                  <a href="javascript:;" onclick="setAsHomepage()"><img src="/_upload/tpl/00/54/84/template84/houqin/homepage.gif" style="vertical-align: bottom;"> 设为首页</a></td></tr>
+              <tr>
+                <td>
+                  <a href="javascript:;" onclick="addToFavourite()"><img src="/_upload/tpl/00/54/84/template84/houqin/post.gif" style="vertical-align: bottom;"> 设为收藏</a></td></tr>
+              <tr>
+                <td>
+                  <a href="mailto:ndhq@nju.edu.cn"><img src="/_upload/tpl/00/54/84/template84/houqin/email.gif" style="vertical-align: bottom;"> 联系我们</a></td></tr>
+              <tr>
+                <td height="30">
+                  <span id="date-area"></span>
+                </td>
+              </tr>
+            </tbody>
+          </table>
+        </div>
+
+        <div align="right" id="dh">
+          <a onmouseover="MM_swapImage('i1','','_upload/tpl/00/54/84/template84/houqin/1b.jpg',1)" onmouseout="MM_swapImgRestore()" href="http://hqjt.nju.edu.cn/main.htm"> 
+            <img name="i1" width="67" height="20" id="i1" src="/_upload/tpl/00/54/84/template84/houqin/1.jpg" border="0"></a>
+          <a onmouseover="MM_swapImage('i2','','_upload/tpl/00/54/84/template84/houqin/2b.jpg',1)" onmouseout="MM_swapImgRestore()" href="http://hqjt.nju.edu.cn/1218/list.htm">
+            <img name="i2" width="67" height="20" id="i2" src="/_upload/tpl/00/54/84/template84/houqin/2.jpg" border="0"></a>
+          <a onmouseover="MM_swapImage('i3','','_upload/tpl/00/54/84/template84/houqin/3b.jpg',1)" onmouseout="MM_swapImgRestore()" href="http://hqjt.nju.edu.cn/1219/list.htm">
+            <img name="i3" width="67" height="20" id="i3" src="/_upload/tpl/00/54/84/template84/houqin/3.jpg" border="0"></a>
+          <a onmouseover="MM_swapImage('i4','','_upload/tpl/00/54/84/template84/houqin/4b.jpg',1)" onmouseout="MM_swapImgRestore()" href="http://hqjt.nju.edu.cn/1220/list.htm">
+            <img name="i4" width="67" height="20" id="i4" src="/_upload/tpl/00/54/84/template84/houqin/4.jpg" border="0"></a>
+          <a onmouseover="MM_swapImage('i5','','_upload/tpl/00/54/84/template84/houqin/5b.jpg',1)" onmouseout="MM_swapImgRestore()" href="http://hqjt.nju.edu.cn/1221/list.htm">
+            <img name="i5" width="67" height="20" id="i5" src="/_upload/tpl/00/54/84/template84/houqin/5.jpg" border="0"></a>
+          <a onmouseover="MM_swapImage('i6','','_upload/tpl/00/54/84/template84/houqin/6b.jpg',1)" onmouseout="MM_swapImgRestore()" href="http://hqjt.nju.edu.cn/1222/list.htm">
+            <img name="i6" width="67" height="20" id="i6" src="/_upload/tpl/00/54/84/template84/houqin/6.jpg" border="0"></a>
+          <a onmouseover="MM_swapImage('i7','','_upload/tpl/00/54/84/template84/houqin/7b.jpg',1)" onmouseout="MM_swapImgRestore()" href="http://bbs.nju.edu.cn/vd62446/bbsdoc?board=M_Logistic">
+            <img name="i7" width="67" height="20" id="i7" src="/_upload/tpl/00/54/84/template84/houqin/7.jpg" border="0"></a>
+        </div> 
+
+      </div>
+      <div id="middle">
+        <div id="left">
+          <div id="left_up_shouye">
+            <div class="lanmu_title">
+              <div class="deep_blue_title">
+                <div class="title1">视频新闻</div>
+                <div class="more">
+                  <a href="http://hqjt.nju.edu.cn/spxw/list.htm">
+                    <img src="/_upload/tpl/00/54/84/template84/houqin/more.gif"></a>
+                </div>
+              </div>
+            </div>
+            <div class="lanmu_area" frag="面板32">
+              <div frag="窗口45"><div id="wp_news_w45"> 
+                  <div class="area">
+                    <ul class="ul1 list-paddingleft-2">
+                      
+                      <li class="li1">
+                        <a title="后勤集团2017总结表彰大会花絮" href="/9f/d4/c3604a237524/page.htm" target="_blank"></a><a href="/9f/d4/c3604a237524/page.htm" target="_blank" title="后勤集团2017总结表彰大会花絮">后勤集团2017总结表彰大...</a>
+                        <img src="/_upload/tpl/00/54/84/template84/houqin/new2.gif" border="0">
+                        
+                      </li><li class="li1">
+                        <a title="南大幼儿园宣传片 调色" href="/46/5f/c3604a83551/page.htm" target="_blank"></a><a href="/46/5f/c3604a83551/page.htm" target="_blank" title="南大幼儿园宣传片 调色">南大幼儿园宣传片 调色</a>
+                        <img src="/_upload/tpl/00/54/84/template84/houqin/new2.gif" border="0">
+                        
+                        </li>
+                      <li class="li1">
+                        <a title="五一节前南大学生为物业叔叔阿姨拍视频点赞" href="/46/5d/c3604a83549/page.htm" target="_blank"></a><a href="/46/5d/c3604a83549/page.htm" target="_blank" title="五一节前南大学生为物业叔叔阿姨拍视频点赞">五一节前南大学生为物业...</a>
+                        </li>
+                    </ul>
+                  </div>
+                </div> 
+</div>
+            </div>
+            <div class="lanmu_title">
+              <div class="deep_blue_title">
+                <div class="title1">部门导航</div></div>
+            </div>
+            <div class="lanmu_area_bmdh_shouye">
+              <div class="area">
+                <table width="90%" align="center" border="0" cellspacing="0" cellpadding="0">
+                  <tbody>
+                    <tr class="firstRow">
+                      <td width="50%" height="24" valign="center">
+                        <div align="left">
+                          <img src="/_upload/tpl/00/54/84/template84/houqin/tb.jpg">  
+                          <a href="http://hqjt.nju.edu.cn/jdzx" target="_self" textvalue="南苑会议中心">南苑会议中心</a></div>
+                      </td>
+                    </tr>
+                    <tr>
+                      <td width="50%" height="24" valign="center">
+                        <div align="left">
+                          <img src="/_upload/tpl/00/54/84/template84/houqin/tb.jpg"> 
+                          <a href="http://hqjt.nju.edu.cn/sszx" target="_self"> 膳食中心</a></div>
+                      </td>
+                    </tr>
+                    <tr>
+                      <td width="50%" height="24" valign="center">
+                        <div align="left">
+                          <img src="/_upload/tpl/00/54/84/template84/houqin/tb.jpg"> 
+                          <a href="http://hqjt.nju.edu.cn/dlzx" target="_self"> 水电管理中心</a></div>
+                      </td>
+                    </tr>
+                    <tr>
+                      <td width="50%" height="24" valign="center">
+                        <div align="left">
+                          <img src="/_upload/tpl/00/54/84/template84/houqin/tb.jpg"> 
+                          <a href="http://hqjt.nju.edu.cn/yszx" target="_self"> 运输中心</a></div>
+                      </td>
+                    </tr>
+                    <tr>
+                      <td width="50%" height="24" valign="center">
+                        <div align="left">
+                          <img src="/_upload/tpl/00/54/84/template84/houqin/tb.jpg">  
+                          <a href="http://hqjt.nju.edu.cn/gmgs" target="_self">工贸公司</a></div>
+                      </td>
+                    </tr>
+                    <tr>
+                      <td width="50%" height="24" valign="center">
+                        <div align="left">
+                          <img src="/_upload/tpl/00/54/84/template84/houqin/tb.jpg">  
+                          <a href="http://hqjt.nju.edu.cn/ndyey" target="_self">南大幼儿园</a></div>
+                      </td>
+                    </tr>
+                    <tr>
+                      <td width="50%" height="24" valign="center">
+                        <div align="left">
+                          <img src="/_upload/tpl/00/54/84/template84/houqin/tb.jpg">  
+                          <a href="http://hqjt.nju.edu.cn/xyglzx" target="_self">绿化环卫管理中心</a></div>
+                      </td>
+                    </tr>
+                    <tr>
+                      <td width="50%" height="24" valign="center">
+                        <div align="left">
+                          <img src="/_upload/tpl/00/54/84/template84/houqin/tb.jpg">  
+                          <a href="http://hqjt.nju.edu.cn/ldwygl" target="_self">物业管理中心</a></div>
+                      </td>
+                    </tr>
+                    <tr>
+                      <td width="50%" height="24" valign="center">
+                        <div align="left">
+                          <img src="/_upload/tpl/00/54/84/template84/houqin/tb.jpg">  
+                          <a href="http://hqjt.nju.edu.cn/ldgcjl" target="_self">兰达工程监理</a></div>
+                      </td>
+                    </tr>
+                    <tr>
+                      <td width="50%" height="24" valign="center">
+                        <div align="left">
+                          <img src="/_upload/tpl/00/54/84/template84/houqin/tb.jpg">  
+                          <a href="http://www.ndgjhyzx.com/" target="_self">南大国际会议中心</a></div>
+                      </td>
+                    </tr>
+                    <tr class="firstRow">
+                      <td width="50%" height="24" valign="center">
+                        <div align="left">
+                          <img src="/_upload/tpl/00/54/84/template84/houqin/tb.jpg">  
+                          <a href="http://hqjt.nju.edu.cn/xyuan" target="_self">西苑会议中心</a></div>
+                      </td>
+                    </tr>
+                  </tbody>
+                </table>
+              </div>
+              <div>
+                <table width="100%" align="center" border="0" cellspacing="1" cellpadding="1">
+                  <tbody>
+                    <!--<TR><TD>&nbsp;</TD></TR>
+                    -->
+                    <tr class="firstRow">
+                      <td>
+                        <a href="mailto:ndhq@nju.edu.cn">
+                          <img width="192" src="/_upload/tpl/00/54/84/template84/houqin/blue_1.jpg" border="0"></a>
+                      </td>
+                    </tr>
+                    <tr>
+                      <td>
+                        <a href="http://hqjt.nju.edu.cn/show.php?id=298">
+                          <img width="192" src="/_upload/tpl/00/54/84/template84/houqin/blue_2.jpg" border="0"></a>
+                      </td>
+                    </tr>
+                    <tr>
+                      <td>
+                        <a href="http://114.212.96.182/bbs" target="_blank">
+                          <img width="192" src="/_upload/tpl/00/54/84/template84/houqin/blue_5.jpg" border="0"></a>
+                      </td>
+                    </tr>
+                    <tr>
+                      <td>
+                        <a href="http://zwzy.cenpar.cn" target="_blank">
+                          <img width="192" src="/_upload/tpl/00/54/84/template84/houqin/blue_6.jpg" border="0"></a>
+                      </td>
+                    </tr>
+                    <tr height="40">
+                      <td height="20" align="middle">
+                        <br>
+                        <div frag="面板41">
+                          <div frag="窗口41" portletmode="search">
+                            <form method="post" action="/_web/search/doSearch.do?locale=zh_CN&amp;request_locale=zh_CN&amp;_p=YXM9MjUmdD04NCZkPTMxOSZwPTEmbT1TTiY_" target="_blank">
+    <div class="wp_search wp_search_ad">
+        <table width="100%">
+            <tr>
+                
+                <td align="left"><input type="text" name="keyword" style="width: 110px" class="keyword"></td>
+				<td colspan="2" align="left" height="25px"><input class="search" type="submit" value=""></td>
+            </tr>
+            
+            
+            
+            
+            
+            
+            
+        </table>
+    </div>
+</form>
+<script>
+    $(document).ready(function() {
+        $("#beginTime").datepicker({picker: "<span class='datepicker'></span>"});
+        $("#endTime").datepicker({picker: "<span class='datepicker'></span>"});
+    });
+</script></div>
+                        </div>
+                      </td>
+                    </tr>
+                  </tbody>
+                </table>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div id="center">
+          <div id="center_up">
+            <div class="lanmu_title">
+              <div class="deep_blue_title">
+                <div class="title1">集团动态</div>
+                <div class="more">
+                  <a href="http://hqjt.nju.edu.cn/jtdt/list.htm">
+                    <img src="/_upload/tpl/00/54/84/template84/houqin/more.gif"></a>
+                </div>
+              </div>
+            </div>
+            <div class="lanmu_area">
+              <div class="area">
+                <div style="width: 170px; height: 130px; vertical-align: middle; float: left;">
+                  <img height="130" src="/_upload/tpl/00/54/84/template84/houqin/a1.jpg"></div>
+                <div style="width: 400px; float: left;" frag="面板1">
+                  <div frag="窗口1" portletmode="simpleNews">
+                    <div id="wp_news_w1"> 
+<ul class="ul1">
+
+    <li class="li1">
+        <a title="全国（部分）高校接待交流联合会第十八届一次会议暨高校后勤人力资源管理工作交流研讨会在南京大学召开" href="/9b/4b/c1194a301899/page.htm" target="_blank"></a><a href="/9b/4b/c1194a301899/page.htm" target="_blank" title="全国（部分）高校接待交流联合会第十八届一次会议暨高校后勤人力资源管理工作交流研讨会在南京大学召开">全国（部分）高校接待交流联合会第十八届一次会议暨高校...</a>11-08
+        <img src="/_upload/tpl/00/54/84/template84/houqin/new2.gif" border="0">
+    </li>
+
+    <li class="li1">
+        <a title="2018•第三届江苏省高等学校美食节暨南京大学“秋意渐浓，情暖南大”校园美食节开幕" href="/98/0b/c1194a301067/page.htm" target="_blank"></a><a href="/98/0b/c1194a301067/page.htm" target="_blank" title="2018•第三届江苏省高等学校美食节暨南京大学“秋意渐浓，情暖南大”校园美食节开幕">2018•第三届江苏省高等学校美食节暨南京大学“秋意渐浓...</a>11-01
+        <img src="/_upload/tpl/00/54/84/template84/houqin/new2.gif" border="0">
+    </li>
+
+
+     <li class="li1">
+     <a title="后勤服务集团开展秋季校园食品安全专项检查" href="/98/02/c1194a301058/page.htm" target="_blank"></a><a href="/98/02/c1194a301058/page.htm" target="_blank" title="后勤服务集团开展秋季校园食品安全专项检查">后勤服务集团开展秋季校园食品安全专项检查</a>11-01</li>
+
+     <li class="li1">
+     <a title="运输中心组织退休职工开展重阳节活动" href="/90/4b/c1194a299083/page.htm" target="_blank"></a><a href="/90/4b/c1194a299083/page.htm" target="_blank" title="运输中心组织退休职工开展重阳节活动">运输中心组织退休职工开展重阳节活动</a>10-24</li>
+
+     <li class="li1">
+     <a title="后勤服务集团钱国兴总经理赴沭阳县汤涧镇调研考察" href="/8e/19/c1194a298521/page.htm" target="_blank"></a><a href="/8e/19/c1194a298521/page.htm" target="_blank" title="后勤服务集团钱国兴总经理赴沭阳县汤涧镇调研考察">后勤服务集团钱国兴总经理赴沭阳县汤涧镇调研考察</a>10-19</li>
+
+     <li class="li1">
+     <a title="后勤服务集团总经理视察西苑留学生公寓装修改造工作" href="/8d/d6/c1194a298454/page.htm" target="_blank"></a><a href="/8d/d6/c1194a298454/page.htm" target="_blank" title="后勤服务集团总经理视察西苑留学生公寓装修改造工作">后勤服务集团总经理视察西苑留学生公寓装修改造工作</a>10-19</li>
+
+</ul>                </div> 
+
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div id="center_middle_1">
+            <img name="imgUrlrotator" src="/_upload/tpl/00/54/84/template84/houqin/1.png" border="0">
+          </div>
+          <div id="center_middle_2">
+
+<div class="dv_1_big" frag="面板2"><div frag="窗口2">
+                        <div class="lanmu_title">
+                            <div class="gray_title">
+                                <div class="title" frag="标题">
+                                    党建之窗
+                                </div>
+                                <div class="more" frag="按钮" type="更多">
+                                    <a href="/djzc/list.htm" class="w2_more"><div frag="按钮内容">更多</div></a>
+                                </div>
+                            </div>
+                        </div>
+                        
+                        <div class="lanmu_area">
+                            <div class="area">
+                                <div id="wp_news_w2"> 
+<ul class="ul1">
+                        
+                        <li class="li1">
+                          <a title="膳食中心党支部参观江阴市华西村" href="/9d/c2/c1212a302530/page.htm" target="_blank"></a><a href="/9d/c2/c1212a302530/page.htm" target="_blank" title="膳食中心党支部参观江阴市华西村">膳食中心党支部参观江阴市华西村</a>11-16
+                          <img src="/_upload/tpl/00/54/84/template84/houqin/new2.gif" border="0"></li>
+                        
+                        <li class="li1">
+                          <a title="水电、监理与公用事业办党支部参观梅园新村纪念馆" href="/9d/c1/c1212a302529/page.htm" target="_blank"></a><a href="/9d/c1/c1212a302529/page.htm" target="_blank" title="水电、监理与公用事业办党支部参观梅园新村纪念馆">水电、监理与公用事业办党支部参...</a>11-16
+                          <img src="/_upload/tpl/00/54/84/template84/houqin/new2.gif" border="0"></li>
+                        
+                        
+                        <li class="li1">
+                          <a title="幼教中心党支部参观江苏省改革开放四十周年图片展" href="/9b/67/c1212a301927/page.htm" target="_blank"></a><a href="/9b/67/c1212a301927/page.htm" target="_blank" title="幼教中心党支部参观江苏省改革开放四十周年图片展">幼教中心党支部参观江苏省改革开...</a>11-08</li>
+                        
+                        <li class="li1">
+                          <a title="支部结对共建　助力精准扶贫" href="/9a/5b/c1212a301659/page.htm" target="_blank"></a><a href="/9a/5b/c1212a301659/page.htm" target="_blank" title="支部结对共建　助力精准扶贫">支部结对共建　助力精准扶贫</a>11-07</li>
+                        
+                        <li class="li1">
+                          <a title="物业管理中心党支部参观仙林校区两馆" href="/90/86/c1212a299142/page.htm" target="_blank"></a><a href="/90/86/c1212a299142/page.htm" target="_blank" title="物业管理中心党支部参观仙林校区两馆">物业管理中心党支部参观仙林校区...</a>10-24</li>
+                        
+                        <li class="li1">
+                          <a title="集团办公室党支部与运输中心党支部联合开展参观学习活动" href="/90/3b/c1212a299067/page.htm" target="_blank"></a><a href="/90/3b/c1212a299067/page.htm" target="_blank" title="集团办公室党支部与运输中心党支部联合开展参观学习活动">集团办公室党支部与运输中心党支...</a>10-24</li>
+                        </ul></div> 
+
+<div class="more"><a class="more-link" href="/djzc/list.htm" title="显示更多"><span class="moretext"><img src="/_js/_portletPlugs/simpleNews/css/icon_more_1.gif" border="0"></span></a></div>
+                            </div>
+                        </div>
+                    </div></div>
+ 
+<div class="dv_2_big" frag="面板10"><div frag="窗口10">
+                        <div class="lanmu_title">
+                            <div class="deep_blue_title">
+                                <div class="title1" frag="标题">
+                                    图片新闻
+                                </div>
+                                <div class="more" frag="按钮" type="更多">
+                                    <a href="/tpxw/list.htm" class="w10_more"><div frag="按钮内容">更多</div></a>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="lanmu_area">
+                            <div class="area">
+                                <!-- 多图交替9 图片 标题 切换 -->
+<div style="position:relative;overflow:hidden;width:240px;height:180px;">
+    <div class="dtjt9_div_img">
+        <img id="w10imgShow" name="w10imgShow" onclick="w10openWindow();" style="FILTER: revealTrans(duration=2,transition=20); border: 0; cursor: pointer;" src="/..//_css/tpl/default/images/loading.gif" width="240px" height="180px" vspace="0">
+        <div id="w10imgNumber" class="number"></div>
+    </div>
+    <div class="dtjt9_div_text">
+        <div id="w10imgTitle" class="dtjt9_div_text_title"><a href="javascript:void(0)"> </a></div>									
+    </div>
+</div>
+<script language="JavaScript" class="">
+    var w10imgJsons = [
+    
+        
+            {
+            "src" : "/_upload/article/images/b6/c8/243a41d54495abaedab7f228d7df/8f65f8d3-a8eb-4c1e-9f77-21b7c4e5c349_s.jpg",
+            "title" : "南大幼儿园举办本学期青年教师技...",
+            "url" : "/9d/60/c1243a302432/page.htm"
+            },
+        
+    
+        
+            {
+            "src" : "/_upload/article/images/16/5f/6047e2ad494fade873a1bc21e2e2/3de796ac-4887-497b-a264-2f220c0ade7c_s.jpg",
+            "title" : "南师大本科生团队来南大幼儿园观...",
+            "url" : "/9d/05/c1243a302341/page.htm"
+            },
+        
+    
+        
+            {
+            "src" : "/_upload/article/images/59/00/fd98fd4a4759ae44361b729f4747/228d4439-0d86-4945-94f3-a279492b917f_s.png",
+            "title" : "1111“单身汪”福利——南大...",
+            "url" : "/9c/79/c1243a302201/page.htm"
+            },
+        
+    
+        
+            {
+            "src" : "/_upload/article/images/c4/1d/80360a8f4d50bdf8e4bffa2108ce/49874c67-2ee4-43da-b643-c0710b9e0d10_s.jpg",
+            "title" : "南大记忆新品不得不说的故事",
+            "url" : "/9c/75/c1243a302197/page.htm"
+            },
+        
+    
+        
+            {
+            "src" : "/_upload/article/images/d7/ab/a46dabeb433ba0992f56437862f1/4ee22f91-4968-46ad-9390-6f8a47c46e98_s.jpg",
+            "title" : "南京大学幼儿园再次开展消防演练...",
+            "url" : "/9b/cd/c1243a302029/page.htm"
+            }];
+        
+    
+</script>
+<script language="JavaScript">
+            var w10imgUrl = new Array();
+            var w10imgLink = new Array();
+            var w10imgTitle = new Array();
+
+            var w10count = 0;
+            var w10running = false;
+            var w10index = 0;
+            var w10nextAdTimer;
+            var w10k = 0;
+            function w10nextAd(num) {
+                if (num >= 0 && num <= w10count - 1) {
+                    w10index = num;
+                    clearTimeout(w10nextAdTimer);
+                } else {
+                    num = w10index;
+                }
+                if (w10index > w10count - 1) {
+                    w10index = 0;
+                }
+                if (!w10running) {
+                    w10running = true;
+
+                } else if (document.all) {
+                    w10imgShow.filters.revealTrans.Transition = 50;
+                    w10imgShow.filters.revealTrans.apply();
+                    w10imgShow.filters.revealTrans.play();
+                }
+                document.getElementById('w10imgShow').src = w10imgUrl[w10index];
+                if (w10imgTitle[w10index] != '') {
+                    document.getElementById('w10imgTitle').innerHTML = '<a href="javascript:w10openWindow();" title="' + w10imgTitle[w10index] + '">' + w10imgTitle[w10index] + '</a>';
+                }
+                document.getElementById('w10imgNumber').innerHTML = "";
+                w10k = 0;
+                for (var i = 0; i < w10count; i++) {
+                    w10k++;
+                    if (i != w10index) {
+                        document.getElementById('w10imgNumber').innerHTML += '<a href="javascript:w10nextAd(' + i + ')" class="nomal">' + w10k + '</a>';
+                    } else {
+                        document.getElementById('w10imgNumber').innerHTML += '<a href="javascript:w10nextAd(' + i + ')" class="current">' + w10k + '</a>';
+                    }
+                }
+
+                w10index++;
+                if (w10count > 1) {
+                    w10nextAdTimer = setTimeout("w10nextAd(-1)", 4000);
+                }
+            }
+
+            function w10openWindow() {
+                var jumpUrl = w10imgLink[w10index - 1];
+                if (jumpUrl && jumpUrl != '') {
+                    window.open(jumpUrl);
+                }
+            }
+
+            $().ready(function() {
+                try {
+                    var objs = w10imgJsons;
+                    w10count = objs.length;
+                    if (w10count == 0) {
+                        document.getElementById('w10imgShow').style.display = "none";
+                        document.getElementById('w10imgNumber').style.display = "none";
+                        document.getElementById('w10imgTitle').style.display = "none";
+                        return;
+                    }
+                    for (var i = 0; i < objs.length; i++) {
+                        w10imgUrl[i] = objs[i].src;
+                        w10imgLink[i] = objs[i].url;
+                        w10imgTitle[i] = objs[i].title;
+                    }
+                    w10nextAd(-1);
+                } catch (e) {
+
+                }
+            });
+</script>
+
+                            </div>
+                        </div>
+                    </div></div>
+          </div>
+          
+
+<div id="center_down">
+      <div class="dv_1" frag="面板3"><div frag="窗口3">
+                        <div class="lanmu_title"><div class="deep_blue_title">
+                            <div class="title1" frag="标题">
+                                员工风采
+                            </div>
+                            <div class="more" frag="按钮" type="更多">
+                                <a href="/ygfc/list.htm" class="w3_more"><div frag="按钮内容">更多</div></a>
+                            </div>
+                        </div></div>
+                        <div class="lanmu_area">
+                            <div class="area">
+                                <div id="wp_news_w3"> 
+<ul class="ul1">
+                        
+                        <li class="li1">
+                          <a title="工贸公司开展消防安全知识培训" href="/9d/9b/c1204a302491/page.htm" target="_blank"></a><a href="/9d/9b/c1204a302491/page.htm" target="_blank" title="工贸公司开展消防安全知识培训">工贸公司开展消防安全知识培训</a>11-16
+                          <img src="/_upload/tpl/00/54/84/template84/houqin/new2.gif" border="0">
+                          
+                        </li><li class="li1">
+                          <a title="绿化环卫管理中心举办植物品种辨识比赛" href="/97/27/c1204a300839/page.htm" target="_blank"></a><a href="/97/27/c1204a300839/page.htm" target="_blank" title="绿化环卫管理中心举办植物品种辨识比赛">绿化环卫管理中心举办植物品种辨识...</a>10-31
+                          <img src="/_upload/tpl/00/54/84/template84/houqin/new2.gif" border="0">
+                          
+                          </li>
+                        <li class="li1">
+                          <a title="南苑会议中心开展预算管理培训" href="/89/fa/c1204a297466/page.htm" target="_blank"></a><a href="/89/fa/c1204a297466/page.htm" target="_blank" title="南苑会议中心开展预算管理培训">南苑会议中心开展预算管理培训</a>10-08
+                          </li>
+                        <li class="li1">
+                          <a title="南大国际会议中心举办“迎国庆 欢歌颂党情”歌咏比赛" href="/85/b7/c1204a296375/page.htm" target="_blank"></a><a href="/85/b7/c1204a296375/page.htm" target="_blank" title="南大国际会议中心举办“迎国庆 欢歌颂党情”歌咏比赛">南大国际会议中心举办“迎国庆 欢...</a>09-19
+                          </li>
+                        <li class="li1">
+                          <a title="南苑会议中心开展法律法规知识培训" href="/7d/56/c1204a294230/page.htm" target="_blank"></a><a href="/7d/56/c1204a294230/page.htm" target="_blank" title="南苑会议中心开展法律法规知识培训">南苑会议中心开展法律法规知识培训</a>09-13
+                          </li>
+                        <li class="li1">
+                          <a title="南大国际会议中心开展系列培训活动" href="/4b/91/c1204a281489/page.htm" target="_blank"></a><a href="/4b/91/c1204a281489/page.htm" target="_blank" title="南大国际会议中心开展系列培训活动">南大国际会议中心开展系列培训活动</a>08-27
+                          </li>
+                      </ul></div> 
+
+                            </div>
+                        </div>
+                    </div></div>      
+
+
+            <div class="dv_2">
+              <div class="lanmu_title">
+                <div class="gray_title">
+                  <div class="title">荣誉榜</div>
+                  <div class="more">
+                    <a href="http://hqjt.nju.edu.cn/ryb/list.htm">
+                      <img src="/_upload/tpl/00/54/84/template84/houqin/more.gif"></a>
+                  </div>
+                </div>
+              </div>
+              <div class="lanmu_area" frag="面板4">
+                <div frag="窗口4" portletmode="simpleNews">
+                  <div id="wp_news_w4"> 
+
+                    <div class="area">
+                      <ul class="ul1">
+                        
+                        <li class="li1">
+                          <a title="后勤服务集团获2018年江苏省“粮安之星”荣誉称号" href="/91/ae/c1211a299438/page.htm" target="_blank"></a><a href="/91/ae/c1211a299438/page.htm" target="_blank" title="后勤服务集团获2018年江苏省“粮安之星”荣誉称号">后勤服务集团获2018年江苏省“粮安...</a>10-26
+                          <img src="/_upload/tpl/00/54/84/template84/houqin/new2.gif" border="0">
+                          
+                        </li><li class="li1">
+                          <a title="南大国际会议中心喜获“中国会议酒店杰出服务奖”" href="/85/37/c1211a296247/page.htm" target="_blank"></a><a href="/85/37/c1211a296247/page.htm" target="_blank" title="南大国际会议中心喜获“中国会议酒店杰出服务奖”">南大国际会议中心喜获“中国会议酒...</a>09-18
+                          <img src="/_upload/tpl/00/54/84/template84/houqin/new2.gif" border="0">
+                          
+                          </li>
+                        <li class="li1">
+                          <a title="标  题: 感谢保安徐吉锁师傅" href="/79/0c/c1211a293132/page.htm" target="_blank"></a><a href="/79/0c/c1211a293132/page.htm" target="_blank" title="标  题: 感谢保安徐吉锁师傅">标  题: 感谢保安徐吉锁师傅</a>09-03
+                          </li>
+                        <li class="li1">
+                          <a title="标  题: 给仙林6栋宿管阿姨施义莲、周光珠的一封感谢信" href="/76/71/c1211a292465/page.htm" target="_blank"></a><a href="/76/71/c1211a292465/page.htm" target="_blank" title="标  题: 给仙林6栋宿管阿姨施义莲、周光珠的一封感谢信">标  题: 给仙林6栋宿管阿姨施义莲...</a>08-31
+                          </li>
+                        <li class="li1">
+                          <a title="标  题: 给鼓楼浴室010阿姨点赞~~~" href="/30/f4/c1211a274676/page.htm" target="_blank"></a><a href="/30/f4/c1211a274676/page.htm" target="_blank" title="标  题: 给鼓楼浴室010阿姨点赞~~~">标  题: 给鼓楼浴室010阿姨点赞~~~</a>06-14
+                          </li>
+                        <li class="li1">
+                          <a title="标  题: 感谢工程部的许工！" href="/2b/29/c1211a273193/page.htm" target="_blank"></a><a href="/2b/29/c1211a273193/page.htm" target="_blank" title="标  题: 感谢工程部的许工！">标  题: 感谢工程部的许工！</a>06-06
+                          </li>
+                      </ul>
+                    </div>
+                  </div> 
+
+                </div>
+              </div>
+            </div>
+          </div>
+          <!--后来添加-->
+          <div id="center_down_2">
+           
+<div class="dv_1" frag="面板5"><div frag="窗口5">
+                        <div class="lanmu_title"><div class="gray_title">
+                            <div class="title" frag="标题">
+                                共建与交流
+                            </div>
+                            <div class="more" frag="按钮" type="更多">
+                                <a href="/gjyjl/list.htm" class="w5_more"><div frag="按钮内容">更多</div></a>
+                            </div>
+                        </div></div>
+                        <div class="lanmu_area">
+                            <div class="area">
+                                <div id="wp_news_w5"> 
+<ul class="ul1">
+                        
+                        <li class="li1">
+                          <a title="新疆园长国培班来南大幼儿园参观学习" href="/9b/cf/c1210a302031/page.htm" target="_blank"></a><a href="/9b/cf/c1210a302031/page.htm" target="_blank" title="新疆园长国培班来南大幼儿园参观学习">新疆园长国培班来南大幼儿园参观...</a>2018-11-09
+                          <img src="/_upload/tpl/00/54/84/template84/houqin/new2.gif" border="0">
+                          
+                        </li><li class="li1">
+                          <a title="南大幼儿园国庆庆祝活动精彩纷呈" href="/89/f4/c1210a297460/page.htm" target="_blank"></a><a href="/89/f4/c1210a297460/page.htm" target="_blank" title="南大幼儿园国庆庆祝活动精彩纷呈">南大幼儿园国庆庆祝活动精彩纷呈</a>2018-10-08
+                          <img src="/_upload/tpl/00/54/84/template84/houqin/new2.gif" border="0">
+                          
+                          </li>
+                        <li class="li1">
+                          <a title="南大幼儿园家长学校讲座深受欢迎" href="/87/48/c1210a296776/page.htm" target="_blank"></a><a href="/87/48/c1210a296776/page.htm" target="_blank" title="南大幼儿园家长学校讲座深受欢迎">南大幼儿园家长学校讲座深受欢迎</a>2018-09-25
+                          </li>
+                        <li class="li1">
+                          <a title="旧物共享，爱心传递——记鼓楼公寓生活用品捐赠活动" href="/7c/8a/c1210a294026/page.htm" target="_blank"></a><a href="/7c/8a/c1210a294026/page.htm" target="_blank" title="旧物共享，爱心传递——记鼓楼公寓生活用品捐赠活动">旧物共享，爱心传递——记鼓楼公寓...</a>2018-09-11
+                          </li>
+                        <li class="li1">
+                          <a title="抚育三载，感恩一生——南京大学幼儿园2018年毕业典礼侧记及感言" href="/3c/b0/c1210a277680/page.htm" target="_blank"></a><a href="/3c/b0/c1210a277680/page.htm" target="_blank" title="抚育三载，感恩一生——南京大学幼儿园2018年毕业典礼侧记及感言">抚育三载，感恩一生——南京大学幼...</a>2018-07-05
+                          </li>
+                        <li class="li1">
+                          <a title="鼓楼区课程游戏化教研活动在南大幼儿园举行" href="/35/65/c1210a275813/page.htm" target="_blank"></a><a href="/35/65/c1210a275813/page.htm" target="_blank" title="鼓楼区课程游戏化教研活动在南大幼儿园举行">鼓楼区课程游戏化教研活动在南大...</a>2018-06-22
+                          </li>
+                      </ul></div> 
+
+                            </div>
+                        </div>
+                    </div></div> 
+
+
+
+
+            <div class="dv_2">
+              <div class="lanmu_title">
+                <div class="deep_blue_title">
+                  <div class="title1">他山之石</div>
+                  <div class="more">
+                    <a href="http://hqjt.nju.edu.cn/tszs/list.htm">
+                      <img src="/_upload/tpl/00/54/84/template84/houqin/more.gif"></a>
+                  </div>
+                </div>
+              </div>
+              <div class="lanmu_area" frag="面板6">
+                <div frag="窗口6" portletmode="simpleNews">
+                  <div id="wp_news_w6"> 
+
+                    <div class="area">
+                      <ul class="ul1">
+                        
+                        <li class="li1">
+                          <a title="【后勤迎新】太原理工大学： 服务有爱，迎新有心，构筑美丽温情校园——后勤迎新工作记" href="/8c/91/c1213a298129/page.htm" target="_blank"></a><a href="/8c/91/c1213a298129/page.htm" target="_blank" title="【后勤迎新】太原理工大学： 服务有爱，迎新有心，构筑美丽温情校园——后勤迎新工作记">【后勤迎新】太原理工大学： 服...</a>10-16
+                          <img src="/_upload/tpl/00/54/84/template84/houqin/new2.gif" border="0">
+                          
+                        </li><li class="li1">
+                          <a title="【业精于勤】浙江海洋大学:副校长徐士元深入扩建工程施工现场检查指导工作" href="/8c/90/c1213a298128/page.htm" target="_blank"></a><a href="/8c/90/c1213a298128/page.htm" target="_blank" title="【业精于勤】浙江海洋大学:副校长徐士元深入扩建工程施工现场检查指导工作">【业精于勤】浙江海洋大学:副校...</a>10-16
+                          <img src="/_upload/tpl/00/54/84/template84/houqin/new2.gif" border="0">
+                          
+                          </li>
+                        <li class="li1">
+                          <a title="江苏科技大学：后勤集团党委召开新学期首次中心组学习会" href="/87/d6/c1213a296918/page.htm" target="_blank"></a><a href="/87/d6/c1213a296918/page.htm" target="_blank" title="江苏科技大学：后勤集团党委召开新学期首次中心组学习会">江苏科技大学：后勤集团党委召开...</a>09-27
+                          </li>
+                        <li class="li1">
+                          <a title="【后勤风采】“桃李花下，徐工味；你的青春，饭当家” ——徐州工程学院校园美食节盛大开幕" href="/79/0b/c1213a293131/page.htm" target="_blank"></a><a href="/79/0b/c1213a293131/page.htm" target="_blank" title="【后勤风采】“桃李花下，徐工味；你的青春，饭当家” ——徐州工程学院校园美食节盛大开幕">【后勤风采】“桃李花下，徐工味...</a>09-03
+                          </li>
+                        <li class="li1">
+                          <a title="【业精于勤】淮阴师范学院：当好饮服人，做好饮服事，办师生满意服务" href="/76/74/c1213a292468/page.htm" target="_blank"></a><a href="/76/74/c1213a292468/page.htm" target="_blank" title="【业精于勤】淮阴师范学院：当好饮服人，做好饮服事，办师生满意服务">【业精于勤】淮阴师范学院：当好...</a>08-31
+                          </li>
+                        <li class="li1">
+                          <a title="【后勤风采】江南大学：校领导暑期慰问高温下辛勤工作的后勤职工" href="/76/6b/c1213a292459/page.htm" target="_blank"></a><a href="/76/6b/c1213a292459/page.htm" target="_blank" title="【后勤风采】江南大学：校领导暑期慰问高温下辛勤工作的后勤职工">【后勤风采】江南大学：校领导暑...</a>08-31
+                          </li>
+                      </ul>
+                    </div>
+                  </div> 
+
+                </div>
+              </div>
+            </div>
+          </div>
+          <!--增加部分完毕--></div>
+        <div id="right">
+          <div id="right_1">
+            <div class="lanmu_title">
+              <div class="blue_title">
+                <div class="title1">天气预报</div></div>
+            </div>
+            <div class="lanmu_area">
+              <div class="area" style="text-align: center;" cmsid="57053658">
+                <iframe width="130" height="120" src="/_upload/tpl/00/54/84/template84/houqin/index.htm" frameborder="0" scrolling="no" allowtransparency=""></iframe>
+                <!--<marquee behavior="scroll" scrollamount="20" scrolldelay="2000" direction="up" height="135"></marquee>--></div>
+            </div>
+          </div>
+          <div class="right_2">
+            <div class="lanmu_title">
+              <div class="yellow_title">
+                <div class="title1">集团通知与通告</div>
+                <div class="more">
+                  <a href="http://hqjt.nju.edu.cn/1214/list.htm">
+                    <img src="/_upload/tpl/00/54/84/template84/houqin/more.gif"></a>
+                </div>
+              </div>
+            </div>
+            <div class="lanmu_area" frag="面板7">
+              <div frag="窗口7" portletmode="simpleNews">
+                <div id="wp_news_w7"> 
+
+                  <div class="area">
+                    <ul class="ul1 list-paddingleft-2">
+                      
+                      <li class="li1">
+                        <a title="2018年中秋期间后勤服务集团服务窗口作息时间" href="/86/7b/c1214a296571/page.htm" target="_blank">2018年中秋期间后勤服务...</a>
+                        <img src="/_upload/tpl/00/54/84/template84/houqin/new2.gif" border="0">
+                        
+                      </li><li class="li1">
+                        <a title="后勤服务集团2018年暑期服务窗口作息时间" href="/3f/d4/c1214a278484/page.htm" target="_blank">后勤服务集团2018年暑期...</a>
+                        <img src="/_upload/tpl/00/54/84/template84/houqin/new2.gif" border="0">
+                        
+                        </li>
+                      <li class="li1">
+                        <a title="2018年端午期间后勤服务集团服务窗口作息时间" href="/32/e4/c1214a275172/page.htm" target="_blank">2018年端午期间后勤服务...</a>
+                        </li>
+                      <li class="li1">
+                        <a title="后勤服务集团“优质服务月”活动方案" href="/2d/7f/c1214a273791/page.htm" target="_blank">后勤服务集团“优质服务...</a>
+                        </li>
+                      <li class="li1">
+                        <a title="后勤服务集团关于发起设立“后勤发展基金”的倡议" href="/1d/c4/c1214a269764/page.htm" target="_blank">后勤服务集团关于发起设...</a>
+                        </li>
+                      <li class="li1">
+                        <a title="2018年五一期间后勤服务集团服务窗口作息时间" href="/06/6b/c1214a263787/page.htm" target="_blank">2018年五一期间后勤服务...</a>
+                        </li>
+                    </ul>
+                  </div>
+                </div> 
+
+              </div>
+            </div>
+          </div>
+          <div class="right_2">
+            <div class="lanmu_title">
+              <div class="green_title">
+                <div class="title1">招标采购公告</div>
+                <div class="more">
+                  <a href="http://hqjt.nju.edu.cn/1215/list.htm">
+                    <img src="/_upload/tpl/00/54/84/template84/houqin/more.gif"></a>
+                </div>
+              </div>
+            </div>
+            <div class="lanmu_area" frag="面板8">
+              <div frag="窗口8" portletmode="simpleNews">
+                <div id="wp_news_w8"> 
+
+                  <div class="area">
+                    <ul class="ul1">
+                      
+                      <li class="li1">
+                        <a title="膳食中心泔水拖运服务（鼓楼校区）招标公告" href="/9c/9f/c1215a302239/page.htm" target="_blank"></a><a href="/9c/9f/c1215a302239/page.htm" target="_blank" title="膳食中心泔水拖运服务（鼓楼校区）招标公告">膳食中心泔水拖运服务（...</a>
+                        <img src="/_upload/tpl/00/54/84/template84/houqin/new2.gif" border="0">
+                        
+                      </li><li class="li1">
+                        <a title="南京南大国际会议中心餐饮原材料供应服务项目中标公示" href="/9a/60/c1215a301664/page.htm" target="_blank"></a><a href="/9a/60/c1215a301664/page.htm" target="_blank" title="南京南大国际会议中心餐饮原材料供应服务项目中标公示">南京南大国际会议中心餐...</a>
+                        <img src="/_upload/tpl/00/54/84/template84/houqin/new2.gif" border="0">
+                        
+                        </li>
+                      <li class="li1">
+                        <a title="膳食中心水果供应招标公告(二次)" href="/99/c7/c1215a301511/page.htm" target="_blank"></a><a href="/99/c7/c1215a301511/page.htm" target="_blank" title="膳食中心水果供应招标公告(二次)">膳食中心水果供应招标公...</a>
+                        </li>
+                      <li class="li1">
+                        <a title="卫岗乳制品采购单一来源采购公示" href="/99/82/c1215a301442/page.htm" target="_blank"></a><a href="/99/82/c1215a301442/page.htm" target="_blank" title="卫岗乳制品采购单一来源采购公示">卫岗乳制品采购单一来源...</a>
+                        </li>
+                      <li class="li1">
+                        <a title="百事可乐饮品采购单一来源采购公示" href="/99/81/c1215a301441/page.htm" target="_blank"></a><a href="/99/81/c1215a301441/page.htm" target="_blank" title="百事可乐饮品采购单一来源采购公示">百事可乐饮品采购单一来...</a>
+                        </li>
+                      <li class="li1">
+                        <a title="中萃饮品采购单一来源采购公示" href="/99/80/c1215a301440/page.htm" target="_blank"></a><a href="/99/80/c1215a301440/page.htm" target="_blank" title="中萃饮品采购单一来源采购公示">中萃饮品采购单一来源采...</a>
+                        </li>
+                    </ul>
+                  </div>
+                </div> 
+
+              </div>
+            </div>
+          </div>
+          <div class="right_2">
+            <div class="lanmu_title">
+              <div class="yellow_title">
+                <div class="title1">集团简报</div>
+                <div class="more">
+                  <a href="http://hqjt.nju.edu.cn/1216/list.htm">
+                    <img src="/_upload/tpl/00/54/84/template84/houqin/more.gif"></a>
+                </div>
+              </div>
+            </div>
+            <div class="lanmu_area" frag="面板9">
+              <div frag="窗口9" portletmode="simpleNews">
+                <div id="wp_news_w9"> 
+
+                  <div class="area">
+                    <ul class="ul1">
+                      
+                      <li class="li1">
+                        <a title="《南大生活资讯》第53期" href="/9d/65/c1216a302437/page.htm" target="_blank"></a><a href="/9d/65/c1216a302437/page.htm" target="_blank" title="《南大生活资讯》第53期">《南大生活资讯》第53期</a>
+                        <img src="/_upload/tpl/00/54/84/template84/houqin/new2.gif" border="0">
+                        
+                      </li><li class="li1">
+                        <a title="《南大生活资讯》第52期" href="/88/1a/c1216a296986/page.htm" target="_blank"></a><a href="/88/1a/c1216a296986/page.htm" target="_blank" title="《南大生活资讯》第52期">《南大生活资讯》第52期</a>
+                        <img src="/_upload/tpl/00/54/84/template84/houqin/new2.gif" border="0">
+                        
+                        </li>
+                      <li class="li1">
+                        <a title="《南大生活资讯》第51期" href="/_upload/article/files/3b/be/c08708dc4f71a9373d7a4748f94c/3163bb12-b452-468b-90f8-63857c9d8087.pdf" target="_blank">《南大生活资讯》第51期</a>
+                        </li>
+                      <li class="li1">
+                        <a title="《南大生活资讯》第50期" href="/_upload/article/files/a2/c5/b2c2642248d48e7bacb6db3bf3e4/9a9d343f-b1bf-482f-b212-95af5869b051.pdf" target="_blank">《南大生活资讯》第50期</a>
+                        </li>
+                      <li class="li1">
+                        <a title="《南大生活资讯》第49期" href="/23/5f/c1216a271199/page.htm" target="_blank">《南大生活资讯》第49期</a>
+                        </li>
+                      <li class="li1">
+                        <a title="《南大生活资讯》第48期" href="/01/dc/c1216a262620/page.htm" target="_blank">《南大生活资讯》第48期</a>
+                        </li>
+                    </ul>
+                  </div>
+                </div> 
+
+              </div>
+            </div>
+          </div>
+          <div id="right_3" style="height: 136px;">
+            <div class="lanmu_title">
+              <div class="pink_title">
+                <div class="title1">访问统计</div></div>
+            </div>
+            <div class="lanmu_area_small">
+              <div class="area_small">
+                <div class="views" frag="面板43">
+                  <div frag="窗口43" portletmode="siteCount">
+                    <span>本日访问量:</span>
+                    <img border="0" src="/_visitcountdisplay?siteId=25&amp;type=1&amp;dispMode=2&amp;statMode=4"></div>
+                </div>
+                <div class="views" frag="面板44">
+                  <div frag="窗口44" portletmode="siteCount">
+                    <span>本月访问量:</span>
+                    <img border="0" src="/_visitcountdisplay?siteId=25&amp;type=1&amp;dispMode=2&amp;statMode=3"></div>
+                </div>
+                <div class="views" frag="面板42">
+                  <div frag="窗口42" portletmode="siteCount">
+                    <span>总访问量:</span>
+                    <img border="0" src="/_visitcountdisplay?siteId=25&amp;type=1&amp;dispMode=2&amp;statMode=1"></div>
+                </div>
+                <br></div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div id="foot">
+        <div align="center" style="margin-top: 20px;">版权所有
+          <span style="font-family: arial;">©</span>南京大学后勤服务集团
+          <br>
+          <br>
+          <span style="font-family: arial;">All Rights Reserved © The Logistic Service Group of Nanjing University</span></div>
+      </div>
+    </div>
+  </body>
+</html>

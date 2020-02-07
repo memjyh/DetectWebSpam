@@ -1,0 +1,1 @@
+if (this.value=='站内搜索...')this.value=''

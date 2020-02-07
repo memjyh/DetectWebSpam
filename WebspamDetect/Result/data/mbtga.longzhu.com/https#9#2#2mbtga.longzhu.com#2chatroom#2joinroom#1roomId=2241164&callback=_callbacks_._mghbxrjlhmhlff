@@ -1,0 +1,28 @@
+https://mbtga.longzhu.com/chatroom/joinroom?roomId=2241164&callback=_callbacks_._mghbxrjlhmhlff
+<html><body><p>_callbacks_._mghbxrjlhmhlff({
+	"servertime":1542513205,
+    "success":true,
+    "online":0,
+    "group":"2241164",
+    "msgs":[],
+    "gifts":[],
+    "topgifts":[],
+    "sharding":null,
+    "medal":null,
+    "list":[],
+    "chattype":"1",
+    "serverdomain":"mbgows.plu.cn",
+    "serverport":"8805",
+    "topqueue":null,
+    "kickedout":0,
+    "ev":"1.0.2",
+    "topsessions":[],
+    "sserverport":"8806",
+    "kick":{"Expire":0,"UserId":0,"Role":0},
+    "mission":null,
+    "forbidbarrage":0,
+    "privateroom":{"roomType":0,"roomPerm":1},
+    "flashscreen":[],
+    "pkstatus":0,
+    "IsEverChargeUser":0
+})</p></body></html>

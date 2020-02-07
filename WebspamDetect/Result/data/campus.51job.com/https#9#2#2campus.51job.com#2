@@ -1,0 +1,48 @@
+https://campus.51job.com/
+<html>
+	<head>
+		<meta charset="utf-8">
+		<title>【木林森2018校园招聘】木林森前程无忧官方校园招聘网</title>
+		<meta content=" 木林森招聘 前程无忧官方网站，提供最新 木林森招聘职位，校园招聘信息， 木林森面试技巧等。帮助您顺利踏入木林森的大门，与众多木林森精英们开启一段崭新的职业生涯。" name="description">
+		<meta content="人才，招聘，简历，工作，求职，面试，应聘，跳槽，高薪，兼职，猎头，薪酬，薪资，培训，测评，人事" name="keywords">
+	</head>
+	<link rel="stylesheet" type="text/css" href="css/style.css">
+	<body>
+		<div class="header">
+			<div class="wraper">
+				<div class="logo">
+					<img src="images/logo.png">
+				</div>
+				<ul>
+					<li class="active">
+						<a href="index.html">公司简介</a>
+					</li>
+					<li>
+						<a href="job.html">招聘职位</a>
+					</li>
+					<li>
+						<a href="trip.html">校招行程</a>
+					</li>
+				</ul>
+			</div>
+		</div>
+		<div class="banner">
+			<img src="images/banner.png">
+		</div>
+		<div class="main">
+			<div class="title">
+				<img src="images/title1.png">
+			</div>
+			<div class="content wraper">
+				<p>木林森股份有限公司成立于1997年。，于2015年2月17日在深交所上市，股票代码：002745。主品牌标识为"木林森"，是集LED封装与LED应用产品为一体的综合性光电高新技术企业，总部设立在广东省中山市，在江西、浙江拥有4个全资子生产基地，分别是中山市木林森电子有限公司、江西省木林森照明有限公司、江西省木林森光电科技有限公司一期、江西省木林森光电科技有限公司三期，合计员工2万多人，公司有专业的研发团队，并成立了企业研究院。</p>
+				<p>木林森现拥有国际先进水平的生产设备总数达27729+台，到2017年第1季度，每月LED封装产能超过800亿只 。</p>
+				<img src="images/jj1.png" alt="">
+				<img src="images/jj2.png">
+			</div>
+		</div>
+		<div class="footer">
+			<img src="images/hand.png" style="width: 15px;height: 20px;">未经 51job.com 同意，不得转载本网站之所有招聘信息及作品；无忧工作网版权所有©<span style="font-family:Arial">1999-
+        		<script language="JavaScript">var nowD = new Date();var year = nowD.getFullYear();document.write(year);</script></span>
+		</div>
+	</body>
+</html>

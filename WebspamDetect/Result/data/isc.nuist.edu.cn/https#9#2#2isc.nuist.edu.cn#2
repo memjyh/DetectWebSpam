@@ -1,0 +1,992 @@
+﻿https://isc.nuist.edu.cn/
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<title>自动化学院</title>
+
+<link type="text/css" href="/_css/_system/system.css" rel="stylesheet">
+<link type="text/css" href="/_upload/site/1/style/1/1.css" rel="stylesheet">
+<link type="text/css" href="/_upload/site/00/0b/11/style/10/10.css" rel="stylesheet">
+       <link href="/_css/tpl2/default/portlet/dtjt/9/dtjt9.css" type="text/css" rel="stylesheet">
+       <link href="/_css/tpl2/system.css" type="text/css" rel="stylesheet"> 
+       <link href="/_css/tpl2/default/default.css" type="text/css" rel="stylesheet"> 
+<link type="text/css" href="/_js/_portletPlugs/simpleNews/css/simplenews.css" rel="stylesheet">
+<link type="text/css" href="/_js/_portletPlugs/sudyNavi/css/sudyNav.css" rel="stylesheet">
+<link type="text/css" href="/_js/_portletPlugs/datepicker/css/datepicker.css" rel="stylesheet">
+
+<script language="javascript" src="/_js/jquery.min.js" sudy-wp-context="" sudy-wp-siteid="11"></script>
+<script language="javascript" src="/_js/jquery.sudy.wp.visitcount.js"></script>
+<script type="text/javascript" src="/_js/_portletPlugs/sudyNavi/jquery.sudyNav.js"></script>
+<script type="text/javascript" src="/_js/_portletPlugs/datepicker/js/jquery.datepicker.js"></script>
+<script type="text/javascript" src="/_js/_portletPlugs/datepicker/js/datepicker_lang_HK.js"></script>
+<script type="text/javascript" src="/_js/_portletPlugs/winfloat/js/winfloat.js"></script>
+<link rel="shortcut icon" href="/_upload/tpl/00/0a/10/template10/htmlRes/favicon.ico" type="image/x-icon">
+<link href="/_upload/tpl/00/0a/10/template10/htmlRes/css.css" rel="stylesheet" type="text/css">
+<meta http-equiv="X-UA-Compatible" content="IE=8">
+</head>
+<body>
+
+<script type="text/javascript" src="/_upload/tpl/00/0a/10/template10/htmlRes/jquery.ba-resize.min.js"></script>
+<script type="text/javascript" src="/_upload/tpl/00/0a/10/template10/htmlRes/js2013.js"></script>
+<script>
+$(function(){
+	$("#menu .menu_one").hover(function(){
+		$("a.item_name", $(this)).addClass("hover");
+		$(".menu_expand", $(this)).slideDown(300);
+	}, function(){
+		$current = $(this);
+		$(".menu_expand", $(this)).hide();
+		$("a.item_name", $(this)).removeClass("hover");
+	});
+});
+</script>
+<div class="pc">
+  <div class="pcnr" frag="面板200">
+    <div frag="窗口200">
+       <div id="winfloat_div_w200" style="position:absolute; width:180px; height:130px;background;#fff;padding:5px;z-index:1005;"><table width="100%" border="0" cellspacing="0" cellpadding="0" class="wp_article_list_table"> 
+<tr> 
+<td> 
+<a href="http://jswrjds.nuist.edu.cn/" target="_blank" title="无人机科研创新实践大赛"><img src="/_upload/article/images/57/4d/1e5982fb42c88cc0e2cfbdf8def0/20ebc390-ef13-472a-a72e-39a4bce71c36_s.png" width="180"></a></td> 
+</tr> 
+</table><div align="right"><div style="FONT-SIZE: 9pt;width:40px; CURSOR: pointer" align="right" onclick="$('#winfloat_div_w200').hide()">×关闭</div></div></div><script type="text/javascript">$(document).ready(function(){ $('#winfloat_div_w200').imgFloat({speed:25,xPos:117,yPos:250});});</script>
+    </div>
+  </div>
+</div>
+<div class="header">
+            
+            <div class="logo">
+                <div class="logo_con" frag="面板78">
+                   
+                    <div class="right" frag="窗口78">
+                      <form method="post" action="/_web/search/doSearch.do?locale=zh_CN&amp;request_locale=zh_CN&amp;_p=YXM9MTEmdD0xMCZkPTM3JnA9MSZtPVNOJg__" id="form1">
+                        <div class="search">
+                           
+                            <input name="keyword" type="text" maxlength="40" id="tbKeywords" class="inp_txt fl">
+                            <input type="submit" name="submit" value="" id="btnSearch" class="inp_btn fl">
+                        </div>
+                        </form> 
+                    </div>
+                </div>
+            </div>
+<div class="clear"></div>
+<div class="nav" frag="面板1">
+  <div frag="窗口1">
+    
+     <div id="menu">
+    
+    <ul>
+     
+      <li class="menu_one i1"><a class="item_name" href="http://auto.nuist.edu.cn/main.htm">首页<img src="/_upload/tpl/00/0a/10/template10/htmlRes/ico2.gif"></a>
+        
+      </li>      
+     
+      <li class="menu_one i2"><a class="item_name" href="/235/list.htm">学校概况<img src="/_upload/tpl/00/0a/10/template10/htmlRes/ico2.gif"></a>
+        
+        <ul class="menu_expand" style="display: none;">
+          
+          <li class="menu_two"><a href="/244/list.htm">学院简介</a></li>  
+          
+          <li class="menu_two"><a href="/245/list.htm">现任领导</a></li>  
+          
+          <li class="menu_two"><a href="/246/list.htm">历任领导</a></li>  
+          
+          <li class="menu_two"><a href="/247/list.htm">机构设置</a></li>  
+                                             
+        </ul>
+        
+      </li>      
+     
+      <li class="menu_one i3"><a class="item_name" href="/236/list.htm">师资队伍<img src="/_upload/tpl/00/0a/10/template10/htmlRes/ico2.gif"></a>
+        
+        <ul class="menu_expand" style="display: none;">
+          
+          <li class="menu_two"><a href="/248/list.htm">人才工程</a></li>  
+          
+          <li class="menu_two"><a href="/249/list.htm">教师队伍</a></li>  
+                                             
+        </ul>
+        
+      </li>      
+     
+      <li class="menu_one i4"><a class="item_name" href="/237/list.htm">本科生教育<img src="/_upload/tpl/00/0a/10/template10/htmlRes/ico2.gif"></a>
+        
+        <ul class="menu_expand" style="display: none;">
+          
+          <li class="menu_two"><a href="/250/list.htm">专业设置</a></li>  
+          
+          <li class="menu_two"><a href="/251/list.htm">培养方案</a></li>  
+          
+          <li class="menu_two"><a href="/252/list.htm">教改工程</a></li>  
+          
+          <li class="menu_two"><a href="/253/list.htm">教学成果</a></li>  
+          
+          <li class="menu_two"><a href="/254/list.htm">教学资源</a></li>  
+          
+          <li class="menu_two"><a href="/255/list.htm">实验室与基地</a></li>  
+          
+          <li class="menu_two"><a href="/256/list.htm">教学信息</a></li>  
+                                             
+        </ul>
+        
+      </li>      
+     
+      <li class="menu_one i5"><a class="item_name" href="/238/list.htm">研究生教育<img src="/_upload/tpl/00/0a/10/template10/htmlRes/ico2.gif"></a>
+        
+        <ul class="menu_expand" style="display: none;">
+          
+          <li class="menu_two"><a href="/257/list.htm">学科建设</a></li>  
+          
+          <li class="menu_two"><a href="/258/list.htm">导师风采</a></li>  
+          
+          <li class="menu_two"><a href="/259/list.htm">研究生招生</a></li>  
+          
+          <li class="menu_two"><a href="/260/list.htm">研究生培养</a></li>  
+          
+          <li class="menu_two"><a href="/261/list.htm">研究生管理</a></li>  
+          
+          <li class="menu_two"><a href="/262/list.htm">创新工程</a></li>  
+          
+          <li class="menu_two"><a href="/263/list.htm">研究生工作站</a></li>  
+          
+          <li class="menu_two"><a href="/264/list.htm">培养成果</a></li>  
+          
+          <li class="menu_two"><a href="/265/list.htm">工作动态</a></li>  
+                                             
+        </ul>
+        
+      </li>      
+     
+      <li class="menu_one i6"><a class="item_name" href="/kxyj/list.htm">科学研究<img src="/_upload/tpl/00/0a/10/template10/htmlRes/ico2.gif"></a>
+        
+        <ul class="menu_expand" style="display: none;">
+          
+          <li class="menu_two"><a href="/267/list.htm">研究方向</a></li>  
+          
+          <li class="menu_two"><a href="/268/list.htm">科研平台</a></li>  
+          
+          <li class="menu_two"><a href="/269/list.htm">科研成果</a></li>  
+          
+          <li class="menu_two"><a href="/270/list.htm">科研项目</a></li>  
+          
+          <li class="menu_two"><a href="/271/list.htm">成果转化</a></li>  
+          
+          <li class="menu_two"><a href="/272/list.htm">学术交流</a></li>  
+          
+          <li class="menu_two"><a href="/273/list.htm">科研服务</a></li>  
+          
+          <li class="menu_two"><a href="/274/list.htm">科研信息</a></li>  
+                                             
+        </ul>
+        
+      </li>      
+     
+      <li class="menu_one i7"><a class="item_name" href="/239/list.htm">国际合作<img src="/_upload/tpl/00/0a/10/template10/htmlRes/ico2.gif"></a>
+        
+        <ul class="menu_expand" style="display: none;">
+          
+          <li class="menu_two"><a href="/275/list.htm">合作办学</a></li>  
+          
+          <li class="menu_two"><a href="/276/list.htm">国际交流</a></li>  
+          
+          <li class="menu_two"><a href="/277/list.htm">工作动态</a></li>  
+                                             
+        </ul>
+        
+      </li>      
+     
+      <li class="menu_one i8"><a class="item_name" href="/240/list.htm">党群工作<img src="/_upload/tpl/00/0a/10/template10/htmlRes/ico2.gif"></a>
+        
+        <ul class="menu_expand" style="display: none;">
+          
+          <li class="menu_two"><a href="/278/list.htm">党建动态</a></li>  
+          
+          <li class="menu_two"><a href="/279/list.htm">理论学习</a></li>  
+          
+          <li class="menu_two"><a href="/280/list.htm">组织机构</a></li>  
+          
+          <li class="menu_two"><a href="/281/list.htm">入党指南</a></li>  
+          
+          <li class="menu_two"><a href="/282/list.htm">党建获奖</a></li>  
+          
+          <li class="menu_two"><a href="/283/list.htm">工会组织</a></li>  
+          
+          <li class="menu_two"><a href="/284/list.htm">工会活动</a></li>  
+                                             
+        </ul>
+        
+      </li>      
+     
+      <li class="menu_one i9"><a class="item_name" href="/241/list.htm">学生工作<img src="/_upload/tpl/00/0a/10/template10/htmlRes/ico2.gif"></a>
+        
+        <ul class="menu_expand" style="display: none;">
+          
+          <li class="menu_two"><a href="/285/list.htm">教育管理</a></li>  
+          
+          <li class="menu_two"><a href="/286/list.htm">团学工作</a></li>  
+          
+          <li class="menu_two"><a href="/287/list.htm">评奖评优</a></li>  
+          
+          <li class="menu_two"><a href="/288/list.htm">助学工作</a></li>  
+          
+          <li class="menu_two"><a href="/289/list.htm">学科竞赛</a></li>  
+          
+          <li class="menu_two"><a href="/290/list.htm">就业工作</a></li>  
+          
+          <li class="menu_two"><a href="/291/list.htm">学工动态</a></li>  
+                                             
+        </ul>
+        
+      </li>      
+     
+      <li class="menu_one i10"><a class="item_name" href="/aqjy/list.htm">安全教育<img src="/_upload/tpl/00/0a/10/template10/htmlRes/ico2.gif"></a>
+        
+      </li>      
+     
+      <li class="menu_one i11"><a class="item_name" href="/242/list.htm">规章制度<img src="/_upload/tpl/00/0a/10/template10/htmlRes/ico2.gif"></a>
+        
+        <ul class="menu_expand" style="display: none;">
+          
+          <li class="menu_two"><a href="/292/list.htm">行政事务</a></li>  
+          
+          <li class="menu_two"><a href="/293/list.htm">财务制度</a></li>  
+          
+          <li class="menu_two"><a href="/294/list.htm">本科生教育</a></li>  
+          
+          <li class="menu_two"><a href="/295/list.htm">研究生教育</a></li>  
+          
+          <li class="menu_two"><a href="/296/list.htm">科研工作</a></li>  
+          
+          <li class="menu_two"><a href="/297/list.htm">学生工作</a></li>  
+          
+          <li class="menu_two"><a href="/298/list.htm">留学生教育</a></li>  
+          
+          <li class="menu_two"><a href="/299/list.htm">党建工作</a></li>  
+          
+          <li class="menu_two"><a href="/300/list.htm">工会工作</a></li>  
+          
+          <li class="menu_two"><a href="/301/list.htm">实验室工作</a></li>  
+                                             
+        </ul>
+        
+      </li>      
+     
+      <li class="menu_one i12"><a class="item_name" href="/243/list.htm">下载专区<img src="/_upload/tpl/00/0a/10/template10/htmlRes/ico2.gif"></a>
+        
+        <ul class="menu_expand" style="display: none;">
+          
+          <li class="menu_two"><a href="/302/list.htm">行政事务</a></li>  
+          
+          <li class="menu_two"><a href="/303/list.htm">本科生教育</a></li>  
+          
+          <li class="menu_two"><a href="/304/list.htm">研究生教育</a></li>  
+          
+          <li class="menu_two"><a href="/305/list.htm">科研工作</a></li>  
+          
+          <li class="menu_two"><a href="/306/list.htm">学生工作</a></li>  
+          
+          <li class="menu_two"><a href="/307/list.htm">党建工作</a></li>  
+          
+          <li class="menu_two"><a href="/308/list.htm">其它</a></li>  
+                                             
+        </ul>
+        
+      </li>      
+     
+    </ul>
+  
+  </div>
+</div></div>
+</div>
+<div class="clear"></div><div class=" blank"></div>
+    <script type="text/javascript">
+       function bannerGo() { $(".banner").IndexBanner(), $(".picList").find("img").each(function () { $(this).attr("src", $(this).attr("data-src")) }) } var numxx = 0; (function () { $.fn.IndexBanner = function () { function ImgGo(x) { ImgBig.hide().css("z-index", "1"), ImgBig.eq(a).show().css("z-index", "2"), ImgBig.eq(x).fadeIn(time1).css("z-index", "3"), a = x, b = x, BannerFont.hide(), BannerFont.eq(x).show() } function AutoGo1() { a < Size - 1 ? (b++, ImgGo(b)) : ImgGo(0) } function AutoGo2() { a > 0 ? (b--, ImgGo(b)) : ImgGo(Size - 1) } var This = $(this), ImgBig = This.find(".banner_li").find("li"), Left = This.find(".banner_icon_left"), Right = This.find(".banner_icon_right"), BannerFont = $(".num_con .right li"), Size = ImgBig.size(), a, b, c, time1 = 700, time3 = 4e3, SetInt, SetTime; ImgGo(0), SetInt = setInterval(AutoGo1, time3), Right.click(function () { clearInterval(SetInt), AutoGo1(), SetInt = setInterval(AutoGo1, time3) }), Left.click(function () { clearInterval(SetInt), AutoGo2(), SetInt = setInterval(AutoGo1, time3) }) }, $.fn.photonews = function () { function Go(a) { oBd.fadeOut(200), oBd.eq(a).stop().fadeIn(300), oLi.css({ "opacity": .6, "color": "#666666" }), oLi.eq(a).css({ "opacity": 1, "color": "#ffffff" }) } var This = $(this), oHd = This.find(".hd ul"), oBd = This.find(".bd li"), iSize = oBd.size(), oNum = 0, i1, time; for (i = 0; i < iSize; i++) i1 = i + 1, oHd.append("<li>" + i1 + "</li>"); oLi = oHd.find("li"), Go(0), oLi.click(function () { oNum = $(this).index(), Go(oNum) }), time = setInterval(function () { oNum++, oNum %= iSize, Go(oNum) }, 5e3), This.hover(function () { clearInterval(time) }, function () { time = setInterval(function () { oNum++, oNum %= iSize, Go(oNum) }, 4e3) }) }, $.fn.phoSlide = function () { function GoR() { oNum < iSize * 2 ? (oUl.stop().animate({ "left": (oNum + 5) * -192 }, 600), oNum += 5) : (oUl.css("left", iSize * -192), oUl.stop().animate({ "left": iSize * -192 - 960 }, 600), oNum = iSize + 5) } function GoL() { oNum > iSize ? (oUl.stop().animate({ "left": (oNum - 5) * -192 }, 600), oNum -= 5) : (oUl.css("left", iSize * -384), oUl.stop().animate({ "left": iSize * -384 + 960 }, 600), oNum = 2 * iSize - 5) } var This = $(this), oUl = This.find("ul"), oLeft = This.find(".pho_left"), oRight = This.find(".pho_right"), iSize = This.find("li").size(), oNum = iSize, iTime1, tUl = 0; oUl.append(oUl.html() + oUl.html()), oUl.css("left", iSize * -192), oRight.click(function () { GoR() }), oLeft.click(function () { GoL() }), iTime1 = setInterval(function () { GoR() }, 5e3), This.hover(function () { clearInterval(iTime1) }, function () { iTime1 = setInterval(function () { GoR() }, 5e3) }) } })(jQuery), $(function () {
+            var oSli = $(".search_li"); oSli.find("font").mouseenter(function () { oSli.find("ul").show() }), oSli.mouseleave(function () { oSli.find("ul").hide() }), oSli.find("li").click(function () { oSli.find("font").html($(this).find("h4").html()), oSli.find("ul").hide() }), $("#pho_list").phoSlide(), $("#focusBox").photonews(); var xPos = 300, yPos = 200, step = 1, delay = 30, height = 0, Hoffset = 0, Woffset = 0, yon = 0, xon = 0, pause = !0, interval; $("#img1").css("visibility", "visible"), interval = setInterval(function () { width = $(window).width(), height = $(window).height(), Hoffset = $("#img1").height(), Woffset = $("#img1").width(), $("#img1").css("left", xPos + $(window).scrollLeft()), $("#img1").css("top", yPos + $(window).scrollTop()), yon ? yPos += step : yPos -= step, yPos < 0 && (yon = 1, yPos = 0), yPos >= height - Hoffset && (yon = 0, yPos = height - Hoffset), xon ? xPos += step : xPos -= step, xPos < 0 && (xon = 1, xPos = 0), xPos >= width - Woffset && (xon = 0, xPos = width - Woffset) }, delay), $("#img1").hover(function () { clearTimeout(interval) }, function () { interval = setInterval(function () { width = $(window).width(), height = $(window).height(), Hoffset = $("#img1").height(), Woffset = $("#img1").width(), $("#img1").css("left", xPos + $(window).scrollLeft()), $("#img1").css("top", yPos + $(window).scrollTop()), yon ? yPos += step : yPos -= step, yPos < 0 && (yon = 1, yPos = 0), yPos >= height - Hoffset && (yon = 0, yPos = height - Hoffset), xon ? xPos += step : xPos -= step, xPos < 0 && (xon = 1, xPos = 0), xPos >= width - Woffset && (xon = 0, xPos = width - Woffset) }, delay) });
+            var oSli = $(".search_li");
+            oSli.find("font").mouseenter(function () {
+                oSli.find("ul").show()
+            }),
+                oSli.mouseleave(function () {
+                    oSli.find("ul").hide()
+                }),
+                oSli.find("li").click(function () {
+                    oSli.find("font").html($(this).find("h4").html()),
+                    oSli.find("input").removeAttr("checked"),
+                    $(this).find("input").attr("checked", "checked"),
+                    oSli.find("ul").hide()
+                })
+        });
+    </script>
+     <div class="banner" frag="面板2">
+       <div frag="窗口2">
+         
+            <div class="preload">
+            
+             <img id="banner2" width="1920" height="428" onload="bannerGo()" src="/_upload/article/images/03/db/6e7511af4f91b37c55690cdaeea1/5186e719-8696-40be-903b-72e21022468a.jpg">
+             
+            </div>
+            <ul class="banner_li">
+            
+              <li style="background-image: url(/_upload/article/images/03/db/6e7511af4f91b37c55690cdaeea1/5186e719-8696-40be-903b-72e21022468a.jpg);">
+            
+              <li style="background-image: url(/_upload/article/images/82/13/5fbebcc04157bc2191f04ebb92f7/6fd5ecda-d744-43b2-8de1-4432eeca6984.jpg);">
+            
+              <li style="background-image: url(/_upload/article/images/55/3a/83fb87b744c0b3c622053186b014/666c8998-118a-468b-99ad-d12907354e23.jpg);">
+                                              
+            </ul>
+            <div class="banner_num spri">
+                <div class="num_con">
+                    <div class="left">                      
+                    </div>
+                    <div class="right">
+                     <ul>
+                      
+                       <li><a>明德格物，立己达人</a></li>  
+                      
+                       <li><a> 激情飞扬，超越梦想</a></li>  
+                      
+                       <li><a>校园夜景</a></li>  
+                                         
+                     </ul>
+                    </div>
+                </div>
+            </div>
+        </div></div>
+<div class="blank"></div>
+<!--main-->
+<div style="width:100%; background:#fff;">
+<div class="main">
+	<div class="main1">
+   <div class="fcs" frag="面板6">
+     <div frag="窗口6">
+                       <!-- 多图交替9 图片 标题 切换 -->
+<div style="position:relative;overflow:hidden;width:360px;height:220px;">
+    <div class="dtjt9_div_img">
+        <img id="w6imgShow" name="w6imgShow" onclick="w6openWindow();" style="FILTER: revealTrans(duration=2,transition=20); border: 0; cursor: pointer;" src="/..//_css/tpl/default/images/loading.gif" width="360px" height="220px" vspace="0">
+        <div id="w6imgNumber" class="number"></div>
+    </div>
+    <div class="dtjt9_div_text">
+        <div id="w6imgTitle" class="dtjt9_div_text_title"><a href="javascript:void(0)"> </a></div>									
+    </div>
+</div>
+<script language="JavaScript" class="">
+    var w6imgJsons = [
+    
+        
+            {
+            "src" : "/_upload/article/images/7a/f0/75a7a7294a1ba6d8c7741be09084/8e3d4781-6563-4e5d-8723-74811a57a37a.jpg",
+            "title" : "我校信控院研究生荣获2017年中国计算机视觉大会（...",
+            "url" : "/2017/1019/c347a3310/page.htm"
+            },
+        
+    
+        
+            {
+            "src" : "/_upload/article/images/2e/a3/d2c2e0f4472595c94cd8e46261b0/bbfd9706-c9c8-4b2e-9528-6d3be583b729.png",
+            "title" : "信控院在第一届中国无人机对抗赛中夺冠",
+            "url" : "/2017/0925/c347a3309/page.htm"
+            },
+        
+    
+        
+            {
+            "src" : "/_upload/article/images/61/f9/3e14bd17483cbf1d67f4b8e7a3df/7d207a34-c0d1-41cd-a5cb-802846851457.jpg",
+            "title" : "信控院特邀东南大学张凯锋教授来校作工程教育专业认证...",
+            "url" : "/2017/0905/c347a3308/page.htm"
+            },
+        
+    
+        
+            {
+            "src" : "/_upload/article/images/01/cc/f648b6fe4e648923d7d59755b6cc/a66d7352-dcaa-432a-b0b2-0aa6a3bf2aed.jpg",
+            "title" : "我校信息与控制学院荣获江苏省总工会“工人先锋号”称...",
+            "url" : "http://news.nuist.edu.cn/Show.aspx?AI=18548"
+            }];
+        
+    
+</script>
+<script language="JavaScript">
+            var w6imgUrl = new Array();
+            var w6imgLink = new Array();
+            var w6imgTitle = new Array();
+
+            var w6count = 0;
+            var w6running = false;
+            var w6index = 0;
+            var w6nextAdTimer;
+            var w6k = 0;
+            function w6nextAd(num) {
+                if (num >= 0 && num <= w6count - 1) {
+                    w6index = num;
+                    clearTimeout(w6nextAdTimer);
+                } else {
+                    num = w6index;
+                }
+                if (w6index > w6count - 1) {
+                    w6index = 0;
+                }
+                if (!w6running) {
+                    w6running = true;
+
+                } else if (document.all) {
+                    w6imgShow.filters.revealTrans.Transition = 50;
+                    w6imgShow.filters.revealTrans.apply();
+                    w6imgShow.filters.revealTrans.play();
+                }
+                document.getElementById('w6imgShow').src = w6imgUrl[w6index];
+                if (w6imgTitle[w6index] != '') {
+                    document.getElementById('w6imgTitle').innerHTML = '<a href="javascript:w6openWindow();" title="' + w6imgTitle[w6index] + '">' + w6imgTitle[w6index] + '</a>';
+                }
+                document.getElementById('w6imgNumber').innerHTML = "";
+                w6k = 0;
+                for (var i = 0; i < w6count; i++) {
+                    w6k++;
+                    if (i != w6index) {
+                        document.getElementById('w6imgNumber').innerHTML += '<a href="javascript:w6nextAd(' + i + ')" class="nomal">' + w6k + '</a>';
+                    } else {
+                        document.getElementById('w6imgNumber').innerHTML += '<a href="javascript:w6nextAd(' + i + ')" class="current">' + w6k + '</a>';
+                    }
+                }
+
+                w6index++;
+                if (w6count > 1) {
+                    w6nextAdTimer = setTimeout("w6nextAd(-1)", 4000);
+                }
+            }
+
+            function w6openWindow() {
+                var jumpUrl = w6imgLink[w6index - 1];
+                if (jumpUrl && jumpUrl != '') {
+                    window.open(jumpUrl);
+                }
+            }
+
+            $().ready(function() {
+                try {
+                    var objs = w6imgJsons;
+                    w6count = objs.length;
+                    if (w6count == 0) {
+                        document.getElementById('w6imgShow').style.display = "none";
+                        document.getElementById('w6imgNumber').style.display = "none";
+                        document.getElementById('w6imgTitle').style.display = "none";
+                        return;
+                    }
+                    for (var i = 0; i < objs.length; i++) {
+                        w6imgUrl[i] = objs[i].src;
+                        w6imgLink[i] = objs[i].url;
+                        w6imgTitle[i] = objs[i].title;
+                    }
+                    w6nextAd(-1);
+                } catch (e) {
+
+                }
+            });
+</script>
+
+            
+     </div> 
+   </div>
+ <div class="main1Link">
+ 	<div class="main1LinkTop"><div class="main1LinkTopTitle">快速通道</div></div>
+    <div class="main1LinkContent" frag="面板8">
+      <div frag="窗口8">
+        <div class="articlecontent ">
+    
+        
+            
+                <ul class=" list-paddingleft-2"><li><p><a href="http://auto.nuist.edu.cn/259/list.htm" target="_blank" title="2018年研究生招生" sudyfile-attr="{'title':'2018年研究生招生'}" textvalue="2018年研究生招生">2018年研究生招生</a></p></li><li><p><a href="http://xkyjxzx.myduohuo.com/global_cms_cat_catid_79" title="学院本科教学网" target="_blank">学院本科教学网</a></p></li><li><p><a href="http://auto.nuist.edu.cn/271/list.htm" target="_blank" title="学院科研成果推介" sudyfile-attr="{'title':'学院科研成果推介'}" textvalue="学院科研成果推介">学院科研成果推介</a></p></li><li><p><a href="http://www.nuist.edu.cn/bulletin/(S(slvefkl1ue5v3najly5oolaz))/Bulletin.aspx?id=110719" title="教学科研岗公开招聘公告" target="_blank">教学科研岗公开招聘公告</a></p></li></ul>
+            
+        
+    
+</div></div></div>
+ </div>
+    </div>
+    <div class="main2">
+    	<div class="main2_title"><div class="main2_title_left">新闻<span>快讯</span></div>
+      <div class="main2_title_right"><a href="http://auto.nuist.edu.cn/313/list.htm">更多&gt;&gt;</a></div></div>
+      <div frag="面板9">
+          <div frag="窗口9">
+                  <div class="main2_News_top">
+          
+            <div class="newsTopTitle"><img src="/_upload/tpl/00/0a/10/template10/htmlRes/liico1.gif" width="5" height="7"><a href="/2018/1115/c313a122460/page.htm" target="_blank" title="自动化学院特邀南京理工大学肖亮教授来校作学术报告">自动化学院特邀南京理工大学肖亮教授来校作学术...</a></div>
+            <div class="newsTopContent">  <a href="/2018/1115/c313a122460/page.htm" target="_blank" title="自动化学院特邀南京理工大学肖亮教授来校作学术报告">11月14日下午，应自动化学院和江苏省大数据分析技术重点实验室的邀请，南京理工大学肖亮教授来校作学术报告。报告会在学科3号楼S410会议室举行，由自动化学院院长刘青山教授主持。肖...</a></div>
+         
+        </div>
+        <div class="main2_news">
+        <table width="100%" border="0" cellspacing="0" cellpadding="0" style="margin-top:10px;">
+        
+         <tr>
+           <td width="79%" height="28"><img src="/_upload/tpl/00/0a/10/template10/htmlRes/Nav1.gif"><a href="/2018/1108/c313a121804/page.htm" target="_blank" title=" 自动化学院举办“ROS开发与应用人才培养”分享会"> 自动化学院举办“ROS开发与应用人才培养”分享...</a></td>
+           <td width="21%" align="right">2018-11-08</td>
+         </tr>
+         
+         <tr>
+           <td width="79%" height="28"><img src="/_upload/tpl/00/0a/10/template10/htmlRes/Nav1.gif"><a href="/2018/1108/c313a121798/page.htm" target="_blank" title="自动化学院顺利举行专业人才培养方案专家论证会">自动化学院顺利举行专业人才培养方案专家论证会</a></td>
+           <td width="21%" align="right">2018-11-08</td>
+         </tr>
+         
+         <tr>
+           <td width="79%" height="28"><img src="/_upload/tpl/00/0a/10/template10/htmlRes/Nav1.gif"><a href="/2018/1106/c313a121696/page.htm" target="_blank" title="我校刘青山教授获2018年度国家杰出青年科学基金资助">我校刘青山教授获2018年度国家杰出青年科学基金...</a></td>
+           <td width="21%" align="right">2018-11-06</td>
+         </tr>
+         
+         <tr>
+           <td width="79%" height="28"><img src="/_upload/tpl/00/0a/10/template10/htmlRes/Nav1.gif"><a href="/2018/1024/c313a120762/page.htm" target="_blank" title="首届江苏省研究生无人机科研创新实践大赛在我校举办">首届江苏省研究生无人机科研创新实践大赛在我校...</a></td>
+           <td width="21%" align="right">2018-10-24</td>
+         </tr>
+         
+         <tr>
+           <td width="79%" height="28"><img src="/_upload/tpl/00/0a/10/template10/htmlRes/Nav1.gif"><a href="/2018/0929/c313a117531/page.htm" target="_blank" title="唇枪舌剑——新生辩论赛赛程正式开启">唇枪舌剑——新生辩论赛赛程正式开启</a></td>
+           <td width="21%" align="right">2018-09-29</td>
+         </tr>
+         
+         <tr>
+           <td width="79%" height="28"><img src="/_upload/tpl/00/0a/10/template10/htmlRes/Nav1.gif"><a href="/2018/0920/c313a116555/page.htm" target="_blank" title="自动化学院2018年国家奖学金候选人审核答辩会顺利举行">自动化学院2018年国家奖学金候选人审核答辩会顺...</a></td>
+           <td width="21%" align="right">2018-09-29</td>
+         </tr>
+         
+         <tr>
+           <td width="79%" height="28"><img src="/_upload/tpl/00/0a/10/template10/htmlRes/Nav1.gif"><a href="/2018/0929/c313a119630/page.htm" target="_blank" title="自动化学院召开考研座谈会">自动化学院召开考研座谈会</a></td>
+           <td width="21%" align="right">2018-09-29</td>
+         </tr>
+         
+         <tr>
+           <td width="79%" height="28"><img src="/_upload/tpl/00/0a/10/template10/htmlRes/Nav1.gif"><a href="/2018/0918/c313a116457/page.htm" target="_blank" title="自动化学院特邀美国Allen研究院彭汉川教授作学术报告">自动化学院特邀美国Allen研究院彭汉川教授作学...</a></td>
+           <td width="21%" align="right">2018-09-18</td>
+         </tr>
+         
+         <tr>
+           <td width="79%" height="28"><img src="/_upload/tpl/00/0a/10/template10/htmlRes/Nav1.gif"><a href="/2018/0914/c313a115868/page.htm" target="_blank" title="信控院2018级研究生开学典礼暨导师见面会顺利举行">信控院2018级研究生开学典礼暨导师见面会顺利举...</a></td>
+           <td width="21%" align="right">2018-09-17</td>
+         </tr>
+         
+         <tr>
+           <td width="79%" height="28"><img src="/_upload/tpl/00/0a/10/template10/htmlRes/Nav1.gif"><a href="/2018/0913/c313a115733/page.htm" target="_blank" title="信控院特邀日本立命馆大学陈延伟教授来校作学术报告">信控院特邀日本立命馆大学陈延伟教授来校作学术...</a></td>
+           <td width="21%" align="right">2018-09-13</td>
+         </tr>
+          
+        </table>
+      </div></div>
+            	
+      </div>
+    </div>
+    <div class="main3">
+    <div class="main2_title"><div class="main2_title_left">通知<span>公告</span></div>
+    	<div class="main2_title_right"><a href="http://auto.nuist.edu.cn/314/list.htm">更多&gt;&gt;</a></div></div>
+      <div frag="面板12">
+          <div frag="窗口12">
+            
+        <div class="main3_news">
+       
+        <table width="100%" border="0" cellspacing="0" cellpadding="0" style="margin-top:10px;">
+        
+          <tr>
+            <td width="79%" height="27"><img src="/_upload/tpl/00/0a/10/template10/htmlRes/Nav1.gif"><a href="/2018/1113/c314a122362/page.htm" target="_blank" title=" 特邀南京理工大学李延超博士来校作学术报告"> 特邀南京理工大学李延超博士来校作学...</a></td>
+            <td width="21%" align="right">2018-11-13</td>
+          </tr>
+        
+          <tr>
+            <td width="79%" height="27"><img src="/_upload/tpl/00/0a/10/template10/htmlRes/Nav1.gif"><a href="/2018/1112/c314a122274/page.htm" target="_blank" title=" 特邀南京理工大学肖亮教授来校作学术报告 "> 特邀南京理工大学肖亮教授来校作学术...</a></td>
+            <td width="21%" align="right">2018-11-12</td>
+          </tr>
+        
+          <tr>
+            <td width="79%" height="27"><img src="/_upload/tpl/00/0a/10/template10/htmlRes/Nav1.gif"><a href="/2018/1108/c314a121855/page.htm" target="_blank" title="关于成立自动化学院实验室安全工作领导小组的通知">关于成立自动化学院实验室安全工作领导...</a></td>
+            <td width="21%" align="right">2018-11-08</td>
+          </tr>
+        
+          <tr>
+            <td width="79%" height="27"><img src="/_upload/tpl/00/0a/10/template10/htmlRes/Nav1.gif"><a href="/2018/1019/c314a120527/page.htm" target="_blank" title="自动化学院系主任聘任公示">自动化学院系主任聘任公示</a></td>
+            <td width="21%" align="right">2018-10-18</td>
+          </tr>
+        
+          <tr>
+            <td width="79%" height="27"><img src="/_upload/tpl/00/0a/10/template10/htmlRes/Nav1.gif"><a href="/2018/1017/c314a120424/page.htm" target="_blank" title="自动化学院2018年校长奖学金拟推荐名单公示">自动化学院2018年校长奖学金拟推荐名单...</a></td>
+            <td width="21%" align="right">2018-10-17</td>
+          </tr>
+        
+          <tr>
+            <td width="79%" height="27"><img src="/_upload/tpl/00/0a/10/template10/htmlRes/Nav1.gif"><a href="/2018/1009/c314a120114/page.htm" target="_blank" title="关于成立自动化学院考研工作领导小组的通知">关于成立自动化学院考研工作领导小组的...</a></td>
+            <td width="21%" align="right">2018-10-10</td>
+          </tr>
+        
+          <tr>
+            <td width="79%" height="27"><img src="/_upload/tpl/00/0a/10/template10/htmlRes/Nav1.gif"><a href="/2018/0926/c314a117036/page.htm" target="_blank" title="党发[2018]26号关于调整机构设置的通知">党发[2018]26号关于调整机构设置的通知</a></td>
+            <td width="21%" align="right">2018-09-26</td>
+          </tr>
+        
+          <tr>
+            <td width="79%" height="27"><img src="/_upload/tpl/00/0a/10/template10/htmlRes/Nav1.gif"><a href="/2018/0919/c314a116493/page.htm" target="_blank" title="自动化学院关于选聘系主任的公告">自动化学院关于选聘系主任的公告</a></td>
+            <td width="21%" align="right">2018-09-19</td>
+          </tr>
+        
+          <tr>
+            <td width="79%" height="27"><img src="/_upload/tpl/00/0a/10/template10/htmlRes/Nav1.gif"><a href="/2018/0918/c314a116483/page.htm" target="_blank" title="自动化学院关于院内招聘实验教学中心常务副主任的公告">自动化学院关于院内招聘实验教学中心常...</a></td>
+            <td width="21%" align="right">2018-09-18</td>
+          </tr>
+        
+          <tr>
+            <td width="79%" height="27"><img src="/_upload/tpl/00/0a/10/template10/htmlRes/Nav1.gif"><a href="/2018/0922/c314a116965/page.htm" target="_blank" title="信息与控制学院2019年推荐免试研究生复试及录取办法">信息与控制学院2019年推荐免试研究生复...</a></td>
+            <td width="21%" align="right">2018-09-14</td>
+          </tr>
+        
+          <tr>
+            <td width="79%" height="27"><img src="/_upload/tpl/00/0a/10/template10/htmlRes/Nav1.gif"><a href="/2018/0914/c314a115849/page.htm" target="_blank" title="信息与控制学院关于2018年拟获得免推研究生资格的公示">信息与控制学院关于2018年拟获得免推研...</a></td>
+            <td width="21%" align="right">2018-09-14</td>
+          </tr>
+        
+          <tr>
+            <td width="79%" height="27"><img src="/_upload/tpl/00/0a/10/template10/htmlRes/Nav1.gif"><a href="/2018/0914/c314a115824/page.htm" target="_blank" title="人发〔2018〕55号 关于信息与控制学院更名为自动化学院的通知">人发〔2018〕55号 关于信息与控制学院...</a></td>
+            <td width="21%" align="right">2018-09-14</td>
+          </tr>
+        
+          <tr>
+            <td width="79%" height="27"><img src="/_upload/tpl/00/0a/10/template10/htmlRes/Nav1.gif"><a href="/2018/0913/c314a115730/page.htm" target="_blank" title="特邀美国Allen研究院彭汉川教授来校作学术报告">特邀美国Allen研究院彭汉川教授来校作...</a></td>
+            <td width="21%" align="right">2018-09-13</td>
+          </tr>
+        
+          <tr>
+            <td width="79%" height="27"><img src="/_upload/tpl/00/0a/10/template10/htmlRes/Nav1.gif"><a href="/2018/0910/c314a115111/page.htm" target="_blank" title="特邀日本立命馆大学Yan-wei Chen教授来校作学术报告 ">特邀日本立命馆大学Yan-wei Chen教授来...</a></td>
+            <td width="21%" align="right">2018-09-10</td>
+          </tr>
+         
+        </table>
+            	
+     </div></div>
+    </div>
+    </div>
+</div>
+            
+</div>
+
+           
+                   
+            <div class="blank"></div>
+            <div class="con_link"><li>院内导航</li></div>
+            <div class="con_link_wz" frag="面板10">
+             <div frag="窗口10">
+               
+            	<ul>
+               
+                  <li><a href="/_redirect?siteId=11&amp;columnId=315&amp;articleId=3490" title="自动化系" target="_blank"><img src="/_upload/article/images/44/65/2c0364014f588f8c69288df96891/4b15436b-6a89-47ce-9e0c-1bfaf96dde9a.jpg"></a></li>
+               
+                  <li><a href="/_redirect?siteId=11&amp;columnId=315&amp;articleId=3489" title="电气工程系" target="_blank"><img src="/_upload/article/images/96/45/0ed76e1c444dbe7d3a055de2eab9/b72805ad-8d1a-420f-928e-91d42150be59.jpg"></a></li>
+               
+                  <li><a href="/_redirect?siteId=11&amp;columnId=315&amp;articleId=3339" title="仪器科学与技术系" target="_blank"><img src="/_upload/article/images/4d/92/61ffde2e42d0b36d75681a35b08b/b42f2830-a613-4633-bbe3-d07110bf6e0f.jpg"></a></li>
+               
+                  <li><a href="/_redirect?siteId=11&amp;columnId=315&amp;articleId=3338" title="自动化实验教学中心" target="_blank"><img src="/_upload/article/images/00/e7/55f0bf40452ba3f69d93efd95d5f/13cb84a5-c5cc-4e77-94eb-175cd85738fb.jpg"></a></li>
+               
+                  <li><a href="/_redirect?siteId=11&amp;columnId=315&amp;articleId=3337" title="电气工程实验中心" target="_blank"><img src="/_upload/article/images/82/30/a1bb6fbd4b669306e2d6300f2005/17127dea-3676-4c11-9325-69beffc0da52.jpg"></a></li>
+               
+                  <li><a href="/_redirect?siteId=11&amp;columnId=315&amp;articleId=3336" title="江苏省大数据分析技术重点实验室" target="_blank"><img src="/_upload/article/images/f1/2a/61730f644943a238f9cd46dd4a9d/77d6e00a-9346-47b7-844d-8710805e1985.jpg"></a></li>
+               
+                  <li><a href="/_redirect?siteId=11&amp;columnId=315&amp;articleId=3334" title="江苏省气象能源利用与控制工程技术研究中心" target="_blank"><img src="/_upload/article/images/a0/e4/bf7a95c345c699ae493c638ecf96/622b2632-fb82-4823-8530-c0685d071a4b.jpg"></a></li>
+               
+                  <li><a href="/_redirect?siteId=11&amp;columnId=315&amp;articleId=3333" title="江苏省大气环境与装备技术协同创新中心" target="_blank"><img src="/_upload/article/images/cf/27/98a3fb3442d5abd8f26d2af49756/e15a5b0c-ff03-489d-b206-99b9761686e9.jpg"></a></li>
+               
+               </ul>
+            </div></div>
+            <div class="blank"></div>
+
+<div class="footer">
+	<div class="footerTopDiv">
+		<div class="footerTop" frag="面板16">
+        <div frag="窗口16">
+            
+        
+        	<ul>
+            
+      			<li><a href="/235/list.htm">学校概况</a> <img src="/_upload/tpl/00/0a/10/template10/htmlRes/ico2.gif"></li>
+            
+      			<li><a href="/236/list.htm">师资队伍</a> <img src="/_upload/tpl/00/0a/10/template10/htmlRes/ico2.gif"></li>
+            
+      			<li><a href="/237/list.htm">本科生教育</a> <img src="/_upload/tpl/00/0a/10/template10/htmlRes/ico2.gif"></li>
+            
+      			<li><a href="/238/list.htm">研究生教育</a> <img src="/_upload/tpl/00/0a/10/template10/htmlRes/ico2.gif"></li>
+            
+      			<li><a href="/kxyj/list.htm">科学研究</a> <img src="/_upload/tpl/00/0a/10/template10/htmlRes/ico2.gif"></li>
+            
+      			<li><a href="/239/list.htm">国际合作</a> <img src="/_upload/tpl/00/0a/10/template10/htmlRes/ico2.gif"></li>
+            
+      			<li><a href="/240/list.htm">党群工作</a> <img src="/_upload/tpl/00/0a/10/template10/htmlRes/ico2.gif"></li>
+            
+      			<li><a href="/241/list.htm">学生工作</a> <img src="/_upload/tpl/00/0a/10/template10/htmlRes/ico2.gif"></li>
+            
+      			<li><a href="/242/list.htm">规章制度</a> <img src="/_upload/tpl/00/0a/10/template10/htmlRes/ico2.gif"></li>
+            
+      			<li><a href="/243/list.htm">下载专区</a> <img src="/_upload/tpl/00/0a/10/template10/htmlRes/ico2.gif"></li>
+               
+          </ul>
+         
+        </div></div>
+    </div>
+    <div class="footerMunu" frag="面板20">
+      <div frag="窗口20">
+        
+    	<ul>        
+       
+        <li>
+        
+        <ul>
+         
+         <li>
+         
+         <a href="/244/list.htm">学院简介</a><br>   
+         
+         <a href="/245/list.htm">现任领导</a><br>   
+         
+         <a href="/246/list.htm">历任领导</a><br>   
+         
+         <a href="/247/list.htm">机构设置</a><br>   
+         
+        </li>
+        
+      </ul>
+        
+        <ul>
+         
+         <li>
+         
+         <a href="/248/list.htm">人才工程</a><br>   
+         
+         <a href="/249/list.htm">教师队伍</a><br>   
+         
+        </li>
+        
+      </ul>
+        
+        <ul>
+         
+         <li>
+         
+         <a href="/250/list.htm">专业设置</a><br>   
+         
+         <a href="/251/list.htm">培养方案</a><br>   
+         
+         <a href="/252/list.htm">教改工程</a><br>   
+         
+         <a href="/253/list.htm">教学成果</a><br>   
+         
+         <a href="/254/list.htm">教学资源</a><br>   
+         
+         <a href="/255/list.htm">实验室与基地</a><br>   
+         
+         <a href="/256/list.htm">教学信息</a><br>   
+         
+        </li>
+        
+      </ul>
+        
+        <ul>
+         
+         <li>
+         
+         <a href="/257/list.htm">学科建设</a><br>   
+         
+         <a href="/258/list.htm">导师风采</a><br>   
+         
+         <a href="/259/list.htm">研究生招生</a><br>   
+         
+         <a href="/260/list.htm">研究生培养</a><br>   
+         
+         <a href="/261/list.htm">研究生管理</a><br>   
+         
+         <a href="/262/list.htm">创新工程</a><br>   
+         
+         <a href="/263/list.htm">研究生工作站</a><br>   
+         
+         <a href="/264/list.htm">培养成果</a><br>   
+         
+         <a href="/265/list.htm">工作动态</a><br>   
+         
+        </li>
+        
+      </ul>
+        
+        <ul>
+         
+         <li>
+         
+         <a href="/267/list.htm">研究方向</a><br>   
+         
+         <a href="/268/list.htm">科研平台</a><br>   
+         
+         <a href="/269/list.htm">科研成果</a><br>   
+         
+         <a href="/270/list.htm">科研项目</a><br>   
+         
+         <a href="/271/list.htm">成果转化</a><br>   
+         
+         <a href="/272/list.htm">学术交流</a><br>   
+         
+         <a href="/273/list.htm">科研服务</a><br>   
+         
+         <a href="/274/list.htm">科研信息</a><br>   
+         
+        </li>
+        
+      </ul>
+        
+        <ul>
+         
+         <li>
+         
+         <a href="/275/list.htm">合作办学</a><br>   
+         
+         <a href="/276/list.htm">国际交流</a><br>   
+         
+         <a href="/277/list.htm">工作动态</a><br>   
+         
+        </li>
+        
+      </ul>
+        
+        <ul>
+         
+         <li>
+         
+         <a href="/278/list.htm">党建动态</a><br>   
+         
+         <a href="/279/list.htm">理论学习</a><br>   
+         
+         <a href="/280/list.htm">组织机构</a><br>   
+         
+         <a href="/281/list.htm">入党指南</a><br>   
+         
+         <a href="/282/list.htm">党建获奖</a><br>   
+         
+         <a href="/283/list.htm">工会组织</a><br>   
+         
+         <a href="/284/list.htm">工会活动</a><br>   
+         
+        </li>
+        
+      </ul>
+        
+        <ul>
+         
+         <li>
+         
+         <a href="/285/list.htm">教育管理</a><br>   
+         
+         <a href="/286/list.htm">团学工作</a><br>   
+         
+         <a href="/287/list.htm">评奖评优</a><br>   
+         
+         <a href="/288/list.htm">助学工作</a><br>   
+         
+         <a href="/289/list.htm">学科竞赛</a><br>   
+         
+         <a href="/290/list.htm">就业工作</a><br>   
+         
+         <a href="/291/list.htm">学工动态</a><br>   
+         
+        </li>
+        
+      </ul>
+        
+        <ul>
+         
+         <li>
+         
+         <a href="/292/list.htm">行政事务</a><br>   
+         
+         <a href="/293/list.htm">财务制度</a><br>   
+         
+         <a href="/294/list.htm">本科生教育</a><br>   
+         
+         <a href="/295/list.htm">研究生教育</a><br>   
+         
+         <a href="/296/list.htm">科研工作</a><br>   
+         
+         <a href="/297/list.htm">学生工作</a><br>   
+         
+         <a href="/298/list.htm">留学生教育</a><br>   
+         
+         <a href="/299/list.htm">党建工作</a><br>   
+         
+         <a href="/300/list.htm">工会工作</a><br>   
+         
+         <a href="/301/list.htm">实验室工作</a><br>   
+         
+        </li>
+        
+      </ul>
+        
+        <ul>
+         
+         <li>
+         
+         <a href="/302/list.htm">行政事务</a><br>   
+         
+         <a href="/303/list.htm">本科生教育</a><br>   
+         
+         <a href="/304/list.htm">研究生教育</a><br>   
+         
+         <a href="/305/list.htm">科研工作</a><br>   
+         
+         <a href="/306/list.htm">学生工作</a><br>   
+         
+         <a href="/307/list.htm">党建工作</a><br>   
+         
+         <a href="/308/list.htm">其它</a><br>   
+         
+        </li>
+        
+      </ul>
+        
+    </li>
+       
+  </ul>       
+
+    </div></div>
+    <div class="clear"></div>
+<div class="footCopyrightDiv">
+	<div class="footCopyright1200">
+		<div class="footerCopyrightRight"><img src="/_upload/tpl/00/0a/10/template10/htmlRes/20170320113801978.png">指间信控</div>
+        <div class="footerCopyrightRight2"><img src="/_upload/tpl/00/0a/10/template10/htmlRes/20170320113811692.png">信控星空</div>
+    	<div class="footerCopyrightLeft">学院邮箱:xk@nuist.edu.cn 电话：025-58731276（院办） 025-58731272（学办） <br>
+版权所有© 2017南京信息工程大学自动化学院<br>
+备案号：NUIST备80149<br>
+请使用Chrome或IE8以上浏览器<br></div>
+	</div>
+</div>
+</div>
+<div class="w">
+            <div class="winBody" style="position: fixed" frag="面板21">
+              <div frag="窗口21">
+                
+                <ul>
+                    <li class="importantGuide">重要导航</li>
+                </ul>
+                <ul class="importantline"></ul>
+                                                          
+                 <ul>
+                     
+                    <li><a href="http://www.nuist.edu.cn/newindex/index.htm" target="_blank">学校首页</a></li>
+                    
+                    <li><a href="http://www.nuist.edu.cn/bulletin/(S(s2shktxwc41i0ay2prsg0lzs))/default.aspx" target="_blank">信息公告</a></li>
+                    
+                    <li><a href="http://xcb.nuist.edu.cn/" target="_blank">天际新闻</a></li>
+                    
+                    <li><a href="http://my.nuist.edu.cn/" target="_blank">门户信息</a></li>
+                    
+                    <li><a href="http://auto.nuist.edu.cn/247/list.htm" target="_blank">联系我们</a></li>
+                    
+                </ul>
+                                 
+              </div></div>
+</div>
+
+
+<div class="sd">
+  <div class="tytu" frag="面板434">
+    <div frag="窗口434">
+       
+    </div>
+  </div>
+</div>
+
+
+
+</body>
+</html>

@@ -1,0 +1,142 @@
+﻿https://cer.nju.edu.cn/amserver/UI/Login?goto=http%3A%2F%2Fmimx.nju.edu.cn%2Fim%2FgetMsgConfig21_1
+<html>
+    
+    
+    
+    
+        
+        <head>
+            <meta charset="utf-8">
+            <meta name="viewport" content="width=device-width,user-scalable=0,initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0">
+            <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+            <title>南京大学统一身份认证服务</title>
+            <link href="/amserver/njulogin/css/style.css" rel="stylesheet">
+            <link href="/amserver/style/login.css" rel="stylesheet" type="text/css">
+            <link href="/amserver/style/reset.css" rel="stylesheet" type="text/css">
+            <link href="/amserver/style/boilerplate.css" rel="stylesheet" type="text/css">
+            <script src="/amserver/scripts/respond.min.js"></script>
+            	<style type="text/css">
+			a:visited { 
+				color: #fff; 
+			}
+			input#login_btn{
+				background:#90138b;
+			}
+			#login_btn:hover{
+				background:#90138b; opacity:.9;filter:Alpha(opacity=90);
+			}
+			.login .con input.button{border-radius:0px;}
+            	</style>
+        </head>
+        <body class="sidebar-mini skin "> 
+            <!-- sidebar-collapse || 缩小class名称-->
+            <!-- 头部head||开始 -->
+            <div class="wrapper">
+                <div class="content-wrapper">
+                    <div class="mainbox">
+                        <div class="head clearfix">
+                            <div class="head-left"></div>
+                            <div class="head-right">统一身份认证</div>
+                        </div>
+                        <!--登录前-->
+                        <div class="login">
+                            <div class="con">
+                                
+                                    <form action="/amserver/UI/Login" style="margin:0px;display: inline;" name="Login" method="post">
+                                        <input type="hidden" name="encoded" value="true">
+                                        <input type="hidden" name="goto" value="aHR0cDovL21pbXgubmp1LmVkdS5jbi9pbS9nZXRNc2dDb25maWcyMV8x">
+                                        <input type="hidden" name="gotoOnFail" value="">
+                                        <input type="hidden" name="IDToken0" value="">
+                                        <input type="hidden" name="IDButton" value="Submit">
+                                        <p class="CNames"><input type="text" class="names" placeholder="账号 Username" name="IDToken1"><i></i></p>
+                                        <p class="CPass"><input type="password" class="wordpass" placeholder="密码 Password" name="IDToken2"><i></i></p>
+                                        <p class="codeCon">
+                                            
+                                            <input type="text" class="code" placeholder="验证码 Verification code" id="vcode" name="inputCode" maxlength="4"><img id="vcodeimg" class="codeImg" src="../verify/image.jsp" width="61" height="21">
+                                            
+                                        </p>
+                                        <p><input type="submit" class="button" value="登 录" id="login_btn"></p>
+                                        <input type="hidden" name="gx_charset" value="UTF-8"></form>
+                                    
+                            </div>
+                        </div>
+                        <div class="footer">
+                            <a href="http://imp.nju.edu.cn/imp/" class="n1">自助服务</a>
+                            <a href="http://imp.nju.edu.cn/imp/iss/getBackPassword.do" class="n2">忘记密码</a>
+                            <a href="http://help.nju.edu.cn" target="_blank" class="n3">在线帮助</a>
+                        </div>
+                    </div>
+                    <div class="mainbg"></div>
+                </div>
+            </div>
+            <script type="text/javascript" src="/amserver/njulogin/js/jquery.min.js"></script>
+            <script type="text/javascript">
+                $(document).ready(function() {
+                    $("body").append("<div class='m-logbg' style='position:fixed;'/>");
+					var win_width = $(window).width();
+					var win_height = $(window).height();
+					//$(".m-logbg").append("<img id='bg' src='/amserver/njulogin/img/bg1.jpg' >");
+					$("#bg").attr({width: win_width, height: win_height});
+					//cover();
+					$(window).resize(function() {
+						cover();
+					});
+					var random_bg = Math.floor(Math.random() * 3 + 1);
+					var imgSrc = '/amserver/njulogin/img/bg' + random_bg + '.jpg';
+					$(".m-logbg img").attr("src", imgSrc);
+					$(".m-logbg").css({"background-image": "url(" + imgSrc + ")"});
+					
+					function cover() {
+						var boxheight = $(".wrapper").height();
+						$(".wrapper").css("top", (win_height - boxheight) / 2);
+					}
+					function fadeIn() {
+						$(".content-wrapper").fadeIn();
+						cover();
+				     }
+					 setTimeout(fadeIn, 1000);
+				});
+                (function() {
+                    var addEvent = function(obj, envent, fun) {
+                        if (obj.addEventListener) {
+                            obj.addEventListener(envent, fun, false);
+                        } else if (obj.attachEvent) {
+                            obj.attachEvent('on' + envent, fun);
+                        } else {
+                            obj['on' + envent] = fun;
+                        }
+                    }
+                    var form = document.forms[0];
+                    addEvent(form, "submit", function(e) {
+
+                        if (form.IDToken1.value.length == 0) {
+                            form.IDToken1.focus();
+                            if (e && e.preventDefault)
+                                e.preventDefault();
+                            else
+                                window.event.returnValue = false;
+                            return false;
+                        }
+                        if (form.IDToken2.value.length == 0) {
+                            form.IDToken2.focus();
+                            if (e && e.preventDefault)
+                                e.preventDefault();
+                            else
+                                window.event.returnValue = false;
+                            return false;
+                        }
+                    });
+
+                    var vcodeimg = document.getElementById("vcodeimg");
+                    if (vcodeimg) {
+                        addEvent(vcodeimg, "click", function() {
+                            var pos = vcodeimg.src.indexOf('?');
+                            var url = pos > -1 ? vcodeimg.src.substring(0, pos) : vcodeimg.src;
+                            vcodeimg.src = url + "?" + Math.random();
+                        });
+                    }
+                })();
+            </script>
+        </body>
+    
+</html>

@@ -1,0 +1,23 @@
+https://da.duowan.com/loc/98
+<html><body><p>(function() {
+    var util={has:function(pid){if(!window.__da_pids){window.__da_pids=[];return false}for(var i in window.__da_pids){if(pid==window.__da_pids[i]){return true}}return false},getFodder:function(fodders){if(!fodders||0==fodders.length){return null}for(var i in fodders){if(!this.has(fodders[i].adPid)){this.set(fodders[i].adPid);return fodders[i]}}return null},set:function(pid){if(!window.__da_pids){window.__da_pids=[]}window.__da_pids.push(pid)}};
+ 
+	var fodder = util.getFodder([{"adId":98,"adPid":"1723","adType":1,"adLink":"http:\/\/hdzt.duowan.com\/s\/dwxyx\/","adSrc":"http:\/\/ya3.dwstatic.com\/201810\/cf\/cffd7bade627fee314dec84ab555445f.jpg","adSrc2":"","extraJson":"{}","title":"","channel":"","platform":"","planSort":0},{"adId":98,"adPid":"1434","adType":1,"adLink":"https:\/\/www.27l.com\/zt\/jx4","adSrc":"http:\/\/ya2.dwstatic.com\/201809\/b3\/b3eabd321595fae810d53e8638523bb1.jpg","adSrc2":"","extraJson":"{}","title":"\u5c0f\u7a0b\u5e8f","channel":"","platform":"","planSort":0}]);
+	if(!fodder){
+        (function() {
+    var s = "_" + Math.random().toString(36).slice(2);
+    document.write('</p><div locid="98" pid="0" class="da-block-wrapper"></div>');
+    (window.slotbydup=window.slotbydup || []).push({
+        id: '3378305',
+        container: s,
+        size: '960,60',
+        display: 'inlay-fix'
+    });
+})();
+document.write('<script src="http://dup.baidustatic.com/js/os.js"></script>');     
+    }else{
+        if(document.market_loadids==null){document.market_loadids="";}
+        document.write('<div style="width:960px;margin:0 auto;"><a class="da-block-wrapper" locid="' + fodder.adId + '" pid="' + fodder.adPid + '" href="'%20+%20fodder.adLink%20+%20'" target="_blank" style="display:inline-block;position:relative;"><img src="'%20+%20fodder.adSrc%20+%20'" width="960" height="60" style="vertical-align:top;"><img style="position:absolute;bottom:2px;left: 2px;width: 28px;height: 14px" src="http://assets.dwstatic.com/common/img/ad_tips_1608.png"></a></div>');
+        document.market_loadids += (fodder.adId+",");
+    }
+})()</body></html>
