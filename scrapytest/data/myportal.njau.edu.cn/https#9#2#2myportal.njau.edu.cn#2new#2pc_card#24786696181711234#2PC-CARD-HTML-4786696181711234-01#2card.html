@@ -1,0 +1,68 @@
+https://myportal.njau.edu.cn/new/pc_card/4786696181711234/PC-CARD-HTML-4786696181711234-01/card.html
+<html><head><link rel="import" href="../../framework/polymer/polymer.html">
+
+<link rel="import" href="../../framework/public/tagHtml/amp-w-frame.html">
+<!--id按格式（“widget-”+appId+”-”+自定义序号）修改-->
+<dom-module id="PC-CARD-HTML-4786696181711234-01">
+  <!-- 引用的css文件必须放在dom-module标签内-->
+  <!--示例 widget需要引用的自定义css文件， rel="import" type="css"-->
+  <link href="resources/css/myFavorite.css" rel="import" type="css">
+
+  <!--该template标签不可删，但里面的标签和内容根据自身项目自行修改-->
+  <template>
+    <amp-w-frame widget_title="{{widget_title}}">
+      <div id="card-myfavorite-01" class="card-myfavorite">
+        <div class="myfavorite-card-box">
+          <div class="myfavorite-box-tab amp-myfavorite-tab">
+            <ul>
+              <template is="dom-repeat" items="[[favoriteAllData]]" as="appItem">
+                <li class="amp-hover-slow-motion amp-divider-color amp-bg-color-primary-hover-lv3 card-myfavorite-li" amp-id on-click="showContentApps" amp-type>
+
+                  <template is="dom-if" if="{{appItem.isFavoriteAllFlag}}"> <i class="iconfont icon-wenjianjia card-myfavorite-icon-wenjianjia"></i>
+                  </template>
+
+                  <span class="amp-left-aside-canuseapp-name card-myfavorite-folderName">{{appItem.folderName}}</span>
+                  <span class="amp-app-count">{{appItem.appCount}}</span>
+                </li>
+              </template>
+            </ul>
+
+          </div>
+          <div class="myfavorite-box-content" id="cardMyFavoriteContent">
+            <template is="dom-repeat" items="[[favoriteAllData]]" as="appItem">
+              <div class="card-myFavorite-content-item" has-scroll="true" amp-classify amp-isshow>
+
+                <template is="dom-repeat" items="[[appItem.searchResult]]" as="appItem">
+                  <widget-app-item params="{{appItem}}">
+                    <div class="widget-recommend-item  amp-bg-color-primary-hover-lv4">
+                      <div class="widget-image">
+                        <img src="%7B%7BappItem.middleIcon%7D%7D"></div>
+                      <div class="widget-information">
+                        <div class="widget-title appTitleFlag" data-fav-icon-r="0" title="{{appItem.appName}}">{{appItem.appName}}</div>
+                      </div>
+                    </div>
+                  </widget-app-item>
+                </template>
+
+                <template is="dom-if" if="{{appItem.nodata}}">
+                  <div class="widget-recommend-item  amp-bg-color-primary-hover-lv4 widget-recommend-item-nodata amp-favorite-icon-jia">
+                    <div class="widget-nodata"> <i class="iconfont icon-jia5 amp-pull-left amp-mr-8"></i>
+                      <div class="widget-information">
+                        <div class="widget-title appTitleFlag" title="添加应用">{{addAppsBtn}}</div>
+                      </div>
+                    </div>
+                  </div>
+                </template>
+
+              </div>
+            </template>
+          </div>
+        </div>
+      </div>
+    </amp-w-frame>
+    <amp-w-setting></amp-w-setting>
+  </template>
+
+</dom-module>
+<!--widget展现和初始化js-->
+<script src="resources/js/card.js"></script></head></html>

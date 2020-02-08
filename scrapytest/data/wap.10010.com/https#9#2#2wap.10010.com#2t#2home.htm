@@ -1,0 +1,55 @@
+https://wap.10010.com/t/home.htm
+<html><body><input type="hidden" id="static_path" value="https://img.client.10010.com/mobileService/view/client">
+
+
+
+
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width,viewport-fit=cover, initial-scale=1.0">
+    <!-- 全屏模式运行 -->
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <!-- 无缓存 -->
+    <meta http-equiv="Cache-Control" content="no-cache">
+    <!-- 不让安卓识别邮箱 -->
+    <meta content="email=no" name="format-detection">
+    <!-- 禁止 iOS 识别长串数字为电话 -->
+    <meta content="telephone=no" name="format-detection">
+    <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+    <title>手厅升级页面</title>
+    <link rel="stylesheet" href="https://img.client.10010.com/mobileService/view/client/wap/css/guanggao.css">
+    <link rel="stylesheet" href="https://img.client.10010.com/mobileService/view/client/wap/css/reset.css">
+
+
+
+    <div class="t_body">
+        <img onclick="tiaozhuan();" src="https://m1.img.10010.com/resources/0C5214C89700EF8C79DAB3CFD0EEE425/20180716/jpg/20180716164744.jpg">
+        <span class="tiaoguo"></span>
+    </div>
+    <script src="https://img.client.10010.com/mobileService/view/client/wap/js/public640.js"></script>
+    <script src="https://img.client.10010.com/mobileService/view/client/wap/js/jquery-1.7.2.min.js"></script>
+
+<script type="text/javascript">
+	var time = '5';
+	if (time == "") {
+		time = 20;
+	}
+	$(function(){
+		$('.tiaoguo').click(function() {
+	        location.href = 'http://wap.10010.com/t/waphome.htm';
+	    })
+	    $(".t_body img").height($(window).height());
+		t = setInterval(function () {
+			time--;
+			$('.tiaoguo').html(time + "秒跳过");
+			if (time == 0) {
+				clearInterval(t);
+				location.href = "http://wap.10010.com/t/waphome.htm"; 
+			}
+		}, 1000)
+		
+	})
+	function tiaozhuan(){
+		location.href = "/mobileService/skip.htm?provinceCode=011"
+	}
+</script>
+</body></html>

@@ -1,0 +1,138 @@
+https://news.7654.com/mini_new2/002/?1535697131
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <title>新版Mini Page</title>
+  <meta http-equiv="X-UA-Compatible" content="IE=edge, chrome=1">
+  <link rel="stylesheet" href="./statics/common/css/reset.css" type="text/css">
+  <link rel="stylesheet" href="statics/znyxxl/css/index.0606.css?v=1.0.5">
+  <script>
+      // ---------------------config.js-----------------------------
+
+      var coo_name = '';
+
+      // ---------------------config.js-----------------------------
+  </script>
+</head>
+<body>
+<div id="container">
+  <div class="wrapper">
+    <!-- 左侧 nav 区域 start -->
+    <div class="left_nav">
+      <li class="nav_item active mouse_event" date-type="toutiao">
+        <a>推荐</a>
+      </li>
+      <li class="nav_item mouse_event" method="change_view" date-type="shehui">
+        <a>社会</a>
+      </li>
+      <li class="nav_item mouse_event" method="change_view" date-type="yule">
+        <a>娱乐</a>
+      </li>
+      <li class="nav_item mouse_event" method="change_view" date-type="shipin">
+        <a>视频</a>
+      </li>
+      <li class="nav_item mouse_event" method="change_view" date-type="tiyu">
+        <a>体育</a>
+      </li>
+      <li class="nav_item mouse_event" method="change_view" date-type="qiche">
+        <a>汽车</a>
+      </li>
+      <li class="nav_item mouse_event" method="change_view" date-type="junshi">
+        <a>军事</a>
+      </li>
+      <li class="nav_item mouse_event" method="change_view" date-type="yangsheng">
+        <a>养生</a>
+      </li>
+      <li class="nav_item mouse_event" method="change_view" date-type="youxi">
+        <a>游戏</a>
+      </li>
+      <li class="nav_item hover">
+        <a>更多</a>
+        <img src="./statics/znyxxl/images/toggle_nav.png" alt="">
+        <div>
+          <ul class="more_nav">
+            <li class="nav_item_part click_event" method="change_view" date-type="caijing">
+              <a>财经</a>
+            </li>
+            <li class="nav_item_part click_event" method="change_view" date-type="xiaohua">
+              <a>笑话</a>
+            </li>
+            <li class="nav_item_part click_event" method="change_view" date-type="guoji">
+              <a>国际</a>
+            </li>
+            <li class="nav_item_part click_event" method="change_view" date-type="shishang">
+              <a>时尚</a>
+            </li>
+            <li class="nav_item_part click_event" method="change_view" date-type="lishi">
+              <a>历史</a>
+            </li>
+            <li class="nav_item_part click_event" method="change_view" date-type="keji">
+              <a>科技</a>
+            </li>
+
+          </ul>
+        </div>
+      </li>
+    </div>
+    <!-- 左侧 nav 区域 end -->
+    <!-- 中间 新闻区域 start -->
+    <div class="content">
+      <div class="scroll_con toutiao">
+      </div>
+    </div>
+    <!-- 中间 新闻区域 end -->
+    <!-- 右侧 区域 start -->
+    <div class="right_pannel">
+      <div class="showcase"></div>
+      <div class="showcase"></div>
+      <div class="today_news">
+        <h2>24小时热闻</h2>
+        <ul>
+        </ul>
+        <span style="background-color: white;display: inline-block;width: 200px;padding: 5px 0 0 0;margin: -15px 0 0 -10px;font-size: 12px;height: 40px;color: #B2B2B2;line-height: 18px;">
+          以上新闻内容由东方头条提供,广告由360广告提供,不代表我司立场.
+        </span>
+      </div>
+      <div id="refresh" class="click_event" method="refresh_top">
+        <img src="./statics/znyxxl/images/refresh.png" alt="">
+      </div>
+    </div>
+    <!-- 右侧 区域 end -->
+  </div>
+</div>
+<script src="./statics/common/js/jquery.min.js"></script>
+<script src="./statics/common/js/jquery.cookie.js"></script>
+<script src="./statics/common/js/jquery.base64.js"></script>
+<script src="./statics/common/js/jquery.xDomain.js"></script>
+<script src="./statics/znyxxl/js/index.0613.js?v=5.1.5"></script>
+</body>
+<script>
+    var _hmt = _hmt || [];
+    (function() {
+        var hm = document.createElement("script");
+            hm.src = "https://hm.baidu.com/hm.js?1e91a001fd57c3268940fa9a5cc7dac4";
+        var s = document.getElementsByTagName("script")[0];
+        s.parentNode.insertBefore(hm, s);
+    })();
+</script>
+<!-- 广告位：项目名强弹 -->
+<script>
+    (function() {
+        var s = "_" + Math.random().toString(36).slice(2);
+        document.write('<div id="' + s + '"></div>');
+        (window.slotbydup=window.slotbydup || []).push({
+            id: '5835883',
+            container: s,
+            size: '300,250',
+            display: 'inlay-fix'
+        });
+    })();
+</script>
+<script src="http://dup.baidustatic.com/js/os.js"></script>
+<script type="text/javascript">
+    if (typeof window.external != 'undefined' && typeof window.external.CppCall != 'undefined') {
+        window.external.CppCall('o.html?status=done');
+    }
+</script>
+</html>

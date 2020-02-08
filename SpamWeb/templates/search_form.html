@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>表单测试</title>
+</head>
+<body>
+    <form action="/search-form/" method="post">
+        {% csrf_token %}
+        <input type="text" name="q">
+        <input type="submit" name="搜索">
+    </form>
+
+    <p>{{ crl }}</p>
+
+</body>
+</html>

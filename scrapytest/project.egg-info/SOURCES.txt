@@ -1,0 +1,17 @@
+setup.py
+project.egg-info/PKG-INFO
+project.egg-info/SOURCES.txt
+project.egg-info/dependency_links.txt
+project.egg-info/entry_points.txt
+project.egg-info/top_level.txt
+scrapytest/UrlRead.py
+scrapytest/__init__.py
+scrapytest/filenamegenerator.py
+scrapytest/items.py
+scrapytest/middlewares.py
+scrapytest/pipelines.py
+scrapytest/settings.py
+scrapytest/spiders/__init__.py
+scrapytest/spiders/spamtest0.py
+scrapytest/spiders/spamtest1.py
+scrapytest/spiders/spamtest2.py

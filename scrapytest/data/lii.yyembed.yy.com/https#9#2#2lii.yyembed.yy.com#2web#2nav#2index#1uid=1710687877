@@ -1,0 +1,144 @@
+https://lii.yyembed.yy.com/web/nav/index?uid=1710687877
+<html id="html">
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="renderer" content="webkit">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta http-equiv="Content-Security-Policy" content="upgrade-insecure-requests">
+    <meta name="Keywords" content="YY">
+    <meta name="description" content="">
+    <title> 导航-YY </title>
+    <link href="//web.yystatic.com/project/cefnavguide/pc/201811141633/css/global.css" rel="stylesheet">
+    <link rel="preload" as="script" href="//web.yystatic.com/project/cefnavguide/pc/201811141633/assets/wplayer/players/WonderfulWorldPlayer.js">
+	<link rel="preload" as="style" href="//web.yystatic.com/project/cefnavguide/pc/201811141633/assets/wplayer/players/WonderfulWorldPlayer.css">
+    <script src="//s1.yy.com/ued_web_static/lib/anti-hijack/index.js"></script>
+    <script>new LegoAntiHijack();</script>
+</head>
+<body>
+<script>
+(function(){var e=document,c=e.getElementById("html"),d=e.body.clientWidth,breakpoint=[970,1012,1240];if(d>=breakpoint[0]&&d<breakpoint[1]){c.className="size-s size-s-gte"}else{if(d>=breakpoint[1]&&d<breakpoint[2]){c.className="size-m size-s-gte size-m-gte"}else{if(d>=breakpoint[2]){c.className="size-l size-s-gte size-m-gte"}else{c.className=""}}}}());
+</script>
+
+<div class="nano">
+    <div class="nano-content">
+<div class="g-wrap" id="main">
+    <!-- 热门视频直出 -->
+    <div class="ui-slide g-hotVideo" id="hotVideo" data-slide-role="hotVideo">
+        <!-- 视频 -->
+        <div class="ui-slide__content" data-role="content">
+            <div id="ui_video">
+                <div class="player" id="player" style="height:100%"></div>
+                <div id="videoContent"></div>
+            </div>
+        </div>
+        <!-- ./视频 -->
+        <ul class="ui-slide__nav" data-role="nav">
+            
+                      <!-- 迭代视频数据M11 -->
+                                                <li class="ui-slide__trigger" data-reportarea="world-liverecom" data-reporttag="" data-sid="25231256" data-ssid="25231256" data-asid="2734" data-liveuid="74114650" data-type="1001" data-name="【中国蓝-韩雅乐】 关注公众号：炎帝公会 百乐門招主播加群：827187">
+                        <div class="ui-slide__img">
+                            <img src="//screenshot.dwstatic.com/fjp/lic_468208675253050199?imageview/2/w/185" alt="韩雅乐 喊麦名曲《家》原创" width="100%">
+                        </div>
+                        <span class="ui-slide__mask">
+                            <div class="ui-slide__sign">
+                                <em class="icon-user"></em>
+                                <span>36572</span>
+                            </div>
+                                                         <div class="ui-slide__title">韩雅乐 喊麦名曲《家》原创</div>
+                                                    </span>
+                        <div class="ui-slide__thumb"></div>
+                        <i class="ui-slide__arrow"></i>
+                    </li>
+                                                                <li class="ui-slide__trigger" data-reportarea="world-liverecom" data-reporttag="" data-sid="97589798" data-ssid="97589798" data-asid="6953" data-liveuid="1538324096" data-type="1001" data-name="【舞帝✦.6953静静】－➪舞帝陪玩559 相亲交友4070王者荣耀去70550">
+                        <div class="ui-slide__img">
+                            <img src="//screenshot.dwstatic.com/fjp/lic_1943518577203664101?imageview/2/w/185" alt="气质女神歌者静静" width="100%">
+                        </div>
+                        <span class="ui-slide__mask">
+                            <div class="ui-slide__sign">
+                                <em class="icon-user"></em>
+                                <span>21422</span>
+                            </div>
+                                                         <div class="ui-slide__title">气质女神歌者静静</div>
+                                                    </span>
+                        <div class="ui-slide__thumb"></div>
+                        <i class="ui-slide__arrow"></i>
+                    </li>
+                                      <!-- 迭代分区视频数据 M12-->
+                                                <li class="ui-slide__trigger" data-reportarea="world-liverecom" data-reporttag="" data-sid="81886868" data-ssid="2464056242" data-asid="398" data-liveuid="1823846594" data-type="1010" data-name="【相亲】交友３９８直播间导流-月薪上万高薪招收主管/优质女主播">
+                        <div class="ui-slide__img">
+                            <img src="//screenshot.dwstatic.com/fjp/lic_-7810159837863736077?imageview/2/w/185" alt="我有个不能说的秘密" width="100%">
+                        </div>
+                        <span class="ui-slide__mask">
+                            <div class="ui-slide__sign">
+                                <em class="icon-user"></em>
+                                <span>1057</span>
+                            </div>
+                                                         <div class="ui-slide__title">我有个不能说的秘密</div>
+                                                    </span>
+                        <div class="ui-slide__thumb"></div>
+                        <i class="ui-slide__arrow"></i>
+                    </li>
+                                                                <li class="ui-slide__trigger" data-reportarea="world-liverecom" data-reporttag="" data-sid="52001347" data-ssid="2558350959" data-asid="7593" data-liveuid="1697570463" data-type="1010" data-name="【相亲】彼岸７５９３香格里拉.迷美相亲：关注迷美相亲帽子王厅即将隆重开业 ">
+                        <div class="ui-slide__img">
+                            <img src="//screenshot.dwstatic.com/fjp/lic_229537805387698408?imageview/2/w/185" alt="南京小潘西等你来" width="100%">
+                        </div>
+                        <span class="ui-slide__mask">
+                            <div class="ui-slide__sign">
+                                <em class="icon-user"></em>
+                                <span>640</span>
+                            </div>
+                                                         <div class="ui-slide__title">南京小潘西等你来</div>
+                                                    </span>
+                        <div class="ui-slide__thumb"></div>
+                        <i class="ui-slide__arrow"></i>
+                    </li>
+                                                                <li class="ui-slide__trigger" data-reportarea="world-liverecom" data-reporttag="" data-sid="52001347" data-ssid="2661347038" data-asid="7593" data-liveuid="2193440214" data-type="1010" data-name="【相亲】彼岸７５９３香格里拉.迷美相亲：关注迷美相亲帽子王厅即将隆重开业 ">
+                        <div class="ui-slide__img">
+                            <img src="//screenshot.dwstatic.com/fjp/lic_7104172675655557671?imageview/2/w/185" alt="护士小姐姐等你" width="100%">
+                        </div>
+                        <span class="ui-slide__mask">
+                            <div class="ui-slide__sign">
+                                <em class="icon-user"></em>
+                                <span>437</span>
+                            </div>
+                                                         <div class="ui-slide__title">护士小姐姐等你</div>
+                                                    </span>
+                        <div class="ui-slide__thumb"></div>
+                        <i class="ui-slide__arrow"></i>
+                    </li>
+                                               <!-- ./迭代 -->
+        </ul>
+        <!-- ./热门视频直出 -->
+    </div>
+
+    <div class="g-mainBtm u-clearfix">
+        <div class="ui-panel g-funnyNews" id="funnyNews">
+            <i class="yy-loading"></i>
+        </div>
+
+        <div class="ui-panel g-wonderfulActivity" id="wonderfulActivity">
+        </div>
+
+        <div class="ui-panel g-adBanner" id="adBanner">
+        </div>
+
+    </div>
+</div>
+<!-- .g-wrap end -->
+
+    </div>
+</div>
+    <script src="//web.yystatic.com/project/cefnavguide/pc/201811141633/assets/wplayer/loader/loader.js"></script>
+    <script src="//web.yystatic.com/project/cefnavguide/pc/201811141633/js/main.js"></script>
+
+
+    <!-- 海度统计 -->
+    <script type="text/javascript">
+        _hiido_no = 0; //屏蔽二级域名作为wid
+        _hiido_wid = ['_587a846'];
+    </script>
+    <script src="//hdjs.hiido.com/hiido_internal.js" type="text/javascript"></script>
+
+</body>
+</html>

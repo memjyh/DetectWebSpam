@@ -1,0 +1,972 @@
+https://rsc.nuist.edu.cn/
+<html>
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="edge">
+    <title>人事处</title>
+<link type="text/css" href="/_css/_system/system.css" rel="stylesheet">
+<link type="text/css" href="/_upload/site/1/style/1/1.css" rel="stylesheet">
+<link type="text/css" href="/_upload/site/00/1c/28/style/36/36.css" rel="stylesheet">
+       <link href="/_css/tpl2/system.css" type="text/css" rel="stylesheet"> 
+       <link href="/_css/tpl2/default/default.css" type="text/css" rel="stylesheet"> 
+<link type="text/css" href="/_js/_portletPlugs/visitCount/visitCount.css" rel="stylesheet">
+       <link href="/_css/tpl2/default/portlet/dtjt/8/dtjt8.css" type="text/css" rel="stylesheet">
+<link type="text/css" href="/_js/_portletPlugs/simpleNews/css/simplenews.css" rel="stylesheet">
+<link type="text/css" href="/_js/_portletPlugs/sudyNavi/css/sudyNav.css" rel="stylesheet">
+<link type="text/css" href="/_js/_portletPlugs/datepicker/css/datepicker.css" rel="stylesheet">
+
+<script language="javascript" src="/_js/jquery.min.js" sudy-wp-context="" sudy-wp-siteid="28"></script>
+<script language="javascript" src="/_js/jquery.sudy.wp.visitcount.js"></script>
+<script type="text/javascript" src="/_js/_portletPlugs/sudyNavi/jquery.sudyNav.js"></script>
+<script type="text/javascript" src="/_js/_portletPlugs/datepicker/js/jquery.datepicker.js"></script>
+<script type="text/javascript" src="/_js/_portletPlugs/datepicker/js/datepicker_lang_HK.js"></script>
+<link rel="stylesheet" href="/_upload/tpl/00/4c/76/template76/css/style.css">
+<link rel="shortcut icon" href="/_upload/tpl/00/4c/76/template76/image/favicon.ico" type="image/x-icon">
+    <script type="text/javascript">
+        function AddFavorite(sURL, sTitle)
+        {
+            try
+            {
+                window.external.addFavorite(sURL, sTitle);
+            }
+            catch (e)
+            {
+                try
+                {
+                    window.sidebar.addPanel(sTitle, sURL, "");
+                }
+                catch (e)
+                {
+                    alert("加入收藏失败，请使用Ctrl+D进行添加");
+                }
+            }
+        }
+    </script>
+</head>
+<body>
+<div id="header">
+    <div class="top">
+        <div class="logo" frag="面板1001">
+            <div frag="窗口1001" portletmode="simpleSiteLogo">
+                <span class="Site_Logo"><img border="0" src="/_upload/site/00/1c/28/logo.png"></span>
+            </div>
+        </div>
+        <div class="sitename"><img src="/_upload/tpl/00/4c/76/template76/image/sitename.png" alt=""></div>
+        <div frag="面板1025" class="rightdiv">
+            <p><a href="http://rscmis.nuist.edu.cn/login/login.html">人事系统</a><span>|</span><a href="javascript:void(0)">旧版主页</a><span>|</span><a href="javascript:void(0)" onclick="AddFavorite(window.location,document.title)">加入收藏</a></p>
+            <div frag="窗口1025" class="search">
+                <form method="post" action="/_web/search/doSearch.do?locale=zh_CN&amp;request_locale=zh_CN&amp;_p=YXM9MjgmdD03NiZkPTIyNiZwPTEmbT1TTiY_" target="_blank">
+                       <input type="text" name="keyword" class="keyword" value="Search" onfocus="if (this.value === 'Search') { this.value = ''; }" onblur="if (this.value === '') { this.value = 'Search'; }">
+                    <input type="submit" class="serchsub" value="">
+</form>
+
+            </div>
+        </div>
+        <div class="clear"></div>
+    </div>
+
+</div>
+<div id="nav">
+    <div class="nav">
+        <div class="navdiv">
+            <div frag="面板1" class="daohang">
+                <div frag="窗口1">
+                    <div id="wp_nav_w1"> 
+
+ 
+<ul class="wp_nav" data-nav-config="{drop_v: 'down', drop_w: 'right', dir: 'y', opacity_main: '-1', opacity_sub: '-1', dWidth: '0'}">
+      
+     <li class="nav-item i1 "> 
+         <a href="http://rsc.nuist.edu.cn/main.htm" title="首 页" target="_self"><span class="item-name">首 页</span></a><i class="mark"></i> 
+          
+     </li> 
+      
+     <li class="nav-item i2 "> 
+         <a href="/1092/list.htm" title="机构职能" target="_self"><span class="item-name">机构职能</span></a><i class="mark"></i> 
+          
+         <ul class="sub-nav"> 
+              
+             <li class="nav-item i2-1 "> 
+                 <a href="/2958/list.htm" title="人事处机构职能" target="_self"><span class="item-name">人事处机构职能</span></a><i class="mark"></i> 
+                  
+             </li> 
+              
+             <li class="nav-item i2-2 "> 
+                 <a href="/2959/list.htm" title="党委教师工作部机构职能" target="_self"><span class="item-name">党委教师工作部机构职能</span></a><i class="mark"></i> 
+                  
+             </li> 
+              
+             <li class="nav-item i2-3 "> 
+                 <a href="/2960/list.htm" title="高层次人才办公室工作职责" target="_self"><span class="item-name">高层次人才办公室工作职责</span></a><i class="mark"></i> 
+                  
+             </li> 
+              
+             <li class="nav-item i2-4 "> 
+                 <a href="/2961/list.htm" title="院士工作办公室工作职责" target="_self"><span class="item-name">院士工作办公室工作职责</span></a><i class="mark"></i> 
+                  
+             </li> 
+              
+             <li class="nav-item i2-5 "> 
+                 <a href="/2962/list.htm" title="人事科工作职责" target="_self"><span class="item-name">人事科工作职责</span></a><i class="mark"></i> 
+                  
+             </li> 
+              
+             <li class="nav-item i2-6 "> 
+                 <a href="/2963/list.htm" title="师资科工作职责" target="_self"><span class="item-name">师资科工作职责</span></a><i class="mark"></i> 
+                  
+             </li> 
+              
+             <li class="nav-item i2-7 "> 
+                 <a href="/lzkgzzz/list.htm" title="劳资科工作职责" target="_self"><span class="item-name">劳资科工作职责</span></a><i class="mark"></i> 
+                  
+             </li> 
+              
+             <li class="nav-item i2-8 "> 
+                 <a href="/2965/list.htm" title="人才交流中心工作职责" target="_self"><span class="item-name">人才交流中心工作职责</span></a><i class="mark"></i> 
+                  
+             </li> 
+              
+             <li class="nav-item i2-9 "> 
+                 <a href="/2966/list.htm" title="档案室工作职责" target="_self"><span class="item-name">档案室工作职责</span></a><i class="mark"></i> 
+                  
+             </li> 
+              
+             <li class="nav-item i2-10 "> 
+                 <a href="/2967/list.htm" title="联系方式" target="_self"><span class="item-name">联系方式</span></a><i class="mark"></i> 
+                  
+             </li> 
+              
+         </ul> 
+          
+     </li> 
+      
+     <li class="nav-item i3 "> 
+         <a href="/1097/list.htm" title="人才招聘" target="_self"><span class="item-name">人才招聘</span></a><i class="mark"></i> 
+          
+         <ul class="sub-nav"> 
+              
+             <li class="nav-item i3-1 "> 
+                 <a href="/1165/list.htm" title="面向海内外诚聘英才" target="_self"><span class="item-name">面向海内外诚聘英才</span></a><i class="mark"></i> 
+                  
+             </li> 
+              
+             <li class="nav-item i3-2 "> 
+                 <a href="/1166/list.htm" title="面向校内外招聘启事" target="_self"><span class="item-name">面向校内外招聘启事</span></a><i class="mark"></i> 
+                  
+             </li> 
+              
+         </ul> 
+          
+     </li> 
+      
+     <li class="nav-item i4 "> 
+         <a href="/1103/list.htm" title="人才工程" target="_self"><span class="item-name">人才工程</span></a><i class="mark"></i> 
+          
+         <ul class="sub-nav"> 
+              
+             <li class="nav-item i4-1 "> 
+                 <a href="/1209/list.htm" title="国家千人计划" target="_self"><span class="item-name">国家千人计划</span></a><i class="mark"></i> 
+                  
+             </li> 
+              
+             <li class="nav-item i4-2 "> 
+                 <a href="/1210/list.htm" title="国家和省中长期人才发展规划" target="_self"><span class="item-name">国家和省中长期人才发展规划</span></a><i class="mark"></i> 
+                  
+             </li> 
+              
+             <li class="nav-item i4-3 "> 
+                 <a href="/1211/list.htm" title="长江学者计划" target="_self"><span class="item-name">长江学者计划</span></a><i class="mark"></i> 
+                  
+             </li> 
+              
+             <li class="nav-item i4-4 "> 
+                 <a href="/1212/list.htm" title="国家特支人才计划" target="_self"><span class="item-name">国家特支人才计划</span></a><i class="mark"></i> 
+                  
+             </li> 
+              
+             <li class="nav-item i4-5 "> 
+                 <a href="/1213/list.htm" title="国家青年拔尖人才计划" target="_self"><span class="item-name">国家青年拔尖人才计划</span></a><i class="mark"></i> 
+                  
+             </li> 
+              
+             <li class="nav-item i4-6 "> 
+                 <a href="/1214/list.htm" title="江苏省特聘教授" target="_self"><span class="item-name">江苏省特聘教授</span></a><i class="mark"></i> 
+                  
+             </li> 
+              
+             <li class="nav-item i4-7 "> 
+                 <a href="/1215/list.htm" title="江苏省创新团队" target="_self"><span class="item-name">江苏省创新团队</span></a><i class="mark"></i> 
+                  
+             </li> 
+              
+             <li class="nav-item i4-8 "> 
+                 <a href="/1216/list.htm" title="江苏省双创人才" target="_self"><span class="item-name">江苏省双创人才</span></a><i class="mark"></i> 
+                  
+             </li> 
+              
+         </ul> 
+          
+     </li> 
+      
+     <li class="nav-item i5 "> 
+         <a href="/2681/list.htm" title="师德建设 " target="_self"><span class="item-name">师德建设 </span></a><i class="mark"></i> 
+          
+     </li> 
+      
+     <li class="nav-item i6 "> 
+         <a href="/2682/list.htm" title="师资建设" target="_self"><span class="item-name">师资建设</span></a><i class="mark"></i> 
+          
+     </li> 
+      
+     <li class="nav-item i7 "> 
+         <a href="/2683/list.htm" title="工资福利" target="_self"><span class="item-name">工资福利</span></a><i class="mark"></i> 
+          
+     </li> 
+      
+     <li class="nav-item i8 "> 
+         <a href="/1093/list.htm" title="规章制度" target="_self"><span class="item-name">规章制度</span></a><i class="mark"></i> 
+          
+         <ul class="sub-nav"> 
+              
+             <li class="nav-item i8-1 "> 
+                 <a href="/1124/list.htm" title="国家法律法规" target="_self"><span class="item-name">国家法律法规</span></a><i class="mark"></i> 
+                  
+             </li> 
+              
+             <li class="nav-item i8-2 "> 
+                 <a href="/1125/list.htm" title="政府部门规章" target="_self"><span class="item-name">政府部门规章</span></a><i class="mark"></i> 
+                  
+             </li> 
+              
+             <li class="nav-item i8-3 "> 
+                 <a href="/1126/list.htm" title="人事管理规章制度" target="_self"><span class="item-name">人事管理规章制度</span></a><i class="mark"></i> 
+                  
+             </li> 
+              
+             <li class="nav-item i8-4 "> 
+                 <a href="/1127/list.htm" title="师资管理规章制度" target="_self"><span class="item-name">师资管理规章制度</span></a><i class="mark"></i> 
+                  
+             </li> 
+              
+             <li class="nav-item i8-5 "> 
+                 <a href="/1128/list.htm" title="劳资管理规章制度" target="_self"><span class="item-name">劳资管理规章制度</span></a><i class="mark"></i> 
+                  
+             </li> 
+              
+             <li class="nav-item i8-6 "> 
+                 <a href="/1129/list.htm" title="博士后管理规章制度" target="_self"><span class="item-name">博士后管理规章制度</span></a><i class="mark"></i> 
+                  
+             </li> 
+              
+             <li class="nav-item i8-7 "> 
+                 <a href="/1130/list.htm" title="人事档案管理规章制度" target="_self"><span class="item-name">人事档案管理规章制度</span></a><i class="mark"></i> 
+                  
+             </li> 
+              
+             <li class="nav-item i8-8 "> 
+                 <a href="/1131/list.htm" title="人才管理规章制度" target="_self"><span class="item-name">人才管理规章制度</span></a><i class="mark"></i> 
+                  
+             </li> 
+              
+         </ul> 
+          
+     </li> 
+      
+     <li class="nav-item i9 "> 
+         <a href="/1094/list.htm" title="办事流程" target="_self"><span class="item-name">办事流程</span></a><i class="mark"></i> 
+          
+         <ul class="sub-nav"> 
+              
+             <li class="nav-item i9-1 "> 
+                 <a href="/1139/list.htm" title="高层次人才科办事流程" target="_self"><span class="item-name">高层次人才科办事流程</span></a><i class="mark"></i> 
+                  
+             </li> 
+              
+             <li class="nav-item i9-2 "> 
+                 <a href="/1140/list.htm" title="师资办办事流程" target="_self"><span class="item-name">师资办办事流程</span></a><i class="mark"></i> 
+                  
+             </li> 
+              
+             <li class="nav-item i9-3 "> 
+                 <a href="/1141/list.htm" title="人事科办事流程" target="_self"><span class="item-name">人事科办事流程</span></a><i class="mark"></i> 
+                  
+             </li> 
+              
+             <li class="nav-item i9-4 "> 
+                 <a href="/1142/list.htm" title="分中心办事流程" target="_self"><span class="item-name">分中心办事流程</span></a><i class="mark"></i> 
+                  
+             </li> 
+              
+             <li class="nav-item i9-5 "> 
+                 <a href="/1143/list.htm" title="劳资科办事流程" target="_self"><span class="item-name">劳资科办事流程</span></a><i class="mark"></i> 
+                  
+             </li> 
+              
+             <li class="nav-item i9-6 "> 
+                 <a href="/1144/list.htm" title="博士后管理科办事流程" target="_self"><span class="item-name">博士后管理科办事流程</span></a><i class="mark"></i> 
+                  
+             </li> 
+              
+             <li class="nav-item i9-7 "> 
+                 <a href="/1145/list.htm" title="人事档案室办事流程" target="_self"><span class="item-name">人事档案室办事流程</span></a><i class="mark"></i> 
+                  
+             </li> 
+              
+         </ul> 
+          
+     </li> 
+      
+     <li class="nav-item i10 "> 
+         <a href="/1098/list.htm" title="下载中心" target="_self"><span class="item-name">下载中心</span></a><i class="mark"></i> 
+          
+         <ul class="sub-nav"> 
+              
+             <li class="nav-item i10-1 "> 
+                 <a href="/1167/list.htm" title="高层次人才科工作用表下载" target="_self"><span class="item-name">高层次人才科工作用表下载</span></a><i class="mark"></i> 
+                  
+             </li> 
+              
+             <li class="nav-item i10-2 "> 
+                 <a href="/1168/list.htm" title="师资办工作用表下载" target="_self"><span class="item-name">师资办工作用表下载</span></a><i class="mark"></i> 
+                  
+             </li> 
+              
+             <li class="nav-item i10-3 "> 
+                 <a href="/1169/list.htm" title="人事科工作用表下载" target="_self"><span class="item-name">人事科工作用表下载</span></a><i class="mark"></i> 
+                  
+             </li> 
+              
+             <li class="nav-item i10-4 "> 
+                 <a href="/1170/list.htm" title="分中心工作用表下载" target="_self"><span class="item-name">分中心工作用表下载</span></a><i class="mark"></i> 
+                  
+             </li> 
+              
+             <li class="nav-item i10-5 "> 
+                 <a href="/1171/list.htm" title="劳资科工作用表下载" target="_self"><span class="item-name">劳资科工作用表下载</span></a><i class="mark"></i> 
+                  
+             </li> 
+              
+             <li class="nav-item i10-6 "> 
+                 <a href="/1172/list.htm" title="博士后管理科工作用表下载" target="_self"><span class="item-name">博士后管理科工作用表下载</span></a><i class="mark"></i> 
+                  
+             </li> 
+              
+             <li class="nav-item i10-7 "> 
+                 <a href="/1173/list.htm" title="人事档案室工作用表下载" target="_self"><span class="item-name">人事档案室工作用表下载</span></a><i class="mark"></i> 
+                  
+             </li> 
+              
+         </ul> 
+          
+     </li> 
+      
+</ul> 
+ 
+ 
+ </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<div id="banner">
+    <div class="banner" frag="面板2">
+        <div frag="窗口2">
+                            <!-- 多图交替8 图片 切换 -->
+<div class="dtjt8_div_img" style="width:1100px;height:400px;">
+    <img id="w2imgShow" name="w2imgShow" onclick="w2openWindow();" style="FILTER: revealTrans(duration=2,transition=20); border: 0; cursor: pointer;" src="/..//_css/tpl/default/images/loading.gif" width="1100px" height="400px" vspace="0">
+    <div id="w2imgNumber" class="number"></div>
+</div>
+<script language="JavaScript" class="">
+    var w2imgJsons = [
+    
+        
+            {
+            "src" : "/_upload/article/images/97/76/0dd97b7c4c51b4401a9d4de24b44/ed39a734-be29-4ff7-875c-2573be5e4dd6.png",
+            "url" : "/2018/0512/c1105a89962/page.htm"
+            },
+        
+    
+        
+            {
+            "src" : "/_upload/article/images/76/1d/d1b83efb4fa39dd800ba1af01438/2f106bc6-77dd-48f3-bacb-06f9cf862e04.png",
+            "url" : "/2018/0512/c1105a89961/page.htm"
+            },
+        
+    
+        
+            {
+            "src" : "/_upload/article/images/e7/93/45c47d2e4927a67177e65c659cca/76c2e3db-20f7-49aa-abd3-b615bd643a1c.png",
+            "url" : "/2018/0512/c1105a89960/page.htm"
+            },
+        
+    
+        
+            {
+            "src" : "/_upload/article/images/06/dc/b324839c44e6ad227e8b4cc19e8d/2cf2270c-ca2a-4dcf-8a42-7cc4b6b5f409.png",
+            "url" : "/2018/0512/c1105a89959/page.htm"
+            }];
+        
+       
+</script>
+<script language="JavaScript">
+        var w2imgUrl = new Array();
+        var w2imgLink = new Array();
+
+        var w2count = 0;
+        var w2running = false;
+        var w2index = 0;
+        var w2nextAdTimer;
+        var w2k = 0;
+        function w2nextAd(num) {
+            if (num >= 0 && num <= w2count - 1) {
+                w2index = num;
+                clearTimeout(w2nextAdTimer);
+            } else {
+                num = w2index;
+            }
+            if (w2index > w2count - 1) {
+                w2index = 0;
+            }
+            if (!w2running) {
+                w2running = true;
+
+            } else if (document.all) {
+                w2imgShow.filters.revealTrans.Transition = 50;
+                w2imgShow.filters.revealTrans.apply();
+                w2imgShow.filters.revealTrans.play();
+            }
+            document.getElementById('w2imgShow').src = w2imgUrl[w2index];
+            document.getElementById('w2imgNumber').innerHTML = "";
+            w2k = 0;
+            for (var i = 0; i < w2count; i++) {
+                w2k++;
+                if (i !== w2index) {
+                    document.getElementById('w2imgNumber').innerHTML += '<a href="javascript:w2nextAd(' + i + ')" class="nomal">' + w2k + '</a>';
+                } else {
+                    document.getElementById('w2imgNumber').innerHTML += '<a href="javascript:w2nextAd(' + i + ')" class="current">' + w2k + '</a>';
+                }
+            }
+            w2index++;
+            if (w2count > 1) {
+                w2nextAdTimer = setTimeout("w2nextAd(-1)", 4000);
+            }
+        }
+
+        function w2openWindow() {
+            var jumpUrl = w2imgLink[w2index - 1];
+            if (jumpUrl && jumpUrl != '') {
+                window.open(jumpUrl);
+            }
+        }
+
+        $().ready(function() {
+            try {
+                var objs = w2imgJsons;
+                w2count = objs.length;
+                if (w2count == 0) {
+                    document.getElementById('w2imgShow').style.display = "none";
+                    document.getElementById('w2imgNumber').style.display = "none";
+                    return;
+                }
+                for (var i = 0; i < objs.length; i++) {
+                    w2imgUrl[i] = objs[i].src;
+                    w2imgLink[i] = objs[i].url;
+                }
+                w2nextAd(-1);
+            } catch (e) {
+            }
+        });
+</script>
+            
+        </div>
+    </div>
+    <div class="clear"></div>
+</div>
+<div style="background-color: #ffffff">
+    <div id="main">
+        <div class="newsbot">
+            <div class="lists lists-2">
+                <div class="titlediv">
+                    <h3 class="post-title"><span>最新动态</span></h3>
+                    <div class="post-more"><a href="http://rsc.nuist.edu.cn/1104/list.htm"><span>MORE</span></a></div>
+                </div>
+                <div class="list-left" frag="面板3">
+                    <div frag="窗口3">
+                                        <!-- 多图交替8 图片 切换 -->
+<div class="dtjt8_div_img" style="width:280px;height:192px;">
+    <img id="w3imgShow" name="w3imgShow" onclick="w3openWindow();" style="FILTER: revealTrans(duration=2,transition=20); border: 0; cursor: pointer;" src="/..//_css/tpl/default/images/loading.gif" width="280px" height="192px" vspace="0">
+    <div id="w3imgNumber" class="number"></div>
+</div>
+<script language="JavaScript" class="">
+    var w3imgJsons = [
+    
+        
+            {
+            "src" : "/_upload/article/images/f7/ce/7ff296104e72a6b9a4d3a8311d3a/e8ff6e6c-083d-4405-8796-a87eb837ce03.jpg",
+            "url" : "/2018/1115/c1104a122467/page.htm"
+            },
+        
+    
+        
+            {
+            "src" : "/_upload/article/images/4d/92/6939dee34c6ba3dbafc5c02b76c4/b05ef83e-5663-41e2-9abd-d85871a26321.jpg",
+            "url" : "/2018/1109/c1104a122227/page.htm"
+            },
+        
+    
+        
+            {
+            "src" : "/_upload/article/images/f7/c0/0df75fc44c1aa48df72743173ee0/98f3007f-0bff-46da-9f4b-1d0604653d7c.jpg",
+            "url" : "/2018/0605/c1104a93625/page.htm"
+            },
+        
+    
+        
+            {
+            "src" : "/_upload/article/images/be/d2/983ec73e4c6da3ee7f492ac45524/0cf43a41-d043-4dc9-a4cf-7a7db535b62d.jpg",
+            "url" : "/2017/1114/c1104a89859/page.htm"
+            },
+        
+    
+        
+            {
+            "src" : "/_upload/article/images/43/bc/1b89acec4ab2be3aaaf8ea89cc36/790c2534-50ef-4876-9118-fadef876b96e.jpg",
+            "url" : "/2016/0318/c1104a71926/page.htm"
+            },
+        
+    
+        
+            {
+            "src" : "/_upload/article/images/9d/39/216e6d664e3d97218b8df4a49c73/50a268e0-a365-4e25-934c-121d2e8de6df.jpg",
+            "url" : "/2016/0318/c1104a71925/page.htm"
+            }];
+        
+       
+</script>
+<script language="JavaScript">
+        var w3imgUrl = new Array();
+        var w3imgLink = new Array();
+
+        var w3count = 0;
+        var w3running = false;
+        var w3index = 0;
+        var w3nextAdTimer;
+        var w3k = 0;
+        function w3nextAd(num) {
+            if (num >= 0 && num <= w3count - 1) {
+                w3index = num;
+                clearTimeout(w3nextAdTimer);
+            } else {
+                num = w3index;
+            }
+            if (w3index > w3count - 1) {
+                w3index = 0;
+            }
+            if (!w3running) {
+                w3running = true;
+
+            } else if (document.all) {
+                w3imgShow.filters.revealTrans.Transition = 50;
+                w3imgShow.filters.revealTrans.apply();
+                w3imgShow.filters.revealTrans.play();
+            }
+            document.getElementById('w3imgShow').src = w3imgUrl[w3index];
+            document.getElementById('w3imgNumber').innerHTML = "";
+            w3k = 0;
+            for (var i = 0; i < w3count; i++) {
+                w3k++;
+                if (i !== w3index) {
+                    document.getElementById('w3imgNumber').innerHTML += '<a href="javascript:w3nextAd(' + i + ')" class="nomal">' + w3k + '</a>';
+                } else {
+                    document.getElementById('w3imgNumber').innerHTML += '<a href="javascript:w3nextAd(' + i + ')" class="current">' + w3k + '</a>';
+                }
+            }
+            w3index++;
+            if (w3count > 1) {
+                w3nextAdTimer = setTimeout("w3nextAd(-1)", 4000);
+            }
+        }
+
+        function w3openWindow() {
+            var jumpUrl = w3imgLink[w3index - 1];
+            if (jumpUrl && jumpUrl != '') {
+                window.open(jumpUrl);
+            }
+        }
+
+        $().ready(function() {
+            try {
+                var objs = w3imgJsons;
+                w3count = objs.length;
+                if (w3count == 0) {
+                    document.getElementById('w3imgShow').style.display = "none";
+                    document.getElementById('w3imgNumber').style.display = "none";
+                    return;
+                }
+                for (var i = 0; i < objs.length; i++) {
+                    w3imgUrl[i] = objs[i].src;
+                    w3imgLink[i] = objs[i].url;
+                }
+                w3nextAd(-1);
+            } catch (e) {
+            }
+        });
+</script>
+            
+                    </div>
+                </div>
+                <div class="list-right" frag="面板4">
+                    <div frag="窗口4">
+                        
+                        <ul>
+                            
+                            <li class="news-item"><span>11-15</span><a href="/2018/1115/c1104a122467/page.htm" target="_blank">南京晓庄学院人事处来我校调研交流</a></li>
+                            
+                            <li class="news-item"><span>11-09</span><a href="/2018/1109/c1104a122227/page.htm" target="_blank">我校召开新录用实习生岗前培训会</a></li>
+                            
+                            <li class="news-item"><span>09-18</span><a href="/2018/0918/c1104a116433/page.htm" target="_blank">再创新高 我校五位教授入选2018年江苏特聘教授</a></li>
+                            
+                            <li class="news-item"><span>09-07</span><a href="/2018/0910/c1104a115492/page.htm" target="_blank">我校举办2018年新教职工入职培训</a></li>
+                            
+                            <li class="news-item"><span>08-31</span><a href="/2018/0906/c1104a114979/page.htm" target="_blank">我校海外院士工作站再添两位外籍院士</a></li>
+                            
+                            <li class="news-item"><span>08-29</span><a href="/2018/0906/c1104a114978/page.htm" target="_blank">我校中层干部暑期培训班圆满结业</a></li>
+                            
+                            <li class="news-item"><span>08-27</span><a href="/2018/0827/c1104a113272/page.htm" target="_blank">关于申报2018年国家公派青年骨干教师出国研修项...</a></li>
+                            
+                        </ul>
+                        
+                    </div>
+                </div>
+            </div>
+            <div class="lists" frag="面板5" style="margin-right: 0">
+                <div frag="窗口5">
+                    <div class="titlediv">
+                        <h3 class="post-title" frag="标题"><span>通知公告 </span></h3>
+                        <div class="post-more" frag="按钮" type="更多"><a href="/1102/list.htm" class="w5_more"><span frag="按钮内容">MORE</span></a></div>
+                    </div>
+                    <div>
+                        
+                            
+                            <div class="datediv datediv1">
+                                <div class="day">03</div>
+                                <div class="yyyyMM">2018-12</div>
+                            </div>
+                            <div class="neirong">
+                                <a href="">  </a><a href="/2018/1203/c1102a123580/page.htm" target="_blank" title="2018年南京信息工程大学东北地区专场招聘宣传及面试活动公告"><font style="font-weight:bold;">2018年南京信息工程大学东北地区专场招聘宣传及面试活动公告</font></a>
+                            </div>
+                            
+                            <div class="datediv datediv2">
+                                <div class="day">03</div>
+                                <div class="yyyyMM">2018-12</div>
+                            </div>
+                            <div class="neirong">
+                                <a href="">  </a><a href="/2018/1203/c1102a123546/page.htm" target="_blank" title="南京信息工程大学面向海内外公开招聘教师教育学院院长公告"><font style="font-weight:bold;">南京信息工程大学面向海内外公开招聘教师教育学院院长公告</font></a>
+                            </div>
+                            
+                            <div class="datediv datediv3">
+                                <div class="day">30</div>
+                                <div class="yyyyMM">2018-11</div>
+                            </div>
+                            <div class="neirong">
+                                <a href="">  </a><a href="/2018/1130/c1102a123494/page.htm" target="_blank" title="南京信息工程大学2019江苏特聘教授招聘方案">南京信息工程大学2019江苏特聘教授招聘方案</a>
+                            </div>
+                            
+                            <div class="clear"></div>
+                        
+                    </div>
+
+                </div>
+            </div>
+            <div class="clear"></div>
+        </div>
+        <div class="newsbot" style="margin-top: 10px">
+            <div class="lists" frag="面板6">
+                <div frag="窗口6">
+                    <div class="titlediv">
+                        <h3 class="post-title" frag="标题"><span>人才招聘</span></h3>
+                        <div class="post-more" frag="按钮" type="更多"><a href="/1097/list.htm" class="w6_more"><span frag="按钮内容">MORE</span></a></div>
+                    </div>
+                    <img src="/_upload/tpl/00/4c/76/template76/image/i1.png" alt="">
+                    
+                        <ul>
+                            
+                            <li class="news-item"><span>12-03</span><a href="/2018/1203/c1097a123580/page.htm" target="_blank"><font style="font-weight:bold;">2018年南京信息工程大学东北地区专场...</font></a></li>
+                            
+                            <li class="news-item"><span>12-03</span><a href="/2018/1203/c1097a123546/page.htm" target="_blank"><font style="font-weight:bold;">南京信息工程大学面向海内外公开招聘...</font></a></li>
+                            
+                            <li class="news-item"><span>01-29</span><a href="/2018/0129/c1097a89863/page.htm" target="_blank"><font style="font-weight:bold;">NUIST "Changwang Talents" Recruitm...</font></a></li>
+                            
+                            <li class="news-item"><span>01-20</span><a href="/2018/0120/c1097a89862/page.htm" target="_blank"><font style="font-weight:bold;">南京信息工程大学“长望英才” 招聘...</font></a></li>
+                            
+                            <li class="news-item"><span>11-14</span><a href="/2017/1114/c1097a89858/page.htm" target="_blank"><font style="font-weight:bold;">南京信息工程大学长望英才“校长面对...</font></a></li>
+                            
+                        </ul>
+                    
+
+                </div>
+            </div>
+            <div class="lists" frag="面板7">
+                <div frag="窗口7">
+                    <div class="titlediv">
+                        <h3 class="post-title" frag="标题"><span>人才工程</span></h3>
+                        <div class="post-more" frag="按钮" type="更多"><a href="/1103/list.htm" class="w7_more"><span frag="按钮内容">MORE</span></a></div>
+                    </div>
+                    <img src="/_upload/tpl/00/4c/76/template76/image/i2.png" alt="">
+                    
+                        <ul>
+                            
+                            <li class="news-item"><span>03-28</span><a href="/2012/0328/c1103a89982/page.htm" target="_blank">南京信息工程大学第三批江苏特聘教授...</a></li>
+                            
+                            <li class="news-item"><span>01-14</span><a href="/2012/0114/c1103a89981/page.htm" target="_blank">关于做好2011年度教育部“长江学者奖...</a></li>
+                            
+                            <li class="news-item"><span>01-14</span><a href="/2012/0114/c1103a89985/page.htm" target="_blank">国家中长期人才发展规划纲要</a></li>
+                            
+                            <li class="news-item"><span>01-14</span><a href="/2012/0114/c1103a89980/page.htm" target="_blank">国家中长期人才发展规划纲要</a></li>
+                            
+                            <li class="news-item"><span>01-13</span><a href="/2012/0113/c1103a89986/page.htm" target="_blank">江苏省中长期人才发展规划纲要</a></li>
+                            
+                        </ul>
+                    
+
+                </div>
+            </div>
+            <div class="lists" style="margin-right: 0">
+                <div frag="面板8">
+                    <div frag="窗口8">
+                        <div class="titlediv">
+                            <h3 class="post-title" frag="标题" title="人才风采">    <span>人才风采</span></h3>
+                            <div class="post-more" frag="按钮" type="更多"><a href="/rcfc/list.htm" class="w8_more"><span frag="按钮内容">MORE</span></a></div>
+                        </div>
+                        <img src="/_upload/tpl/00/4c/76/template76/image/i3.png" alt="">
+                        
+                            <ul>
+                                
+                                <li class="news-item"><span>07-24</span><a href="/2018/0724/c2675a104128/page.htm" target="_blank">金双根：​心如赤子 探索浩渺苍穹</a></li>
+                                
+                                <li class="news-item"><span>07-24</span><a href="/2018/0724/c2675a104125/page.htm" target="_blank">张彪：“教而不研则浅，研而不教则浮...</a></li>
+                                
+                                <li class="news-item"><span>07-24</span><a href="/2018/0724/c2675a104124/page.htm" target="_blank">守得初心，用心上好每一堂课的“裴哥...</a></li>
+                                
+                            </ul>
+                        
+                    </div>
+                </div>
+            </div>
+            <div class="clear"></div>
+        </div>
+        <div class="newsbot" style="margin-top: 20px">
+            <div class="lists" frag="面板9">
+                <div frag="窗口9">
+                    <div class="titlediv">
+                        <h3 class="post-title" frag="标题" title="师德建设">   <span>师德建设</span></h3>
+                        <div class="post-more" frag="按钮" type="更多"><a href="/2681/list.htm" class="w9_more"><span frag="按钮内容">MORE</span></a></div>
+                    </div>
+
+                    
+                        <ul>
+                            
+                            <li class="news-item"><a href="/2018/0724/c2681a103482/page.htm" target="_blank">高等学校预防与处理学术不端行为办法 教育部第4...</a></li>
+                            
+                            <li class="news-item"><a href="/2018/0724/c2681a103392/page.htm" target="_blank">教育部关于建立健全高校师德建设长效机制的意见...</a></li>
+                            
+                            <li class="news-item"><a href="/2018/0724/c2681a103129/page.htm" target="_blank">教育部关于全面落实研究生导师立德树人职责的意...</a></li>
+                            
+                            <li class="news-item"><a href="/2018/0724/c2681a103029/page.htm" target="_blank">教育部关于进一步加强和改进师德建设的意见</a></li>
+                            
+                            <li class="news-item"><a href="/2016/1117/c2681a89794/page.htm" target="_blank">关于进一步加强新进人员师德建设的通知</a></li>
+                            
+                        </ul>
+                    
+
+                </div>
+            </div>
+            <div class="lists" frag="面板10">
+                <div frag="窗口10">
+                    <div class="titlediv">
+                        <h3 class="post-title" frag="标题" title="师资建设">  <span>师资建设</span></h3>
+                        <div class="post-more" frag="按钮" type="更多"><a href="/2682/list.htm" class="w10_more"><span frag="按钮内容">MORE</span></a></div>
+                    </div>
+
+                    
+                        <ul>
+                            
+                            <li class="news-item"><a href="/2016/0113/c2682a102303/page.htm" target="_blank">南京信息工程大学教育管理、学生思想政治教育、...</a></li>
+                            
+                            <li class="news-item"><a href="/2015/0311/c2682a102306/page.htm" target="_blank">江苏省博士后管理工作实施办法</a></li>
+                            
+                            <li class="news-item"><a href="/2014/0617/c2682a102308/page.htm" target="_blank">南京信息工程大学人才启动经费管理办法</a></li>
+                            
+                            <li class="news-item"><a href="/2012/1218/c2682a102310/page.htm" target="_blank">南京信息工程大学教师高级职务资格评审条件</a></li>
+                            
+                            <li class="news-item"><a href="/2011/1123/c2682a102313/page.htm" target="_blank">在职攻读博士减免教学基本工作量及有关奖励政策...</a></li>
+                            
+                        </ul>
+                    
+
+                </div>
+            </div>
+            <div class="lists" style="margin-right: 0">
+                <div frag="面板11">
+                    <div frag="窗口11">
+                        <div class="titlediv">
+                            <h3 class="post-title" frag="标题" title="工资福利"> <span>工资福利</span></h3>
+                            <div class="post-more" frag="按钮" type="更多"><a href="/2683/list.htm" class="w11_more"><span frag="按钮内容">MORE</span></a></div>
+                        </div>
+
+                        
+                            <ul>
+                                
+                                <li class="news-item"><a href="/2018/0723/c2683a100257/page.htm" target="_blank">省财政厅关于印发江苏省省级机关事业单位工作人...</a></li>
+                                
+                                <li class="news-item"><a href="/2018/0723/c2683a100256/page.htm" target="_blank">省政府办公厅关于印发江苏省机关事业单位职业年...</a></li>
+                                
+                                <li class="news-item"><a href="/2018/0723/c2683a100255/page.htm" target="_blank">省财政厅关于贯彻落实《省政府关于机关事业单位...</a></li>
+                                
+                                <li class="news-item"><a href="/2018/0723/c2683a100254/page.htm" target="_blank">省政府关于机关事业单位工作人员养老保险制度改...</a></li>
+                                
+                                <li class="news-item"><a href="/2018/0807/c2683a108165/page.htm" target="_blank">人力资源社会保障部 财政部关于2018年调整退休...</a></li>
+                                
+                            </ul>
+                        
+                    </div>
+                </div>
+            </div>
+            <div class="clear"></div>
+        </div>
+        <div frag="面板12" class="image" style="margin-top: 20px">
+            <div frag="窗口12">
+                <div class="articlecontent ">
+    
+        
+            
+                <p><a href="https://rsc.nuist.edu.cn/2018/0120/c1165a89591/page.htm" target="_self" sudyfile-attr="{'title':'只支持选中一个链接时生效'}"><img data-layer="photo" src="/_upload/article/images/6f/69/38dbf20845a491aec53e83aee5fd/0a8a91ee-b995-4848-a367-5cf6027de693.png" style="float:none;" sudyfile-attr="{'title':'rencai.png'}"></a></p>
+            
+        
+    
+</div>
+            </div>
+        </div>
+        <div class="newsbot" style="margin-top: 20px">
+
+            <div class="lists" frag="面板13">
+                <div frag="窗口13">
+                    <div class="titlediv">
+                        <h3 class="post-title" frag="标题"><span>办事流程</span></h3>
+                        <div class="post-more" frag="按钮" type="更多"><a href="/1094/list.htm" class="w13_more"><span frag="按钮内容">MORE</span></a></div>
+                    </div>
+
+                    
+                        <ul>
+                            
+                            <li class="news-item"><a href="/_upload/article/files/bd/7b/d5f1052944e2b9108b456659d76a/809f1699-6dc6-408f-9fc5-f85f716ff093.doc" target="_blank">留学回国人员录用手续办理流程（南信大）</a></li>
+                            
+                            <li class="news-item"><a href="/_upload/article/files/f7/bc/46527e84490a90a27353e52f1e33/44d6fcd6-30ec-4012-9b45-761614211c26.doc" target="_blank">工作调动手续办理流程（南信大）</a></li>
+                            
+                            <li class="news-item"><a href="/_upload/article/files/c4/82/b86568a54dde843edd7ccc26ef64/4dc5392f-c8dd-462f-bd65-292f644ad3c0.doc" target="_blank">应届毕业生录用手续办理流程（南信大）</a></li>
+                            
+                            <li class="news-item"><a href="/2015/0527/c1094a89843/page.htm" target="_blank">引进人才预留安家费考核发放流程</a></li>
+                            
+                            <li class="news-item"><a href="/_upload/article/files/da/87/74a695524e208c9dc5182dbcb6f6/babcf49a-509f-4327-9981-d6a7c9075351.pdf" target="_blank">人事代理制人员录用手续办理流程</a></li>
+                            
+                        </ul>
+                    
+
+                </div>
+            </div>
+            <div class="lists" frag="面板14">
+                <div frag="窗口14">
+                    <div class="titlediv">
+                        <h3 class="post-title" frag="标题"><span>规章制度</span></h3>
+                        <div class="post-more" frag="按钮" type="更多"><a href="/1093/list.htm" class="w14_more"><span frag="按钮内容">MORE</span></a></div>
+                    </div>
+
+                    
+                        <ul>
+                            
+                            <li class="news-item"><a href="/2018/0911/c1093a115562/page.htm" target="_blank">南京信息工程大学劳务酬金发放管理暂行办法</a></li>
+                            
+                            <li class="news-item"><a href="/2018/0905/c1093a114913/page.htm" target="_blank">关于南京信息工程大学教师境外留学政策调整的通...</a></li>
+                            
+                            <li class="news-item"><a href="/_upload/article/files/ae/74/8201da6d4b50ab39e9f72fbe5810/4cb3d70f-411e-4a73-ab40-429425014d30.pdf" target="_blank">南京信息工程大学科研助理管理办法</a></li>
+                            
+                            <li class="news-item"><a href="/2016/0113/c1093a89805/page.htm" target="_blank">南京信息工程大学教育管理、学生思想政治教育、...</a></li>
+                            
+                            <li class="news-item"><a href="/2015/0603/c1093a89804/page.htm" target="_blank">事业单位人事管理条例</a></li>
+                            
+                        </ul>
+                    
+
+                </div>
+            </div>
+            <div class="lists" style="margin-right: 0">
+                <div frag="面板15">
+                    <div frag="窗口15">
+                        <div class="titlediv">
+                            <h3 class="post-title" frag="标题"><span>下载中心</span></h3>
+                            <div class="post-more" frag="按钮" type="更多"><a href="/1098/list.htm" class="w15_more"><span frag="按钮内容">MORE</span></a></div>
+                        </div>
+
+                        
+                            <ul>
+                                
+                                <li class="news-item"><span style="color: #005baa;float: none">【下载中心】</span><a href="/_upload/article/files/0d/69/e44e5e6f43b789a66bf7f122fe7a/64efd323-456d-4651-82d1-a1af36b30c7a.xls" target="_blank">江苏省事业单位公开招聘人员备案（审...</a></li>
+                                
+                                <li class="news-item"><span style="color: #005baa;float: none">【下载中心】</span><a href="/_upload/article/files/44/2c/7405bbf043f5886f5d817b50ff64/441fa136-62bc-423d-a9b4-46a0d0b2fc2a.doc" target="_blank">部省属事业单位接应届高校毕业生登记...</a></li>
+                                
+                                <li class="news-item"><span style="color: #005baa;float: none">【下载中心】</span><a href="/_upload/article/files/8e/ec/3e2775a94dc682a3c324940de2b5/ea1174d3-d0e2-4e89-be9f-53415fe36344.doc" target="_blank">南京信息工程大学处级女干部、女高职...</a></li>
+                                
+                                <li class="news-item"><span style="color: #005baa;float: none">【下载中心】</span><a href="/_upload/article/files/c1/2b/8ed65b7046c88d5a3ca26057ccea/0ff55de2-af0a-413b-a161-dc62041bc4ad.doc" target="_blank">南京信息工程大学人才引进公开招聘报...</a></li>
+                                
+                                <li class="news-item"><span style="color: #005baa;float: none">【下载中心】</span><a href="/_upload/article/files/f8/2b/cb5090424ec39d34021046bf3e50/037427ad-8bc5-43d3-8bec-aced39673189.doc" target="_blank">南京信息工程大学人才启动经费资助项...</a></li>
+                                
+                            </ul>
+                        
+                    </div>
+                </div>
+            </div>
+            <div class="clear"></div>
+        </div>
+    </div>
+</div>
+<div class="friends" frag="面板16">
+    <div class="link" frag="窗口16">
+        
+            
+            <a class="linka1" href="http://www.mohrss.gov.cn/">
+                <img src="/_upload/article/images/8c/ff/3ef996b84eab9b266e24ec2ffc55/4f4c2122-978d-4c4b-8d50-2827b8ca7d6f.png" alt="">
+            </a>
+            
+            <a class="linka2" href="http://www.moe.edu.cn/">
+                <img src="/_upload/article/images/aa/92/74c9943d473d9bb8f7fcd158710c/2744bfa6-de74-4802-bd80-3c726ec60e47.png" alt="">
+            </a>
+            
+            <a class="linka3" href="http://www.jshrss.gov.cn/">
+                <img src="/_upload/article/images/eb/ad/a08f95374923aa93c204d5eaa4e9/dbf769d0-4bf0-4a67-9a1e-40fbe4dd71fe.png" alt="">
+            </a>
+            
+            <a class="linka4" href="http://www.ec.js.edu.cn/">
+                <img src="/_upload/article/images/82/30/6e34ced94502aa2bff050974867a/db67eb4c-828a-4148-a284-4fa0e8254713.png" alt="">
+            </a>
+            
+            <a class="linka5" href="http://www.1000plan.org/">
+                <img src="/_upload/article/images/96/33/96f1c7694ee29cb0896726c47c69/e32deaf6-0bf0-45a5-812e-d7cb3257bdee.png" alt="">
+            </a>
+            
+            <a class="linka6" href="http://www.jsrcgz.gov.cn/">
+                <img src="/_upload/article/images/ef/db/4ba5dadb4464a9f31a9950aae1f8/b1b9f223-5483-4153-b2ab-b462177ecf3f.png" alt="">
+            </a>
+            
+        
+        <div class="clear"></div>
+    </div>
+</div>
+<div id="footer">
+    <div class="footer">
+           <p><span frag="面板101"><span frag="窗口101" portletmode="simpleSiteAttri">Copyright © 南京信息工程大学人事处 All Rights Reserved.</span></span></p>
+            <p> 访问总量： <span frag="面板102"><span frag="窗口102" portletmode="simpleSiteAttri"><span class="WP_VisitCount" url="/_visitcountdisplay?siteId=28&amp;type=1&amp;dispMode=8&amp;statMode=1&amp;showDate=1">81682018年08月01日</span></span></span>  l  今日访问：<span frag="面板103"><span frag="窗口103" portletmode="simpleSiteAttri"><span class="WP_VisitCount" url="/_visitcountdisplay?siteId=28&amp;type=1&amp;dispMode=8&amp;statMode=4&amp;showDate=1">81682018年08月01日</span></span></span>  l  本月访问：<span frag="面板104"><span frag="窗口104" portletmode="simpleSiteAttri"><span class="WP_VisitCount" url="/_visitcountdisplay?siteId=28&amp;type=1&amp;dispMode=8&amp;statMode=1&amp;showDate=1">81682018年08月01日</span></span></span></p>
+    </div>
+</div>
+</body>
+</html>

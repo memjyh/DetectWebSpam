@@ -182,16 +182,16 @@ def Judge(addr,worddict,html,ORValueFilePath,nb_clf,KeyList,AllkeyValueDict):
 
 if __name__ == '__main__':
 
-    HtmlDataPath ="../Result/data"  #检测的网页在的路径
-    SpamPath = "../Result/spam"  #spam被分到的路径
-    NonSpamPath ="../Result/nonspam"  #nonspam被分到的路径
+    HtmlDataPath ="../WebspamDetect/Result/data"  #检测的网页在的路径
+    SpamPath = "../WebspamDetect/Result/spam"  #spam被分到的路径
+    NonSpamPath ="../WebspamDetect/Result/nonspam"  #nonspam被分到的路径
     HtmlFiles = os.listdir(HtmlDataPath)
-    KeyEnumFilePath = "../DetectModel/Key.txt"  # html标签文件
-    ORValueFilePath = "../DetectModel/AssetValuemy/TextAB+1ORValueWithoutLog.txt"  # 优势模型
-    NewORValueFilePath = "../DetectModel/AssetValuemy/TextAB+1ORValueWithoutLogV10.txt"  # 新优势模型
-    ModelFilePath = "../DetectModel/modelmy/nb_train_model_without_text_with_text.m"  # nb模型
-    NewModelFilePath = "../DetectModel/modelmy/nb_train_model_without_text_with_text_v10.m"  # 新nb模型
-    AttributesDirectoryPath = "../DetectModel/Attributes"  # 属性文件
+    KeyEnumFilePath = "../WebspamDetect/DetectModel/Key.txt"  # html标签文件
+    ORValueFilePath = "../WebspamDetect/DetectModel/AssetValuemy/TextAB+1ORValueWithoutLog.txt"  # 优势模型
+    NewORValueFilePath = "../WebspamDetect/DetectModel/AssetValuemy/TextAB+1ORValueWithoutLogV10.txt"  # 新优势模型
+    ModelFilePath = "../WebspamDetect/DetectModel/modelmy/nb_train_model_without_text_with_text.m"  # nb模型
+    NewModelFilePath = "../WebspamDetect/DetectModel/modelmy/nb_train_model_without_text_with_text_v10.m"  # 新nb模型
+    AttributesDirectoryPath = "../WebspamDetect/DetectModel/Attributes"  # 属性文件
     #errordatapath = "/Volumes/E/ExperimentSample/errordata" #错误文件
     KeyList, AllkeyValueDict = AAG.init(KeyEnumFilePath, AttributesDirectoryPath)
     worddict = {}
@@ -261,7 +261,7 @@ if __name__ == '__main__':
 
     spams=os.listdir(SpamPath)
 
-    csvFile = open('../Result/spams.csv', 'w') #存储结果的csv文件
+    csvFile = open('../WebspamDetect/Result/spams.csv', 'w') #存储结果的csv文件
     writer = csv.writer(csvFile)
     writer.writerow(["host","url"])
     for host in spams:

@@ -1,0 +1,18 @@
+https://gt.duowan.com/api/g?loc=tukubeijing
+<html><body><p>(function () {
+
+    if (document.market_loadids == null) {
+        document.market_loadids = "";
+    }
+    var ads = [
+        { type: "IMAGE", width: "1920", height: "1024", url: "http://ya3.dwstatic.com/201811/22/22a9640bdfafcd8fe3f151c3cadcd0ec.jpg", adLink: "http://hdzt.duowan.com/s/dwxyx/", adid: "36561", rsid: "tukubeijing" }
+    ];
+    var _index = 0;
+    if (ads[_index].type == "IMAGE") {
+        var jscontent = '</p><center style="height:100%"><a adid="' + ads[_index].adid + '" rsid="' + ads[_index].rsid + '" href="'%20+%20ads%5B_index%5D.adLink;%0D%0A%20%20%20%20%20%20%20%20if%20(ads%5B_index%5D.adLink.indexOf('lolbox://')%20&gt;%20-1)%20%7B%0D%0A%20%20%20%20%20%20%20%20%20%20%20%20jscontent%20+=%20'" target="_self" else jscontent style="display:block;position:relative;width:100%;height:100%"></a></center>';
+        document.write(jscontent);
+        
+        document.getElementById('tuCebian').style.background = 'url('+ads[_index].url+') no-repeat center top';
+    } 
+    document.market_loadids += ads[_index].adid + ",";
+}());</body></html>

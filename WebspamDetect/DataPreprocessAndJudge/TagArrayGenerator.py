@@ -10,7 +10,7 @@ sys.path.insert(0,parentdir)
 sys.path.insert(0,parentdir+"/Common")
 
 def Generate(tagtree):
-    TagEnumFilePath = "../DetectModel/Tag.txt"
+    TagEnumFilePath = "../WebspamDetect/DetectModel/Tag.txt"
     TagList = []
     fo = open(TagEnumFilePath, "r")
     while 1:

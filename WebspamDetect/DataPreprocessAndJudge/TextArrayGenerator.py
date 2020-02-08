@@ -14,7 +14,7 @@ import jieba.analyse
 import TextAnalysis as TA
 
 def SepWord(sentence):
-    jieba.analyse.set_stop_words('../DetectModel/stopwords.txt')
+    jieba.analyse.set_stop_words('../WebspamDetect/DetectModel/stopwords.txt')
     return jieba.analyse.extract_tags(sentence, topK = 99999, withWeight = False, allowPOS = ())
 
 def Generate(text,worddict,wordlist):

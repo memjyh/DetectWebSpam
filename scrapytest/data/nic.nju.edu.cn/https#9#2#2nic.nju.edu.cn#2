@@ -1,0 +1,653 @@
+https://nic.nju.edu.cn/
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<title>网络信息中心</title>
+
+<link type="text/css" href="/_css/_system/system.css" rel="stylesheet">
+<link type="text/css" href="/_upload/site/1/style/49/49.css" rel="stylesheet">
+<link type="text/css" href="/_upload/site/01/2e/302/style/194/194.css" rel="stylesheet">
+       <link href="/_css/tpl2/system.css" type="text/css" rel="stylesheet"> 
+       <link href="/_css/tpl2/default/default.css" type="text/css" rel="stylesheet"> 
+<link type="text/css" href="/_js/_portletPlugs/simpleNews/css/simplenews.css" rel="stylesheet">
+<link type="text/css" href="/_js/_portletPlugs/sudyNavi/css/sudyNav.css" rel="stylesheet">
+<link type="text/css" href="/_js/_portletPlugs/datepicker/css/datepicker.css" rel="stylesheet">
+
+<script language="javascript" src="/_js/jquery.min.js" sudy-wp-context="" sudy-wp-siteid="302"></script>
+<script language="javascript" src="/_js/jquery.sudy.wp.visitcount.js"></script>
+<script type="text/javascript" src="/_js/_portletPlugs/winfloat/js/winfloat.js"></script>
+<script type="text/javascript" src="/_js/_portletPlugs/sudyNavi/jquery.sudyNav.js"></script>
+<script type="text/javascript" src="/_js/_portletPlugs/datepicker/js/jquery.datepicker.js"></script>
+<script type="text/javascript" src="/_js/_portletPlugs/datepicker/js/datepicker_lang_HK.js"></script>
+<link rel="stylesheet" href="/_upload/tpl/02/78/632/template632/style.css" type="text/css" media="all">
+<link rel="stylesheet" href="/_upload/tpl/02/78/632/template632/extends/extends.css" type="text/css" media="all">
+<script src="/_upload/tpl/02/78/632/template632/extends/extends.js" type="text/javascript"></script>
+</head>
+
+<body>
+<div class="wrapper" id="header">
+  <div class="inner">
+    <div class="head">
+      <div class="sear" frag="面板1">
+        <div class="sears" frag="窗口1">
+          <form method="POST" action="/_web/search/doSearch.do?locale=zh_CN&amp;request_locale=zh_CN&amp;_p=YXM9MzAyJnQ9NjMyJmQ9MzIzOCZwPTEmbT1TTiY_" target="_blank" onsubmit="if ($('#keyword').val() === '请输入关键字') { $('#keyword').val(''); }">
+    <div class="wp_search">
+        <table>
+            <tr>
+                <td height="25px">
+                    <input id="keyword" name="keyword" style="width: 150px" class="keyword" type="text" value="请输入关键字" onfocus="if (this.value === '请输入关键字') { this.value = ''; }" onblur="if (this.value === '') { this.value = '请输入关键字'; }">
+                </td>
+                <td>
+                    <input name="btnsearch" class="search" type="submit" value="">
+                </td>
+            </tr>
+        </table>
+    </div>
+</form>
+        </div>
+      </div>
+    </div>
+    <div class="navbar" frag="面板2">
+      <div class="navbox" frag="窗口2">
+        <div id="wp_nav_w2"> 
+
+ 
+<ul class="wp_nav" data-nav-config="{drop_v: 'down', drop_w: 'right', dir: 'y', opacity_main: '-1', opacity_sub: '-1', dWidth: '0'}">
+      
+     <li class="nav-item i1 "> 
+         <a href="http://nic.nju.edu.cn/main.htm" title="首页" target="_self"><span class="item-name">首页</span></a><i class="mark"></i> 
+          
+     </li> 
+      
+     <li class="nav-item i2 "> 
+         <a href="/8907/list.htm" title="各类服务" target="_self"><span class="item-name">各类服务</span></a><i class="mark"></i> 
+          
+         <ul class="sub-nav"> 
+              
+             <li class="nav-item i2-1 "> 
+                 <a href="/8925/list.htm" title="网络服务" target="_self"><span class="item-name">网络服务</span></a><i class="mark"></i> 
+                  
+             </li> 
+              
+             <li class="nav-item i2-2 "> 
+                 <a href="/yjfw/list.htm" title="邮件服务" target="_self"><span class="item-name">邮件服务</span></a><i class="mark"></i> 
+                  
+             </li> 
+              
+             <li class="nav-item i2-3 "> 
+                 <a href="/8926/list.htm" title="校园卡服务" target="_self"><span class="item-name">校园卡服务</span></a><i class="mark"></i> 
+                  
+             </li> 
+              
+         </ul> 
+          
+     </li> 
+      
+     <li class="nav-item i3 "> 
+         <a href="http://nic.nju.edu.cn/12968/list.htm" title="信息安全" target="_self"><span class="item-name">信息安全</span></a><i class="mark"></i> 
+          
+         <ul class="sub-nav"> 
+              
+             <li class="nav-item i3-1 "> 
+                 <a href="/2018ngjwlaqxcz/list.htm" title="2018年国家网络安全宣传周" target="_self"><span class="item-name">2018年国家网络安全宣...</span></a><i class="mark"></i> 
+                  
+         <ul class="sub-nav"> 
+              
+             <li class="nav-item i3-1-1 "> 
+                 <a href="/17051/list.htm" title="相关活动" target="_self"><span class="item-name">相关活动</span></a><i class="mark"></i> 
+                  
+             </li> 
+              
+             <li class="nav-item i3-1-2 "> 
+                 <a href="/17050/list.htm" title="安全知识" target="_self"><span class="item-name">安全知识</span></a><i class="mark"></i> 
+                  
+             </li> 
+              
+             <li class="nav-item i3-1-3 "> 
+                 <a href="/17049/list.htm" title="安全动态" target="_self"><span class="item-name">安全动态</span></a><i class="mark"></i> 
+                  
+             </li> 
+              
+         </ul> 
+          
+             </li> 
+              
+             <li class="nav-item i3-2 "> 
+                 <a href="/12968/list.htm" title="规章制度" target="_self"><span class="item-name">规章制度</span></a><i class="mark"></i> 
+                  
+             </li> 
+              
+             <li class="nav-item i3-3 "> 
+                 <a href="/12969/list.htm" title="安全服务" target="_self"><span class="item-name">安全服务</span></a><i class="mark"></i> 
+                  
+             </li> 
+              
+             <li class="nav-item i3-4 "> 
+                 <a href="/12970/list.htm" title="安全资讯" target="_self"><span class="item-name">安全资讯</span></a><i class="mark"></i> 
+                  
+             </li> 
+              
+         </ul> 
+          
+     </li> 
+      
+     <li class="nav-item i4 "> 
+         <a href="http://nic.nju.edu.cn/12537/list.htm" title="相关帮助" target="_self"><span class="item-name">相关帮助</span></a><i class="mark"></i> 
+          
+         <ul class="sub-nav"> 
+              
+             <li class="nav-item i4-1 "> 
+                 <a href="/12537/list.htm" title="网络帮助" target="_self"><span class="item-name">网络帮助</span></a><i class="mark"></i> 
+                  
+             </li> 
+              
+             <li class="nav-item i4-2 "> 
+                 <a href="/12538/list.htm" title="信息系统帮助" target="_self"><span class="item-name">信息系统帮助</span></a><i class="mark"></i> 
+                  
+             </li> 
+              
+             <li class="nav-item i4-3 "> 
+                 <a href="/12539/list.htm" title="校园卡帮助" target="_self"><span class="item-name">校园卡帮助</span></a><i class="mark"></i> 
+                  
+             </li> 
+              
+         </ul> 
+          
+     </li> 
+      
+     <li class="nav-item i5 "> 
+         <a href="/8910/list.htm" title="信息公开" target="_self"><span class="item-name">信息公开</span></a><i class="mark"></i> 
+          
+     </li> 
+      
+     <li class="nav-item i6 "> 
+         <a href="/8911/list.htm" title="数据平台" target="_self"><span class="item-name">数据平台</span></a><i class="mark"></i> 
+          
+     </li> 
+      
+     <li class="nav-item i7 "> 
+         <a href="/8912/list.htm" title="制度建设" target="_self"><span class="item-name">制度建设</span></a><i class="mark"></i> 
+          
+     </li> 
+      
+     <li class="nav-item i8 "> 
+         <a href="http://nic.nju.edu.cn/12540/list.htm" title="下载专区" target="_self"><span class="item-name">下载专区</span></a><i class="mark"></i> 
+          
+         <ul class="sub-nav"> 
+              
+             <li class="nav-item i8-1 "> 
+                 <a href="/12540/list.htm" title="网络下载" target="_self"><span class="item-name">网络下载</span></a><i class="mark"></i> 
+                  
+             </li> 
+              
+             <li class="nav-item i8-2 "> 
+                 <a href="/12541/list.htm" title="信息系统下载" target="_self"><span class="item-name">信息系统下载</span></a><i class="mark"></i> 
+                  
+             </li> 
+              
+             <li class="nav-item i8-3 "> 
+                 <a href="/12542/list.htm" title="校园卡下载" target="_self"><span class="item-name">校园卡下载</span></a><i class="mark"></i> 
+                  
+             </li> 
+              
+         </ul> 
+          
+     </li> 
+      
+</ul> 
+ 
+ 
+ </div>
+      </div>
+    </div>
+  </div>
+</div>
+<div class="wrapper" id="container">
+  <div class="inner">
+    <div class="mod mod1">
+      <div class="ml" frag="面板3">
+        <div class="post post-3 mbox" frag="窗口3">
+          <div class="tt">
+            <h3 class="tit"><span class="title">自助服务</span></h3>
+          </div>
+          <div class="con">
+             
+              
+              <ul class="wp-menu clearfix">
+                
+                <li class="menu-item i1"><a class="menu-link" href="/9592/list.htm" target="_self">教师服务</a> 
+                  
+                  <ul class="sub-menu clearfix">
+                    
+                    <li class="sub-item i1-1"><a class="sub-link" href="/9003/list.htm" target="_self">网络账号</a> 
+                       
+                    </li>
+                    
+                    <li class="sub-item i1-2"><a class="sub-link" href="/9004/list.htm" target="_self">无线网络</a> 
+                       
+                    </li>
+                    
+                    <li class="sub-item i1-3"><a class="sub-link" href="/9005/list.htm" target="_self">校园卡自助服务</a> 
+                       
+                    </li>
+                    
+                    <li class="sub-item i1-4"><a class="sub-link" href="/9006/list.htm" target="_self">电子邮件</a> 
+                       
+                    </li>
+                    
+                    <li class="sub-item i1-5"><a class="sub-link" href="/9007/list.htm" target="_self">微软正版软件</a> 
+                       
+                    </li>
+                    
+                    <li class="sub-item i1-6"><a class="sub-link" href="/9008/list.htm" target="_self">南京大学APP</a> 
+                       
+                    </li>
+                    
+                    <li class="sub-item i1-7"><a class="sub-link" href="/9136/list.htm" target="_self">固定IP</a> 
+                       
+                    </li>
+                    
+                    <li class="sub-item i1-8"><a class="sub-link" href="/9137/list.htm" target="_self">南大域名</a> 
+                       
+                    </li>
+                    
+                    <li class="sub-item i1-9"><a class="sub-link" href="/9138/list.htm" target="_self">服务器托管</a> 
+                       
+                    </li>
+                    
+                    <li class="sub-item i1-10"><a class="sub-link" href="http://nic.nju.edu.cn/9021/list.htm" target="_self">统一身份认证</a> 
+                       
+                    </li>
+                    
+                    <li class="sub-item i1-11"><a class="sub-link" href="/9140/list.htm" target="_self">校园卡服务</a> 
+                       
+                    </li>
+                    
+                    <li class="sub-item i1-12"><a class="sub-link" href="/9141/list.htm" target="_self">网络电视</a> 
+                       
+                    </li>
+                    
+                    <li class="sub-item i1-13"><a class="sub-link" href="/9142/list.htm" target="_self">时钟同步</a> 
+                       
+                    </li>
+                    
+                    <li class="sub-item i1-14"><a class="sub-link" href="/wwbgxt/list.htm" target="_self">OA办公系统</a> 
+                       
+                    </li>
+                    
+                  </ul>
+                   
+                </li>
+                
+                <li class="menu-item i2"><a class="menu-link" href="/8996/list.htm" target="_self">学生服务</a> 
+                  
+                  <ul class="sub-menu clearfix">
+                    
+                    <li class="sub-item i2-1"><a class="sub-link" href="/9009/list.htm" target="_self">网络账号</a> 
+                       
+                    </li>
+                    
+                    <li class="sub-item i2-2"><a class="sub-link" href="/9010/list.htm" target="_self">无线网络</a> 
+                       
+                    </li>
+                    
+                    <li class="sub-item i2-3"><a class="sub-link" href="/9011/list.htm" target="_self">校园卡自助服务</a> 
+                       
+                    </li>
+                    
+                    <li class="sub-item i2-4"><a class="sub-link" href="/9012/list.htm" target="_self">电子邮件</a> 
+                       
+                    </li>
+                    
+                    <li class="sub-item i2-5"><a class="sub-link" href="/9013/list.htm" target="_self">微软正版软件</a> 
+                       
+                    </li>
+                    
+                    <li class="sub-item i2-6"><a class="sub-link" href="/9014/list.htm" target="_self">南京大学APP</a> 
+                       
+                    </li>
+                    
+                    <li class="sub-item i2-7"><a class="sub-link" href="/9145/list.htm" target="_self">统一身份认证</a> 
+                       
+                    </li>
+                    
+                    <li class="sub-item i2-8"><a class="sub-link" href="/9146/list.htm" target="_self">校园卡服务</a> 
+                       
+                    </li>
+                    
+                    <li class="sub-item i2-9"><a class="sub-link" href="/9147/list.htm" target="_self">网络电视</a> 
+                       
+                    </li>
+                    
+                    <li class="sub-item i2-10"><a class="sub-link" href="/9148/list.htm" target="_self">时钟同步</a> 
+                       
+                    </li>
+                    
+                  </ul>
+                   
+                </li>
+                
+                <li class="menu-item i3"><a class="menu-link" href="/8998/list.htm" target="_self">管理员服务</a> 
+                  
+                  <ul class="sub-menu clearfix">
+                    
+                    <li class="sub-item i3-1"><a class="sub-link" href="/9018/list.htm" target="_self">会议签到</a> 
+                       
+                    </li>
+                    
+                    <li class="sub-item i3-2"><a class="sub-link" href="/9019/list.htm" target="_self">网站群加入</a> 
+                       
+                    </li>
+                    
+                    <li class="sub-item i3-3"><a class="sub-link" href="/9020/list.htm" target="_self">服务器托管</a> 
+                       
+                    </li>
+                    
+                    <li class="sub-item i3-4"><a class="sub-link" href="/9021/list.htm" target="_self">统一身份认证接入</a> 
+                       
+                    </li>
+                    
+                    <li class="sub-item i3-5"><a class="sub-link" href="/gdww/list.htm" target="_self">固定IP</a> 
+                       
+                    </li>
+                    
+                    <li class="sub-item i3-6"><a class="sub-link" href="/ndym/list.htm" target="_self">南大域名</a> 
+                       
+                    </li>
+                    
+                  </ul>
+                   
+                </li>
+                
+                <li class="menu-item i4"><a class="menu-link" href="/8997/list.htm" target="_self">访客服务</a> 
+                  
+                  <ul class="sub-menu clearfix">
+                    
+                    <li class="sub-item i4-1"><a class="sub-link" href="/9016/list.htm" target="_self">网络电视</a> 
+                       
+                    </li>
+                    
+                    <li class="sub-item i4-2"><a class="sub-link" href="/9017/list.htm" target="_self">时钟同步</a> 
+                       
+                    </li>
+                    
+                  </ul>
+                   
+                </li>
+                
+              </ul>
+               
+            
+          </div>
+        </div>
+        <div class="post post-30 mbox" frag="窗口30">
+          <div class="con">
+            <div class="articlecontent ">
+    
+        
+            
+                <div class="icon_l_t"><table bordercolor="#dde3ec" border="1"><tbody><tr height="56"><td width="164" class="a1" style="-ms-word-break:break-all;"><a href="/9003/list.htm" target="_self" textvalue="网络账号" sudyfile-attr="{'title':'网络账号'}">网络账号</a></td><td width="164" class="a2" style="-ms-word-break:break-all;"><a href="/9004/list.htm" target="_self" textvalue="无线网络" sudyfile-attr="{'title':'无线网络'}">无线网络</a></td><td width="164" class="a3"><a href="https://nic.nju.edu.cn/wwbgxt/list.htm" target="_blank" sudyfile-attr="{'title':'OA系统'}">OA系统</a></td><td width="164" class="a4"><a href="/9006/list.htm" target="_self" textvalue="电子邮件" sudyfile-attr="{'title':'电子邮件'}">电子邮件</a></td></tr><tr height="56"><td width="164" class="a5"><a href="/9140/list.htm" target="_self" textvalue="校园卡服务" sudyfile-attr="{'title':'校园卡服务'}">校园卡服务</a></td><td width="164" class="a6" style="-ms-word-break:break-all;"><a href="/9138/list.htm" target="_self" textvalue="服务器托管" sudyfile-attr="{'title':'服务器托管'}">服务器托管</a></td><td width="164" class="a7" style="-ms-word-break:break-all;"><a href="/9007/list.htm" target="_self" textvalue="正版软件" sudyfile-attr="{'title':'正版软件'}">正版软件</a></td><td width="164" class="a8"><a href="http://mm.nju.edu.cn/" target="_blank">南京大学APP</a></td></tr></tbody></table></div>
+            
+        
+    
+</div>
+          </div>
+        </div>
+      </div>
+      <div class="mll" frag="面板5">
+        <div class="post post-5 mbox" frag="窗口5">
+          <div class="tt" style="background: none;border-bottom: 1px solid #dde3ec;">
+            <h3 class="tit" style="color: #1e1e1e;border-bottom: 4px solid #2e6efe;"><span class="title" frag="标题" style="padding-left: 0;height: 41px;line-height: 41px;">最新消息</span></h3>
+            <div class="more_btn" frag="按钮" type="更多"><a href="/zxxx/list.htm" class="w5_more"><span class="more_text" frag="按钮内容">More</span></a></div>
+          </div>
+          <div class="con" style="padding: 15px 0;">
+            <div id="wp_news_w5"> 
+ 
+<ul class="wp_article_list"> 
+      
+     <li class="list_item i1"> 
+         <div class="fields pr_fields"> 
+             <span class="Article_Index">1</span> 
+             <span class="Article_Title"><a href="/42/5c/c8919a279132/page.htm" target="_blank" title="网络信息中心2018年暑假值班安排">网络信息中心2018年暑假值班安排</a></span> 
+         </div> 
+         <div class="fields ex_fields"> 
+              
+             <span class="Article_PublishDate">2018-07-13</span> 
+              
+         </div> 
+     </li> 
+      
+     <li class="list_item i2"> 
+         <div class="fields pr_fields"> 
+             <span class="Article_Index">2</span> 
+             <span class="Article_Title"><a href="/3d/36/c8919a277814/page.htm" target="_blank" title="上海市教育城域网建设小组、上海交通大学来我校调研交流">上海市教育城域网建设小组、上海交通大学来我校调研交...</a></span> 
+         </div> 
+         <div class="fields ex_fields"> 
+              
+             <span class="Article_PublishDate">2018-07-06</span> 
+              
+         </div> 
+     </li> 
+      
+     <li class="list_item i3"> 
+         <div class="fields pr_fields"> 
+             <span class="Article_Index">3</span> 
+             <span class="Article_Title"><a href="/29/9b/c8919a272795/page.htm" target="_blank" title="南京大学APP新增功能通知">南京大学APP新增功能通知</a></span> 
+         </div> 
+         <div class="fields ex_fields"> 
+              
+             <span class="Article_PublishDate">2018-06-05</span> 
+              
+         </div> 
+     </li> 
+      
+     <li class="list_item i4"> 
+         <div class="fields pr_fields"> 
+             <span class="Article_Index">4</span> 
+             <span class="Article_Title"><a href="/d1/41/c8919a250177/page.htm" target="_blank" title="中国矿业大学来我校调研交流">中国矿业大学来我校调研交流</a></span> 
+         </div> 
+         <div class="fields ex_fields"> 
+              
+             <span class="Article_PublishDate">2018-03-30</span> 
+              
+         </div> 
+     </li> 
+      
+     <li class="list_item i5"> 
+         <div class="fields pr_fields"> 
+             <span class="Article_Index">5</span> 
+             <span class="Article_Title"><a href="/86/5b/c8919a231003/page.htm" target="_blank" title="网络信息中心接待软件学院同学参观交流">网络信息中心接待软件学院同学参观交流</a></span> 
+         </div> 
+         <div class="fields ex_fields"> 
+              
+             <span class="Article_PublishDate">2017-12-08</span> 
+              
+         </div> 
+     </li> 
+      
+     <li class="list_item i6"> 
+         <div class="fields pr_fields"> 
+             <span class="Article_Index">6</span> 
+             <span class="Article_Title"><a href="/7b/5c/c8919a228188/page.htm" target="_blank" title="网络信息中心接待商学院师生">网络信息中心接待商学院师生</a></span> 
+         </div> 
+         <div class="fields ex_fields"> 
+              
+             <span class="Article_PublishDate">2017-11-17</span> 
+              
+         </div> 
+     </li> 
+      
+     <li class="list_item i7"> 
+         <div class="fields pr_fields"> 
+             <span class="Article_Index">7</span> 
+             <span class="Article_Title"><a href="/4e/91/c8919a216721/page.htm" target="_blank" title="关于校园网 DNS 服务 IP 变更的通知  ">关于校园网 DNS 服务 IP 变更的通知  </a></span> 
+         </div> 
+         <div class="fields ex_fields"> 
+              
+             <span class="Article_PublishDate">2017-09-21</span> 
+              
+         </div> 
+     </li> 
+      
+</ul> 
+</div> 
+
+          </div>
+        </div><div frag="窗口7"> 
+     <!-- No Data --> 
+</div>
+      </div>
+    </div>
+    <div class="mod mod2">
+      <div class="mc" frag="面板4">
+        <div class="post post-4 mbox" frag="窗口4">
+          <div class="tt" style="background:#75ae8f;">
+            <h3 class="tit"><span class="title">非自助服务</span></h3>
+          </div>
+          <div class="con">
+             
+              
+              <ul class="wp-menu clearfix">
+                
+                <li class="menu-item i1"><a class="menu-link" href="/8999/list.htm" target="_self">教师服务</a> 
+                  
+                  <ul class="sub-menu clearfix">
+                    
+                    <li class="sub-item i1-1"><a class="sub-link" href="/9022/list.htm" target="_self">网络转帐费充值申请</a> 
+                       
+                    </li>
+                    
+                    <li class="sub-item i1-2"><a class="sub-link" href="/9023/list.htm" target="_self">邮箱相关业务申请</a> 
+                       
+                    </li>
+                    
+                    <li class="sub-item i1-3"><a class="sub-link" href="/9695/list.htm" target="_self">固定IP地址申请</a> 
+                       
+                    </li>
+                    
+                    <li class="sub-item i1-4"><a class="sub-link" href="/9696/list.htm" target="_self">服务器托管申请</a> 
+                       
+                    </li>
+                    
+                  </ul>
+                   
+                </li>
+                
+                <li class="menu-item i2"><a class="menu-link" href="/9000/list.htm" target="_self">教师代办服务</a> 
+                  
+                  <ul class="sub-menu clearfix">
+                    
+                    <li class="sub-item i2-1"><a class="sub-link" href="/9697/list.htm" target="_self">临时网络帐号申请</a> 
+                       
+                    </li>
+                    
+                    <li class="sub-item i2-2"><a class="sub-link" href="/9698/list.htm" target="_self">临时网络帐号延期申请</a> 
+                       
+                    </li>
+                    
+                    <li class="sub-item i2-3"><a class="sub-link" href="/9026/list.htm" target="_self">临时校园卡申请</a> 
+                       
+                    </li>
+                    
+                    <li class="sub-item i2-4"><a class="sub-link" href="/9027/list.htm" target="_self">临时校园卡延期申请</a> 
+                       
+                    </li>
+                    
+                  </ul>
+                   
+                </li>
+                
+                <li class="menu-item i3"><a class="menu-link" href="/9002/list.htm" target="_self">部门服务</a> 
+                  
+                  <ul class="sub-menu clearfix">
+                    
+                    <li class="sub-item i3-1"><a class="sub-link" href="/9032/list.htm" target="_self">会议签到</a> 
+                       
+                    </li>
+                    
+                    <li class="sub-item i3-2"><a class="sub-link" href="/9033/list.htm" target="_self">统一身份认证接入</a> 
+                       
+                    </li>
+                    
+                    <li class="sub-item i3-3"><a class="sub-link" href="/9034/list.htm" target="_self">网站群迁移</a> 
+                       
+                    </li>
+                    
+                    <li class="sub-item i3-4"><a class="sub-link" href="/9035/list.htm" target="_self">服务器托管</a> 
+                       
+                    </li>
+                    
+                  </ul>
+                   
+                </li>
+                
+              </ul>
+               
+            
+          </div>
+        </div>
+      </div>
+      <div class="mr"><img src="/_upload/tpl/02/78/632/template632/images/tel.jpg"></div>
+      <div class="mr">
+        <iframe width="376" height="162" name="main" scrolling="no" src="/_upload/tpl/02/78/632/template632/Map.html" style="border: 1px solid #dde3ec;"></iframe>
+      </div>
+      <div class="clear"></div>
+    </div>
+    <div class="clear"></div>
+  </div>
+</div>
+<div class="wrapper" id="footer">
+  <div class="inner">
+    <div class="foot clearfix">
+      <div class="foot_l">
+        <div class="foot_links" frag="面板0">
+          <div class="linksbox" frag="窗口0">
+            <div id="wp_nav_w0"> 
+
+ 
+<ul class="wp_nav" data-nav-config="{drop_v: 'down', drop_w: 'right', dir: 'y', opacity_main: '-1', opacity_sub: '-1', dWidth: '0'}">
+      
+     <li class="nav-item i1 "> 
+         <a href="https://oa.nju.edu.cn" title="OA系统" target="_blank"><span class="item-name">OA系统</span></a><i class="mark"></i> 
+          
+     </li> 
+      
+     <li class="nav-item i2 "> 
+         <a href="https://www.nju.edu.cn/" title="南大主页" target="_blank"><span class="item-name">南大主页</span></a><i class="mark"></i> 
+          
+     </li> 
+      
+     <li class="nav-item i3 "> 
+         <a href="https://oa.nju.edu.cn/ecard/" title="校园卡自助平台" target="_blank"><span class="item-name">校园卡自助平台</span></a><i class="mark"></i> 
+          
+     </li> 
+      
+     <li class="nav-item i4 "> 
+         <a href="https://oi.nju.edu.cn/" title="信息化建设与管理办公室" target="_blank"><span class="item-name">信息化建设与管理办公室</span></a><i class="mark"></i> 
+          
+     </li> 
+      
+     <li class="nav-item i5 "> 
+         <a href="http://p.nju.edu.cn" title="网络接入认证系统" target="_blank"><span class="item-name">网络接入认证系统</span></a><i class="mark"></i> 
+          
+     </li> 
+      
+     <li class="nav-item i6 "> 
+         <a href="http://bbs.nju.edu.cn/" title="小百合BBS" target="_blank"><span class="item-name">小百合BBS</span></a><i class="mark"></i> 
+          
+     </li> 
+      
+</ul> 
+ 
+ 
+ </div>
+          </div>
+        </div>
+        <div class="foot_copy">Copyright <span style="font-family:Arial;">©</span> 南京大学网络信息中心 版权所有 2008 | 苏ICP备10085945-1号  Email:nic@nju.edu.cn </div>
+      </div>
+      <div class="foot_r">TEL:025-89683791</div>
+    </div>
+  </div>
+</div>
+</body>
+</html>

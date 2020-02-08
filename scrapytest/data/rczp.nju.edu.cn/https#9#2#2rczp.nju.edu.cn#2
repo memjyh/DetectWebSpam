@@ -1,0 +1,485 @@
+https://rczp.nju.edu.cn/
+<html>
+<head>
+<meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="edge">
+    <title>南京大学人才招聘网</title>
+<link type="text/css" href="/_css/_system/system.css" rel="stylesheet">
+<link type="text/css" href="/_upload/site/1/style/49/49.css" rel="stylesheet">
+<link type="text/css" href="/_upload/site/01/6c/364/style/259/259.css" rel="stylesheet">
+       <link href="/_css/tpl2/system.css" type="text/css" rel="stylesheet"> 
+       <link href="/_css/tpl2/default/default.css" type="text/css" rel="stylesheet"> 
+<link type="text/css" href="/_js/_portletPlugs/simpleNews/css/simplenews.css" rel="stylesheet">
+<link type="text/css" href="/_js/_portletPlugs/sudyNavi/css/sudyNav.css" rel="stylesheet">
+
+<script language="javascript" src="/_js/jquery.min.js" sudy-wp-context="" sudy-wp-siteid="364"></script>
+<script language="javascript" src="/_js/jquery.sudy.wp.visitcount.js"></script>
+<script type="text/javascript" src="/_js/_portletPlugs/sudyNavi/jquery.sudyNav.js"></script>
+<link rel="stylesheet" href="/_upload/tpl/03/00/768/template768/style.css">
+    <!---->
+    <script src="/_upload/tpl/03/00/768/template768/banner.js" type="text/javascript"></script>
+     <script type="text/javascript">			    	
+			dojo.require("dijit.layout.TabContainer");					
+			dojo.require("dijit.Dialog");
+			dojo.require("dijit.form.Form");
+												
+			function prepareDialog(){	
+				//dijit.byId('fm2').reset();
+				//cleanRegistForm();						
+			    //dijit.byId('dialog').show();    
+			   	//徐伦注释//window.open("regedit.jsp","regedit","height=300, width=600, top=100,left=400,toolbar=no, menubar=no, scrollbars=no, resizable=no,location=no,status=no");
+			   	var url = "/urp-pg/unieap/pages/login/register.jsp";
+		   		window.showModalDialog(url,"","dialogHeight: 350px; dialogWidth:500px; resizable: true; help:no; edge:sunken; scroll: no");     		       		        
+			} 
+			function cleanRegistForm()
+			{
+				$('#account_id').val('');
+				$('#account_tip').html('');
+				$('#name').val('');
+				$('#name_tip').html('');
+				$('#passwordN').val('');
+				$('#passwordN_tip').html('');
+				$('#passwordV').val('');
+				$('#passwordV_tip').html('');
+			}
+			function regist()
+			{
+				isValidAccuont();
+				if(!isValid)
+				{
+					return;
+				}
+				
+				if($('#name').val()=='')
+				{
+					$('#name_tip').html('<span style="color: red;">姓名不能为空，请重新输入！</span>');
+					return;
+				}
+				else if($('#name').val()!='')
+				{
+					$('#name_tip').html('');
+				}
+				if($('#passwordN').val()=='')
+				{
+					$('#passwordN_tip').html('<span style="color: red;">密码不能为空，请重新输入！</span>');
+					return;
+				}
+				else if($('#passwordN').val()!='')
+				{
+					$('#passwordN_tip').html('');
+				}
+				if($('#passwordV').val()=='')
+				{
+					$('#passwordV_tip').html('<span style="color: red;">密码不能为空，请重新输入！</span>');
+					return;
+				}
+				else if($('#passwordV').val()!='')
+				{
+					$('#passwordV_tip').html('');
+				}
+				if($('#passwordN').val()!=$('#passwordV').val())
+				{
+					$('#passwordV_tip').html('<span style="color: red;">密码不一致，请重新输入！</span>');
+					return;
+				}
+				else if($('#passwordN').val()==$('#passwordV').val())
+				{
+					$('#passwordV_tip').html('');
+				}
+				
+				dojo.xhrGet({
+						url:"/urp-int/json/interview-act.do?method=registAccuont",
+						handleAs:"json",
+						form:"fm2",
+						contentType:"text/plain",
+						sync:true, 
+						load:function(data){
+							alert('注册成功');
+							closeDia();
+						},
+						error:function(e) { 
+		       				 alert(e); 
+		    			} 
+					});
+				
+				
+			}
+			function closeDia()
+			{
+				dijit.byId("dialog").hide();
+			}
+			var isValid=false;
+			function isValidAccuont()
+			{
+				if($('#account_id').val()=='')
+				{
+					$('#account_tip').html('<span style="color: red;">帐号不能为空，请重新输入！</span>');
+					isValid=false;
+					return;
+				}
+				else
+				{
+					dojo.xhrGet({
+						url:"/urp-int/json/interview-act.do?method=isValidAccuont",
+						handleAs:"json",
+						form:"fm2",
+						contentType:"text/plain",
+						sync:true, 
+						load:function(data){
+							if(data.flag=="false"){
+								isValid=false;
+								$('#account_id').focus();
+								$('#account_id').val('');
+								$('#account_tip').html('<span style="color: red;">该帐号已存在,请重新输入！</span>');
+								
+							}else if(data.flag=="true"){
+								isValid=true;
+								$('#account_tip').html('<span style="color: green;">该帐号可以使用！</span>');
+								
+							}
+						},
+						error:function(e) { 
+		       				 alert(e); 
+		    			} 
+					});
+				}
+			}
+			
+			//评审系统预先登录
+			function doSubmit(){
+				var name = document.getElementById("j_username").value;
+				var password = document.getElementById("j_password").value;
+				
+				if(name != null && password != null){
+					 $.ajax({
+						   type: "POST",
+						   url: "/urp-pg/j_unieap_security_check.do",
+						   dataType:"json",
+						   data: {j_username:name,j_password:password}
+					});
+				}
+				return true;
+			}
+				
+		</script>
+</head>
+<body>
+<div id="header"></div>
+<div id="nav">
+    <div frag="面板1">
+        <div frag="窗口1">
+            <div id="wp_nav_w1"> 
+
+ 
+<ul class="wp_nav" data-nav-config="{drop_v: 'down', drop_w: 'right', dir: 'y', opacity_main: '-1', opacity_sub: '-1', dWidth: '0'}">
+      
+     <li class="nav-item i1 "> 
+         <a href="http://rczp.nju.edu.cn/main.htm" title="首页" target="_self"><span class="item-name">首页</span></a><i class="mark"></i> 
+          
+     </li> 
+      
+     <li class="nav-item i2 "> 
+         <a href="/12491/list.htm" title="南大简介" target="_self"><span class="item-name">南大简介</span></a><i class="mark"></i> 
+          
+     </li> 
+      
+     <li class="nav-item i3 "> 
+         <a href="/12492/list.htm" title="院系介绍" target="_self"><span class="item-name">院系介绍</span></a><i class="mark"></i> 
+          
+     </li> 
+      
+     <li class="nav-item i4 "> 
+         <a href="/12493/list.htm" title="招聘信息" target="_self"><span class="item-name">招聘信息</span></a><i class="mark"></i> 
+          
+     </li> 
+      
+     <li class="nav-item i5 "> 
+         <a href="/12494/list.htm" title="相关政策" target="_self"><span class="item-name">相关政策</span></a><i class="mark"></i> 
+          
+     </li> 
+      
+     <li class="nav-item i6 "> 
+         <a href="/12495/list.htm" title="下载中心" target="_self"><span class="item-name">下载中心</span></a><i class="mark"></i> 
+          
+     </li> 
+      
+     <li class="nav-item i7 "> 
+         <a href="/12496/list.htm" title="其他人员招聘" target="_self"><span class="item-name">其他人员招聘</span></a><i class="mark"></i> 
+          
+     </li> 
+      
+     <li class="nav-item i8 "> 
+         <a href="/12497/list.htm" title="应聘指南" target="_self"><span class="item-name">应聘指南</span></a><i class="mark"></i> 
+          
+     </li> 
+      
+</ul> 
+ 
+ 
+ </div>
+        </div>
+    </div>
+</div>
+<div id="main">
+    <div style="width: 700px;float: left">
+        <div class="item" frag="面板2" style="position: relative">
+            <div frag="窗口2" class="banner">
+                <div id="wp_news_w2"> 
+
+                    
+                    <div class="ban ban1">
+                        <a href="/d6/73/c12506a251507/page.htm"> <img src="/_upload/article/images/74/f4/58e057d14aa49d05769da00d6e02/1ee4f1fe-c82f-47bf-91da-7addc9f18a4a.jpg" alt="" width="330" height="198"></a>
+                    </div>
+
+                    
+                    <div class="ban ban2">
+                        <a href="/d6/72/c12506a251506/page.htm"> <img src="/_upload/article/images/dd/65/3fb168b144aba47d5889c74f1bdc/0fae6db2-c410-4e2a-a9bf-f5782a3a63b8.jpg" alt="" width="330" height="198"></a>
+                    </div>
+
+                    
+                    <div class="ban ban3">
+                        <a href="/d6/71/c12506a251505/page.htm"> <img src="/_upload/article/images/8d/47/ff8957ae4516a3d085a67d7f283a/4a9d5f87-6d70-4e19-8eab-de68b1610973.jpg" alt="" width="330" height="198"></a>
+                    </div>
+
+                    
+                    <div class="ban ban4">
+                        <a href="/d6/70/c12506a251504/page.htm"> <img src="/_upload/article/images/a4/6a/1f449e1543f89837d0f9793484f7/fa488534-e397-4595-be74-dc0a42084ea6.jpg" alt="" width="330" height="198"></a>
+                    </div>
+
+                    
+                </div> 
+
+                <a class="prev" href="javascript:void(0)"></a>
+                <a class="next" href="javascript:void(0)"></a>
+            </div>
+        </div>
+        <div class="item" frag="面板3">
+            <div frag="窗口3">
+                <h3 class="item-title" frag="标题">最新招聘</h3>
+                <div class="itemdiv">
+                    <div id="wp_news_w3"> 
+
+                        <ul>
+                            
+                            <li><span class="date">[2017.04.17]</span><a href="/d6/10/c12498a251408/page.htm" target="_blank" title="关于2016年度其他系列高级职务岗位评聘工作的通知">关于2016年度其他系列高级职务岗...</a></li>
+                            
+                            <li><span class="date">[2016.07.12]</span><a href="/d6/11/c12498a251409/page.htm" target="_blank" title="关于公开招聘大气科学学院专职科研岗的启事">关于公开招聘大气科学学院专职科...</a></li>
+                            
+                            <li><span class="date">[2015.12.15]</span><a href="/d6/06/c12498a251398/page.htm" target="_blank" title="专职科研岗公开招聘公告">专职科研岗公开招聘公告</a></li>
+                            
+                            <li><span class="date">[2015.11.19]</span><a href="/d6/0f/c12498a251407/page.htm" target="_blank" title="关于公开招聘化学化工学院专职科研岗人员的启事">关于公开招聘化学化工学院专职科...</a></li>
+                            
+                            <li><span class="date">[2015.11.19]</span><a href="/d6/0e/c12498a251406/page.htm" target="_blank" title="关于公开招聘马克思主义学院专职科研岗教师人员的启事">关于公开招聘马克思主义学院专职...</a></li>
+                            
+                            <li><span class="date">[2015.10.26]</span><a href="/d6/0d/c12498a251405/page.htm" target="_blank" title="关于公开招聘南京大学电子科学与工程学院陆海教授课题组专职科研人员的启事">关于公开招聘南京大学电子科学与...</a></li>
+                            
+                        </ul>
+                    </div> 
+
+<div class="more"><a class="more-link" href="/12498/list.htm" title="显示更多"><span class="moretext"><img src="/_js/_portletPlugs/simpleNews/css/icon_more_1.gif" border="0"></span></a></div>
+                </div>
+            </div>
+        </div>
+        <div class="clear"></div>
+        <div class="item" frag="面板5">
+            <div frag="窗口5">
+                <h3 class="item-title" frag="标题">管理人员招聘</h3>
+                <div class="itemdiv">
+                    <div id="wp_news_w5"> 
+
+                        <ul>
+                            
+                            <li><span class="date">[2017.08.14]</span><a href="/d5/d2/c12510a251346/page.htm" target="_blank" title="关于201707招聘补充计划">关于201707招聘补充计划</a></li>
+                            
+                            <li><span class="date">[2017.08.02]</span><a href="/d5/d3/c12510a251347/page.htm" target="_blank" title="关于201707招聘补充计划">关于201707招聘补充计划</a></li>
+                            
+                        </ul>
+                    </div> 
+
+                </div>
+            </div>
+        </div>
+        <div class="item" frag="面板6">
+            <div frag="窗口6">
+                <h3 class="item-title" frag="标题">教师及科研人员招聘</h3>
+                <div class="itemdiv">
+                    <!-- No Data -->
+                </div>
+            </div>
+        </div>
+        <div class="clear"></div>
+        <div class="item" frag="面板8">
+            <div frag="窗口8">
+                <h3 class="item-title" frag="标题">博士后招聘</h3>
+                <div class="itemdiv">
+                    <div id="wp_news_w8"> 
+
+                        <ul>
+                            
+                            <li><span class="date">[2014.07.10]</span><a href="/d5/df/c12513a251359/page.htm" target="_blank" title="关于开展博士后国际交流计划引进项目申报工作的通知">关于开展博士后国际交流计划引进...</a></li>
+                            
+                            <li><span class="date">[2012.03.13]</span><a href="/d5/de/c12513a251358/page.htm" target="_blank" title="南京大学环境学院“生态毒理与健康风险”招收博士后">南京大学环境学院“生态毒理与健...</a></li>
+                            
+                            <li><span class="date">[2012.03.13]</span><a href="/d5/dd/c12513a251357/page.htm" target="_blank" title="南京大学声学研究所博士后研究人员招聘">南京大学声学研究所博士后研究人...</a></li>
+                            
+                            <li><span class="date">[2012.03.13]</span><a href="/d5/dc/c12513a251356/page.htm" target="_blank" title="南京大学现代工程与应用科学学院博士后招聘">南京大学现代工程与应用科学学院...</a></li>
+                            
+                            <li><span class="date">[2012.03.13]</span><a href="/d5/db/c12513a251355/page.htm" target="_blank" title="南京大学化学化工学院博士后招聘">南京大学化学化工学院博士后招聘</a></li>
+                            
+                        </ul>
+                    </div> 
+
+                </div>
+            </div>
+        </div>
+        <div class="item" frag="面板9">
+            <div frag="窗口9">
+                <h3 class="item-title" frag="标题">专职科研人员招聘</h3>
+                <div class="itemdiv">
+                    <div id="wp_news_w9"> 
+
+                        <ul>
+                            
+                            <li><span class="date">[2016.07.12]</span><a href="/d5/d8/c12511a251352/page.htm" target="_blank" title="关于公开招聘大气科学学院专职科研岗的启事">关于公开招聘大气科学学院专职科...</a></li>
+                            
+                            <li><span class="date">[2015.12.15]</span><a href="/d5/d4/c12511a251348/page.htm" target="_blank" title="专职科研岗公开招聘公告">专职科研岗公开招聘公告</a></li>
+                            
+                            <li><span class="date">[2015.11.19]</span><a href="/d5/d7/c12511a251351/page.htm" target="_blank" title="关于公开招聘化学化工学院专职科研岗人员的启事">关于公开招聘化学化工学院专职科...</a></li>
+                            
+                            <li><span class="date">[2015.11.19]</span><a href="/d5/d6/c12511a251350/page.htm" target="_blank" title="关于公开招聘马克思主义学院专职科研岗教师人员的启事">关于公开招聘马克思主义学院专职...</a></li>
+                            
+                            <li><span class="date">[2015.10.26]</span><a href="/d5/d5/c12511a251349/page.htm" target="_blank" title="关于公开招聘南京大学电子科学与工程学院陆海教授课题组专职科研人员的启事">关于公开招聘南京大学电子科学与...</a></li>
+                            
+                        </ul>
+                    </div> 
+
+                </div>
+            </div>
+        </div>
+        <div class="clear"></div>
+        <div class="item" frag="面板11">
+            <div frag="窗口11">
+                <h3 class="item-title" frag="标题"> 访问学者招聘</h3>
+                <div class="itemdiv">
+                    <div id="wp_news_w11"> 
+
+                        <ul>
+                            
+                            <li><span class="date">[2017.05.15]</span><a href="/d5/da/c12512a251354/page.htm" target="_blank" title="南京大学2017至2018学年接受一般项目国内访问学者的通知">南京大学2017至2018学年接受一般...</a></li>
+                            
+                            <li><span class="date">[2015.04.06]</span><a href="/d5/d9/c12512a251353/page.htm" target="_blank" title="南京大学2016至2017学年接受一般项目国内访问学者的通知">南京大学2016至2017学年接受一般...</a></li>
+                            
+                        </ul>
+                    </div> 
+
+                </div>
+            </div>
+        </div>
+        <div class="item" frag="面板12">
+            <div frag="窗口12">
+                <h3 class="item-title" frag="标题">教学辅助人员招聘</h3>
+                <div class="itemdiv">
+                    <div id="wp_news_w12"> 
+
+                        <ul>
+                            
+                            <li><span class="date">[2017.04.17]</span><a href="/d5/c0/c12508a251328/page.htm" target="_blank" title="关于2016年度其他系列高级职务岗位评聘工作的通知">关于2016年度其他系列高级职务岗...</a></li>
+                            
+                        </ul>
+                    </div> 
+
+                </div>
+            </div>
+        </div>
+        <div class="clear"></div>
+    </div>
+  <div style="float: right;width: 300px">
+      <div class="itemr" frag="面板15">
+          <h3 class="item-title">应聘人员登录</h3>
+          
+          
+          
+          <div id="login_panel">
+			<form id="fm1" name="fm1" class="login_form" action="http://219.219.114.94/urp-int/j_spring_security_check" method="post" onsubmit="doSubmit()">
+					<p>
+						<label for="j_username">
+							用户名:
+						</label>
+							<input id="j_username" name="j_username" class="input_text2" tabindex="1" accesskey="n" type="text" value="" size="20" autocomplete="false">
+					</p>
+					<p>
+						<label for="j_password">
+							密　码:
+						</label>
+						<input id="j_password" name="j_password" class="input_text2" tabindex="2" accesskey="p" type="password" value="" size="20" autocomplete="off">
+					</p>
+					<p nowrap valign="bottom">
+						<label for="j_captcha">
+							验证码:
+						</label>				
+						<input id="j_captcha" name="j_captcha" class="input_text2" tabindex="3" accesskey="q" type="text" value="" size="10" autocomplete="off" style="width:70px">
+		                <img id="randImage" src="http://219.219.114.94/urp-int/image.jsp" onclick="loadimage()"> 		                    
+					</p>
+					 
+					<p class="top" align="right">
+					
+                        <input class="input_submit" name="submit" accesskey="l" value="登录" tabindex="4" type="submit" style="width:74px;height:24px"> 
+                        <a href="http://219.219.114.94/urp-pg/unieap/pages/login/register.jsp" onclick="prepareDialog()" style="width: 100px;height: 200" id="regist" name="regist">快速注册</a>
+<a href="http://219.219.114.94/urp-int/forgetPwd.jsp" onclick="prepareDialog()" style="width: 100px;height: 200" id="regist" name="regist">忘记密码</a>
+					</p>
+					
+				 </form>
+		</div>
+          
+          
+          
+          
+          
+          
+      </div>
+      <div class="itemr" frag="面板7" style="height: 124px">
+          <div frag="窗口7">
+              <div class="articlecontent ">
+    
+        
+            
+                <p style="text-align:center;"><a href="http://rczp.nju.edu.cn/d5/bd/c12507a251325/page.htm" target="_self" sudyfile-attr="{'title':'只支持选中一个链接时生效'}"><img data-layer="photo" src="/_upload/article/images/5d/b8/ea6824ea48208cd2eea3c11f553a/40cf1a15-1107-475b-8762-7ee625695bc9.jpg" style="float:none;" sudyfile-attr="{'title':'1380094767538.jpg'}"></a></p>
+            
+        
+    
+</div>
+          </div>
+      </div>
+      <div class="itemr" frag="面板10" style="height: 160px">
+          <div frag="窗口10">
+              <h3 class="item-title" frag="标题">友情链接</h3>
+              <div class="itemdiv" style="height: 120px">
+                  <div id="wp_news_w10"> 
+
+                      <ul>
+                          
+                          <li style="line-height: 16px"><a href="http://www.nju.edu.cn" target="_blank" title="南京大学">南京大学</a></li>
+                          
+                          <li style="line-height: 16px"><a href="http://hr.nju.edu.cn/" target="_blank" title="南京大学人力资源处">南京大学人力资源处</a></li>
+                          
+                          <li style="line-height: 16px"><a href="http://jshr.nju.edu.cn" target="_blank" title="南京大学人才培训交流中心">南京大学人才培训交流中心</a></li>
+                          
+                          <li style="line-height: 16px"><a href="http://bbs.nju.edu.cn/" target="_blank" title="南大小百合BBS">南大小百合BBS</a></li>
+                          
+                      </ul>
+                  </div> 
+
+              </div>
+          </div>
+      </div>
+  </div>
+    <div class="clear"></div>
+</div>
+<div id="footer">
+    <div class="footer">
+        <p> Copyright @ 2013 版权所有 南京大学人力资源处 联系电话：025-83596985 地址：南京鼓楼区汉口路22号</p>
+        <p> ALL RIGHTS RESERVED. COPYRIGHT @ NANJING UNIVERSITY. </p>
+    </div>
+</div>
+</body>
+</html>

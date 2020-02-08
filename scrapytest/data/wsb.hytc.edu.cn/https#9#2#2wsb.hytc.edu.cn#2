@@ -1,0 +1,523 @@
+https://wsb.hytc.edu.cn/
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <meta http-equiv="X-UA-Compatible" content="IE=EmulateIE8">
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+        <title>铱迅Web应用防护系统</title>
+    <meta name="Keywords" content="铱迅Web应用防护系统">
+    <meta name="description" content="铱迅Web应用防护系统">
+    <meta name="author" content="南京铱迅信息技术股份有限公司">
+    <link rel="stylesheet" type="text/css" href="common/ext3.0/resources/css/xtheme-blue.css?t=2018120464">
+    <link rel="stylesheet" type="text/css" href="common/ext3.0/resources/css/ext-patch.css?t=2018120464">
+    <link rel="stylesheet" type="text/css" href="common/ext3.0/ux/css/RowEditor.css">
+    <link rel="stylesheet" type="text/css" href="common/ext3.0/ux/css/LovCombo.css">
+    <link rel="stylesheet" type="text/css" href="common/style/style.css?t=2018120464">
+    <link rel="stylesheet" type="text/css" href="common/style/extends.css">
+
+</head>
+<body oncontextmenu="return false;">
+<div id="loading-mask"></div>
+<div id="loading">
+    <div class="loading-indicator">
+        <img src="common/images/loading.gif" alt="加载中..." width="32" height="32" style="margin-right:8px;" align="absmiddle">
+        <a href="http://www.yxlink.com/" target="_blank"><span id="Company">铱迅Web应用防护系统</span></a> -
+        <span id="loading-yfo"><a href="http://www.yxlink.com/" target="_blank">Powered by 铱迅信息</a></span><br>
+        <span id="loading-msg">正在加载...</span>
+    </div>
+</div>
+<script language="javascript">document.getElementById('loading-msg').innerHTML = '正在加载系统组件...';</script>
+<script type="text/javascript" src="common/ext3.0/ext-base.js"></script>
+<script type="text/javascript" src="common/ext3.0/ext-all.js"></script>
+<script type="text/javascript" src="common/Comm.js"></script>
+<script type="text/javascript" src="common/Core.js"></script>
+<script type="text/javascript" src="common/xss.js"></script>
+<script language="javascript">document.getElementById('loading-msg').innerHTML = '正在加载语言包...';</script>
+<script type="text/javascript" src="common/ext3.0/locale/ext-lang-zh_CN.js"></script>
+<script type="text/javascript" src="common/yx_extends.js"></script>
+<script type="text/javascript" src="common/languages/lang-zh_cn.js"></script>
+<script language="javascript">document.getElementById('loading-msg').innerHTML = '正在加载扩展控件...';</script>
+<script type="text/javascript" src="common/ext3.0/ux/GroupSummary.js"></script>
+<script type="text/javascript" src="common/ext3.0/ux/Fieldpanel.js"></script>
+<script type="text/javascript" src="common/ext3.0/ux/FileUploadField.js"></script>
+<script type="text/javascript" src="common/ext3.0/ux/XCheckboxGroup.js"></script>
+<script type="text/javascript" src="common/ext3.0/ux/TabCloseMenu.js"></script>
+<script type="text/javascript" src="common/ext3.0/ux/RowEditor.js"></script>
+<script type="text/javascript" src="common/ext3.0/ux/TreeCombo.js"></script>
+<script type="text/javascript" src="common/ext3.0/ux/LovCombo.js"></script>
+<script language="javascript">document.getElementById('loading-msg').innerHTML = '正在加载界面插件...';</script>
+<script type="text/javascript" src="common/ip/Ipfield.js"></script>
+<script type="text/javascript" src="common/ip/IpUtil.js"></script>
+<script type="text/javascript" src="common/MainPanel.js"></script>
+<script type="text/javascript" src="common/YxWaf/BaseObject.js"></script>
+<script type="text/javascript" src="common/YxWaf/BasePanel.js"></script>
+<script type="text/javascript" src="common/YxWaf/IframePanel.js"></script>
+<script type="text/javascript" src="common/YxWaf/CrudPanel.js"></script>
+<script type="text/javascript" src="common/YxWaf/BaseWindow.js"></script>
+<script type="text/javascript" src="common/YxWaf/FusionPanel.js"></script>
+<script type="text/javascript" src="common/YxWaf/RpiEditorPanel.js"></script>
+<script type="text/javascript" src="common/YxWaf/AclSettingPanel.js"></script>
+<script type="text/javascript" src="common/YxWaf/HackLogPanel.js"></script>
+<script type="text/javascript" src="common/YxWaf/OverRide.js"></script> <!--新增0612-->
+<script type="text/javascript" src="common/YxWaf/GridPanel.js"></script> <!--新增0612-->
+<script type="text/javascript" src="FusionCharts/FusionCharts.js"></script>
+<script language="javascript">document.getElementById('loading-msg').innerHTML = '正在加载图形界面...';</script>
+<script type="text/javascript" src="js/Help.js"></script>
+<script type="text/javascript" src="js/UtilNav.js"></script>
+<script language="javascript">document.getElementById('loading-msg').innerHTML = '正在初始化系统...';</script>
+<script type="text/javascript" src="js/Status.js"></script>
+<script type="text/javascript" src="js/Flow.js"></script>
+<script type="text/javascript" src="js/Version.js"></script>
+<script type="text/javascript" src="js/License.js"></script>
+<script type="text/javascript" src="js/HackLog.js"></script>
+<script type="text/javascript" src="js/Statistics.js"></script>
+<script type="text/javascript" src="js/BlockLog.js"></script>
+<script type="text/javascript" src="js/FlowStat.js"></script>
+<script type="text/javascript" src="js/Pagestat.js"></script>
+<script type="text/javascript" src="js/AccessCount.js"></script>
+<script type="text/javascript" src="js/Troy.js"></script>
+<script type="text/javascript" src="js/QueryHackLog.js"></script>
+<script type="text/javascript" src="js/WeakPwdConfig.js"></script>
+<script type="text/javascript" src="js/WeakPwdLog.js"></script>
+<script type="text/javascript" src="js/WhiteList.js"></script>
+<script type="text/javascript" src="js/AclSetting.js"></script>
+<script type="text/javascript" src="js/RuleAclSetting.js"></script>
+<script type="text/javascript" src="js/SpiderSetting.js"></script>
+<script type="text/javascript" src="js/Yxrule.js"></script>
+<script type="text/javascript" src="js/Userrule.js"></script>
+<script type="text/javascript" src="js/RejectResponse.js"></script>
+<script type="text/javascript" src="js/AntiHotLink.js"></script>
+<script type="text/javascript" src="js/AntiScanning.js"></script>
+<script type="text/javascript" src="js/ProtectedIp.js"></script>
+<script type="text/javascript" src="js/ProtectionSet.js"></script>
+<script type="text/javascript" src="js/ProtectionSetDetail.js"></script>
+<script type="text/javascript" src="js/VirtualIp.js"></script>
+<script type="text/javascript" src="js/SmartBlock.js"></script>
+<script type="text/javascript" src="js/Senswords.js"></script>
+<script type="text/javascript" src="js/Httpmethods.js"></script>
+<script type="text/javascript" src="js/Httpoverflow.js"></script>
+<script type="text/javascript" src="js/DdosConfig.js"></script>
+<script type="text/javascript" src="js/ConnSetting.js"></script>
+<script type="text/javascript" src="js/AdvProtect.js"></script>
+<script type="text/javascript" src="js/Icp.js"></script>
+<script type="text/javascript" src="js/TimeMgr.js"></script>
+<script type="text/javascript" src="js/MainConfig.js"></script>
+<script type="text/javascript" src="js/Admin.js"></script>
+<script type="text/javascript" src="js/EmailConfig.js"></script>
+<script type="text/javascript" src="js/EmailAlert.js"></script>
+<script type="text/javascript" src="js/ConfigManage.js"></script>
+<script type="text/javascript" src="js/HaSetting.js"></script>
+<script type="text/javascript" src="js/SyncConfig.js"></script>
+<script type="text/javascript" src="js/InterfaceList.js"></script>
+<script type="text/javascript" src="js/VirtualBridge.js"></script>
+<script type="text/javascript" src="js/StaticRouting.js"></script>
+<script type="text/javascript" src="js/PolicyRoute.js"></script>
+<script type="text/javascript" src="js/PortBond.js"></script>
+<script type="text/javascript" src="js/IfaceManage.js"></script>
+<script type="text/javascript" src="js/VlanNetSetting.js"></script>
+<script type="text/javascript" src="js/NetConfig.js"></script>
+<script type="text/javascript" src="js/Bypass.js"></script>
+<script type="text/javascript" src="js/RpiConfig.js"></script>
+<script type="text/javascript" src="js/RpiConfigStatus.js"></script>
+<script type="text/javascript" src="js/RpiWebsite.js"></script>
+<script type="text/javascript" src="js/SnmptrapConfig.js"></script>
+<script type="text/javascript" src="js/SnmpConfig.js"></script>
+<script type="text/javascript" src="js/SyslogConfig.js"></script>
+<script type="text/javascript" src="js/ReportList.js"></script>
+<script type="text/javascript" src="js/ManReport.js"></script>
+<script type="text/javascript" src="js/AutoReport.js"></script>
+<script type="text/javascript" src="js/UrlHost.js"></script>
+<script type="text/javascript" src="js/UrlPatternList.js"></script>
+<script type="text/javascript" src="js/FakeLog.js"></script>
+<script type="text/javascript" src="js/FakeWeb.js"></script>
+<script type="text/javascript" src="js/Fakedb.js"></script>
+<script type="text/javascript" src="js/AntiCcConfig.js"></script>
+<script type="text/javascript" src="js/AntiCcPreList.js"></script>
+<script type="text/javascript" src="js/AntiCcWBlist.js"></script>
+<script type="text/javascript" src="js/AntiCcLog.js"></script>
+<script type="text/javascript" src="js/ScanLeak.js"></script>
+<script type="text/javascript" src="js/ScanLeakResult.js"></script>
+<script type="text/javascript" src="js/UpgradeConfig.js"></script>
+<script type="text/javascript" src="js/Updaterule.js"></script>
+<script type="text/javascript" src="js/Update.js"></script>
+<script type="text/javascript" src="js/SysConfig.js"></script>
+<script type="text/javascript" src="js/PacketCapture.js"></script>
+<script type="text/javascript" src="js/NetTools.js"></script>
+<script type="text/javascript" src="js/Reboot.js"></script>
+<script type="text/javascript" src="js/AdminLog.js"></script>
+<script type="text/javascript" src="js/SysLog.js"></script>
+<script type="text/javascript" src="js/DdosLog.js"></script>
+<script type="text/javascript" src="js/LogManage.js"></script>
+<script type="text/javascript" src="js/VulScanLog.js"></script>
+<script type="text/javascript" src="js/CsrfProtect.js"></script>
+<script type="text/javascript" src="js/CsrfLog.js"></script>
+<script type="text/javascript" src="js/WebShell.js"></script>
+<script type="text/javascript" src="js/WebshellLog.js"></script>
+<script type="text/javascript" src="js/RealIp.js"></script>
+<script type="text/javascript" src="js/WebAnalysis.js"></script>
+<script type="text/javascript" src="js/SrcIpAttack.js"></script>
+<script type="text/javascript" src="js/UrlCookie.js"></script>
+<script type="text/javascript" src="common/Home.js"></script>
+<script type="text/javascript">
+    checklogin();
+    var loginName = '';
+    var rootPath = '/';
+    var loginPath = '/login.htm';
+    var refreshtimes=0;
+    window.onload = function(){
+        window.moveTo(0,0);
+        window.resizeTo(screen.width,screen.availHeight);
+        setTimeout(function() {
+            Ext.get('loading').remove();
+            Ext.get('loading-mask').fadeOut({ remove: true });
+        }, 550);
+    }
+</script>
+<!-- for north -->
+<div id="north">
+    <div id="logo"><a href="javascript:utnav.utMain.openTab('welcomeUt');"><img src="common/images/logo_a.png" border="0"></a></div>
+    <div id="login">
+        <table>
+            <tr>
+                <td align="right"><span id="adminname"> </span></td>
+                <td align="right" width="50px"><span id="loginout"> </span></td>
+            </tr>
+            <tr>
+                <td align="right">
+                                            <select onchange="changeSkin(this.value)">
+                            <option value="xtheme-blue">默认风格</option>
+                            <option value="xtheme-gray">银白风格</option>
+                        </select>
+                                    </td>
+                <td align="right" width="50px">
+                    <a style="background:url(common/images/helps.png) no-repeat left top; padding:4px 0 0 18px;" href="javascript:%20enterHelp()">帮助</a>
+                </td>
+            </tr>
+        </table>
+    </div>
+</div>
+
+<!-- For util navs menu -->
+<div id="statusUtil" class="pkg-body" style="display: none;">
+    <table border="0" width="100%">
+        <tr>
+            <td align="center"><a href="javascript:enterStatus(utnav.utMain)"><img src="common/images/icons/1-1a.png" onmouseover="this.src='common/images/icons/1-1c.png';" onmouseout="this.src='common/images/icons/1-1a.png';"></a></td>
+        </tr>
+        <tr>
+            <td align="center"><a href="javascript:enterFlow(utnav.utMain)"><img src="common/images/icons/1-2a.png" onmouseover="this.src='common/images/icons/1-2c.png';" onmouseout="this.src='common/images/icons/1-2a.png';"></a></td>
+        </tr>
+        <tr>
+            <td align="center"><a href="javascript:enterVersion(utnav.utMain)"><img src="common/images/icons/1-3a.png" onmouseover="this.src='common/images/icons/1-3c.png';" onmouseout="this.src='common/images/icons/1-3a.png';"></a></td>
+        </tr>
+        <tr>
+            <td align="center"><a href="javascript:enterLicense(utnav.utMain)"><img src="common/images/icons/1-4a.png" onmouseover="this.src='common/images/icons/1-4c.png';" onmouseout="this.src='common/images/icons/1-4a.png';"></a></td>
+        </tr>
+    </table>
+</div>
+<div id="watchUtil" class="pkg-body" style="display: none;">
+    <table border="0" width="100%">
+        <tr>
+            <td align="center"><a href="javascript:enterHackLog(utnav.utMain)"><img src="common/images/icons/2-1a.png" onmouseover="this.src='common/images/icons/2-1c.png';" onmouseout="this.src='common/images/icons/2-1a.png';"></a></td>
+        </tr>
+        <tr>
+            <td align="center"><a href="javascript:enterQueryHackLog(utnav.utMain)"><img src="common/images/icons/2-6a.png" onmouseover="this.src='common/images/icons/2-6b.png';" onmouseout="this.src='common/images/icons/2-6a.png';"></a></td>
+        </tr>
+        <tr>
+            <td align="center"><a href="javascript:enterSrcIpAttack(utnav.utMain,0,0)"><img src="common/images/icons/srcipattack_a.png" onmouseover="this.src='common/images/icons/srcipattack_b.png';" onmouseout="this.src='common/images/icons/srcipattack_a.png';"></a></td>
+        </tr>
+        <tr>
+            <td align="center" id="pagestatpage"><a href="javascript:enterRpiWebsite(utnav.utMain)"><img src="common/images/icons/rpiwebsite_a.png" onmouseover="this.src='common/images/icons/rpiwebsite_b.png';" onmouseout="this.src='common/images/icons/rpiwebsite_a.png';"></a></td>
+        </tr>
+        <tr>
+            <td align="center" id="accesscountpage"><a href="javascript:enterAccessCount(utnav.utMain)"><img src="common/images/icons/accesscount_a.png" onmouseover="this.src='common/images/icons/accesscount_b.png';" onmouseout="this.src='common/images/icons/accesscount_a.png';"></a></td>
+        </tr>
+        <tr>
+            <td align="center" id="webanalysispage"><a href="javascript:enterWebAnalysis(utnav.utMain,0,0)"><img src="common/images/icons/websitelog_a.png" onmouseover="this.src='common/images/icons/websitelog_b.png';" onmouseout="this.src='common/images/icons/websitelog_a.png';"></a></td>
+        </tr>
+        <tr>
+            <td align="center" id="webshelllogpage"><a href="javascript:enterWebshellLog(utnav.utMain)"><img src="common/images/icons/webshelllog_a.png" onmouseover="this.src='common/images/icons/webshelllog_b.png';" onmouseout="this.src='common/images/icons/webshelllog_a.png';"></a></td>
+        </tr>
+        <tr>
+            <td align="center"><a href="javascript:enterBlockLog(utnav.utMain)"><img src="common/images/icons/2-3a.png" onmouseover="this.src='common/images/icons/2-3c.png';" onmouseout="this.src='common/images/icons/2-3a.png';"></a></td>
+        </tr>
+        <tr>
+            <td align="center"><a href="javascript:enterFlowStat(utnav.utMain)"><img src="common/images/icons/2-4a.png" onmouseover="this.src='common/images/icons/2-4c.png';" onmouseout="this.src='common/images/icons/2-4a.png';"></a></td>
+        </tr>
+            <tr>
+            <td align="center"><a href="javascript:enterStatistics(utnav.utMain)"><img src="common/images/icons/2-2a.png" onmouseover="this.src='common/images/icons/2-2c.png';" onmouseout="this.src='common/images/icons/2-2a.png';"></a></td>
+        </tr>
+        <tr>
+            <td align="center" id="troypage"><a href="javascript:enterTroy(utnav.utMain)"><img src="common/images/icons/troy_a.png" onmouseover="this.src='common/images/icons/troy_b.png';" onmouseout="this.src='common/images/icons/troy_a.png';"></a></td>
+        </tr>
+        <tr>
+            <td align="center" id="weakpwdlogpage"><a href="javascript:enterWeakPwdLog(utnav.utMain)"><img src="common/images/icons/weakpwdlog_a.png" onmouseover="this.src='common/images/icons/weakpwdlog_b.png';" onmouseout="this.src='common/images/icons/weakpwdlog_a.png';"></a></td>
+        </tr>
+        <tr>
+            <td align="center" id="vulscanlogpage"><a href="javascript:enterVulScanLog(utnav.utMain)"><img src="common/images/icons/vulscanlog_a.png" onmouseover="this.src='common/images/icons/vulscanlog_b.png';" onmouseout="this.src='common/images/icons/vulscanlog_a.png';"></a></td>
+        </tr>
+        <tr>
+            <td align="center" id="csrflogpage"><a href="javascript:enteCsrfLog(utnav.utMain)"><img src="common/images/icons/csrflog_a.png" onmouseover="this.src='common/images/icons/csrflog_b.png';" onmouseout="this.src='common/images/icons/csrflog_a.png';"></a></td>
+        </tr>
+    </table>
+</div>
+<div id="reportUtil" class="pkg-body" style="display: none;">
+    <table border="0" width="100%">
+        <tr>
+            <td align="center" id="reportlistpage"><a href="javascript:enterReportList(utnav.utMain)"><img src="common/images/icons/reportlist_a.png" onmouseover="this.src='common/images/icons/reportlist_b.png';" onmouseout="this.src='common/images/icons/reportlist_a.png';"></a></td>
+        </tr>
+        <tr>
+            <td align="center" id="manreportpage"><a href="javascript:enterManReport(utnav.utMain)"><img src="common/images/icons/manreport_a.png" onmouseover="this.src='common/images/icons/manreport_b.png';" onmouseout="this.src='common/images/icons/manreport_a.png';"></a></td>
+        </tr>
+        <tr>
+            <td align="center" id="autoreportpage"><a href="javascript:enterAutoReport(utnav.utMain)"><img src="common/images/icons/autoreport_a.png" onmouseover="this.src='common/images/icons/autoreport_b.png';" onmouseout="this.src='common/images/icons/autoreport_a.png';"></a></td>
+        </tr>
+    </table>
+</div>
+<div id="advanceUtil" class="pkg-body" style="display: none;">
+    <table border="0" width="100%">
+        <tr>
+            <td align="center" id="protectedippage"><a href="javascript:enterProtectedIp(utnav.utMain)"><img src="common/images/icons/protectedip_a.png" onmouseover="this.src='common/images/icons/protectedip_b.png';" onmouseout="this.src='common/images/icons/protectedip_a.png';"></a></td>
+        </tr>
+        <tr>
+            <td align="center" id="aclsettingpage"><a href="javascript:enterAclSetting(utnav.utMain)"><img src="common/images/icons/aclsetting_a.png" onmouseover="this.src='common/images/icons/aclsetting_b.png';" onmouseout="this.src='common/images/icons/aclsetting_a.png';"></a></td>
+        </tr>
+        <tr>
+            <td align="center" id="ruleaclsettingpage"><a href="javascript:enterRuleAclSetting(utnav.utMain)"><img src="common/images/icons/ruleaclsetting_a.png" onmouseover="this.src='common/images/icons/ruleaclsetting_b.png';" onmouseout="this.src='common/images/icons/ruleaclsetting_a.png';"></a></td>
+        </tr>
+        <tr>
+            <td align="center"><a href="javascript:enterYxrule(utnav.utMain)"><img src="common/images/icons/3-2a.png" onmouseover="this.src='common/images/icons/3-2c.png';" onmouseout="this.src='common/images/icons/3-2a.png';"></a></td>
+        </tr>
+        <tr>
+            <td align="center"><a href="javascript:enterUserrule(utnav.utMain)"><img src="common/images/icons/3-3a.png" onmouseover="this.src='common/images/icons/3-3c.png';" onmouseout="this.src='common/images/icons/3-3a.png';"></a></td>
+        </tr>
+        <tr>
+            <td align="center" id="protectionsetpage"><a href="javascript:enterProtectionSet(utnav.utMain)"><img src="common/images/icons/protectionSet_a.png" onmouseover="this.src='common/images/icons/protectionSet_b.png';" onmouseout="this.src='common/images/icons/protectionSet_a.png';"></a></td>
+        </tr>
+        <tr>
+            <td align="center" id="webshellpage"><a href="javascript:enterWebShell(utnav.utMain)"><img src="common/images/icons/webshell_a.png" onmouseover="this.src='common/images/icons/webshell_b.png';" onmouseout="this.src='common/images/icons/webshell_a.png';"></a></td>
+        </tr>
+        <tr>
+            <td align="center"><a href="javascript:enterRejectResponse(utnav.utMain)"><img src="common/images/icons/rejectresponse_a.png" onmouseover="this.src='common/images/icons/rejectresponse_b.png';" onmouseout="this.src='common/images/icons/rejectresponse_a.png';"></a></td>
+        </tr>
+        <tr>
+            <td align="center" id="antihotlinkpage"><a href="javascript:enterAntiHotLink(utnav.utMain)"><img src="common/images/icons/antihotlink_a.png" onmouseover="this.src='common/images/icons/antihotlink_b.png';" onmouseout="this.src='common/images/icons/antihotlink_a.png';"></a></td>
+        </tr>
+        <tr>
+            <td align="center" id="csrfprotectpage"><a href="javascript:enterCsrfProtect(utnav.utMain)"><img src="common/images/icons/csrf_a.png" onmouseover="this.src='common/images/icons/csrf_b.png';" onmouseout="this.src='common/images/icons/csrf_a.png';"></a></td>
+        </tr>
+        <tr>
+            <td align="center" id="antiscanningpage"><a href="javascript:enterAntiScanning(utnav.utMain)"><img src="common/images/icons/antiscanning_a.png" onmouseover="this.src='common/images/icons/antiscanning_b.png';" onmouseout="this.src='common/images/icons/antiscanning_a.png';"></a></td>
+        </tr>
+        <tr>
+            <td align="center" id="spidersettingpage"><a href="javascript:enterSpiderSetting(utnav.utMain)"><img src="common/images/icons/spidersetting_a.png" onmouseover="this.src='common/images/icons/spidersetting_b.png';" onmouseout="this.src='common/images/icons/spidersetting_a.png';"></a></td>
+        </tr>
+        <tr>
+            <td align="center"><a href="javascript:enterSmartBlock(utnav.utMain)"><img src="common/images/icons/smartblock_a.png" onmouseover="this.src='common/images/icons/smartblock_b.png';" onmouseout="this.src='common/images/icons/smartblock_a.png';"></a></td>
+        </tr>
+        <tr>
+            <td align="center" id="whitelistpage"><a href="javascript:enterWhiteList(utnav.utMain)"><img src="common/images/icons/whitelist_a.png" onmouseover="this.src='common/images/icons/whitelist_b.png';" onmouseout="this.src='common/images/icons/whitelist_a.png';"></a></td>
+        </tr>
+        <tr>
+            <td align="center" id="realippage"><a href="javascript:enterRealIp(utnav.utMain)"><img src="common/images/icons/realip_a.png" onmouseover="this.src='common/images/icons/realip_b.png';" onmouseout="this.src='common/images/icons/realip_a.png';"></a></td>
+        </tr>
+        <tr>
+            <td align="center" id="rpiconfigpage"><a href="javascript:enterRpiConfig(utnav.utMain)"><img src="common/images/icons/5-2a.png" onmouseover="this.src='common/images/icons/5-2b.png';" onmouseout="this.src='common/images/icons/5-2a.png';"></a></td>
+        </tr>
+        <tr>
+            <td align="center" id="senswordspage"><a href="javascript:enterSenswords(utnav.utMain)"><img src="common/images/icons/3-4a.png" onmouseover="this.src='common/images/icons/3-4c.png';" onmouseout="this.src='common/images/icons/3-4a.png';"></a></td>
+        </tr>
+        <tr>
+            <td align="center"><a href="javascript:enterHttpmethods(utnav.utMain)"><img src="common/images/icons/3-5a.png" onmouseover="this.src='common/images/icons/3-5c.png';" onmouseout="this.src='common/images/icons/3-5a.png';"></a></td>
+        </tr>
+        <tr>
+            <td align="center" id="httpoverflowpage"><a href="javascript:enterHttpoverflow(utnav.utMain)"><img src="common/images/icons/3-6a.png" onmouseover="this.src='common/images/icons/3-6c.png';" onmouseout="this.src='common/images/icons/3-6a.png';"></a></td>
+        </tr>
+        <tr>
+            <td align="center" id="connsettingpage"><a href="javascript:enterConnSetting(utnav.utMain)"><img src="common/images/icons/3-8a.png" onmouseover="this.src='common/images/icons/3-8b.png';" onmouseout="this.src='common/images/icons/3-8a.png';"></a></td>
+        </tr>
+        <tr>
+            <td align="center" id="advprotectpage"><a href="javascript:enterAdvProtect(utnav.utMain)"><img src="common/images/icons/3-9a.png" onmouseover="this.src='common/images/icons/3-9b.png';" onmouseout="this.src='common/images/icons/3-9a.png';"></a></td>
+        </tr>
+        <tr>
+            <td align="center" id="weakpwdconfigpage"><a href="javascript:enterWeakPwdConfig(utnav.utMain)"><img src="common/images/icons/weakpwdconfig_a.png" onmouseover="this.src='common/images/icons/weakpwdconfig_b.png';" onmouseout="this.src='common/images/icons/weakpwdconfig_a.png';"></a></td>
+        </tr>
+        <tr>
+            <td align="center" id="icppage"><a href="javascript:enterIcp(utnav.utMain)"><img src="common/images/icons/icp_a.png" onmouseover="this.src='common/images/icons/icp_b.png';" onmouseout="this.src='common/images/icons/icp_a.png';"></a></td>
+        </tr>
+        <tr>
+            <td align="center" id="timemgrpage"><a href="javascript:enterTimeMgr(utnav.utMain)"><img src="common/images/icons/3-10a.png" onmouseover="this.src='common/images/icons/3-10b.png';" onmouseout="this.src='common/images/icons/3-10a.png';"></a></td>
+        </tr>
+    </table>
+</div>
+<div id="configUtil" class="pkg-body" style="display: none;">
+  <table border="0" width="100%">
+    <tr>
+      <td align="center" id="mainconfigpage"><a href="javascript:enterMainConfig(utnav.utMain)"><img src="common/images/icons/4-2a.png" onmouseover="this.src='common/images/icons/4-2c.png';" onmouseout="this.src='common/images/icons/4-2a.png';"></a></td>
+    </tr>
+    <tr>
+      <td align="center" id="adminpage"><a href="javascript:enterAdmin(utnav.utMain)"><img src="common/images/icons/4-3a.png" onmouseover="this.src='common/images/icons/4-3c.png';" onmouseout="this.src='common/images/icons/4-3a.png';"></a></td>
+    </tr>
+    <tr>
+      <td align="center" id="emailconfigpage"><a href="javascript:enterEmailConfig(utnav.utMain)"><img src="common/images/icons/4-4a.png" onmouseover="this.src='common/images/icons/4-4c.png';" onmouseout="this.src='common/images/icons/4-4a.png';"></a></td>
+    </tr>
+    <tr>
+      <td align="center" id="hackalertpage"><a href="javascript:enterEmailAlert(utnav.utMain)"><img src="common/images/icons/emailalert_a.png" onmouseover="this.src='common/images/icons/emailalert_b.png';" onmouseout="this.src='common/images/icons/emailalert_a.png';"></a></td>
+    </tr>
+    <tr>
+      <td align="center" id="configmanagepage"><a href="javascript:enterConfigManage(utnav.utMain)"><img src="common/images/icons/4-5a.png" onmouseover="this.src='common/images/icons/4-5c.png';" onmouseout="this.src='common/images/icons/4-5a.png';"></a></td>
+    </tr>
+    <tr>
+      <td align="center" id="hasettingpage"><a href="javascript:enterHaSetting(utnav.utMain)"><img src="common/images/icons/4-7a.png" onmouseover="this.src='common/images/icons/4-7b.png';" onmouseout="this.src='common/images/icons/4-7a.png';"></a></td>
+    </tr>
+    <tr>
+      <td align="center" id="syncconfigpage"><a href="javascript:enterSyncConfig(utnav.utMain)"><img src="common/images/icons/syncconfig_a.png" onmouseover="this.src='common/images/icons/syncconfig_b.png';" onmouseout="this.src='common/images/icons/syncconfig_a.png';"></a></td>
+    </tr>
+    <tr>
+        <td align="center" id="snmptrapconfigpage"><a href="javascript:enterSnmptrapConfig(utnav.utMain)"><img src="common/images/icons/snmptrap_a.png" onmouseover="this.src='common/images/icons/snmptrap_b.png';" onmouseout="this.src='common/images/icons/snmptrap_a.png';"></a></td>
+     </tr>
+     <tr>
+        <td align="center" id="snmpconfigpage"><a href="javascript:enterSnmpConfig(utnav.utMain)"><img src="common/images/icons/snmp_a.png" onmouseover="this.src='common/images/icons/snmp_b.png';" onmouseout="this.src='common/images/icons/snmp_a.png';"></a></td>
+    </tr>
+    <tr>
+      <td align="center" id="syslogconfigpage"><a href="javascript:enterSyslogConfig(utnav.utMain)"><img src="common/images/icons/syslog_a.png" onmouseover="this.src='common/images/icons/syslog_b.png';" onmouseout="this.src='common/images/icons/syslog_a.png';"></a></td>
+    </tr>
+  </table>
+</div>
+<div id="networkUtil" class="pkg-body" style="display: none;">
+    <table border="0" width="100%">
+        <tr>
+            <td align="center" id="interfacelistpage"><a href="javascript:enterInterfaceList(utnav.utMain)"><img src="common/images/icons/ifacelist_a.png" onmouseover="this.src='common/images/icons/ifacelist_b.png';" onmouseout="this.src='common/images/icons/ifacelist_a.png';"></a></td>
+        </tr>
+        <tr>
+            <td align="center" id="virtualbridgepage"><a href="javascript:enterVirtualBridge(utnav.utMain)"><img src="common/images/icons/virtualbridge_a.png" onmouseover="this.src='common/images/icons/virtualbridge_b.png';" onmouseout="this.src='common/images/icons/virtualbridge_a.png';"></a></td>
+        </tr>
+        <tr>
+            <td align="center" id="staticroutepage"><a href="javascript:enterStaticRouting(utnav.utMain)"><img src="common/images/icons/staticroute_a.png" onmouseover="this.src='common/images/icons/staticroute_b.png';" onmouseout="this.src='common/images/icons/staticroute_a.png';"></a></td>
+        </tr>
+        <tr>
+            <td align="center" id="policyroutepage"><a href="javascript:enterPolicyRoute(utnav.utMain)"><img src="common/images/icons/policyroute_a.png" onmouseover="this.src='common/images/icons/policyroute_b.png';" onmouseout="this.src='common/images/icons/policyroute_a.png';"></a></td>
+        </tr>
+        <tr>
+            <td align="center" id="vlannetsettingpage"><a href="javascript:enterVlanNetSetting(utnav.utMain)"><img src="common/images/icons/4-6a.png" onmouseover="this.src='common/images/icons/4-6b.png';" onmouseout="this.src='common/images/icons/4-6a.png';"></a></td>
+        </tr>
+        <tr>
+            <td align="center" id="portbondpage"><a href="javascript:enterPortBond(utnav.utMain)"><img src="common/images/icons/multiinterface_a.png" onmouseover="this.src='common/images/icons/multiinterface_b.png';" onmouseout="this.src='common/images/icons/multiinterface_a.png';"></a></td>
+        </tr>
+        <tr>
+            <td align="center"><a href="javascript:enterVirtualIp(utnav.utMain)"><img src="common/images/icons/virtualip_a.png" onmouseover="this.src='common/images/icons/virtualip_b.png';" onmouseout="this.src='common/images/icons/virtualip_a.png';"></a></td>
+        </tr>
+        <tr>
+            <td align="center" id="networkdnspage"><a href="javascript:enterNetConfig(utnav.utMain)"><img src="common/images/icons/dnsconfig_a.png" onmouseover="this.src='common/images/icons/dnsconfig_b.png';" onmouseout="this.src='common/images/icons/dnsconfig_a.png';"></a></td>
+        </tr>
+        <tr>
+            <td align="center" id="networkdnspage"><a href="javascript:enterIfaceManage(utnav.utMain)"><img src="common/images/icons/ifacemanage_a.png" onmouseover="this.src='common/images/icons/ifacemanage_b.png';" onmouseout="this.src='common/images/icons/ifacemanage_a.png';"></a></td>
+        </tr>
+        <tr>
+            <td align="center" id="bypasspage"><a href="javascript:enterBypass(utnav.utMain)"><img src="common/images/icons/bypass_a.png" onmouseover="this.src='common/images/icons/bypass_b.png';" onmouseout="this.src='common/images/icons/bypass_a.png';"></a></td>
+        </tr>
+    </table>
+</div>
+<div id="urlpatternUtil" class="pkg-body" style="display: none;">
+    <table border="0" width="100%">
+        <tr>
+            <td align="center" id="hostpage"><a href="javascript:enterUrlHost(utnav.utMain)"><img src="common/images/icons/urlhost_a.png" onmouseover="this.src='common/images/icons/urlhost_b.png';" onmouseout="this.src='common/images/icons/urlhost_a.png';"></a></td>
+        </tr>
+        <tr>
+            <td align="center" id="urlpatternpage"><a href="javascript:enterUrlPatternList(utnav.utMain)"><img src="common/images/icons/urlpattern_a.png" onmouseover="this.src='common/images/icons/urlpattern_b.png';" onmouseout="this.src='common/images/icons/urlpattern_a.png';"></a></td>
+            
+        </tr>
+        <tr>
+            <td align="center" id="urlcookie"><a href="javascript:enterUrlCookie(utnav.utMain)"><img src="common/images/icons/urlcookie_a.png" onmouseover="this.src='common/images/icons/urlcookie_c.png';" onmouseout="this.src='common/images/icons/urlcookie_a.png';"></a></td>
+            
+        </tr>
+    </table>
+</div>
+<div id="antifakeUtil" class="pkg-body" style="display: none;">
+    <table border="0" width="100%">
+        <tr>
+            <td align="center" id="fakelogpage"><a href="javascript:enterFakeLog(utnav.utMain)"><img src="common/images/icons/8-1a.png" onmouseover="this.src='common/images/icons/8-1c.png';" onmouseout="this.src='common/images/icons/8-1a.png';"></a></td>
+        </tr>
+        <tr>
+            <td align="center" id="fakewebpage"><a href="javascript:enterFakeWeb(utnav.utMain)"><img src="common/images/icons/8-2a.png" onmouseover="this.src='common/images/icons/8-2b.png';" onmouseout="this.src='common/images/icons/8-2a.png';"></a></td>
+            
+        </tr>
+        <tr>
+            <td align="center" id="fakedbpage"><a href="javascript:enterFakedb(utnav.utMain)"><img src="common/images/icons/8-3a.png" onmouseover="this.src='common/images/icons/8-3b.png';" onmouseout="this.src='common/images/icons/8-3a.png';"></a></td>
+            
+        </tr>
+    </table>
+</div>
+<div id="anticcUtil" class="pkg-body" style="display: none;">
+    <table border="0" width="100%">
+        <tr>
+            <td align="center" id="ddoslogpage"><a href="javascript:enterDdosLog(utnav.utMain)"><img src="common/images/icons/ddoslog_a.png" onmouseover="this.src='common/images/icons/ddoslog_b.png';" onmouseout="this.src='common/images/icons/ddoslog_a.png';"></a></td>
+        </tr>
+        <tr>
+            <td align="center" id="ddosconfigpage"><a href="javascript:enterDdosConfig(utnav.utMain)"><img src="common/images/icons/3-7a.png" onmouseover="this.src='common/images/icons/3-7c.png';" onmouseout="this.src='common/images/icons/3-7a.png';"></a></td>
+        </tr>
+        <tr>
+            <td align="center" id="anticclogpage"><a href="javascript:enterAntiCcLog(utnav.utMain)"><img src="common/images/icons/9-4a.png" onmouseover="this.src='common/images/icons/9-4b.png';" onmouseout="this.src='common/images/icons/9-4a.png';"></a></td>
+        </tr>
+        <tr>
+            <td align="center" id="anticcprielistpage"><a href="javascript:enterAntiCcPreList(utnav.utMain)"><img src="common/images/icons/9-1a.png" onmouseover="this.src='common/images/icons/9-1b.png';" onmouseout="this.src='common/images/icons/9-1a.png';"></a></td>
+        </tr>
+        <tr>
+            <td align="center" id="anticcconfigpage"><a href="javascript:enterAntiCcConfig(utnav.utMain)"><img src="common/images/icons/9-2a.png" onmouseover="this.src='common/images/icons/9-2b.png';" onmouseout="this.src='common/images/icons/9-2a.png';"></a></td>
+        </tr>
+        <tr>
+            <td align="center" id="anticcwblistpage"><a href="javascript:enterAntiCcWBlist(utnav.utMain)"><img src="common/images/icons/9-3a.png" onmouseover="this.src='common/images/icons/9-3b.png';" onmouseout="this.src='common/images/icons/9-3a.png';"></a></td>
+        </tr>
+    </table>
+</div>
+<div id="scanleakUtil" class="pkg-body" style="display: none;">
+    <table border="0" width="100%">
+        <tr>
+            <td align="center" id="scanleakpage"><a href="javascript:enterScanLeak(utnav.utMain)"><img src="common/images/icons/scanleaklist_a.png" onmouseover="this.src='common/images/icons/scanleaklist_b.png';" onmouseout="this.src='common/images/icons/scanleaklist_a.png';"></a></td>
+        </tr>
+        <tr>
+            <td align="center" id="scanleakresultpage"><a href="javascript:enterScanLeakResult(utnav.utMain)"><img src="common/images/icons/scanleakresult_a.png" onmouseover="this.src='common/images/icons/scanleakresult_b.png';" onmouseout="this.src='common/images/icons/scanleakresult_a.png';"></a></td>
+        </tr>
+    </table>
+</div>
+<div id="systemUtil" class="pkg-body" style="display: none;">
+    <table border="0" width="100%">
+        <tr>
+            <td align="center"><a href="javascript:enterUpdaterule(utnav.utMain)"><img src="common/images/icons/6-2aa.png" onmouseover="this.src='common/images/icons/6-2cc.png';" onmouseout="this.src='common/images/icons/6-2aa.png';"></a></td>
+        </tr>
+        <tr>
+            <td align="center"><a href="javascript:enterUpdate(utnav.utMain)"><img src="common/images/icons/6-1a.png" onmouseover="this.src='common/images/icons/6-1c.png';" onmouseout="this.src='common/images/icons/6-1a.png';"></a></td>
+        </tr>
+        <tr>
+            <td align="center" id="upgradeconfigpage"><a href="javascript:enterUpgradeConfig(utnav.utMain);void(0);"><img src="common/images/icons/6-2a.png" onmouseover="this.src='common/images/icons/6-2c.png';" onmouseout="this.src='common/images/icons/6-2a.png';"></a></td>
+        </tr>
+        <tr>
+            <td align="center"><a href="javascript:enterSysConfig(utnav.utMain)"><img src="common/images/icons/6-3a.png" onmouseover="this.src='common/images/icons/6-3c.png';" onmouseout="this.src='common/images/icons/6-3a.png';"></a></td>
+        </tr>
+        <tr>
+            <td align="center" id="packetcapturepage"><a href="javascript:enterPacketCapture(utnav.utMain)"><img src="common/images/icons/6-5a.png" onmouseover="this.src='common/images/icons/6-5b.png';" onmouseout="this.src='common/images/icons/6-5a.png';"></a></td>
+        </tr>
+        <tr>
+            <td align="center" id="nettoolspage"><a href="javascript:enterNetTools(utnav.utMain)"><img src="common/images/icons/nettools_a.png" onmouseover="this.src='common/images/icons/nettools_b.png';" onmouseout="this.src='common/images/icons/nettools_a.png';"></a></td>
+        </tr>
+        <tr>
+            <td align="center"><a href="javascript:enterReboot(utnav.utMain)"><img src="common/images/icons/6-4a.png" onmouseover="this.src='common/images/icons/6-4c.png';" onmouseout="this.src='common/images/icons/6-4a.png';"></a></td>
+        </tr>
+    </table>
+</div>
+<div id="logUtil" class="pkg-body" style="display: none;">
+  <table border="0" width="100%">
+    <tr>
+      <td align="center" id="syslogpage"><a href="javascript:enterSysLog(utnav.utMain)"><img src="common/images/icons/7-1a.png" onmouseover="this.src='common/images/icons/7-1c.png';" onmouseout="this.src='common/images/icons/7-1a.png';"></a></td>
+    </tr>
+    <tr>
+      <td align="center" id="adminlogpage"><a href="javascript:enterAdminLog(utnav.utMain)"><img src="common/images/icons/7-2a.png" onmouseover="this.src='common/images/icons/7-2c.png';" onmouseout="this.src='common/images/icons/7-2a.png';"></a></td>
+    </tr>
+    <tr>
+      <td align="center" id="logmanagepage"><a href="javascript:enterLogManage(utnav.utMain)"><img src="common/images/icons/7-3a.png" onmouseover="this.src='common/images/icons/7-3c.png';" onmouseout="this.src='common/images/icons/7-3a.png';"></a></td>
+    </tr>
+  </table>
+</div>
+<div id="logResult" style="display: none;"></div>
+<!-- for south -->
+<div id="south" align="center" valign="center"></div>
+</body>
+</html>

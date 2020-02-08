@@ -1,0 +1,59 @@
+https://mapp.edu24ol.com/mobile/goods/try_study/?group_id=30&days=7
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>礼物</title>
+    <meta name="keywords" content="">
+    <meta name="description" content="">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0, user-scalable=no">
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+    <link type="text/css" rel="stylesheet" href="http://mapp.edu24ol.com/statics/m/css/ydkt/course/gift.css?v=20181122.1620">
+    <script>
+        !function(n,e){var t=e.documentElement,i="orientationchange"in n?"orientationchange":"resize",d=function(){var n=t.clientWidth;
+                n&&(t.style.fontSize=90*(n/640)+"px")}
+                e.addEventListener&&(n.addEventListener(i,d,!1),e.addEventListener("DOMContentLoaded",d,!1),d())}(window,document)
+    </script>
+</head>
+<body>
+    <section class="banner">
+        <img src="http://mapp.edu24ol.com/statics/m/images/ydkt/course/gift.jpg?v=20181122.1620">
+    </section>
+
+    <section class="section-list">
+        <div class="section-hd"><i class="ico-block"></i>请选择你要领取的课程，只能选一个哦</div>
+        <div class="section-bd">
+        <table class="t1">
+            <colgroup>
+                <col width="65%">
+                <col width="">
+            </colgroup>
+            <tbody>
+                  
+            </tbody>
+        </table>
+        </div>
+    </section>
+
+    <section class="section-desc">
+        <div class="section-hd"><i class="ico-block"></i>介绍</div>
+        <div class="section-bd" data-content=""></div>
+    </section>
+
+    <section class="section-rule">
+        <div class="section-hd"><i class="ico-block"></i>活动规则</div>
+        <div class="section-bd">
+            <dl>
+                <dt><i class="ico">1、</i>每门课程仅能免费领取一次</dt>
+            </dl>
+            <dl>
+                <dt><i class="ico">2、</i>课程有时间限制，逾期将失效。</dt>
+                <dd>请留意领取成功后的提醒，并及时学习</dd>
+            </dl>
+            <dl>
+                <dt><i class="ico">3、</i>本活动解释权最终归属环球网校</dt>
+            </dl>
+        </div>
+    </section>
+</body>
+</html>
