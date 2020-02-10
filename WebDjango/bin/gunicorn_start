@@ -1,0 +1,8 @@
+NAME="SpamWeb"                                  # Django应用的名称
+DJANGODIR=/webapps/detectWebSpam/WebDjango/SpamWeb             # Django 项目的目录
+SOCKFILE=/webapps/detectWebSpam/WebDjango/run/gunicorn.sock  
+USER=jyhweb                                        # 用户名
+GROUP=webapps                                     # 用户组
+NUM_WORKERS=3                                     # 一般是服务器使用CPU的个数X2+1，所以一个CPU的话，worker就是3
+DJANGO_SETTINGS_MODULE=SpamWeb.settings            # Django应用使用的settings文件
+DJANGO_WSGI_MODULE=SpamWeb.wsgi                     # WSGI 模块名称
